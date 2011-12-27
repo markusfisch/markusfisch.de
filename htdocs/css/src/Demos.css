@@ -1,0 +1,32 @@
+/**
+ * Demos
+ */
+#DemoWebPie p
+{
+	background: #e0e0e0;
+	color: #404040;
+	padding: 2px 4px;
+	height: 100px;
+}
+
+#DemoZoomGrid div
+{
+	padding: 4px;
+	background: #e0e0e0;
+	color: #404040;
+	text-align: center;
+	white-space: nowrap;
+}
+
+#DemoZoomGrid div h3
+{
+	margin: 0;
+	padding: 0;
+	font-size: 22px;
+}
+
+#DemoZoomGrid div a,
+	#DemoZoomGrid div a:hover
+{
+	color: #404040;
+}

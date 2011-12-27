@@ -1,0 +1,108 @@
+<div id="ZoomGridChapter" class="Chapter">
+<h1>ZoomGrid</h1>
+<div class="ChapterContent">
+	<h2>Description</h2>
+	<p>ZoomGrid is a grid which can zoom its cells.
+		In other words, it's a two-dimensional accordion menu
+		inside a fixed rectangle.</p>
+	<div id="DemoZoomGrid" class="Demo"></div>
+	<h3>Alternatives:</h3>
+	<ul>
+		<li><p>Recently <a class="External"
+				href="http://twitter.com/chriscoyier">Chris Coyier</a>
+			did something very similar: the
+			<a class="External"
+				href="http://css-tricks.com/examples/NineImages/">Nine
+			Image Expander Thing</a>.</p></li>
+		<li><p>If you're looking for a traditional accordion that expands
+			both vertically and horizontally, you should have a look at
+			<a class="External"
+				href="http://css-tricks.com/examples/InfoGrid/">InfoGrid</a>.</p></li>
+		<li><p>Another great alternative are
+			<a class="External"
+				href="http://css-tricks.com/examples/RotatingBlocks/">Rotating Blocks</a>
+			(almost pure CSS 3).</p></li>
+	</ul>
+	<h2>Download</h2>
+	<p>Latest version:
+		<a href="js/src/ZoomGrid.js"
+			class="Download">ZoomGrid.js</a>.</p>
+	<p>Extensions:</p>
+	<ul>
+		<li><p><a href="js/src/ZoomGridTransparency.js"
+				class="Download">ZoomGridTransparency.js</a>
+			- make cells transparent</p></li>
+		<li><p><a href="js/src/ZoomGridHighlight.js"
+				class="Download">ZoomGridHighlight.js</a>
+			- add highlighting</p></li>
+		<li><p><a href="js/src/ZoomGridFrame.js"
+				class="Download">ZoomGridFrame.js</a>
+			- add ornament frames around each cell</p></li>
+		<li><p><a href="js/src/ZoomGridMaxChildWidth.js"
+				class="Download">ZoomGridMaxChildWidth.js</a>
+			- maximize width of child elements</p></li>
+		<li><p><a href="js/src/ZoomGridDisableFoldedLinks.js"
+				class="Download">ZoomGridDisableFoldedLinks.js</a>
+			- disable links in folded cells</p></li>
+		<li><p><a href="js/src/ZoomGridUnfocusedHide.js"
+				class="Download">ZoomGridUnfocusedHide.js</a>
+			- hide contents of unfocused cells</p></li>
+		<li><p><a href="js/src/ZoomGridRestoreButton.js"
+				class="Download">ZoomGridRestoreButton.js</a>
+			- show a button to unfocus all cells</p></li>
+		<li><p><a href="js/src/ZoomGridContainerFade.js"
+				class="Download">ZoomGridContainerFade.js</a>
+			- fade out unfocused grid when mouse is inactive</p></li>
+	</ul>
+	<p>Those files are uncompressed. To get production
+		libraries, use a
+		<a href="http://www.google.com/search?q=javascript+compressor+closure+compiler"
+			class="External">compressor</a>.</p>
+	<p>The development version is available on
+		<a class="External"
+			href="https://github.com/markusfisch/ZoomGrid">GitHub</a>.<br/>
+		You may easily clone the project by running:</p>
+		<pre>$ git clone git://github.com/markusfisch/ZoomGrid</pre>
+	<h2>How to use</h2>
+	<ol>
+		<li><p>Copy ZoomGrid.js (along with any optional extension) into
+			your web folder and add a corresponding &lt;script/&gt;
+			tag for each file to the &lt;head/&gt; element of your
+			page.</p>
+			<pre>&lt;script type="text/javascript"
+	src="path/to/ZoomGrid.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"
+	src="path/to/ZoomGridTransparency.js"&gt;&lt;/script&gt;
+...</pre></li>
+		<li><p>Then invoke the grid:</p>
+			<pre>&lt;script type="text/javascript"&gt;
+&lt;!--
+var z = new ZoomGrid(
+	{ container: document.getElementById( "Contents" ) } );</pre>
+			<p>In this case, you should have a
+			&lt;div id="Contents"/&gt; somewhere
+			on your page, of course.</p></li>
+		<li><p>After that, you need to activate the
+			extensions you want to use. For example, to activate
+			the transparency extension do:</p>
+			<pre>z.addTransparency();
+--&gt;
+&lt;/script&gt;</pre>
+			<p>Some extensions may require attributes. Just
+				look at the corresponding source file.
+				For a full sample see <a class="External"
+					href="js/src/DemoZoomGrid.js">DemoZoomGrid.js</a>.</p></li>
+	</ol>
+	<h2>Compatibilty</h2>
+	<p>Works with the latest versions of
+		<a class="External" href="http://www.opera.com">Opera</a>,
+		<a class="External" href="http://www.mozilla.com">Firefox</a>,
+		<a class="External" href="http://www.google.com/chrome">Chrome</a>,
+		<a class="External" href="http://www.apple.com/safari/">Safari</a>
+		and Internet Explorer.</p>
+	<h2>License</h2>
+	<p>ZoomGrid is licensed under the
+		<a href="http://www.opensource.org/licenses/mit-license.php"
+			class="External">MIT license</a>.</p>
+</div>
+</div>

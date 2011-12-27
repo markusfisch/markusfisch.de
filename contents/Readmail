@@ -1,0 +1,67 @@
+<div id="ReadmailChapter" class="Chapter">
+<h1>readmail</h1>
+<div class="ChapterContent">
+	<h2>Description</h2>
+	<p><a href="http://en.wikipedia.org/wiki/Bash_(Unix_shell)"
+			class="External">BASH</a> eMail client.
+		Only <a href="http://en.wikipedia.org/wiki/Post_Office_Protocol"
+			class="External">POP</a> and
+		<a href="http://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol"
+			class="External">SMTP</a> are supported.</p>
+	<h2>Download</h2>
+	<p>Latest version:
+		<a href="downloads/readmail"
+			class="Download">readmail</a></p>
+	<p>The development version is available on
+		<a class="External"
+			href="https://github.com/markusfisch/readmail">GitHub</a>.<br/>
+		You may easily clone the project by running:</p>
+		<pre>$ git clone git://github.com/markusfisch/readmail</pre>
+	<h2>Requirements</h2>
+	<p>A working GNU environment having
+		bash, cat, clear, date, echo, grep, kill, less, mv,
+		printf and rm.</p>
+	<h2>Installation</h2>
+	<ol>
+		<li><p>Download the file above</p></li>
+		<li><p>Make it executable:</p>
+			<pre>$ chmod a+x readmail</pre></li>
+		<li><p>Place the script somewhere in your path, i.e. for
+			a local install do:</p>
+			<pre>$ mv readmail ~/bin/readmail</pre></li>
+		<li><p>Set up your configuration, see below</p></li>
+	</ol>
+	<h2>Configuration</h2>
+	<ol>
+		<li><p>Create ".readmailrc" in your home directory:</p>
+			<pre>$ vi ~/.readmailrc</pre></li>
+		<li><p>Put the following lines into it
+			(fill in the values in brackets):</p>
+			<pre>POP_HOST='(your POP3 server)'
+POP_PORT=110
+POP_ACCOUNT='(your POP3 account)'
+POP_PASSWORD='(your POP3 password)'</pre></li>
+		<li><p>Append this block to configure your SMTP settings:</p>
+			<pre>SMTP_HOST='(your SMTP server)'
+SMTP_PORT=25
+SMTP_ACCOUNT='(your SMTP account)'
+SMTP_PASSWORD='(your SMTP password, this is optional)'</pre></li>
+		<li><p>You may also add a optional notification command:</p>
+			<pre>NOTIFICATION='xmessage "You&#39;ve got mail" &amp;'</pre>
+			<p>Alternatively, if you want xmessage to display
+				the new messages:</p>
+			<pre>NOTIFICATION='readmail n q | xmessage -file - -center -buttons "" -title "Mail" &amp;'</pre>
+			</li>
+		<li><p><strong>TIP:</strong> If you use "@" for
+			the name of the script, you have always quick
+			access and can query your eMails by:</p>
+			<pre>$ @ n q</pre>
+			<p>In this case your configuration file must read
+			".@rc", of course.</p></li>
+	</ol>
+	<h2>License</h2>
+	<p>readmail is licensed under the
+		<a href="http://www.opensource.org/licenses/mit-license.php"
+			class="External">MIT license</a>.</p>
+</div>
+</div>

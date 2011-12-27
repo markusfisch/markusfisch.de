@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="google-site-verification" content="WJC1Cu2kpJtIAba-K0KwJM776da6-58Y0B4qYnQ9FyE"/>
+<title>PieDock</title>
+<link rel="icon" href="favicon.ico" type="image/x-icon"/>
+<link rel="apple-touch-icon-precomposed" href="apple-touch-icon-114x114-precomposed.png"/>
+<link rel="apple-touch-icon-precomposed" href="apple-touch-icon-72x72-precomposed.png"/>
+<link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png"/>
+<link rel="author" href="humans.txt"/>
+<link rel="stylesheet" type="text/css" href="css/ar.css"/>
+<script type="text/javascript" src="js/ar.js"></script>
+</head>
+<body>
+<div id="MarkusFisch" class="Static">
+<article><div id="Contents">
+<div id="PieDockChapter" class="Chapter">
+<h1>PieDock</h1>
+<div class="ChapterContent">
+	<h2>Description</h2>
+	<p>PieDock is a task bar and application launcher in shape of
+		a pie menu. It feels a little bit like the famous OS X dock
+		in a circle. Here are some screenshots:</p>
+	<div class="ImageGallery">
+		<a href="images/screenshot-piedock-1.jpg"><img
+			src="images/screenshot-piedock-1-thumb.jpg"
+			alt="Focusing The GIMP in Fluxbox"/></a>
+		<a href="images/screenshot-piedock-2.jpg"><img
+			src="images/screenshot-piedock-2-thumb.jpg"
+			alt="Real transparency over a video in Xfce4"/></a>
+		<a href="images/screenshot-piedock-3.jpg"><img
+			src="images/screenshot-piedock-3-thumb.jpg"
+			alt="Managing a window in Fluxbox"/></a>
+		<a href="images/screenshot-piedock-4.jpg"><img
+			src="images/screenshot-piedock-4-thumb.jpg"
+			alt="Launching GoogleEarth in Fluxbox"/></a>
+	</div>
+	<p>To see the idea in action, try the WebPie demo or watch
+		this <a href="http://vimeo.com/21360384"
+			class="External">video</a>.</p>
+	<h2>Download</h2>
+	<p>Latest version:
+		<a href="downloads/PieDock-1.4.3.tar.bz2"
+			class="Download">PieDock-1.4.3.tar.bz2</a></p>
+	<p>Options:</p>
+	<ul>
+		<li><p>For the impatient, there are pre-compiled binaries that
+				should work on any modern Linux:</p>
+			<ul>
+				<li><p><a href="downloads/PieDockInstant-i686.bin"
+					class="Download">PieDockInstant-i686.bin</a></p></li>
+				<li><p><a href="downloads/PieDockInstant-x86_64.bin"
+					class="Download">PieDockInstant-x86_64.bin</a></p></li>
+			</ul>
+			<p>Give it a try with just one line:</p>
+			<pre>$ curl piedock.markusfisch.de/try.sh | sh</pre>
+			<p>Or, if you don't have curl,
+				download the one that matches your architecture, open a
+				terminal, navigate to where you saved the file and
+				type (replace ARCH with your architecture):</p>
+			<pre>$ chmod a+x PieDockInstant-ARCH.bin
+$ ./PieDockInstant-ARCH.bin</pre>
+			<p>Those versions are configured to use your local icon resources,
+				so it may very well be possible, that you encounter some
+				question marks (place holder for missing icons).
+				You may deal with that by the way it is described under
+				Configuration.</p>
+			</li>
+		<li><p>Automatic install or update:</p>
+			<pre>$ curl piedock.markusfisch.de/install.sh | sh</pre>
+			<p>If you don't have curl, just download the source tarball,
+			extract it, change into the new directory and type:</p>
+			<pre>$ sh/deploy</pre>
+			<p>This will configure, build, install and run PieDock.</p></li>
+		<li><p>If you&#39;re on <a href="http://www.gentoo.org/"
+				class="External">Gentoo</a> Linux, you may use emerge:</p>
+			<pre>$ emerge piedock</pre>
+			<p>This may not always be the latest version.</p></li>
+		<li><p>The development version is available on
+			<a class="External"
+				href="https://github.com/markusfisch/PieDock">GitHub</a>.<br/>
+			You may easily clone the project by running:</p>
+			<pre>$ git clone git://github.com/markusfisch/PieDock</pre></li>
+	</ul>
+	<h2>Requirements</h2>
+	<p>Requires a C++ compiler, headers and libraries of X11 and libpng.
+		Xft and the X Rendering Extension
+		(to make use of a compositing manager)
+		are optional.</p>
+	<p>Runs on Linux, BSD and Solaris.</p>
+	<h2>Installation</h2>
+	<ol>
+		<li><p>Download tarball above</p></li>
+		<li><p>Unpack tarball:</p>
+			<pre>$ tar xjvf PieDock-x.x.x.tar.bz2</pre></li>
+		<li><p>Change into the new directory "PieDock-x.x.x" and
+			compile it:</p>
+			<pre>$ cd PieDock-x.x.x
+$ ./configure
+$ make</pre></li>
+		<li><p>If everything went well, install as root:</p>
+			<pre># make install</pre></li>
+		<li><p>Now you need to set up your configuration, either manually
+			(see below) or by running the enclosed setup script:</p>
+			<pre>$ sh/setup</pre></li>
+	</ol>
+	<h2>Configuration</h2>
+	<ol>
+		<li><p>Find some icons
+			(approx. 128x128 Pixels) in PNG format.
+			I&#39;d recommend those places:</p>
+			<ul>
+				<li><p><a href="http://www.iconfinder.com/"
+					class="External">
+					http://www.iconfinder.com/</a></p></li>
+				<li><p><a href="http://www.iconarchive.com/"
+					class="External">
+					http://www.iconarchive.com/</a></p></li>
+				<li><p><a href="http://findicons.com/"
+					class="External">
+					http://findicons.com/</a></p></li>
+				<li><p><a href="http://www.iconfactory.com/"
+					class="External">
+					http://www.iconfactory.com</a></p></li>
+				<li><p><a href="http://www.smashingmagazine.com/tag/icons/"
+					class="External">
+					http://www.smashingmagazine.com/tag/icons/</a></p></li>
+				<li><p><a href="http://tango.freedesktop.org/"
+					class="External">
+					http://tango.freedesktop.org/</a></p></li>
+				<li><p><a href="http://www.kde-look.org/"
+					class="External">
+					http://www.kde-look.org</a></p></li>
+				<li><p><a href="http://search.deviantart.com/?q=Dock+Icons"
+					class="External">
+					http://www.deviantart.com</a></p></li>
+				<li><p><a href="http://www.pixelgirlpresents.com/icons"
+					class="External">
+					http://www.pixelgirlpresents.com/icons</a></p></li>
+				<li><p><a href="http://interfacelift.com/icons"
+					class="External">
+					http://interfacelift.com/icons</a></p></li>
+			</ul>
+			<p>You may use
+			<a href="http://www.gimp.org" class="External">GIMP</a>
+			to convert XP icons; OS X icons can be converted by
+			<a href="http://gthumb.sourceforge.net"
+				class="External">gthumb</a> or
+			<a href="http://www.imagemagick.org"
+				class="External">ImageMagick</a>.</p></li>
+		<li><p>Create a directory named ".PieDock" in your home
+			directory:</p>
+			<pre>$ mkdir ~/.PieDock</pre></li>
+		<li><p>Place all your PNG icons into this directory</p></li>
+		<li><p>Create a ".PieDockrc" configuration file in
+			your home directory; you may use the enclosed
+			"res/PieDockrc.sample" as a template:</p>
+			<pre>$ cp res/PieDockrc.sample ~/.PieDockrc</pre></li>
+		<li><p>Edit ".PieDockrc" to meet your requirements.
+			The format of the file is very simple:
+			Each line begins with a statement and continues with
+			space-seperated arguments to this statement.
+			If an argument has spaces, it must be enclosed
+			in quotes, just like you do on the command line.
+			There are only two statements that are important:
+			<em>icon</em> and <em>alias</em>.</p>
+			<p>Use the <em>icon</em> statement to specify persistent
+			icons in the menu. Normally an icon would only appear
+			if there is a corresponding window. <em>icon</em> icons
+			do always appear. The statement accepts two arguments:
+			the name of the application (which must also be the name
+			of the icon in "~/.PieDock/")
+			and, optionally, a string to launch the application if
+			the first argument isn&#39;t enough to do that (i.e. a path
+			is required or you want to give some arguments).</p>
+			<p>The <em>alias</em> directive allows you to recognize
+			windows that do not give the correct name of their
+			corresponding executable. Every application window
+			in X11 should have a resource with it&#39;s name in it
+			(the so-called class hints for the interested).</p>
+			<p>Unfortunately, this name may differ from the name of
+			the executable which is where <em>alias</em> comes in.
+			<em>alias</em> accepts two arguments: a string for
+			recognition and the true name of the executable.
+			The recognition string may be prefixed by another
+			argument (either name, class or title) to specifiy
+			the property which the string is checked against.</p>
+			<p>There is a "utils" subdirectory which contains a
+			helpful utitlity to find the right settings.
+			Just change into this directory and do:</p>
+			<pre>$ ./PieDockUtils -l</pre>
+			<p>A list of all open windows with their properties will
+			be displayed. Now you can use those values (always
+			prefer the class or name property) to set up
+			aliases for windows which doesn&#39;t get recognized
+			the right way.</p></li>
+		<li><p>If you have some unused button on your mouse, I suggest
+			you specify its number to the <em>trigger button</em>
+			directive like this:</p>
+			<pre>trigger button (number of mouse button)</pre>
+			<p>You may find the right number by using the
+			xev utitlity. Then you can open the
+			pie menu by clicking that button.</p></li>
+	</ol>
+	<h2>Documentation</h2>
+	<p>Browse source code <a href="doc/PieDock/html"
+		class="Documentation">documentation</a>.</p>
+	<h2>License</h2>
+	<p>PieDock is open source and licensed under the
+		<a href="http://www.opensource.org/licenses/mit-license.php"
+			class="External">MIT license</a>.</p>
+</div>
+</div>
+</div></article>
+<nav><div id="Index">
+<ul class="contents">
+<li class="Active"><a href="PieDock.html" class="PieDock Active">PieDock</a></li>
+<li><a href="WebPie.html" class="WebPie">WebPie</a></li>
+<li><a href="ZoomGrid.html" class="ZoomGrid">ZoomGrid</a></li>
+<li><a href="Cpprc.html" class="Cpprc">Cpprc</a></li>
+<li><a href="Readmail.html" class="Readmail">Readmail</a></li>
+<li><a href="About.html" class="About">About</a></li>
+</ul>
+</div></nav>
+</div>
+</body>
+</html>

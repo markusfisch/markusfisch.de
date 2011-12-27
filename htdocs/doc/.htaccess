@@ -1,0 +1,3 @@
+RewriteEngine Off
+
+DirectoryIndex index.html
