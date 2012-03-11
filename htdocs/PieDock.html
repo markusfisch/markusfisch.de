@@ -41,17 +41,15 @@
 			class="External">video</a>.</p>
 	<h2>Download</h2>
 	<p>Latest version:
-		<a href="downloads/PieDock-1.4.3.tar.bz2"
-			class="Download">PieDock-1.4.3.tar.bz2</a></p>
+		<a href="downloads/piedock-1.5.0.tar.bz2"
+			class="Download">piedock-1.5.0.tar.bz2</a></p>
 	<p>Options:</p>
 	<ul>
 		<li><p>For the impatient, there are pre-compiled binaries that
 				should work on any modern Linux:</p>
 			<ul>
-				<li><p><a href="downloads/PieDockInstant-i686.bin"
-					class="Download">PieDockInstant-i686.bin</a></p></li>
-				<li><p><a href="downloads/PieDockInstant-x86_64.bin"
-					class="Download">PieDockInstant-x86_64.bin</a></p></li>
+				<li><p><a href="downloads/piedock-instant-x86_64.bin"
+					class="Download">piedock-instant-x86_64.bin</a></p></li>
 			</ul>
 			<p>Give it a try with just one line:</p>
 			<pre>$ curl piedock.markusfisch.de/try.sh | sh</pre>
@@ -59,8 +57,8 @@
 				download the one that matches your architecture, open a
 				terminal, navigate to where you saved the file and
 				type (replace ARCH with your architecture):</p>
-			<pre>$ chmod a+x PieDockInstant-ARCH.bin
-$ ./PieDockInstant-ARCH.bin</pre>
+			<pre>$ chmod a+x piedock-instant-ARCH.bin
+$ ./piedock-instant-ARCH.bin</pre>
 			<p>Those versions are configured to use your local icon resources,
 				so it may very well be possible, that you encounter some
 				question marks (place holder for missing icons).
@@ -93,10 +91,10 @@ $ ./PieDockInstant-ARCH.bin</pre>
 	<ol>
 		<li><p>Download tarball above</p></li>
 		<li><p>Unpack tarball:</p>
-			<pre>$ tar xjvf PieDock-x.x.x.tar.bz2</pre></li>
-		<li><p>Change into the new directory "PieDock-x.x.x" and
+			<pre>$ tar xjvf piedock-x.x.x.tar.bz2</pre></li>
+		<li><p>Change into the new directory "piedock-x.x.x" and
 			compile it:</p>
-			<pre>$ cd PieDock-x.x.x
+			<pre>$ cd piedock-x.x.x
 $ ./configure
 $ make</pre></li>
 		<li><p>If everything went well, install as root:</p>
@@ -149,15 +147,15 @@ $ make</pre></li>
 				class="External">gthumb</a> or
 			<a href="http://www.imagemagick.org"
 				class="External">ImageMagick</a>.</p></li>
-		<li><p>Create a directory named ".PieDock" in your home
+		<li><p>Create a directory named ".piedock" in your home
 			directory:</p>
-			<pre>$ mkdir ~/.PieDock</pre></li>
+			<pre>$ mkdir ~/.piedock</pre></li>
 		<li><p>Place all your PNG icons into this directory</p></li>
-		<li><p>Create a ".PieDockrc" configuration file in
+		<li><p>Create a ".piedockrc" configuration file in
 			your home directory; you may use the enclosed
-			"res/PieDockrc.sample" as a template:</p>
-			<pre>$ cp res/PieDockrc.sample ~/.PieDockrc</pre></li>
-		<li><p>Edit ".PieDockrc" to meet your requirements.
+			"res/piedockrc.sample" as a template:</p>
+			<pre>$ cp res/piedockrc.sample ~/.piedockrc</pre></li>
+		<li><p>Edit ".piedockrc" to meet your requirements.
 			The format of the file is very simple:
 			Each line begins with a statement and continues with
 			space-seperated arguments to this statement.
@@ -170,7 +168,7 @@ $ make</pre></li>
 			if there is a corresponding window. <em>icon</em> icons
 			do always appear. The statement accepts two arguments:
 			the name of the application (which must also be the name
-			of the icon in "~/.PieDock/")
+			of the icon in "~/.piedock/")
 			and, optionally, a string to launch the application if
 			the first argument isn&#39;t enough to do that (i.e. a path
 			is required or you want to give some arguments).</p>
@@ -189,7 +187,7 @@ $ make</pre></li>
 			<p>There is a "utils" subdirectory which contains a
 			helpful utitlity to find the right settings.
 			Just change into this directory and do:</p>
-			<pre>$ ./PieDockUtils -l</pre>
+			<pre>$ ./piedockutils -l</pre>
 			<p>A list of all open windows with their properties will
 			be displayed. Now you can use those values (always
 			prefer the class or name property) to set up
