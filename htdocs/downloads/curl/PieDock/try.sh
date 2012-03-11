@@ -1,8 +1,8 @@
 #!/bin/bash
 
 readonly ARCH=`uname -m`
-readonly BIN="PieDockInstant-${ARCH}.bin"
-readonly SRC="PieDock-1.4.2"
+readonly BIN="piedock-instant-${ARCH}.bin"
+readonly SRC="piedock-1.5.0"
 readonly TAR="${SRC}.tar.bz2"
 readonly URL="http://markusfisch.de/downloads/"
 
