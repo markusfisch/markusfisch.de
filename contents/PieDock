@@ -28,27 +28,7 @@
 			class="Download">piedock-1.5.0.tar.bz2</a></p>
 	<p>Options:</p>
 	<ul>
-		<li><p>For the impatient, there are pre-compiled binaries that
-				should work on any modern Linux:</p>
-			<ul>
-				<li><p><a href="downloads/piedock-instant-x86_64.bin"
-					class="Download">piedock-instant-x86_64.bin</a></p></li>
-			</ul>
-			<p>Give it a try with just one line:</p>
-			<pre>$ curl piedock.markusfisch.de/try.sh | sh</pre>
-			<p>Or, if you don't have curl,
-				download the one that matches your architecture, open a
-				terminal, navigate to where you saved the file and
-				type (replace ARCH with your architecture):</p>
-			<pre>$ chmod a+x piedock-instant-ARCH.bin
-$ ./piedock-instant-ARCH.bin</pre>
-			<p>Those versions are configured to use your local icon resources,
-				so it may very well be possible, that you encounter some
-				question marks (place holder for missing icons).
-				You may deal with that by the way it is described under
-				Configuration.</p>
-			</li>
-		<li><p>Automatic install or update:</p>
+		<li><p>Full automatic install or update:</p>
 			<pre>$ curl piedock.markusfisch.de/install.sh | sh</pre>
 			<p>If you don't have curl, just download the source tarball,
 			extract it, change into the new directory and type:</p>
