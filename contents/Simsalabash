@@ -1,0 +1,121 @@
+<div id="SimsalabashChapter" class="Chapter">
+<h1>simsalabash</h1>
+<div class="ChapterContent">
+	<h2>Description</h2>
+	<p>Static site generator in
+		<a href="http://en.wikipedia.org/wiki/Bash_(Unix_shell)"
+			class="External">BASH</a>.
+		For command line nerds.
+		With love.</p>
+	<p>A sample is worth a thousand words:</p>
+	<pre>&#36; mkdir contents htdocs layouts
+&#36; echo '&lt;h1&gt;Hello World&lt;/h1&gt;' &gt; contents/Hello-World
+&#36; echo '&lt;html&gt;&lt;body>&#96;content&#96;&lt;/body&gt;&lt;/html&gt;' &gt; layouts/contents.html
+&#36; simsalabash
+&#36; firefox htdocs/index.html</pre>
+	<h2>Download</h2>
+	<p>Latest version:
+		<a href="downloads/simsalabash"
+			class="Download">simsalabash</a></p>
+	<p>The development version is available on
+		<a class="External"
+			href="https://github.com/markusfisch/simsalabash">GitHub</a>.<br/>
+		You may easily clone the project by running:</p>
+		<pre>&#36; git clone git://github.com/markusfisch/simsalabash</pre>
+	<h2>How does it work?</h2>
+	<p>For every file in contents/, the corresponding layout will get
+		expanded into htdocs/ where the output is stored under the name
+		of the content file with the extension of the layout file.</p>
+	<p>Layouts correspond to content files, when their name (without
+		extension) does match a component of the (relative) path of
+		the content file. Matching starts from the rear end with the
+		file name.</p>
+	<p>In your content and/or layout files you may use shell expansions
+		like
+	<pre>&#36;(command)</pre>
+		or
+	<pre>&#96;command&#96;</pre>
+		or
+	<pre>&#36;((expression))</pre>
+		or
+	<pre>Hi, this is &#36;USER talking.</pre>
+	<p>to combine your website.</p>
+	<p>simsalabash does provide the following handy commands:</p>
+	<ul>
+		<li><p>title<br/>
+			Prints the title which is the formatted file name of
+			the content file in process.</p>
+			<pre>usage: title</pre></li>
+		<li><p>nav<br/>
+			Prints a recursive standard list navigation.</p>
+			<pre>usage: [(UNFOLD|FLAT)=1] nav [PATH]
+
+PATH - content path (optional, defaults to content/)
+UNFOLD - unfold navigation, this will make a sitemap
+FLAT - do not dive into subdirectories</pre></li>
+		<li><p>content<br/>
+			Prints the content of file in process.</p>
+			<pre>usage: content</pre></li>
+		<li><p>include<br/>
+			Include (and expand) another content/layout file.</p>
+			<pre>usage: include FILE...
+
+FILE - path and name of file to include</pre></li>
+	</ul>
+	<p>Apart from that, you're free to invoke any command you like.
+		For example, you may do something like this:</p>
+	<pre>&#36;FILE was written by &#96;whoami&#96;</pre>
+	<p>&#36;FILE holds the path and name of the content file in process.</p>
+	<h2>How to extend simsalabash?</h2>
+	<p>There are two places for additional source files:</p>
+	<pre>&#36;HOME/.simsalabash/
+&#36;PWD/lib/</pre>
+	<p>Use the first location for general extensions you want to have always.
+		Use the latter for project specific extensions and modifications.</p>
+	<p>You can override existing functions to extend simsalabash or add
+		new ones to add further functionality.</p>
+	<h2>How to use Markdown?</h2>
+	<p>Download <a href="http://daringfireball.net/projects/markdown/"
+		class="External">Markdown.pl</a>
+		and put it into your path. Then paste this</p>
+	<pre>content()
+{
+	include &#36;FILE | Markdown.pl
+}</pre>
+	<p>into a file in &#36;HOME/.simsalabash/ to override and extend the
+		default function.</p>
+	<h2>Purpose</h2>
+	<p>simsalabash aims to be a simple tool to combine a website from a
+		bunch of text files and generate a recursive standard list
+		navigation for it.</p>
+	<p>It was designed to minify the effort to build and maintain small
+		static websites and targets the experienced BASH user.</p>
+	<p>simsalabash is not a Jack of all trades, though. Please check out
+		the advantages and disadvantages:</p>
+	<h3>Advantages and principles</h3>
+	<ul>
+		<li><p>Little to no configuration.</li>
+		<li><p>Meaningful structure of content/ which mirrors your web
+			site.</p></li>
+		<li><p>Automatically generates a recursive standard list
+			navigation.</p></li>
+		<li><p>Easy sorting of navigation items with .nav files.</p></li>
+		<li><p>The output directory is not temporary so assets and downloads
+			won't get copied everytime you're doing an rsync.</p></li>
+		<li><p>No dependencies beyond BASH, cat, mktemp, rm and probably
+			tr (BASH &lt; 4).</p></li>
+	</ul>
+	<h3>Disadvantages and limitations</h3>
+	<ul>
+		<li><p>Markdown and things like that are external.</p></li>
+		<li><p>There's no integrated web server and never will be.</p></li>
+		<li><p>BASH is slow (but fast enough for any web site of
+			reasonable size).</p></li>
+		<li><p>BASH is not object-oriented, nor easy, nor hip.</p></li>
+	</ul>
+	<h2>License</h2>
+	<p>simsalabash is licensed under the
+		<a href="http://www.opensource.org/licenses/mit-license.php"
+			class="External">MIT license</a>.</p>
+</div>
+</div>

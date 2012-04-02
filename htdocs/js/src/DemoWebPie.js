@@ -60,6 +60,10 @@ var DemoWebPie =
 					function(){
 						App.zoom( "ReadmailChapter" ); } ),
 				new WebPieIcon(
+					"images/webpie/simsalabash.png",
+					function(){
+						App.zoom( "SimsalabashChapter" ); } ),
+				new WebPieIcon(
 					"images/webpie/about.png",
 					function(){
 						App.zoom( "AboutChapter" ); } ),

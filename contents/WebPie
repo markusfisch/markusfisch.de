@@ -21,7 +21,7 @@
 		<a class="External"
 			href="https://github.com/markusfisch/WebPie">GitHub</a>.<br/>
 		You may easily clone the project by running:</p>
-		<pre>$ git clone git://github.com/markusfisch/WebPie</pre>
+		<pre>&#36; git clone git://github.com/markusfisch/WebPie</pre>
 	<h2>How to use</h2>
 	<ol>
 		<li><p>Place both files somewhere in your web project and
