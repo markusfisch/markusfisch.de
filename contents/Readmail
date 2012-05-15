@@ -8,6 +8,11 @@
 			class="External">POP</a> and
 		<a href="http://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol"
 			class="External">SMTP</a> are supported.</p>
+	<p>Probably the worlds smallest, simplest, yet full featured eMail
+		client without any dependencies beyond a working GNU environment
+		running BASH.</p>
+	<p>Use it as a fallback, as a quick &amp; slim alternative or as a tool to
+		read, send and manage messages.</p>
 	<h2>Download</h2>
 	<p>Latest version:
 		<a href="downloads/readmail"
@@ -18,10 +23,28 @@
 		You may easily clone the project by running:</p>
 		<pre>&#36; git clone git://github.com/markusfisch/readmail</pre>
 	<h2>Requirements</h2>
-	<p>A working GNU environment having
-		bash, cat, clear, date, echo, grep,
-		kill, less, mkdir, mv, printf, rm,
-		sort and touch.</p>
+	<p>A working GNU environment running BASH.</p>
+	<h2>Features</h2>
+	<p>Following commands are available:</p>
+	<pre>p(eek)               peek for new messages
+s(tatus)             request mailbox status
+n(ew)                list new messages only
+t(ail) [N]           list the latest N messages
+l(ist) [N[-N]]...    list messages
+r(ead) [N[-N]]...    read message
+x(tract) N           extract attachments of message N
+f(ile) N[-N]...      file message
+d(elete) N[-N]...    remove message
+a(nswer) N           answer message
+w(rite) ADDRESS      write a message to ADDRESS
+m(ime) FILE          show a message file in MIME format (e.g. *.mbs)
+c(lear)              clear screen (or CTRL+L)
+h(elp)               show this info
+q(uit)               quit (or CTRL+D)</pre>
+	<p>You may invoke the commands directly from the command line, e.g.:</p>
+	<pre>$ readmail s 'f 1' 'r 3-5' q</pre>
+	<p>Or inside the interactive shell.</p>
+	<p>A working GNU environment running BASH.</p>
 	<h2>Installation</h2>
 	<ol>
 		<li><p>Download the file above</p></li>
@@ -33,6 +56,7 @@
 		<li><p>Set up your configuration, see below</p></li>
 	</ol>
 	<h2>Configuration</h2>
+	<p>Just run readmail or:</p>
 	<ol>
 		<li><p>Create ".readmailrc" in your home directory:</p>
 			<pre>&#36; vi ~/.readmailrc</pre></li>
@@ -47,12 +71,6 @@ POP_PASSWORD='(your POP3 password, this is optional)'</pre>
 			<pre>SMTP_HOST='(your SMTP server)'
 SMTP_ACCOUNT='(your SMTP account)'
 SMTP_PASSWORD='(your SMTP password, this is optional)'</pre></li>
-		<li><p>You may also add an optional notification command:</p>
-			<pre>NOTIFICATION='xmessage "You&#39;ve got mail" &amp;'</pre>
-			<p>If you want xmessage to display the new messages,
-				you can do something like this:</p>
-			<pre>NOTIFICATION='readmail n q | xmessage -file - -center -buttons "" -title "Mail" &amp;'</pre>
-			</li>
 		<li><p><strong>TIP:</strong> If you use "@" for
 			the name of the script, you have always quick
 			access and can query your eMails by:</p>
@@ -61,8 +79,6 @@ SMTP_PASSWORD='(your SMTP password, this is optional)'</pre></li>
 			".@rc", of course.</p></li>
 	</ol>
 	<h2>License</h2>
-	<p>readmail is licensed under the
-		<a href="http://www.opensource.org/licenses/mit-license.php"
-			class="External">MIT license</a>.</p>
+	<p>Public Domain.</p>
 </div>
 </div>
