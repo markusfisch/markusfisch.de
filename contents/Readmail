@@ -25,26 +25,26 @@
 	<h2>Requirements</h2>
 	<p>A working GNU environment running BASH.</p>
 	<h2>Features</h2>
-	<p>Following commands are available:</p>
-	<pre>p(eek)               peek for new messages
-s(tatus)             request mailbox status
-n(ew)                list new messages only
-t(ail) [N]           list the latest N messages
-l(ist) [N[-N]]...    list messages
-r(ead) [N[-N]]...    read message
-x(tract) N           extract attachments of message N
-f(ile) N[-N]...      file message
-d(elete) N[-N]...    remove message
-a(nswer) N           answer message
-w(rite) ADDRESS      write a message to ADDRESS
-m(ime) FILE          show a message file in MIME format (e.g. *.mbs)
-c(lear)              clear screen (or CTRL+L)
-h(elp)               show this info
-q(uit)               quit (or CTRL+D)</pre>
+	<p>The following commands are available:</p>
+	<pre>$ readmail h q
+  p(eek)               peek for new messages
+  s(tatus)             request mailbox status
+  n(ew)                list new messages only
+  t(ail) [N]           list the latest N messages
+  l(ist) [N[-N]]...    list messages
+  r(ead) [N[-N]]...    read message
+  x(tract) N           extract attachments of message N
+  f(ile) N[-N]...      file message
+  d(elete) N[-N]...    remove message
+  a(nswer) N           answer message
+  w(rite) ADDRESS      write a message to ADDRESS
+  m(ime) FILE          show a message file in MIME format (e.g. *.mbs)
+  c(lear)              clear screen (or CTRL+L)
+  h(elp)               show this info
+  q(uit)               quit (or CTRL+D)</pre>
 	<p>You may invoke the commands directly from the command line, e.g.:</p>
 	<pre>$ readmail s 'f 1' 'r 3-5' q</pre>
 	<p>Or inside the interactive shell.</p>
-	<p>A working GNU environment running BASH.</p>
 	<h2>Installation</h2>
 	<ol>
 		<li><p>Download the file above</p></li>
@@ -79,6 +79,6 @@ SMTP_PASSWORD='(your SMTP password, this is optional)'</pre></li>
 			".@rc", of course.</p></li>
 	</ol>
 	<h2>License</h2>
-	<p>Public Domain.</p>
+	<p>readmail is Public Domain.</p>
 </div>
 </div>
