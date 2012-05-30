@@ -18,7 +18,7 @@
 #Index ul li
 {
 	list-style: none;
-	padding: 2px;
+	padding: 8px 2px;
 	margin: 0 0 4px 0;
 	background-color: #ffffff;
 	overflow: hidden;
@@ -39,7 +39,7 @@
 #Index ul li a
 {
 	display: block;
-	width: 56px;
+	width: 72px;
 	padding: 48px 0 0 0;
 	white-space: nowrap;
 	color: #000000;

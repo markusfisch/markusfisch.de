@@ -3,7 +3,7 @@
  */
 #DemoWebPie p
 {
-	background: #e0e0e0;
+	background: #f0f0f0;
 	color: #404040;
 	padding: 2px 4px;
 	height: 100px;
@@ -12,7 +12,7 @@
 #DemoZoomGrid div
 {
 	padding: 4px;
-	background: #e0e0e0;
+	background: #f0f0f0;
 	color: #404040;
 	text-align: center;
 	white-space: nowrap;

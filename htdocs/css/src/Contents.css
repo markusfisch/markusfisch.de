@@ -5,12 +5,12 @@ div.Static
 {
 	position: relative;
 	margin: auto;
-	max-width: 660px;
+	max-width: 676px;
 }
 
 div.Static #Contents
 {
-	padding: 0 60px 0 0;
+	padding: 0 76px 0 0;
 }
 
 div.Static div.Chapter
@@ -127,10 +127,10 @@ div.Dynamic div.Chapter
 
 div.Static h1
 {
-	margin: 6px 6px 0 6px;
-	font-variant: small-caps;
-	font-size: 24px;
-	color: #399ed7;
+	margin: 32px 0 0 0;
+	font-size: 48px;
+	text-align: center;
+	color: #505050;
 }
 
 div.Dynamic h1
@@ -186,22 +186,23 @@ div.Dynamic h1
 
 #Contents div.Chapter div.ChapterContent h2
 {
-	margin: 20px 0 0 0;
+	margin: 48px 0 8px 0;
 	padding: 0;
 	color: #399ed7;
-	font: bold 14px Arial,sans-serif;
+	font: bold 16px Arial,sans-serif;
 	text-transform: uppercase;
+	border-bottom: 2px solid #f0f0f0;
 }
 
 #Contents div.Chapter div.ChapterContent p
 {
-	margin: 6px 0 6px 0;
+	margin: 12px 0 12px 0;
 	line-height: 160%;
 }
 
 #Contents div.Chapter div.ChapterContent ol
 {
-	margin-top: 0;
+	margin: 0 0 6px 0;
 	font: italic 1em Georgia,Times,serif;
 	color: #399ed7;
 }
@@ -215,8 +216,9 @@ div.Dynamic h1
 #Contents div.Chapter div.ChapterContent ol li p,
 	#Contents div.Chapter div.ChapterContent ul li p
 {
+	margin: 6px 0;
 	padding: 0;
-	font: normal 13px Arial,sans-serif;
+	font: normal 16px Arial,sans-serif;
 	color: #505050;
 	line-height: 160%;
 }
@@ -229,13 +231,13 @@ div.Dynamic h1
 #Contents div.Chapter div.ChapterContent ul
 {
 	list-style: none;
-	margin: 0 0 0 6px;
+	margin: 0 0 6px 6px;
 	padding: 0;
 }
 
 #Contents div.Chapter div.ChapterContent ul li
 {
-	background: 0 0 url( images/bullet.png ) no-repeat;
+	background: 0 4px url( images/bullet.png ) no-repeat;
 	margin: 0;
 	padding: 0 0 0 22px;
 }
@@ -260,7 +262,7 @@ div.Dynamic h1
 #Contents div.Chapter div.ChapterContent pre
 {
 	padding: 6px;
-	background: #e0e0e0;
+	background: #f0f0f0;
 	color: #404040;
 	font-family: monospace;
 	font-size: 12px;
