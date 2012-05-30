@@ -45,6 +45,19 @@
 	<p>You may invoke the commands directly from the command line, e.g.:</p>
 	<pre>$ readmail s 'f 1' 'r 3-5' q</pre>
 	<p>Or inside the interactive shell.</p>
+	<h2>Examples</h2>
+	<p>Quickly get the size of your mailbox:</p>
+	<pre>$ readmail s q</pre>
+	<p>Show your latest message:</p>
+	<pre>$ readmail r q</pre>
+	<p>Get the number of new messages since the last call:</p>
+	<pre>$ FORMAT="%d\\n" readmail p q</pre>
+	<p>Send a message in one line:</p>
+	<pre>$ ATTACHMENTS=' ' SUBJECT='subject' BODY='body' \\
+	readmail 'w john@example.com doe@example.com' q</pre>
+	<p>Send one or more files:</p>
+	<pre>$ ATTACHMENTS='file1 file2' SUBJECT='subject' BODY='body' \\
+	readmail 'w john@example.com' q</pre>
 	<h2>Installation</h2>
 	<ol>
 		<li><p>Download the file above</p></li>
