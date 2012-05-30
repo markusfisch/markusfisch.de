@@ -4,7 +4,20 @@
 	<img src="images/photos.jpg"
 		alt="Some photos of Markus Fisch"
 		class="Photo"/>
-	<p>Hi, I'm Markus and I push buttons for a living.</p>
+	<h2>What is this all about?</h2>
+	<p>Hi, I'm Markus and I'm a professional button pusher.
+		This website is a loose collection of things I wrote in my
+		spare time.</p>
+	<p>If you're not interested in software and that kind of stuff,
+		you may want to click
+		<a href="http://www.google.com" class="External">here</a>
+		to get back to the internet you know and love.</p>
+	<p>In case you're wondering why this page is so strange,
+		I wanted something that breaks the mold a little
+		since it's part of my job to do main stream websites.
+		This is just my little playground with absolutely
+		no purpose beyond providing a home for some of
+		my pet projects.</p>
 	<h2>This and that</h2>
 	<ul>
 		<li><p><a class="External"
@@ -23,8 +36,7 @@
 			href="http://striker.markusfisch.de">Striker</a><br/>
 			A (very old) vertical shooter.</p></li>
 	</ul>
-	<h2>For germans:<br/>
-		Warum ist hier alles in Englisch?</h2>
+	<h2>For germans: Warum ist hier alles in Englisch?</h2>
 	<p>Darum:</p>
 	<p><a href="http://www3.clustrmaps.com/counter/maps.php?url=http://markusfisch.de"
 		id="clustrMapsLink">
