@@ -53,7 +53,7 @@ var DemoZoomGrid =
 				"</div>";
 		}
 
-		e.style.height = "240px";
+		e.style.height = '240px';
 		e.innerHTML = c;
 
 		DemoZoomGrid.zoomGrid = new ZoomGrid( {
@@ -77,8 +77,8 @@ var DemoZoomGrid =
 
 		var d = document.createElement( 'div' );
 
-		DemoZoomGrid.serial++;
-		d.id = "DemoCell"+DemoZoomGrid.serial.toString();
+		++DemoZoomGrid.serial;
+		d.id = 'DemoCell'+DemoZoomGrid.serial.toString();
 		d.innerHTML = DemoZoomGrid.createCell( DemoZoomGrid.serial );
 
 		DemoZoomGrid.zoomGrid.container.insertBefore( d, e );
@@ -132,9 +132,10 @@ var DemoZoomGrid =
 	 */
 	resetZoomGrid : function()
 	{
-		DemoZoomGrid.zoomGrid.columns = 0;
-		DemoZoomGrid.zoomGrid.rows = 0;
-		DemoZoomGrid.zoomGrid.cells.length = 0;
-		DemoZoomGrid.zoomGrid.create( DemoZoomGrid.zoomGrid.container );
+		var z = DemoZoomGrid.zoomGrid;
+		z.columns = 0;
+		z.rows = 0;
+		z.cells.length = 0;
+		z.create( z.container );
 	}
 }

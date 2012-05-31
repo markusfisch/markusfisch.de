@@ -129,7 +129,7 @@ ImageViewer.prototype.createForClasses = function( className )
 {
 	var d = document.getElementsByTagName( "div" );
 
-	for( var n = 0; n < d.length; n++ )
+	for( var n = d.length; n--; )
 		if( d[n].className.indexOf( className ) > -1 )
 			this.create( d[n] );
 }
@@ -142,23 +142,27 @@ ImageViewer.prototype.createForClasses = function( className )
  */
 ImageViewer.prototype.create = function( container )
 {
-	for( var n = 0; n < container.childNodes.length; n++ )
+	for( var n = container.childNodes.length; n--; )
 	{
-		if( container.childNodes[n].tagName != "A" )
+		var c = container.childNodes[n];
+
+		if( c.tagName != "A" )
 			continue;
 
-		container.childNodes[n].onclick = function(){ return false; };
+		c.onclick = function(){ return false; };
 
 		// attach viewer to image tags
 		{
-			var i = container.childNodes[n].getElementsByTagName( "img" );
+			var i = c.getElementsByTagName( "img" );
 
 			if( i.length > 0 )
 			{
-				i[0].onmouseover = this.enterThumbnail;
-				i[0].onmouseout = this.leaveThumbnail;
-				i[0].imageViewer = this;
-				i[0].imageViewerSrc = container.childNodes[n].href;
+				var ii = i[0];
+
+				ii.onmouseover = this.enterThumbnail;
+				ii.onmouseout = this.leaveThumbnail;
+				ii.imageViewer = this;
+				ii.imageViewerSrc = c.href;
 			}
 		}
 	}
@@ -235,10 +239,11 @@ ImageViewer.prototype.show = function( p, url, label )
 
 		this.imageBuffer.src = url;
 
-		this.div.innerHTML = this.loadingText;
-		this.div.style.left = p.x+"px";
-		this.div.style.top = p.y+"px";
-		this.div.style.visibility = "visible";
+		var d = this.div;
+		d.innerHTML = this.loadingText;
+		d.style.left = p.x+"px";
+		d.style.top = p.y+"px";
+		d.style.visibility = "visible";
 	}
 
 	if( !this.imageBuffer.complete )
@@ -293,8 +298,8 @@ ImageViewer.prototype.clearTimer = function()
  */
 ImageViewer.prototype.getPosition = function( e )
 {
-	var x = 0;
-	var y = 0;
+	var x = 0,
+		y = 0;
 
 	if( this.isOpera )
 	{

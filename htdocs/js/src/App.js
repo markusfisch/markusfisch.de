@@ -239,8 +239,8 @@ var App =
 	 */
 	getSize : function()
 	{
-		var w;
-		var h;
+		var w,
+			h;
 
 		if( self.innerWidth )
 		{

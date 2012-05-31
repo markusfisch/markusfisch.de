@@ -25,11 +25,11 @@ var Demos =
 	setup : function()
 	{
 		Demos.add(
-			"DemoWebPie",
+			'DemoWebPie',
 			DemoWebPie.create );
 
 		Demos.add(
-			"DemoZoomGrid",
+			'DemoZoomGrid',
 			DemoZoomGrid.create );
 	},
 
@@ -46,10 +46,10 @@ var Demos =
 			return null;
 
 		var a = document.createElement( 'a' );
-		a.href = "#";
+		a.href = '#';
 		a.onclick = function() { return false; };
-		a.className = "Demo";
-		a.innerHTML = "Click here for a demo";
+		a.className = 'Demo';
+		a.innerHTML = 'Click here for a demo';
 
 		e.onclick = function() { this.onclick = null; f( this ); };
 		e.appendChild( a );
