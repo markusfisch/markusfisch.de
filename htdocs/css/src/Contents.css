@@ -264,9 +264,7 @@ div.Dynamic h1
 	padding: 6px;
 	background: #f0f0f0;
 	color: #404040;
-	font-family: monospace;
-	font-size: 12px;
-	font-style: normal;
+	font: normal 12px monospace;
 	/* FF flickers heavily with "auto"; may even result in corrupt renders */
 	overflow: hidden;
 }
