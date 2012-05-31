@@ -32,6 +32,8 @@ div.ImageViewer div img
 	margin: 0;
 	padding: 0;
 	border: 0;
+	width: 320px;
+	height: 320px;
 }
 
 div.ImageViewer div p
@@ -39,5 +41,9 @@ div.ImageViewer div p
 	margin: 0;
 	padding: 2px 0 0 0;
 	width: 320px;
-	color: black;
+	font-weight: bold;
+	font-size: 10px;
+	color: #404040;
+	text-transform: uppercase;
+	text-align: center;
 }
