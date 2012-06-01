@@ -178,7 +178,7 @@ var App =
 		z.addHighlightOnClick();
 		z.addMaxChildWidth( {
 			maxWidth: ["h1"],
-			width: ["div.ChapterContent"] } );
+			width: ["div.ChapterContent"] }, 32 );
 		z.addFrame();
 		z.addRestoreButton();
 		z.addDisableFoldedLinks();
