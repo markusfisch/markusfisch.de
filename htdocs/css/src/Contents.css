@@ -122,7 +122,7 @@ div.Dynamic div.Chapter
 #Contents div.Chapter
 {
 	overflow: hidden;
-	color: #505050;
+	color: #333;
 }
 
 div.Static h1
@@ -136,7 +136,7 @@ div.Static h1
 div.Dynamic h1
 {
 	margin: 0;
-	color: #000000;
+	color: #000;
 	font-size: 12px;
 	text-align: center;
 	background: center 0 url( images/icons-map.png ) no-repeat;
@@ -181,17 +181,15 @@ div.Dynamic h1
 #Contents div.Chapter div.ChapterContent
 {
 	margin: 0;
-	padding: 8px;
+	padding: 12px;
 }
 
 #Contents div.Chapter div.ChapterContent h2
 {
 	margin: 48px 0 8px 0;
-	padding: 0;
-	color: #399ed7;
-	font: bold 16px Arial,sans-serif;
-	text-transform: uppercase;
-	border-bottom: 2px solid #f0f0f0;
+	padding: 0 0 4px 0;
+	color: #d0d0d0;
+	font: bold 22px Arial,sans-serif;
 }
 
 #Contents div.Chapter div.ChapterContent p
@@ -219,13 +217,18 @@ div.Dynamic h1
 	margin: 6px 0;
 	padding: 0;
 	font: normal 16px Arial,sans-serif;
-	color: #505050;
+	color: #333;
 	line-height: 160%;
 }
 
 #Contents div.Chapter div.ChapterContent ol li em
 {
-	color: #399ed7;
+	padding: 0 2px;
+	background-color: #399ed7;
+	color: #fff;
+	border: 2px solid #399ed7;
+	font-style: normal;
+	font-weight: bold;
 }
 
 #Contents div.Chapter div.ChapterContent ul
