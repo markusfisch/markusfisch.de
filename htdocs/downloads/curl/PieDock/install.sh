@@ -1,8 +1,8 @@
 #!/bin/bash
 
-readonly SRC="piedock-1.6.0"
+readonly SRC='piedock-1.6.0'
 readonly TAR="${SRC}.tar.bz2"
-readonly URL="http://markusfisch.de/downloads/"
+readonly URL='http://markusfisch.de/downloads/'
 
 which curl &>/dev/null || {
 	cat <<EOF
@@ -22,28 +22,28 @@ EOF
 
 curl "${URL}${TAR}" > $TAR || {
 	echo "error: cannot get source tarball"
-	exit -1
+	exit 1
 }
 
 which tar &>/dev/null || {
 	echo "error: missing tar"
-	exit -1
+	exit 1
 }
 
 tar xjvf $TAR || {
 	echo "error: cannot unpack source tarball"
-	exit -1
+	exit 1
 }
 
 cd $SRC || {
 	echo "error: cannot find source directory"
-	exit -1
+	exit 1
 }
 
 # kill any running instances if this is a update
-which pkill &>/dev/null && pkill PieDock
+which pkill &>/dev/null && pkill piedock
 
 sh/deploy || {
 	echo "error: cannot invoke compilation"
-	exit -1
+	exit 1
 }
