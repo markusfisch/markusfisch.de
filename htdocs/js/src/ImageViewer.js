@@ -11,7 +11,7 @@
  */
 (function(){
 	/**
-	 * A small and simple image viewer
+	 * A small and simple hovering image viewer
 	 *
 	 * @param loadingHtml - HTML snippet to show while loading (optional)
 	 */
