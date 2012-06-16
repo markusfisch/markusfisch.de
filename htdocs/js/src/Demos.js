@@ -19,8 +19,6 @@ var Demos =
 {
 	/**
 	 * Setup demos
-	 *
-	 * @access public
 	 */
 	setup : function()
 	{
@@ -35,8 +33,6 @@ var Demos =
 
 	/**
 	 * Add demo
-	 *
-	 * @access private
 	 */
 	add : function( n, f )
 	{

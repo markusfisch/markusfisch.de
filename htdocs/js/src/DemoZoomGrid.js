@@ -17,26 +17,15 @@
  */
 var DemoZoomGrid =
 {
-	/**
-	 * ZoomGrid object
-	 *
-	 * @access private
-	 * @var object
-	 */
+	/** ZoomGrid object */
 	zoomGrid : null,
 
-	/**
-	 * Serial number to name cells
-	 *
-	 * @access private
-	 * @var int
-	 */
+	/** Serial number to name cells */
 	serial : 0,
 
 	/**
 	 * Create a ZoomGrid for given container element
 	 *
-	 * @access public
 	 * @param e - container element
 	 */
 	create : function( e )
@@ -64,7 +53,6 @@ var DemoZoomGrid =
 	/**
 	 * Add sibling before given element
 	 *
-	 * @access public
 	 * @param id - id of element in question
 	 */
 	addCell : function( id )
@@ -90,7 +78,6 @@ var DemoZoomGrid =
 	/**
 	 * Remove given cell
 	 *
-	 * @access public
 	 * @param id - id of element in question
 	 */
 	removeCell : function( id )
@@ -111,7 +98,6 @@ var DemoZoomGrid =
 	/**
 	 * Create cell
 	 *
-	 * @access private
 	 * @param n - number of this cell
 	 */
 	createCell : function( n )
@@ -127,8 +113,6 @@ var DemoZoomGrid =
 
 	/**
 	 * Reset ZoomGrid
-	 *
-	 * @access private
 	 */
 	resetZoomGrid : function()
 	{

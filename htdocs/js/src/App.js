@@ -17,18 +17,11 @@
  */
 var App =
 {
-	/**
-	 * ZoomGrid object
-	 *
-	 * @access private
-	 * @var object
-	 */
+	/** ZoomGrid object */
 	zoomGrid : null,
 
 	/**
-	 * Load
-	 *
-	 * @access public
+	 * Load enhanced presentation
 	 */
 	load : function()
 	{
@@ -106,8 +99,6 @@ var App =
 
 	/**
 	 * Resize
-	 *
-	 * @access public
 	 */
 	resize : function()
 	{
@@ -122,7 +113,6 @@ var App =
 	/**
 	 * Zoom given cell
 	 *
-	 * @access public
 	 * @param id - id of cell to zoom
 	 * @return false if element was found
 	 */
@@ -142,7 +132,6 @@ var App =
 	/**
 	 * Restore ZoomGrid
 	 *
-	 * @access public
 	 * @return false on success, true otherwise
 	 */
 	restore : function()
@@ -158,7 +147,6 @@ var App =
 	/**
 	 * Create zoom grid
 	 *
-	 * @access public
 	 * @param c - container object
 	 * @return ZoomGrid object
 	 */
@@ -189,7 +177,6 @@ var App =
 	/**
 	 * Return set up ZoomGrid container
 	 *
-	 * @access public
 	 * @return division object
 	 */
 	getZoomGridContainer : function()
@@ -234,7 +221,6 @@ var App =
 	/**
 	 * Determine page size
 	 *
-	 * @access public
 	 * @return object holding width and height of page in px
 	 */
 	getSize : function()

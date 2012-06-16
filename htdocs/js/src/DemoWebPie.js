@@ -17,18 +17,12 @@
  */
 var DemoWebPie =
 {
-	/**
-	 * WebPie object
-	 *
-	 * @access private
-	 * @var object
-	 */
+	/** WebPie object */
 	webPie : null,
 
 	/**
 	 * Create a WebPie for given element
 	 *
-	 * @access public
 	 * @param e - parent element
 	 */
 	create : function( e )
