@@ -4,7 +4,7 @@
 #DemoWebPie p
 {
 	background: #f0f0f0;
-	color: #404040;
+	color: #333;
 	padding: 2px 4px;
 	height: 100px;
 }
@@ -13,12 +13,12 @@
 {
 	padding: 4px;
 	background: #f0f0f0;
-	color: #404040;
+	color: #333;
 	text-align: center;
 	white-space: nowrap;
 }
 
-#DemoZoomGrid div h3
+#DemoZoomGrid div h4
 {
 	margin: 0;
 	padding: 0;
@@ -28,5 +28,7 @@
 #DemoZoomGrid div a,
 	#DemoZoomGrid div a:hover
 {
-	color: #404040;
+	color: #333;
+	font-size: 10px;
+	text-transform: uppercase;
 }

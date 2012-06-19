@@ -102,7 +102,7 @@ var DemoZoomGrid =
 	 */
 	createCell : function( n )
 	{
-		return "<h3>"+n.toString()+"</h3>"+
+		return "<h4>"+n.toString()+"</h4>"+
 			"<a href=\"#\" onclick=\""+
 				"return DemoZoomGrid.addCell( 'DemoCell"+n.toString()+
 				"' );\">Add</a><br/>"+
