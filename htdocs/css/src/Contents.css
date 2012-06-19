@@ -122,7 +122,7 @@ div.Dynamic div.Chapter
 #Contents div.Chapter
 {
 	overflow: hidden;
-	color: #333;
+	color: #444;
 }
 
 div.Static h1
@@ -187,9 +187,16 @@ div.Dynamic h1
 #Contents div.Chapter div.ChapterContent h2
 {
 	margin: 48px 0 8px 0;
-	padding: 0 0 4px 0;
+	padding: 0;
 	color: #d0d0d0;
 	font: bold 22px Arial,sans-serif;
+}
+
+#Contents div.Chapter div.ChapterContent h3
+{
+	margin: 24px 0 12px 0;
+	padding: 0;
+	font: bold 12px Arial,sans-serif;
 }
 
 #Contents div.Chapter div.ChapterContent p
@@ -217,7 +224,7 @@ div.Dynamic h1
 	margin: 6px 0;
 	padding: 0;
 	font: normal 16px Arial,sans-serif;
-	color: #333;
+	color: #444;
 	line-height: 160%;
 }
 
@@ -266,8 +273,8 @@ div.Dynamic h1
 {
 	padding: 6px;
 	background: #f0f0f0;
-	color: #404040;
-	font: normal 12px monospace;
+	color: #333;
+	font: normal 13px monospace;
 	/* FF flickers heavily with "auto"; may even result in corrupt renders */
 	overflow: hidden;
 }
