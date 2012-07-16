@@ -1,1 +1,4 @@
 htdocs/doc/PieDock/
+*.gz
+ar.js
+ar.css
