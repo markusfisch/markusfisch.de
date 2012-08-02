@@ -1,10 +1,11 @@
 /* TEAM */
-	Design & Development: Markus Fisch
+
+	Code & Design: Markus Fisch
 	Twitter: @markusfisch
 	From: Nuremberg, Germany, Earth, Sun, Milky Way
 
 /* SITE */
-	Standards: XHTML, CSS
+
 	Language: English
 	Software: Blender, Inkscape, GIMP
 
