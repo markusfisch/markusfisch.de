@@ -4,12 +4,20 @@ RewriteRule ^(apple-touch-icon[a-z0-9.-]+)$ icons/$1
 RewriteRule ^favicon.ico$ icons/favicon.ico
 RewriteCond %{HTTP:Accept-Encoding} .*gzip.*
 RewriteRule ^(.*)\.html$ $1.html.gz
+RewriteCond %{HTTP:Accept-Encoding} .*gzip.*
 RewriteRule ^(.*)\.js$ $1.js.gz
+RewriteCond %{HTTP:Accept-Encoding} .*gzip.*
 RewriteRule ^(.*)\.css$ $1.css.gz
 AddEncoding x-gzip text.gz
 
 DirectoryIndex PieDock.html
 Options -Indexes
+
+<IfModule mod_headers.c>
+	<FilesMatch "\.(js|css|xml|gz)$">
+		Header append Vary: Accept-Encoding
+	</FilesMatch>
+</IfModule>
 
 <IfModule mod_expires.c>
 ExpiresActive On
