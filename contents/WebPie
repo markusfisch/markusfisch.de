@@ -4,8 +4,8 @@
 	<h2>Description</h2>
 	<p>WebPie is a pie menu for web pages.
 		Its appearance is very similar to PieDock.
-		Image and animation quality depend heavily on client and
-		platform.</p>
+		Image and animation quality do depend heavily on browser and
+		operating system.</p>
 	<div id="DemoWebPie" class="Demo"></div>
 	<h2>Download</h2>
 	<p>Latest version:
