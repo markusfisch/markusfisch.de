@@ -1,17 +1,4 @@
 #!/bin/bash
-#
-#   O         ,-
-#  ° o    . -´  '     ,-
-#   °  .´        ` . ´,´
-#     ( °   ))     . (
-#      `-;_    . -´ `.`.
-#          `._'       ´
-#
-# Copyright (c) 2011 Markus Fisch <mf@markusfisch.de>
-#
-# Licensed under the MIT license:
-# http://www.opensource.org/licenses/mit-license.php
-#
 
 # Compress CSS source from stdin to stdout
 compress()
@@ -22,7 +9,7 @@ compress()
 		perl -e 'my $s = join( "", <STDIN> );
 
 # remove comments
-$s =~ s¦/\*[^*]*\*+([^/][^*]*\*+)*/¦¦g;
+$s =~ s|/\*[^*]*\*+([^/][^*]*\*+)*/||g;
 
 # remove newlines and white space at the beginning and at the end of lines
 $s =~ s/[\t ]*[\r\n]+[\t ]*//g;
