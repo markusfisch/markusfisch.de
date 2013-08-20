@@ -6,10 +6,7 @@
  *      `-;_    . -´ `.`.
  *          `._'       ´
  *
- * Copyright (c) 2010 Markus Fisch <mf@markusfisch.de>
- *
- * Licensed under the MIT license:
- * http://www.opensource.org/licenses/mit-license.php
+ * 2010 Markus Fisch <mf@markusfisch.de>
  */
 
 /**
