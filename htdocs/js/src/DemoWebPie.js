@@ -39,6 +39,22 @@ var DemoWebPie =
 					function(){
 						App.zoom( "WebPieChapter" ); } ),
 				new WebPieIcon(
+					"images/webpie/app.png",
+					function(){
+						App.zoom( "ShaderEditorChapter" ); } ),
+				new WebPieIcon(
+					"images/webpie/app.png",
+					function(){
+						App.zoom( "WaveLinesWallpaperChapter" ); } ),
+				new WebPieIcon(
+					"images/webpie/simsalabash.png",
+					function(){
+						App.zoom( "SimsalabashChapter" ); } ),
+				new WebPieIcon(
+					"images/webpie/readmail.png",
+					function(){
+						App.zoom( "ReadmailChapter" ); } ),
+				new WebPieIcon(
 					"images/webpie/zoomgrid.png",
 					function(){
 						App.zoom( "ZoomGridChapter" ); } ),
@@ -46,14 +62,6 @@ var DemoWebPie =
 					"images/webpie/cpprc.png",
 					function(){
 						App.zoom( "CpprcChapter" ); } ),
-				new WebPieIcon(
-					"images/webpie/readmail.png",
-					function(){
-						App.zoom( "ReadmailChapter" ); } ),
-				new WebPieIcon(
-					"images/webpie/simsalabash.png",
-					function(){
-						App.zoom( "SimsalabashChapter" ); } ),
 				new WebPieIcon(
 					"images/webpie/about.png",
 					function(){

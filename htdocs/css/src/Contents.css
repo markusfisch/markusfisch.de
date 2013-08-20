@@ -178,6 +178,16 @@ div.Dynamic h1
 	background-position: center -576px;
 }
 
+#ShaderEditorChapter h1
+{
+	background-position: center -672px;
+}
+
+#WaveLinesWallpaperChapter h1
+{
+	background-position: center -672px;
+}
+
 #Contents div.Chapter div.ChapterContent
 {
 	margin: 0;
