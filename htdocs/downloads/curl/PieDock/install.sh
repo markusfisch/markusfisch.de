@@ -1,6 +1,6 @@
 #!/bin/bash
 
-readonly SRC='piedock-1.6.1'
+readonly SRC='piedock-1.6.4'
 readonly TAR="${SRC}.tar.bz2"
 readonly URL='http://markusfisch.de/downloads/'
 
