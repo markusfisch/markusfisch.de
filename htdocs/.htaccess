@@ -2,15 +2,8 @@ RewriteEngine On
 RewriteRule ^([a-zA-Z0-9*,]+)$ $1.html
 RewriteRule ^(apple-touch-icon[a-z0-9.-]+)$ icons/$1
 RewriteRule ^favicon.ico$ icons/favicon.ico
-RewriteCond %{HTTP:Accept-Encoding} .*gzip.*
-RewriteRule ^(.*)\.html$ $1.html.gz
-RewriteCond %{HTTP:Accept-Encoding} .*gzip.*
-RewriteRule ^(.*)\.js$ $1.js.gz
-RewriteCond %{HTTP:Accept-Encoding} .*gzip.*
-RewriteRule ^(.*)\.css$ $1.css.gz
-AddEncoding x-gzip text.gz
 
-DirectoryIndex PieDock.html
+DirectoryIndex index.html
 Options -Indexes
 
 <IfModule mod_headers.c>
@@ -22,12 +15,12 @@ Options -Indexes
 <IfModule mod_expires.c>
 ExpiresActive On
 ExpiresByType text/css "access plus 1 week"
-ExpiresByType application/javascript "access plus 1 month"
-ExpiresByType application/x-javascript "access plus 1 month"
-ExpiresByType image/gif "access plus 1 month"
-ExpiresByType image/jpeg "access plus 1 month"
-ExpiresByType image/png "access plus 1 month"
-ExpiresByType image/x-icon "access plus 1 year"
+ExpiresByType application/javascript "access plus 1 week"
+ExpiresByType application/x-javascript "access plus 1 week"
+ExpiresByType image/gif "access plus 1 week"
+ExpiresByType image/jpeg "access plus 1 week"
+ExpiresByType image/png "access plus 1 week"
+ExpiresByType image/x-icon "access plus 1 week"
 </IfModule>
 
 ErrorDocument 404 http://markusfisch.de/

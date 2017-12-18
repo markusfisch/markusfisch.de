@@ -1,19 +1,7 @@
 /* TEAM */
-
-	Code & Design: Markus Fisch
-	Twitter: @markusfisch
-	From: Nuremberg, Germany, Earth, Sun, Milky Way
+Site: mf@markusfisch.de
+Twitter: @markusfisch
+Location: Nuremberg, Germany
 
 /* SITE */
-
-	Language: English
-	Software: Blender, Inkscape, GIMP
-
-
-                          O         ,-
-                         ° o    . -´  '     ,-
-                          °  .´        ` . ´,´
-                            ( °   ))     . (
-                             `-;_    . -´ `.`.
-                                 `._'       ´
-
+Software: vim
