@@ -3,8 +3,7 @@ OBJECTS = css \
 	icons \
 	images \
 	*.html* .ht* *.txt
-PRODUCTION = hhsw.de@ssh.strato.de:sites/markusfisch/
-PROTO = hhsw.de@ssh.strato.de:sites/proto/markusfisch/
+SERVER = hhsw.de@ssh.strato.de:sites/proto/markusfisch/
 OPTIONS = --recursive \
 	--links \
 	--update \
@@ -12,14 +11,11 @@ OPTIONS = --recursive \
 	--times \
 	--compress
 
-production: compose
-	cd htdocs && rsync $(OPTIONS) $(OBJECTS) $(PRODUCTION)
+htdocs: contents
+	bin/simsalabash
 
-proto: compose
-	cd htdocs && rsync $(OPTIONS) $(OBJECTS) $(PROTO)
-
-compose:
-	simsalabash
+sync: htdocs
+	cd htdocs && rsync $(OPTIONS) $(OBJECTS) $(SERVER)
 
 clean:
 	rm -f htdocs/*.html*
