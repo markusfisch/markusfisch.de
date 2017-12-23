@@ -1,0 +1,124 @@
+* AlienInvasion - A game for [Ludum Dare](http://ludumdare.com) #25.
+Theme was _You Are The Villain_.
+View original
+[entry](http://www.ludumdare.com/compo/ludum-dare-25/?uid=19466).
+* AndroidPieMenu - A zooming pie menu for Android.
+* BinaryEye - Yet another barcode scanner for Android. As if there weren't [enough][play].
+* Boo - You're a ghost trying to escape the priests.
+* CameraView - [![](https://jitpack.io/v/markusfisch/CameraView.svg)](https://jitpack.io/#markusfisch/CameraView)
+* Eugor - So you killed the boss but can you make it back from the dungeon?
+* GalEx - A fast, casual game about delivering mail in space.
+Works on any device with a modern web browser.
+* Gingerman - A christmas game for [Ludum Dare](http://ludumdare.com) #31.
+Theme was __Entire Game on One Screen__.
+* GlitchYeagers - Air combat for [js13kGames][js13kgames] 2016.
+Theme was "Glitch".
+* JumpyGreen - <img src="https://raw.githubusercontent.com/markusfisch/JumpyGreen/gh-pages/screenshot.png" alt="screenshot"/>
+* Libra - Android app that helps making hard decisions. Works like this:
+* LostTreasures - A game about diving for coins in shallow waters for
+[js13kGames][js13kgames] 2017.
+The Theme was "lost".
+* MotoScore - Tally counter for motorcyclists to record mistakes (i.e. everything you
+wouldn't do again that way).
+* Phapp - A simple but scalable object-oriented web application framework.
+* PieDock - PieDock is a task bar and application launcher in shape of a pie menu.
+It feels a little bit like the famous OS X dock in a circle.
+* RobotClash - Multiplayer multi-device turn-based death match with cute little robots
+for [Ludum Dare](http://ludumdare.com) #37 One Room.
+* Rogues - <img src="https://raw.githubusercontent.com/markusfisch/Rogues/gh-pages/screenshot.jpg" alt="screenshot"/>
+* RubiksPlane - Shape shifting puzzler for [Ludum Dare][ld] #35.
+* ScalingImageView - [![](https://jitpack.io/v/markusfisch/ScalingImageView.svg)](https://jitpack.io/#markusfisch/ScalingImageView)
+* ShaderEditor - Create and edit [GLSL](https://en.wikipedia.org/wiki/GLSL) shaders on
+your Android phone or tablet and use them as live wallpaper.
+* SimsalaPhp - PHP class to compose a web site from a tree of files.
+* SkiRun - Ski race for you and a friend.
+* Striker - Striker is a high striker in form of a straight old vertical shooter.
+* SweetToothMouse - A mouse and a lot of sweets to eat. Made for Ludum Dare #34.
+Theme was Growing and/or Two button controls.
+* SwipeImageView - [![](https://jitpack.io/v/markusfisch/SwipeImageView.svg)](https://jitpack.io/#markusfisch/SwipeImageView)
+* TenSecondsToVenus - A game originally written for [Ludum Dare](http://ludumdare.com) #27.
+Theme was _10 Seconds_.
+View original
+[submission](http://www.ludumdare.com/compo/ludum-dare-27/?uid=19466).
+* TigerGun - Her Majesty's Only Field Test Spy™ hard in action for [Ludum Dare #32][ld]
+"An Unconventional Weapon".
+* TouchClock - Editable clock view for Android. Gives users a straight forward,
+traditional way of setting a time (and optionally a duration).
+* TouchClockJs - A clock you can touch (or click) to set a time and (optionally) a duration.
+* WaveLinesWallpaper - Unobstrusive Android live wallpaper showing slowly moving wave lines.
+* WebPie - WebPie is a pie menu for web pages. Its appearance is very similar to
+[PieDock](https://github.com/markusfisch/PieDock).
+* ZoomGrid - ZoomGrid is a grid which can zoom its cells. In other words, it's a
+two-dimensional accordion menu inside a fixed rectangle.
+* and - This little script eases building, running, testing and analyzing Android apps with [ant][2] and [adb][1].
+* annual-report - Prints something like this:
+* backup - Put the script somewhere in your path and make it executable. Next, create
+~/.backuprc and specify what should be synchronized:
+* bars - Put this shell script somewhere in your path and run it by feeding it
+value/label pairs like this:
+* base - 
+* calc - A tiny calculator for mathematical expressions in portable C.
+* cpprc - cpprc generates a C++ source file (along with the corresponding header
+file) that embeds any given data file and provides a Resource class which
+gives access to this data. The Resource class can be created in two flavours:
+one using STL streams, the other is using WxWidgets streams.
+* current - Compressing multiple CSS/JavaScript files in just one archive will
+speed up your website because it will lower the transfer volume and does
+minimize the number of requests.
+* dotfiles - This repository contains my dotfiles for OS X and Linux.
+It's architecture is heavily inspired by
+[@holman's dotfiles](https://github.com/holman/dotfiles).
+* entity - Encode UTF-8 strings to be used with XML.
+* git-embed - Synchronize (the contents of) a repository with a local directory.
+Can be used to manually update "embedded" repositories
+(aka [subtree](https://git-scm.com/book/en/v1/Git-Tools-Subtree-Merging)'s).
+* git-replay - Copy a git repository with a different author (set REAUTHOR) and move
+commit times before 18:00 o'clock after 18:00 o'clock.
+* git-sub - A lean approach to managing git subtrees [manually][mastering-subtrees].
+Because git-subtree clutters the history graph and [git-stree][stree]
+still does too much for me.
+* help - Use the attached help() function to automatically generate a help/usage output from function comments.
+* here - Bash script to ping the main devices of coworkers in the local WiFi to see
+if they're in the office or away.
+* jsqrcode - 
+* kartpokal - Web site of a local indoor go-kart championship.
+* libhttp - Light-weight C library for [HTTP/1.1][1] requests.
+Meant for embedded environments or whereever [libcurl][3] would be just
+too much.
+* libxml - Incremental XML parser in plain C.
+* maprintf - Format data and automatically allocate memory to be of sufficient length.
+* markusfisch - My website.
+* material - 
+* memo - Your own personal memo service.
+* mkatlas - [BASH][1] script to build a [texture atlas][2] for small/medium web
+sites/games. Requires [ImageMagick][3].
+* nanos - A second is 1,000,000,000 nanoseconds which means you have a _lot_ of 0's when translating between (milli)seconds and nanoseconds.
+* obj2js - Naive bash script to convert a Wavefront OBJ (as created by Blender)
+into JavaScript arrays:
+* qrim - Merges a QR code with a background image.
+Only modifies the source image where necessary.
+* quadTRI - A short and simple puzzle game about triangles for two players.
+Works on every device with a web browser.
+* readmail - Probably the worlds smallest, simplest, yet full featured eMail client
+without any dependencies beyond a working GNU environment running Bash.
+* sample - Use the attached help() function to automatically generate a help/usage output from function comments.
+* sbprintf - Format strings into a expanding buffer.
+* setnif - Force any binary to use a specific network interface.
+* simsala - Static site editor and generator for the web.
+* simsalabash - For command line nerds. With love.
+* sqlc - A quick and dirty SQL web console for PHP5+.
+* t - 
+* takahashi - [BASH][bash] script to create a single file [Takahashi][takahashi]
+web presentation from a [Markdown][markdown] document.
+* tree - This is a very small and simple bash script to show a file listing as a
+tree structure:
+* update - BASH script to generate and update Android drawable/mipmap resources
+from SVG sources.
+* webgametalk - About making simple games from scratch using vanilla JavaScript.
+* work - Ever wanted to be able to check a range of checkboxes?
+Like you do select a number of files in a file browser?
+May be to check some mails in your web based eMail client?
+Then this bookmarklet is for you.
+* xml - A very basic but functional XML parser in nothing but BASH.
+* xvim - If you like to have an extra window for editing files with vim, you may
+either install/use GVim or you can simply make vim run inside xterm.

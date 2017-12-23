@@ -1,0 +1,50 @@
+#!/usr/bin/env bash
+
+# Generate a glossary
+mkglossary() {
+	local FILE NAME
+	for FILE
+	do
+		cat << EOF
+* ${FILE##*/} - $(awk -v RS= 'FNR==2{print $0}' "$FILE")
+EOF
+	done > './contents/glossary'
+}
+
+# Index projects and collect READMEs
+#
+# @param @ - paths to index
+collect() {
+	local PROJECTS='./contents/projects/'
+	[ -d "$PROJECTS" ] || {
+		echo 'error: missing contents directory' >&2
+		exit 1
+	}
+	find .. -type f -name 'README*' | while read -r
+	do
+		case "$REPLY" in
+			*.aside*) continue;;
+			*.swp*) continue;;
+			*/arc/*) continue;;
+			*/com/*) continue;;
+			*/history/*) continue;;
+			*/proto/*) continue;;
+			*/skel/*) continue;;
+		esac
+
+		NAME=${REPLY%/*}
+		NAME=${NAME##*/}
+
+		case "$NAME" in
+			.*) continue;;
+		esac
+
+		rsync "$REPLY" "$PROJECTS/$NAME" || exit $?
+	done
+	mkglossary "$PROJECTS"/*
+}
+
+if [ "${BASH_SOURCE[0]}" == "$0" ]
+then
+	collect
+fi
