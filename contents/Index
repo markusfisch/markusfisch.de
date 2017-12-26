@@ -1,0 +1,286 @@
+# Index
+
+## Android Apps
+
+* ### Shader Editor
+	Create and edit [GLSL](https://en.wikipedia.org/wiki/GLSL) shaders on
+	your Android phone.
+
+	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.shadereditor)
+	+ [GitHub](https://github.com/markusfisch/ShaderEditor)
+* ### BinaryEye
+	Barcode scanner for Android.
+
+	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye)
+	+ [GitHub](https://github.com/markusfisch/BinaryEye)
+* ### Libra
+	Android app that helps making hard decisions.
+
+	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.libra)
+	+ [GitHub](https://github.com/markusfisch/Libra)
+* ### MotoScore
+	Tally counter for motorcyclists to record mistakes.
+
+	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.motoscore)
+	+ [GitHub](https://github.com/markusfisch/MotoScore)
+* ### WaveLinesWallpaper
+	Android live wallpaper.
+
+	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.wavelines)
+	+ [GitHub](https://github.com/markusfisch/WaveLinesWallpaper)
+
+## Android Components
+* ### CameraView
+	Camera view.
+
+	+ [GitHub](https://github.com/markusfisch/CameraView)
+* ### ScalingImageView
+	ImageView that transforms its drawable according to touch input.
+
+	+ [GitHub](https://github.com/markusfisch/ScalingImageView)
+* ### SwipeImageView
+	Swipe/zoom/pinch ImageView.
+
+	+ [GitHub](https://github.com/markusfisch/SwipeImageView)
+* ### Pie Menu
+	A zooming pie menu.
+
+	+ [GitHub](https://github.com/markusfisch/AndroidPieMenu)
+* ### TouchClock
+	Editable clock view.
+
+	+ [GitHub](https://github.com/markusfisch/TouchClock)
+
+## Scripts
+* ### annual
+	Generate an annual report from your local git repositories.
+
+	+ [Gist](https://gist.github.com/markusfisch/c43e32a50f833539ea0f7b8b6109320e)
+* ### bars
+	Print horizontal bar diagrams.
+
+	+ [Gist](https://gist.github.com/markusfisch/4612424)
+* ### dotfiles
+	My dotfiles.
+
+	+ [GitHub](https://github.com/markusfisch/dotfiles)
+* ### mkatlas
+	Script to build a texture atlas.
+
+	+ [Gist](https://gist.github.com/markusfisch/6442297)
+* ### readmail
+	Bash eMail client.
+
+	+ [GitHub](https://github.com/markusfisch/readmail)
+* ### simsalabash
+	Static site generator.
+
+	+ [GitHub](https://github.com/markusfisch/simsalabash)
+* ### takahashi
+	Create a single file web presentation from a Markdown document.
+
+	+ [Gist](https://gist.github.com/markusfisch/eff723d3445839fc4eb5)
+* ### tree
+	Show a file listing as a tree structure.
+
+	+ [Gist](https://gist.github.com/markusfisch/5411843)
+
+## Tools and Libraries
+* ### PieDock
+	PieDock is a task bar and application launcher for X.
+
+	+ [GitHub](https://github.com/markusfisch/PieDock)
+* ### libhttp
+	Light-weight C library for HTTP/1.1.
+
+	+ [GitHub](https://github.com/markusfisch/libhttp)
+* ### libxml
+	Incremental XML parser in plain C.
+
+	+ [GitHub](https://github.com/markusfisch/libxml)
+* ### qrim
+	Merges a QR code with a background image.
+
+	+ [Website](http://qrim.markusfisch.de/)
+	+ [GitHub](https://github.com/markusfisch/qrim)
+* ### cpprc
+	Embed any data file into C++.
+
+	+ [GitHub](https://github.com/markusfisch/cpprc)
+* ### simsala
+	Static site editor and generator for the web.
+
+	+ [GitHub](https://github.com/markusfisch/simsala)
+* ### SimsalaPhp
+	PHP class to compose a web site from a tree of files.
+
+	+ [GitHub](https://github.com/markusfisch/SimsalaPhp)
+* ### sqlc
+	A quick and dirty SQL web console for PHP5+.
+
+	+ [Gist](https://gist.github.com/markusfisch/0f1bfaf2673eed968a94)
+* ### Phapp
+	A simple but scalable object-oriented web application framework for PHP5+.
+
+	+ [GitHub](https://github.com/markusfisch/Phapp)
+* ### bbdock
+	Displays transparent PNG icons in the Blackbox/Openbox/Fluxbox slit.
+
+	+ [GitHub](https://github.com/markusfisch/bbdock)
+* ### calc
+	A tiny calculator for mathematical expressions in portable C.
+
+	+ [GitHub](https://github.com/markusfisch/calc)
+* ### maprintf
+	Format data and automatically allocate memory to be of sufficient length.
+
+	+ [Gist](https://github.com/markusfisch/maprintf)
+
+## Games
+* ### GalEx
+	Game about delivering mail in space for [Ludum Dare][ldjam] #30.
+
+	+ [Play](http://galex.markusfisch.de)
+	+ [GitHub](https://github.com/markusfisch/GalEx)
+* ### Jumpy Green
+	Running game for [Ludum Dare][ldjam] #38.
+
+	+ [Play](http://www.hhsw.de/sites/jumpygreen/)
+	+ [GitHub](https://github.com/markusfisch/JumpyGreen)
+* ### Gingerman
+	Christmas game for [Ludum Dare][ldjam] #31.
+
+	+ [Play](http://gingerman.markusfisch.de)
+	+ [GitHub](https://github.com/markusfisch/Gingerman)
+* ### Ski Run
+	Ski racing game for two players.
+
+	+ [Play](http://hhsw.de/sites/SkiRun)
+	+ [GitHub](https://github.com/markusfisch/SkiRun)
+* ### Ten Seconds To Venus
+	Short riddle game for [Ludum Dare][ldjam] #27.
+
+	+ [Play](http://hhsw.de/sites/TenSecondsToVenus)
+	+ [GitHub](https://github.com/markusfisch/TenSecondsToVenus)
+
+## Game Jam Entries / Prototypes
+
+### [Js13kGames](http://js13kgames.com/)
+* ### LostTreasures]
+	Game about diving for coins for [Js13kGames][js13kgames] 2017.
+
+	+ [Entry](http://js13kgames.com/entries/lost-treasures)
+	+ [GitHub](https://github.com/markusfisch/LostTreasures)
+* ### GlitchYeagers
+	Air combat for [Js13kGames][js13kgames] 2016.
+
+	+ [Entry](http://js13kgames.com/entries/glitch-yeagers)
+	+ [GitHub](https://github.com/markusfisch/GlitchYeagers)
+* ### Eugor
+	Roguelike for [Js13kGames][js13kgames] 2015.
+
+	+ [Entry](http://js13kgames.com/entries/eugor)
+	+ [GitHub](https://github.com/markusfisch/Eugor)
+
+### [Ludum Dare](http://ldjam.com/)
+* ### Rogues
+	Multiplayer game for [Ludum Dare][ldjam] #40.
+
+	+ [Entry](https://ldjam.com/events/ludum-dare/40/rogues)
+	+ [GitHub](https://github.com/markusfisch/Rogues)
+* ### JumpyGreen
+	Running game for [Ludum Dare][ldjam] #38.
+
+	+ [Entry](https://ldjam.com/events/ludum-dare/38/jumpy-green)
+	+ [GitHub](https://github.com/markusfisch/JumpyGreen)
+* ### RobotClash
+	Multiplayer multi-device turn-based death match for
+	[Ludum Dare][ldjam] #37.
+
+	+ [Entry](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=19466)
+	+ [GitHub](https://github.com/markusfisch/RobotClash)
+* ### RubiksPlane
+	Shape shifting puzzler for [Ludum Dare][ldjam] #35.
+
+	+ [Entry](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=19466)
+	+ [GitHub](https://github.com/markusfisch/RubiksPlane)
+* ### SweetToothMouse
+	Prototype game of a mouse and a lot of sweets for
+	[Ludum Dare][ldjam] #34.
+
+	+ [Entry](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=19466)
+	+ [GitHub](https://github.com/markusfisch/SweetToothMouse)
+* ### 00Q And The Horrible Tiger Gun
+	Her Majesty's Field Test Agent™ for [Ludum Dare][ldjam] #32.
+
+	+ [Entry](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=19466)
+	+ [GitHub](https://github.com/markusfisch/HorribleTigerGun)
+* ### Gingerman
+	Christmas game for [Ludum Dare][ldjam] #31.
+
+	+ [Entry](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=19466)
+	+ [GitHub](https://github.com/markusfisch/Gingerman)
+* ### GalEx
+	Game about delivering mail in space for [Ludum Dare][ldjam] #30.
+
+	+ [Entry](http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=19466)
+	+ [GitHub](https://github.com/markusfisch/GalEx)
+* ### Tycho
+	Prototype game about finding crystals for [Ludum Dare][ldjam] #29.
+
+	+ [Entry](http://ludumdare.com/compo/ludum-dare-29/?action=preview&uid=19466)
+* ### TenSecondsToVenus
+	Astronaut game for [Ludum Dare][ldjam] #27.
+
+	+ [Entry](http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=19466)
+	+ [GitHub](https://github.com/markusfisch/TenSecondsToVenus)
+* ### quadTRI
+	Puzzle game for two players for [Ludum Dare][ldjam] #26.
+
+	+ [Entry](http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=19466)
+	+ [GitHub](https://github.com/markusfisch/quadTRI)
+* ### AlienInvasion
+	Prototype game for [Ludum Dare][ldjam] #25.
+
+	+ [Entry](http://ludumdare.com/compo/ludum-dare-25/?action=preview&uid=19466)
+	+ [GitHub](https://github.com/markusfisch/AlienInvasion)
+
+### [0h Game Jam](http://www.0hgame.eu/)
+* ### Huh
+	Survival game.
+
+	+ [Play](http://hhsw.de/sites/proto/huh/)
+
+## Old games
+* ### Striker
+	Vertical shooter.
+
+	+ [Play](http://striker.markusfisch.de/)
+	+ [GitHub](https://github.com/markusfisch/Striker)
+* ### Sheeptris
+	Multiplayer Tetris with Sheeps.
+
+	+ [Play](http://hhsw.de/sites/sheeptris/)
+
+## Old Web Components
+* ### TouchClockJs
+	Editable clock view.
+
+	+ [GitHub](https://github.com/markusfisch/TouchClockJs)
+* ### WebPie
+	Fancy Pie menu.
+
+	+ [GitHub](https://github.com/markusfisch/WebPie)
+* ### ZoomGrid
+	Two dimensional accordion for the web
+
+	+ [GitHub](https://github.com/markusfisch/ZoomGrid)
+
+## Open Source Projects I contributed to
+* ### Cineaste
+	Cooperative Watchlist for Android.
+
+	+ [GitHub](https://github.com/marcelgross90/Cineaste)
+
+[ldjam]: http://ldjam.com/
+[js13kgames]: http://js13kgames.com/

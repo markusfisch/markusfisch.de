@@ -1,0 +1,19 @@
+body {
+	margin: 0; padding: 0;
+	background: #f8f8f8;
+}
+
+#Article {
+	margin: 0; padding: 2em;
+	font: 120% sans-serif; color: #333;
+	line-height: 150%;
+}
+
+#Footer {
+	margin: 0; padding: 2em 2.8em;
+	background: #fff;
+	font: 90% sans-serif; color: #333;
+	text-transform: uppercase;
+	letter-spacing: .3em;
+	line-height: 130%;
+}
