@@ -1,0 +1,5 @@
+footer() {
+	cat << EOF
+Markus Fisch
+EOF
+}
