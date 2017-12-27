@@ -1,0 +1,34 @@
+# Scripts
+
+* ### annual
+	Generate an annual report from your local git repositories.
+
+	+ [Gist](https://gist.github.com/markusfisch/c43e32a50f833539ea0f7b8b6109320e)
+* ### bars
+	Print horizontal bar diagrams.
+
+	+ [Gist](https://gist.github.com/markusfisch/4612424)
+* ### dotfiles
+	My dotfiles.
+
+	+ [GitHub](https://github.com/markusfisch/dotfiles)
+* ### mkatlas
+	Script to build a texture atlas.
+
+	+ [Gist](https://gist.github.com/markusfisch/6442297)
+* ### readmail
+	Bash eMail client.
+
+	+ [GitHub](https://github.com/markusfisch/readmail)
+* ### simsalabash
+	Static site generator.
+
+	+ [GitHub](https://github.com/markusfisch/simsalabash)
+* ### takahashi
+	Create a single file web presentation from a Markdown document.
+
+	+ [Gist](https://gist.github.com/markusfisch/eff723d3445839fc4eb5)
+* ### tree
+	Show a file listing as a tree structure.
+
+	+ [Gist](https://gist.github.com/markusfisch/5411843)

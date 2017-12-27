@@ -1,0 +1,52 @@
+# Android
+
+## Apps
+
+* ### Shader Editor
+	Create and edit [GLSL](https://en.wikipedia.org/wiki/GLSL) shaders on
+	your Android phone.
+
+	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.shadereditor)
+	+ [GitHub](https://github.com/markusfisch/ShaderEditor)
+* ### BinaryEye
+	Barcode scanner for Android.
+
+	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye)
+	+ [GitHub](https://github.com/markusfisch/BinaryEye)
+* ### Libra
+	Android app that helps making hard decisions.
+
+	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.libra)
+	+ [GitHub](https://github.com/markusfisch/Libra)
+* ### MotoScore
+	Tally counter for motorcyclists to record mistakes.
+
+	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.motoscore)
+	+ [GitHub](https://github.com/markusfisch/MotoScore)
+* ### WaveLinesWallpaper
+	Android live wallpaper.
+
+	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.wavelines)
+	+ [GitHub](https://github.com/markusfisch/WaveLinesWallpaper)
+
+## Components
+* ### CameraView
+	Camera view.
+
+	+ [GitHub](https://github.com/markusfisch/CameraView)
+* ### ScalingImageView
+	ImageView that transforms its drawable according to touch input.
+
+	+ [GitHub](https://github.com/markusfisch/ScalingImageView)
+* ### SwipeImageView
+	Swipe/zoom/pinch ImageView.
+
+	+ [GitHub](https://github.com/markusfisch/SwipeImageView)
+* ### Pie Menu
+	A zooming pie menu.
+
+	+ [GitHub](https://github.com/markusfisch/AndroidPieMenu)
+* ### TouchClock
+	Editable clock view.
+
+	+ [GitHub](https://github.com/markusfisch/TouchClock)

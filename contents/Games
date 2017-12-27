@@ -1,0 +1,129 @@
+# Games
+
+* ### GalEx
+	Casual game about delivering mail in space.
+
+	+ [Play](http://galex.markusfisch.de)
+	+ [GitHub](https://github.com/markusfisch/GalEx)
+* ### Jumpy Green
+	About a little green man trying to get astronauts off his small world.
+
+	+ [Play](http://www.hhsw.de/sites/jumpygreen/)
+	+ [GitHub](https://github.com/markusfisch/JumpyGreen)
+* ### Gingerman
+	Help Gingerman to get to the top of the christmas tree.
+
+	+ [Play](http://gingerman.markusfisch.de)
+	+ [GitHub](https://github.com/markusfisch/Gingerman)
+* ### Ski Run
+	Ski racing game for two players.
+
+	+ [Play](http://hhsw.de/sites/SkiRun)
+	+ [GitHub](https://github.com/markusfisch/SkiRun)
+* ### Ten Seconds To Venus
+	Express point-and-click riddle.
+
+	+ [Play](http://hhsw.de/sites/TenSecondsToVenus)
+	+ [GitHub](https://github.com/markusfisch/TenSecondsToVenus)
+
+## Game Jam Entries
+
+### [Js13kGames](http://js13kgames.com/)
+* ### LostTreasures]
+	Game about diving for coins for [Js13kGames][js13kgames] 2017.
+
+	+ [Entry](http://js13kgames.com/entries/lost-treasures)
+	+ [GitHub](https://github.com/markusfisch/LostTreasures)
+* ### GlitchYeagers
+	Air combat for [Js13kGames][js13kgames] 2016.
+
+	+ [Entry](http://js13kgames.com/entries/glitch-yeagers)
+	+ [GitHub](https://github.com/markusfisch/GlitchYeagers)
+* ### Eugor
+	Roguelike for [Js13kGames][js13kgames] 2015.
+
+	+ [Entry](http://js13kgames.com/entries/eugor)
+	+ [GitHub](https://github.com/markusfisch/Eugor)
+
+### [Ludum Dare](http://ldjam.com/)
+* ### Rogues
+	Multiplayer game for [Ludum Dare][ldjam] #40.
+
+	+ [Entry](https://ldjam.com/events/ludum-dare/40/rogues)
+	+ [GitHub](https://github.com/markusfisch/Rogues)
+* ### JumpyGreen
+	Running game for [Ludum Dare][ldjam] #38.
+
+	+ [Entry](https://ldjam.com/events/ludum-dare/38/jumpy-green)
+	+ [GitHub](https://github.com/markusfisch/JumpyGreen)
+* ### RobotClash
+	Multiplayer multi-device turn-based death match for
+	[Ludum Dare][ldjam] #37.
+
+	+ [Entry](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=19466)
+	+ [GitHub](https://github.com/markusfisch/RobotClash)
+* ### RubiksPlane
+	Shape shifting puzzler for [Ludum Dare][ldjam] #35.
+
+	+ [Entry](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=19466)
+	+ [GitHub](https://github.com/markusfisch/RubiksPlane)
+* ### SweetToothMouse
+	Prototype game of a mouse and a lot of sweets for
+	[Ludum Dare][ldjam] #34.
+
+	+ [Entry](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=19466)
+	+ [GitHub](https://github.com/markusfisch/SweetToothMouse)
+* ### 00Q And The Horrible Tiger Gun
+	Her Majesty's Field Test Agent™ for [Ludum Dare][ldjam] #32.
+
+	+ [Entry](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=19466)
+	+ [GitHub](https://github.com/markusfisch/HorribleTigerGun)
+* ### Gingerman
+	Christmas game for [Ludum Dare][ldjam] #31.
+
+	+ [Entry](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=19466)
+	+ [GitHub](https://github.com/markusfisch/Gingerman)
+* ### GalEx
+	Game about delivering mail in space for [Ludum Dare][ldjam] #30.
+
+	+ [Entry](http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=19466)
+	+ [GitHub](https://github.com/markusfisch/GalEx)
+* ### Tycho
+	Prototype game about finding crystals for [Ludum Dare][ldjam] #29.
+
+	+ [Entry](http://ludumdare.com/compo/ludum-dare-29/?action=preview&uid=19466)
+* ### TenSecondsToVenus
+	Astronaut game for [Ludum Dare][ldjam] #27.
+
+	+ [Entry](http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=19466)
+	+ [GitHub](https://github.com/markusfisch/TenSecondsToVenus)
+* ### quadTRI
+	Puzzle game for two players for [Ludum Dare][ldjam] #26.
+
+	+ [Entry](http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=19466)
+	+ [GitHub](https://github.com/markusfisch/quadTRI)
+* ### AlienInvasion
+	Prototype game for [Ludum Dare][ldjam] #25.
+
+	+ [Entry](http://ludumdare.com/compo/ludum-dare-25/?action=preview&uid=19466)
+	+ [GitHub](https://github.com/markusfisch/AlienInvasion)
+
+### [0h Game Jam](http://www.0hgame.eu/)
+* ### Huh
+	Survival game.
+
+	+ [Play](http://hhsw.de/sites/proto/huh/)
+
+## Old games
+* ### Striker
+	Vertical shooter.
+
+	+ [Play](http://striker.markusfisch.de/)
+	+ [GitHub](https://github.com/markusfisch/Striker)
+* ### Sheeptris
+	Multiplayer Tetris with Sheeps.
+
+	+ [Play](http://hhsw.de/sites/sheeptris/)
+
+[ldjam]: http://ldjam.com/
+[js13kgames]: http://js13kgames.com/
