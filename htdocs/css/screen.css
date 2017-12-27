@@ -1,0 +1,108 @@
+html {
+	margin: 0; padding: 0;
+	background: #fff;
+}
+
+body {
+	margin: 0; padding: 0;
+	background: #f8f8f8;
+}
+
+#Nav {
+	margin: 0; padding: 0 1.8em;
+	background: #fff;
+	font: 90% sans-serif; color: #333;
+	text-transform: uppercase;
+	line-height: 130%;
+}
+
+#Nav ul {
+	margin: 0; padding: 0;
+	list-style: none;
+	overflow: hidden;
+}
+
+#Nav li {
+	margin: 0; padding: 0;
+}
+
+#Nav a {
+	float: left;
+	margin: 0 1em 0 0; padding: 2em 1em;
+	color: #333;
+	text-decoration: none;
+	white-space: nowrap;
+}
+
+#Nav li.Active a {
+	background: #333; color: #fff;
+}
+
+#Article {
+	margin: 0; padding: 2em;
+	font: 120% sans-serif; color: #333;
+	line-height: 150%;
+	clear: both;
+}
+
+#Article h1 {
+	display: none;
+}
+
+#Article h2 {
+	margin: 0 0 1em; padding: 0;
+	color: #ccc;
+	text-transform: uppercase;
+	font-size: 100%;
+}
+
+#Article > article > h3 {
+	margin: 0 0 1em; padding: 0;
+	color: #aaa;
+	text-transform: uppercase;
+}
+
+#Article h3 a {
+	color: #333;
+	text-decoration: none;
+}
+
+#Article a {
+	color: #333;
+	text-decoration: none;
+}
+
+#Article ul {
+	margin: 0; padding: 0;
+	list-style: none;
+}
+
+#Article > article > ul {
+	margin: 0 0 3em;
+}
+
+#Article > article > ul > li {
+	margin: 0 0 2em; padding: 0;
+}
+
+#Article li > h3,
+#Article li > p {
+	margin: 0; padding: 0;
+	text-transform: none;
+}
+
+#Footer {
+	margin: 0; padding: 2em 2.8em;
+	background: #fff;
+	font: 90% sans-serif; color: #333;
+	text-transform: uppercase;
+	text-align: right;
+	letter-spacing: .5em;
+}
+
+#Footer small {
+	margin: 0 .5em 0 0;
+	font-weight: normal;
+	text-transform: none;
+	letter-spacing: 0;
+}
