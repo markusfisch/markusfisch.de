@@ -80,7 +80,7 @@ body {
 
 #Article > article > ul > li {
 	margin: 0 0 1em; padding: 1em;
-	border: 1px dashed #33443c;
+	border: 1px solid #68a089;
 	border-radius: .25em;
 }
 
