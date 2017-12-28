@@ -12,31 +12,10 @@
 	Incremental XML parser in plain C.
 
 	+ [GitHub](https://github.com/markusfisch/libxml)
-* ### qrim
-	Merges a QR code with a background image.
-
-	+ [Website](http://qrim.markusfisch.de/)
-	+ [GitHub](https://github.com/markusfisch/qrim)
 * ### cpprc
 	Embed any data file into C++.
 
 	+ [GitHub](https://github.com/markusfisch/cpprc)
-* ### simsala
-	Static site editor and generator for the web.
-
-	+ [GitHub](https://github.com/markusfisch/simsala)
-* ### SimsalaPhp
-	PHP class to compose a web site from a tree of files.
-
-	+ [GitHub](https://github.com/markusfisch/SimsalaPhp)
-* ### sqlc
-	A quick and dirty SQL web console for PHP5+.
-
-	+ [Gist](https://gist.github.com/markusfisch/0f1bfaf2673eed968a94)
-* ### Phapp
-	A simple but scalable object-oriented web application framework for PHP5+.
-
-	+ [GitHub](https://github.com/markusfisch/Phapp)
 * ### bbdock
 	Displays transparent PNG icons in the Blackbox/Openbox/Fluxbox slit.
 

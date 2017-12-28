@@ -1,5 +1,24 @@
 # Web Components
 
+## Back-End
+* ### simsala
+	Static site editor and generator for the web.
+
+	+ [GitHub](https://github.com/markusfisch/simsala)
+* ### SimsalaPhp
+	PHP class to compose a web site from a tree of files.
+
+	+ [GitHub](https://github.com/markusfisch/SimsalaPhp)
+* ### Phapp
+	A simple but scalable object-oriented web application framework for PHP5+.
+
+	+ [GitHub](https://github.com/markusfisch/Phapp)
+* ### sqlc
+	A quick and dirty SQL web console for PHP5+.
+
+	+ [Gist](https://gist.github.com/markusfisch/0f1bfaf2673eed968a94)
+
+## Front-End
 * ### TouchClockJs
 	Editable clock view.
 
@@ -12,3 +31,10 @@
 	Two dimensional accordion for the web
 
 	+ [GitHub](https://github.com/markusfisch/ZoomGrid)
+
+## Sites
+* ### qrim
+	Merges a QR code with a background image.
+
+	+ [Website](http://qrim.markusfisch.de/)
+	+ [GitHub](https://github.com/markusfisch/qrim)

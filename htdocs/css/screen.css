@@ -62,11 +62,6 @@ body {
 	text-transform: uppercase;
 }
 
-#Article h3 a {
-	color: #333;
-	text-decoration: none;
-}
-
 #Article a {
 	color: #333;
 	text-decoration: none;
@@ -79,6 +74,7 @@ body {
 
 #Article > article > ul {
 	margin: 0 0 3em;
+	clear: both;
 }
 
 #Article > article > ul > li {
@@ -89,6 +85,30 @@ body {
 #Article li > p {
 	margin: 0; padding: 0;
 	text-transform: none;
+}
+
+#Article li ul {
+	margin: .5em 0 0; padding: 0;
+	list-style: none;
+	overflow: hidden;
+}
+
+#Article li ul li a {
+	float: left;
+	margin: 0 .5em 0 0; padding: .75em 1em;
+	background: #e0e0e0; color: #111;
+	font: 60% sans-serif;
+	font-weight: bolder;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	border-radius: .5em;
+	transition: opacity 0.25s linear;
+	opacity: .5;
+}
+
+#Article li ul li a:hover,
+#Article li ul li a:focus {
+	opacity: 1.0;
 }
 
 #Footer {
