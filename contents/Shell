@@ -17,7 +17,7 @@
 
 	+ [Gist](https://gist.github.com/markusfisch/6442297)
 * ### readmail
-	Bash eMail client.
+	POP3/SMTP client.
 
 	+ [GitHub](https://github.com/markusfisch/readmail)
 * ### simsalabash

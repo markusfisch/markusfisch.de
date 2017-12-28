@@ -1,0 +1,10 @@
+# Libraries
+
+* ### libhttp
+	Light-weight C library for HTTP/1.1.
+
+	+ [GitHub](https://github.com/markusfisch/libhttp)
+* ### libxml
+	Incremental XML parser in plain C.
+
+	+ [GitHub](https://github.com/markusfisch/libxml)

@@ -1,7 +1,7 @@
-OBJECTS = css \
+OBJECTS = arch \
+	css \
 	downloads \
 	icons \
-	images \
 	*.html* .ht* *.txt
 SERVER = hhsw.de@ssh.strato.de:sites/proto/markusfisch/
 OPTIONS = --recursive \
