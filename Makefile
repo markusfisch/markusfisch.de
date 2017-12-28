@@ -1,4 +1,5 @@
-OBJECTS = arch \
+OBJECTS = annuals \
+	arch \
 	css \
 	downloads \
 	icons \
