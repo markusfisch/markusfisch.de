@@ -51,21 +51,25 @@ body {
 }
 
 #Article h2 {
-	margin: 0 0 1em; padding: 0;
-	color: #33443c;
+	margin: 0 0 2em; padding: 0;
 	text-transform: uppercase;
-	font-size: 90%;
+	font-weight: lighter;
+	font-size: 130%;
+	letter-spacing: .25em;
 }
 
 #Article > article > h3 {
 	margin: 0 0 1em; padding: 0;
-	color: #aaa;
 	text-transform: uppercase;
+	font-weight: lighter;
+	font-size: 80%;
+	letter-spacing: .1em;
 }
 
 #Article a {
-	color: #333;
+	color: #33443c;
 	text-decoration: none;
+	border-bottom: .1em solid #33443c;
 }
 
 #Article ul {
@@ -79,15 +83,22 @@ body {
 }
 
 #Article > article > ul > li {
-	margin: 0 0 1em; padding: 1em;
-	border: 1px solid #68a089;
-	border-radius: .25em;
+	margin: 0 0 1em; padding: 0 0 1em;
+	border-bottom: 1px solid #68a089;
+}
+
+#Article > article > ul > li:last-child {
+	border-bottom: 0;
 }
 
 #Article li > h3,
 #Article li > p {
 	margin: 0; padding: 0;
 	text-transform: none;
+}
+
+#Article li > h3 {
+	margin: 0 0 .25em;
 }
 
 #Article li ul {
@@ -103,13 +114,15 @@ body {
 	font: 60% sans-serif;
 	font-weight: bolder;
 	text-transform: uppercase;
+	text-decoration: none;
 	letter-spacing: .1em;
+	border-bottom: .1em solid #33443c;
 	border-radius: .25em;
 	transition: opacity 0.25s linear;
 }
 
 #Footer {
-	margin: 0; padding: 2em 2.8em;
+	margin: 0; padding: 2em 2.8em 12em;
 	background: #fff;
 	font: 90% sans-serif; color: #333;
 	text-transform: uppercase;
