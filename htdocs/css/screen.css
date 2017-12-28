@@ -1,3 +1,23 @@
+@keyframes bg {
+	0% {
+		background: #399ed7;
+		color: #0075c0;
+		/*color: #0065b0;*/
+	}
+
+	50% {
+		background: #a8cd43;
+		color: #7ba212;
+		/*color: #5b8202;*/
+	}
+
+	100% {
+		background: #399ed7;
+		/*color: #0065b0;*/
+		color: #0075c0;
+	}
+}
+
 html {
 	margin: 0; padding: 0;
 	background: #fff;
@@ -5,7 +25,9 @@ html {
 
 body {
 	margin: 0; padding: 0;
-	background: #f8f8f8;
+	background: #399ed7;
+	color: #0065b0;
+	animation: bg 60s linear infinite;
 }
 
 #Nav {
@@ -40,7 +62,7 @@ body {
 
 #Article {
 	margin: 0; padding: 2em;
-	font: 120% sans-serif; color: #333;
+	font: 120% sans-serif;
 	line-height: 150%;
 	clear: both;
 }
@@ -118,11 +140,4 @@ body {
 	text-transform: uppercase;
 	text-align: right;
 	letter-spacing: .5em;
-}
-
-#Footer small {
-	margin: 0 .5em 0 0;
-	font-weight: normal;
-	text-transform: none;
-	letter-spacing: 0;
 }

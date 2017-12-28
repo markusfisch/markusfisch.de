@@ -1,5 +1,5 @@
 footer() {
 	cat << EOF
-<small>Stuff by</small> Markus Fisch
+Markus Fisch
 EOF
 }
