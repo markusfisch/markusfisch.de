@@ -1,0 +1,9 @@
+/**
+ * Generic styles
+ */
+body
+{
+	margin: 8px; padding: 0;
+	background: black 0 0 url( images/background.jpg ) no-repeat fixed;
+	font: 16px Arial,sans-serif; color: #fff;
+}

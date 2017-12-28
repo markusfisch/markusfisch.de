@@ -1,0 +1,49 @@
+/**
+ * Image gallery
+ */
+#Contents div.Chapter div.ChapterContent div.ImageGallery
+{
+	margin: 0 0 8px 0;
+}
+
+#Contents div.Chapter div.ChapterContent div.ImageGallery a img
+{
+	padding: 7px;
+	background: 0 0 url( images/frame-thumbnail.png ) no-repeat;
+	border: 0;
+}
+
+div.ImageViewer
+{
+	margin: 0;
+	padding: 7px 0 0 0;
+	background: 0 0 url( images/image-viewer-top.png ) no-repeat;
+}
+
+div.ImageViewer div
+{
+	margin: 0;
+	padding: 2px 9px 9px 9px;
+	background: left bottom url( images/image-viewer-bottom.png ) no-repeat;
+}
+
+div.ImageViewer div img
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	width: 320px;
+	height: 320px;
+}
+
+div.ImageViewer div p
+{
+	margin: 0;
+	padding: 2px 0 0 0;
+	width: 320px;
+	font-weight: bold;
+	font-size: 10px;
+	color: #444;
+	text-transform: uppercase;
+	text-align: center;
+}

@@ -1,0 +1,101 @@
+/**
+ * Index
+ */
+#Index
+{
+	position: absolute;
+	right: 0;
+	top: 0;
+	z-index: 1;
+}
+
+#Index ul
+{
+	margin: 0;
+	padding: 0;
+}
+
+#Index ul li
+{
+	list-style: none;
+	padding: 8px 2px;
+	margin: 0 0 4px 0;
+	background-color: #ffffff;
+	overflow: hidden;
+	opacity: 0.35;
+	filter: alpha( opacity=35 );
+	-moz-border-radius: 0 4px 4px 0;
+	-webkit-border-radius: 0 4px 4px 0;
+	border-radius: 0 4px 4px 0;
+}
+
+#Index ul li:hover,
+	#Index ul li.Active
+{
+	opacity: 0.85;
+	filter: alpha( opacity=85 );
+}
+
+#Index ul li a
+{
+	display: block;
+	width: 72px;
+	padding: 48px 0 0 0;
+	white-space: nowrap;
+	color: #000;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 9px;
+	text-align: center;
+	background: center 0 url( images/icons-map.png ) no-repeat;
+}
+
+#Index ul li a:hover
+{
+	text-decoration: none;
+}
+
+#Index ul li a.PieDock
+{
+	background-position: center 0;
+}
+
+#Index ul li a.WebPie
+{
+	background-position: center -96px;
+}
+
+#Index ul li a.ZoomGrid
+{
+	background-position: center -192px;
+}
+
+#Index ul li a.Cpprc
+{
+	background-position: center -288px;
+}
+
+#Index ul li a.Readmail
+{
+	background-position: center -384px;
+}
+
+#Index ul li a.About
+{
+	background-position: center -480px;
+}
+
+#Index ul li a.Simsalabash
+{
+	background-position: center -576px;
+}
+
+#Index ul li a.ShaderEditor
+{
+	background-position: center -672px;
+}
+
+#Index ul li a.WaveLinesWallpaper
+{
+	background-position: center -672px;
+}
