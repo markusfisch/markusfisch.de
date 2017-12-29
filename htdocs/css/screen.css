@@ -5,8 +5,17 @@ html {
 
 body {
 	margin: 0; padding: 0;
-	background: #78b099;
 	color: #000a;
+	background-color: #78b099;
+	background-image:
+		radial-gradient(#0004, transparent 50%),
+		radial-gradient(#fff2, transparent 50%);
+	background-size:
+		200em 200em,
+		50em 50em;
+	background-position:
+		-75em -100em,
+		-25em 25em;
 }
 
 #Nav {
