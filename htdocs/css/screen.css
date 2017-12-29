@@ -5,9 +5,17 @@ html {
 
 body {
 	margin: 0; padding: 0;
-	background: #78b099;
+	background: #74bcb4;
 	color: #000a;
 }
+
+body.Android { background: #74bc82; }
+body.Shell { background: #ac8bc8; }
+body.Tools { background: #6c83c4; }
+body.Libs { background: #74bcb4; }
+body.Games { background: #c07cb4; }
+body.Web { background: #cdc389; }
+body.History { background: #aaa; }
 
 #Nav {
 	margin: 0; padding: 0 1.8em;
