@@ -1,7 +1,8 @@
 # Tools
 
 * ### PieDock
-	PieDock is a task bar and application launcher for X.
+	PieDock is a task bar and application launcher in shape of a
+	pie menu for X11.
 
 	+ [GitHub](https://github.com/markusfisch/PieDock)
 * ### cpprc

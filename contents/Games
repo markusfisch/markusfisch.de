@@ -1,7 +1,7 @@
 # Games
 
 * ### GalEx
-	Casual game about delivering mail in space.
+	Deliver mail and connect worlds.
 
 	+ [Play](http://galex.markusfisch.de)
 	+ [GitHub](https://github.com/markusfisch/GalEx)
@@ -11,12 +11,12 @@
 	+ [Play](http://gingerman.markusfisch.de)
 	+ [GitHub](https://github.com/markusfisch/Gingerman)
 * ### Jumpy Green
-	About a little green man trying to get astronauts off his small world.
+	A little green man trying to get evil astronauts off his small world.
 
 	+ [Play](http://www.hhsw.de/sites/jumpygreen/)
 	+ [GitHub](https://github.com/markusfisch/JumpyGreen)
 * ### Ski Run
-	Ski racing game for two players.
+	Ski racing game for two players on one screen.
 
 	+ [Play](http://hhsw.de/sites/SkiRun)
 	+ [GitHub](https://github.com/markusfisch/SkiRun)
@@ -30,19 +30,22 @@
 
 ### Js13kGames
 * ### Lost Treasures
-	Game about diving for coins for [Js13kGames][js13kgames] 2017.
+	Dive to find coins for [Js13kGames][js13kgames] 2017.
+	Playable.
 
 	+ [Play](http://hhsw.de/sites/proto/js13k2017/)
 	+ [Entry](http://js13kgames.com/entries/lost-treasures)
 	+ [GitHub](https://github.com/markusfisch/LostTreasures)
 * ### Glitch Yeagers
 	Air combat for [Js13kGames][js13kgames] 2016.
+	Playable.
 
 	+ [Play](http://hhsw.de/sites/proto/js13k2016/)
 	+ [Entry](http://js13kgames.com/entries/glitch-yeagers)
 	+ [GitHub](https://github.com/markusfisch/GlitchYeagers)
 * ### Eugor
 	Roguelike for [Js13kGames][js13kgames] 2015.
+	Playable.
 
 	+ [Play](http://hhsw.de/sites/proto/js13k2015/)
 	+ [Entry](http://js13kgames.com/entries/eugor)
@@ -50,13 +53,16 @@
 
 ### Ludum Dare
 * ### Rogues
-	Multiplayer game for [Ludum Dare][ldjam] #40.
+	Multiplayer multi-device game about stealing gold for
+	[Ludum Dare][ldjam] #40.
+	Playable with friends only.
 
 	+ [Play](http://hhsw.de/sites/proto/ld40/)
 	+ [Entry](https://ldjam.com/events/ludum-dare/40/rogues)
 	+ [GitHub](https://github.com/markusfisch/Rogues)
 * ### Jumpy Green
-	Running game for [Ludum Dare][ldjam] #38.
+	Circular jump and run for [Ludum Dare][ldjam] #38.
+	Playable.
 
 	+ [Play](http://hhsw.de/sites/proto/ld38/)
 	+ [Entry](https://ldjam.com/events/ludum-dare/38/jumpy-green)
@@ -64,12 +70,14 @@
 * ### Robot Clash
 	Multiplayer multi-device turn-based death match for
 	[Ludum Dare][ldjam] #37.
+	Playable with friends only.
 
 	+ [Play](http://hhsw.de/sites/proto/ld37/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/RobotClash)
 * ### Rubiks Plane
-	Shape shifting puzzler for [Ludum Dare][ldjam] #35.
+	Shifting puzzler for [Ludum Dare][ldjam] #35.
+	Playable.
 
 	+ [Play](http://hhsw.de/sites/proto/ld35/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=19466)
@@ -77,6 +85,7 @@
 * ### Sweet Tooth Mouse
 	Prototype game of a mouse and a lot of sweets for
 	[Ludum Dare][ldjam] #34.
+	Ran out of time.
 
 	+ [Play](http://hhsw.de/sites/proto/ld34/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=19466)
@@ -84,41 +93,48 @@
 * ### 00Q And The Horrible Tiger Gun
 	Her Majesty's Only Field Test Spy™ hard in action for
 	[Ludum Dare][ldjam] #32.
+	Just two very simply levels. Ran out of time.
 
 	+ [Play](http://hhsw.de/sites/proto/ld32/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/HorribleTigerGun)
 * ### Gingerman
 	Christmas game for [Ludum Dare][ldjam] #31.
+	Playable.
 
 	+ [Play](http://hhsw.de/sites/proto/ld31/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/Gingerman)
 * ### GalEx
-	Game about delivering mail in space for [Ludum Dare][ldjam] #30.
+	Deliver mail in space for [Ludum Dare][ldjam] #30.
+	Playable.
 
 	+ [Play](http://hhsw.de/sites/proto/ld30/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/GalEx)
 * ### Tycho
 	Prototype game about finding crystals for [Ludum Dare][ldjam] #29.
+	Ran out of time.
 
 	+ [Play](http://hhsw.de/sites/proto/ld29/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-29/?action=preview&uid=19466)
 * ### Ten Seconds To Venus
 	Astronaut game for [Ludum Dare][ldjam] #27.
+	Playable.
 
 	+ [Play](http://hhsw.de/sites/proto/ld27/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/TenSecondsToVenus)
 * ### quadTRI
 	Puzzle game for two players for [Ludum Dare][ldjam] #26.
+	Playable with a friend.
 
 	+ [Play](http://hhsw.de/sites/proto/ld26/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/quadTRI)
 * ### Alien Invasion
 	Prototype game for [Ludum Dare][ldjam] #25.
+	Playable.
 
 	+ [Play](http://hhsw.de/sites/proto/ld25/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-25/?action=preview&uid=19466)
@@ -127,12 +143,13 @@
 ### 0h Game Jam
 * ### Huh
 	Click on a free spot to survive.
+	Made in 0 hours.
 
 	+ [Play](http://hhsw.de/sites/proto/huh/)
 
 ## Old games
 * ### Striker
-	Vertical shooter.
+	Very fast vertical shooter.
 
 	+ [Play](http://striker.markusfisch.de/)
 	+ [GitHub](https://github.com/markusfisch/Striker)
