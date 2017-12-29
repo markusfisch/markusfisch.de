@@ -63,15 +63,13 @@ body.History { background: #aaa; }
 	text-transform: uppercase;
 	font-weight: normal;
 	font-size: 130%;
-	letter-spacing: .25em;
 }
 
 #Article > article > h3 {
 	margin: 0 0 1em; padding: 0;
 	text-transform: uppercase;
-	font-weight: lighter;
-	font-size: 80%;
-	letter-spacing: .1em;
+	font-weight: normal;
+	font-size: 100%;
 }
 
 #Article a {
