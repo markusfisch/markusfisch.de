@@ -2,6 +2,8 @@ footer() {
 	cat << EOF
 <h2>Markus Fisch</h2>
 <p>Born 1975. Writes software for a living.
-Tweets at <a href="https://twitter.com/markusfisch">@markusfisch</a>.</p>
+Tweets at <a href="https://twitter.com/markusfisch">@markusfisch</a>.
+No JavaScript was harmed in the making of this website.
+</p>
 EOF
 }

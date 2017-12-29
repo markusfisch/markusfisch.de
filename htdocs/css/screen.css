@@ -6,7 +6,7 @@ html {
 body {
 	margin: 0; padding: 0;
 	background: #78b099;
-	color: #33443c;
+	color: #000a;
 }
 
 #Nav {
@@ -67,9 +67,9 @@ body {
 }
 
 #Article a {
-	color: #33443c;
+	color: #000a;
 	text-decoration: none;
-	border-bottom: .1em solid #33443c;
+	border-bottom: .1em solid #000a;
 }
 
 #Article ul {
@@ -84,7 +84,7 @@ body {
 
 #Article > article > ul > li {
 	margin: 0 0 1em; padding: 0 0 1em;
-	border-bottom: 1px solid #68a089;
+	border-bottom: 1px solid #0002;
 }
 
 #Article > article > ul > li:last-child {
@@ -99,7 +99,7 @@ body {
 
 #Article li > h3 {
 	margin: 0 0 .25em;
-	color: #fff;
+	color: #fffe;
 }
 
 #Article li > p {
@@ -121,20 +121,20 @@ body {
 	text-transform: uppercase;
 	text-decoration: none;
 	letter-spacing: .1em;
-	border-bottom: .1em solid #33443c;
+	border-bottom: .1em solid #000a;
 	border-radius: .25em;
 	transition: opacity 0.25s linear;
 }
 
 #Footer {
-	margin: 0; padding: 2em 2.8em 12em;
+	margin: 0; padding: 2em 2.8em 2em;
 	background: #fff;
 	font: 80% sans-serif; color: #333;
 	text-align: right;
 }
 
 #Footer h2 {
-	margin: 0 0 1em; padding: 0;
+	margin: 0 0 6em; padding: 0;
 	font-size: 110%;
 	font-weight: normal;
 	text-transform: uppercase;
