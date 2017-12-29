@@ -1,10 +1,5 @@
-OBJECTS = annuals \
-	arch \
-	css \
-	downloads \
-	icons \
-	*.html* .ht* *.txt
-SERVER = hhsw.de@ssh.strato.de:sites/proto/markusfisch/
+OBJECTS = htdocs/* htdocs/.htaccess
+SERVER = hhsw.de@ssh.strato.de:sites/proto/mf/
 OPTIONS = --recursive \
 	--links \
 	--update \
@@ -12,11 +7,11 @@ OPTIONS = --recursive \
 	--times \
 	--compress
 
-htdocs: contents
+htdocs: contents layouts lib
 	bin/simsalabash
 
 sync: htdocs
-	cd htdocs && rsync $(OPTIONS) $(OBJECTS) $(SERVER)
+	rsync $(OPTIONS) $(OBJECTS) $(SERVER)
 
 clean:
 	rm -f htdocs/*.html*
