@@ -1,27 +1,5 @@
-RewriteEngine On
-RewriteRule ^([a-zA-Z0-9*,]+)$ $1.html
-RewriteRule ^(apple-touch-icon[a-z0-9.-]+)$ icons/$1
-RewriteRule ^favicon.ico$ icons/favicon.ico
-
 DirectoryIndex index.html
 Options -Indexes
-
-<IfModule mod_headers.c>
-	<FilesMatch "\.(js|css|xml|gz)$">
-		Header append Vary: Accept-Encoding
-	</FilesMatch>
-</IfModule>
-
-<IfModule mod_expires.c>
-ExpiresActive On
-ExpiresByType text/css "access plus 1 week"
-ExpiresByType application/javascript "access plus 1 week"
-ExpiresByType application/x-javascript "access plus 1 week"
-ExpiresByType image/gif "access plus 1 week"
-ExpiresByType image/jpeg "access plus 1 week"
-ExpiresByType image/png "access plus 1 week"
-ExpiresByType image/x-icon "access plus 1 week"
-</IfModule>
 
 ErrorDocument 404 http://markusfisch.de/
 ErrorDocument 401 http://markusfisch.de/
