@@ -9,29 +9,29 @@
 	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.shadereditor)
 	+ [GitHub](https://github.com/markusfisch/ShaderEditor)
 * ### Binary Eye
-	Barcode scanner for Android.
+	1D and 2D Barcode scanner for Android.
 
 	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye)
 	+ [GitHub](https://github.com/markusfisch/BinaryEye)
 * ### Libra
-	Android app that helps making hard decisions.
+	Helps making hard decisions.
 
 	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.libra)
 	+ [GitHub](https://github.com/markusfisch/Libra)
 * ### Moto Score
-	Tally counter for motorcyclists to record mistakes.
+	Tally counter for motorcyclists to record tours and mistakes.
 
 	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.motoscore)
 	+ [GitHub](https://github.com/markusfisch/MotoScore)
 * ### Wave Lines Wallpaper
-	Android live wallpaper.
+	Live wallpaper showing slowly moving wave lines.
 
 	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.wavelines)
 	+ [GitHub](https://github.com/markusfisch/WaveLinesWallpaper)
 
 ## Components
 * ### CameraView
-	Camera view.
+	A view that shows what the camera sees.
 
 	+ [GitHub](https://github.com/markusfisch/CameraView)
 * ### ScalingImageView
