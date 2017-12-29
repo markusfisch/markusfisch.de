@@ -5,10 +5,8 @@ html {
 
 body {
 	margin: 0; padding: 0;
+	background: #78b099;
 	color: #000a;
-	background-color: #78b099;
-	background-image: linear-gradient(90deg, #00000008, transparent);
-	background-size: 7em 7em;
 }
 
 #Nav {
