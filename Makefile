@@ -1,5 +1,5 @@
 OBJECTS = htdocs/* htdocs/.htaccess
-SERVER = hhsw.de@ssh.strato.de:sites/proto/mf/
+SERVER = hhsw.de@ssh.strato.de:sites/markusfisch
 OPTIONS = --recursive \
 	--links \
 	--update \
