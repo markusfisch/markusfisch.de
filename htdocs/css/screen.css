@@ -153,11 +153,16 @@ body.History { background: #bbb; }
 }
 
 #Footer p {
-	margin: 0; padding: 0;
+	margin: 0; padding: 0 0 0 20%;
 	line-height: 150%;
+}
+
+#Footer span {
+	white-space: nowrap;
 }
 
 #Footer a {
 	text-decoration: none;
 	color: #333;
+	border-bottom: .1em solid #333;
 }

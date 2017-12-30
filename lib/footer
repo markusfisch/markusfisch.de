@@ -1,8 +1,12 @@
 footer() {
 	cat << EOF
 <h2>Markus Fisch</h2>
-<p>Born 1975. Writes software for a living.
-Tweets at <a href="https://twitter.com/markusfisch">@markusfisch</a>.
+<p>Born <a href="https://en.wikipedia.org/wiki/1975">1975</a>.
+Writes software for a living.
+This is what I did in my spare time.
+Works at <a href="https://kurzdigital.com/">Kurzdigital</a>.
+<span>Tweets as
+<a href="https://twitter.com/markusfisch">@markusfisch</a></span>.
 </p>
 EOF
 }
