@@ -141,21 +141,24 @@ body.History { background: #bbb; }
 	margin: 0; padding: 2em 2.8em;
 	background: #fff;
 	font: 80% sans-serif; color: #333;
-	text-align: right;
+	overflow: hidden;
 }
 
 #Footer h2 {
-	margin: 0 0 4em; padding: 0 0 64px;
+	float: right;
+	margin: 0 0 3em; padding: 80px 180px 0 0;
 	background: bottom right url(logo.svg) no-repeat;
-	font-size: 110%;
-	font-weight: normal;
-	text-transform: uppercase;
-	letter-spacing: .5em;
+	width: 0; height: 0;
+	overflow: hidden;
 }
 
 #Footer p {
-	margin: 0; padding: 0 0 0 20%;
+	clear: both;
+	float: right;
+	margin: 0; padding: 0;
+	max-width: 30em;
 	line-height: 150%;
+	text-align: right;
 }
 
 #Footer span {
