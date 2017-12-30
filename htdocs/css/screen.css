@@ -43,6 +43,12 @@ body.History { background: #bbb; }
 	white-space: nowrap;
 }
 
+#Nav a:active,
+#Nav a:hover {
+	background: #eee;
+	transition: background 0.25s linear;
+}
+
 #Nav li.Active a {
 	background: #333; color: #fff;
 }
@@ -145,7 +151,8 @@ body.History { background: #bbb; }
 }
 
 #Footer h2 {
-	margin: 0 0 6em; padding: 0;
+	margin: 0 0 4em; padding: 0 0 64px;
+	background: bottom right url(logo.svg) no-repeat;
 	font-size: 110%;
 	font-weight: normal;
 	text-transform: uppercase;
