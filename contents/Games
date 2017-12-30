@@ -1,5 +1,7 @@
 # Games
 
+Some mini games I wrote.
+
 * ### GalEx
 	Deliver mail and connect worlds.
 
@@ -29,6 +31,10 @@
 ## Game Jam Entries
 
 ### Js13kGames
+
+[Js13kGames](js13kgames) is a JavaScript coding competition with a
+file size limit of 13 kilobytes.
+
 * ### Lost Treasures
 	Dive to find coins for [Js13kGames][js13kgames] 2017 "Lost". Playable.
 
@@ -49,6 +55,10 @@
 	+ [GitHub](https://github.com/markusfisch/Eugor)
 
 ### Ludum Dare
+
+[Ludum Dare](ludumdare) is one of the world's largest and longest running
+[Game Jam](https://en.wikipedia.org/wiki/Game_jam) events.
+
 * ### Rogues
 	Multiplayer multi-device game about stealing gold for
 	[Ludum Dare][ldjam] #40 "The more you have, the worse it is".
@@ -139,6 +149,10 @@
 	+ [GitHub](https://github.com/markusfisch/AlienInvasion)
 
 ### 0h Game Jam
+
+[0h Game Jam](0hgame) is a coding competition that takes place during
+[DST hour shift](https://en.wikipedia.org/wiki/Daylight_saving_time).
+
 * ### Huh
 	Click on a free spot to survive. Made for [0h Game Jam][0hgame] 2014.
 

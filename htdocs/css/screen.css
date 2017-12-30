@@ -59,7 +59,7 @@ body.History { background: #bbb; }
 }
 
 #Article h2 {
-	margin: 0 0 2em; padding: 0;
+	margin: 0 0 1em; padding: 0;
 	text-transform: uppercase;
 	font-weight: normal;
 	font-size: 130%;
@@ -70,6 +70,11 @@ body.History { background: #bbb; }
 	text-transform: uppercase;
 	font-weight: normal;
 	font-size: 100%;
+}
+
+#Article > article > p {
+	margin: 0 0 2em; padding: 0;
+	max-width: 33em;
 }
 
 #Article a {

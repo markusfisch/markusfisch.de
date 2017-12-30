@@ -1,5 +1,10 @@
 # Shell
 
+Software I wrote for the Unix shell
+[Bash](https://en.wikipedia.org/wiki/Bash_\(Unix_shell\)).
+Find even more tiny little scripts in my
+[dotfiles](https://github.com/markusfisch/dotfiles) repository.
+
 * ### annual
 	Generate an annual report from your local git repositories.
 
