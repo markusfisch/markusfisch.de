@@ -6,6 +6,7 @@ html {
 body {
 	margin: 0; padding: 0;
 	background: #74bcb4;
+	color: #111; /* fallback */
 	color: #000a;
 }
 
@@ -78,8 +79,10 @@ body.History { background: #bbb; }
 }
 
 #Article a {
+	color: #111; /* fallback */
 	color: #000a;
 	text-decoration: none;
+	border-bottom: .1em solid #111; /* fallback */
 	border-bottom: .1em solid #000a;
 }
 
@@ -95,6 +98,7 @@ body.History { background: #bbb; }
 
 #Article > article > ul > li {
 	margin: 0 0 1em; padding: 0 0 1em;
+	border-bottom: 1px solid #111; /* fallback */
 	border-bottom: 1px solid #0002;
 }
 
@@ -110,6 +114,7 @@ body.History { background: #bbb; }
 
 #Article li > h3 {
 	margin: 0 0 .25em;
+	color: #fff; /* fallback */
 	color: #fffe;
 }
 
@@ -132,6 +137,7 @@ body.History { background: #bbb; }
 	text-transform: uppercase;
 	text-decoration: none;
 	letter-spacing: .1em;
+	border-color: #111; /* fallback */
 	border-bottom: .1em solid #000a;
 	border-radius: .25em;
 	transition: opacity 0.25s linear;
