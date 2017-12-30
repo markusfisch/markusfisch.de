@@ -158,5 +158,13 @@
 
 	+ [Play](http://hhsw.de/sites/sheeptris/)
 
+## Tutorial
+
+* ### How to make a web game from scratch
+	A talk I held in 2015 at [FrankenJS](http://www.frankenjs.org/) about
+	making simple games from scratch using vanilla JavaScript.
+
+	+ [GitHub](https://github.com/markusfisch/web-game-from-scratch-talk)
+
 [ldjam]: http://ldjam.com/
 [js13kgames]: http://js13kgames.com/
