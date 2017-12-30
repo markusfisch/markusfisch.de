@@ -43,12 +43,6 @@ body.History { background: #bbb; }
 	white-space: nowrap;
 }
 
-#Nav a:active,
-#Nav a:hover {
-	background: #eee;
-	transition: background 0.25s linear;
-}
-
 #Nav li.Active a {
 	background: #333; color: #fff;
 }
