@@ -1,6 +1,6 @@
 # Games
 
-Some small games I wrote.
+Just some games I made.
 
 * ### GalEx
 	Deliver mail and connect worlds.
@@ -99,7 +99,7 @@ file size limit of 13 kilobytes.
 	Her Majesty's Only Field Test Spy™ hard in action for
 	[Ludum Dare][ldjam] #32 "An Unconventional Weapon".
 	Just two very simple levels. Ran out of time.
-	There's no way to fire that gun on a touch device.
+	And there's no way to fire that gun on a touch device, sorry.
 
 	+ [Play](http://hhsw.de/sites/proto/ld32/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=19466)
@@ -120,7 +120,7 @@ file size limit of 13 kilobytes.
 	+ [GitHub](https://github.com/markusfisch/GalEx)
 * ### Tycho
 	Prototype game about finding crystals on a blue planet for
-	[Ludum Dare][ldjam] #29 "Beneath the Surface". Playable but very simple.
+	[Ludum Dare][ldjam] #29 "Beneath the Surface". Playable but _very_ simple.
 	Ran out of time.
 
 	+ [Play](http://hhsw.de/sites/proto/ld29/)
@@ -134,8 +134,8 @@ file size limit of 13 kilobytes.
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/TenSecondsToVenus)
 * ### quadTRI
-	Puzzle game for two players for [Ludum Dare][ldjam] #26 "Minimalism".
-	Playable with a friend.
+	Two player game about matching triangles for [Ludum Dare][ldjam] #26
+	"Minimalism". Playable with a friend.
 
 	+ [Play](http://hhsw.de/sites/proto/ld26/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=19466)
