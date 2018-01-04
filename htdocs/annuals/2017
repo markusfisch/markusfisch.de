@@ -1,4 +1,4 @@
-In 2017 you made 2291 commits in 123 projects.
+In 2017 you made 2295 commits in 123 projects.
 
 Commits per weekday
     Monday     313 ***********************************
@@ -7,7 +7,7 @@ Commits per weekday
   Thursday     408 **********************************************
     Friday     514 ***********************************************************
   Saturday     200 **********************
-    Sunday     133 ***************
+    Sunday     137 ***************
 
 Commits per month
        Jan     184 ***********************************
@@ -21,7 +21,7 @@ Commits per month
        Sep     168 ********************************
        Oct     177 **********************************
        Nov     206 ***************************************
-       Dec     279 *****************************************************
+       Dec     283 ******************************************************
 
 Lines added (+) and removed (-) per weekday
     Monday   20216 +++++++
@@ -30,7 +30,7 @@ Lines added (+) and removed (-) per weekday
   Thursday   40158 ++++++++++++++
     Friday   85653 +++++++++++++++++++++++++++++++
   Saturday    1741 
-    Sunday    9424 +++
+    Sunday    9426 +++
 
 Lines added (+) and removed (-) per month
        Jan    6238                            +
@@ -44,7 +44,7 @@ Lines added (+) and removed (-) per month
        Sep    1733                            
        Oct    8275                            +
        Nov  127645                            +++++++++++++++++++++++
-       Dec   30966                            +++++
+       Dec   30968                            +++++
 
 Top 3 words in commit messages
          a     689 **********************************
