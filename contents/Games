@@ -68,8 +68,8 @@ file size limit of 13 kilobytes.
 	+ [Entry](https://ldjam.com/events/ludum-dare/40/rogues)
 	+ [GitHub](https://github.com/markusfisch/Rogues)
 * ### Jumpy Green
-	Circular jump and run for [Ludum Dare][ldjam] #38 "A Small World".
-	Playable.
+	A little green man trying to get evil astronauts off his small world
+	for [Ludum Dare][ldjam] #38 "A Small World". Playable.
 
 	+ [Play](http://hhsw.de/sites/proto/ld38/)
 	+ [Entry](https://ldjam.com/events/ludum-dare/38/jumpy-green)
@@ -161,12 +161,12 @@ file size limit of 13 kilobytes.
 
 ## Old games
 * ### Striker
-	Very fast vertical shooter.
+	Very fast vertical shooter. Doesn't work well on mobile.
 
 	+ [Play](http://striker.markusfisch.de/)
 	+ [GitHub](https://github.com/markusfisch/Striker)
 * ### Sheeptris
-	Multiplayer Tetris with Sheeps.
+	Multiplayer Tetris with Sheeps. Doesn't work well on mobile.
 
 	+ [Play](http://hhsw.de/sites/sheeptris/)
 

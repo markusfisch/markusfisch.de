@@ -5,24 +5,24 @@ Software I wrote for the Unix shell
 Find more everyday scripts in my
 [dotfiles](https://github.com/markusfisch/dotfiles) repository.
 
-* ### annual
-	Generate an annual report from your local git repositories.
-
-	+ [Gist](https://gist.github.com/markusfisch/c43e32a50f833539ea0f7b8b6109320e)
 * ### simsalabash
-	Static site generator.
+	Dead simple static site generator for command line lovers.
 
 	+ [GitHub](https://github.com/markusfisch/simsalabash)
 * ### readmail
 	POP3/SMTP client.
 
 	+ [GitHub](https://github.com/markusfisch/readmail)
+* ### annual
+	Generate an annual report from your local git repositories.
+
+	+ [Gist](https://gist.github.com/markusfisch/c43e32a50f833539ea0f7b8b6109320e)
 * ### mkatlas
 	Builds a texture atlas.
 
 	+ [Gist](https://gist.github.com/markusfisch/6442297)
 * ### tree
-	Show a file listing as a tree structure.
+	Show a file listing as tree structure.
 
 	+ [Gist](https://gist.github.com/markusfisch/5411843)
 * ### bars

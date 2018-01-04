@@ -3,6 +3,13 @@
 Software I wrote for the
 [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web).
 
+## Sites
+* ### qrim
+	Merge a QR code with a background image.
+
+	+ [Website](http://qrim.markusfisch.de/)
+	+ [GitHub](https://github.com/markusfisch/qrim)
+
 ## Back-End
 * ### simsala
 	Static site editor and generator.
@@ -34,10 +41,3 @@ Software I wrote for the
 	Two dimensional accordion for the web
 
 	+ [GitHub](https://github.com/markusfisch/ZoomGrid)
-
-## Sites
-* ### qrim
-	Merge a QR code with a background image.
-
-	+ [Website](http://qrim.markusfisch.de/)
-	+ [GitHub](https://github.com/markusfisch/qrim)

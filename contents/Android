@@ -18,7 +18,7 @@ Software I wrote for [Android](https://www.android.com/).
 	+ [GitHub](https://github.com/markusfisch/BinaryEye)
 	+ [Releases](https://github.com/markusfisch/BinaryEye/releases)
 * ### Libra
-	Helps making hard decisions by weighing pro and contra.
+	Helps making hard decisions.
 
 	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.libra)
 	+ [GitHub](https://github.com/markusfisch/Libra)
@@ -34,7 +34,7 @@ Software I wrote for [Android](https://www.android.com/).
 	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.wavelines)
 	+ [GitHub](https://github.com/markusfisch/WaveLinesWallpaper)
 
-## Components for developers
+## Components
 * ### CameraView
 	A view that shows what the camera sees.
 

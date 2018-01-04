@@ -6,7 +6,7 @@ operating systems.
 
 * ### PieDock
 	PieDock is a task bar and application launcher in shape of a
-	pie menu for X11.
+	pie menu for [X11](https://en.wikipedia.org/wiki/X_Window_System).
 
 	+ [GitHub](https://github.com/markusfisch/PieDock)
 	+ [Releases](https://github.com/markusfisch/PieDock/releases)
@@ -15,10 +15,13 @@ operating systems.
 
 	+ [GitHub](https://github.com/markusfisch/cpprc)
 * ### bbdock
-	Displays transparent PNG icons in the Blackbox/Openbox/Fluxbox slit.
+	Displays transparent PNG icons in the
+	[Blackbox](https://en.wikipedia.org/wiki/Blackbox),
+	[Openbox](https://en.wikipedia.org/wiki/Openbox) or
+	[Fluxbox](https://en.wikipedia.org/wiki/Fluxbox) slit.
 
 	+ [GitHub](https://github.com/markusfisch/bbdock)
 * ### calc
-	A tiny calculator for mathematical expressions in portable C.
+	Line calculator in portable C.
 
 	+ [GitHub](https://github.com/markusfisch/calc)
