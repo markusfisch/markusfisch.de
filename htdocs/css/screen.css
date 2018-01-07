@@ -7,16 +7,16 @@ body {
 	margin: 0; padding: 0;
 	background: #74bcb4;
 	color: #111; /* fallback */
-	color: #000a;
+	color: #0009;
 }
 
-body.Android { background: #74bc82; }
-body.Shell { background: #b69ad5; }
-body.Tools { background: #8ea2e7; }
-body.Libs { background: #74bcb4; }
-body.Games { background: #d09acd; }
-body.Web { background: #cdc389; }
-body.History { background: #bbb; }
+body.Android { background: #96cca0; }
+body.Shell { background: #c7b1e0; }
+body.Tools { background: #a5b7f1; }
+body.Libs { background: #8ecdc6; }
+body.Games { background: #ddb4db; }
+body.Web { background: #e8dba6; }
+body.History { background: #ddd; }
 
 #Nav {
 	margin: 0; padding: 0 1.8em;
@@ -62,15 +62,23 @@ body.History { background: #bbb; }
 #Article h2 {
 	margin: 0 0 1em; padding: 0;
 	text-transform: uppercase;
-	font-weight: normal;
-	font-size: 130%;
+	font-weight: bolder;
+	font-size: 100%;
+}
+
+#Article h2:before {
+	content: '↓ ';
+}
+
+#Article h2:after {
+	content: ' ↓';
 }
 
 #Article > article > h3 {
-	margin: 0 0 1em; padding: 0;
+	margin: 0; padding: 0;
 	text-transform: uppercase;
-	font-weight: normal;
-	font-size: 100%;
+	font-weight: bolder;
+	font-size: 80%;
 }
 
 #Article > article > p {
@@ -97,7 +105,7 @@ body.History { background: #bbb; }
 }
 
 #Article > article > ul > li {
-	margin: 0 0 1em; padding: 0 0 1em;
+	margin: 0 0 2em; padding: 0 0 .5em;
 	border-bottom: 1px solid #111; /* fallback */
 	border-bottom: 1px solid #0002;
 }
@@ -114,8 +122,8 @@ body.History { background: #bbb; }
 
 #Article li > h3 {
 	margin: 0 0 .25em;
-	color: #fff; /* fallback */
-	color: #fffe;
+	font-weight: normal;
+	font-size: 150%;
 }
 
 #Article li > p {
