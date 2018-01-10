@@ -6,12 +6,17 @@ operating systems.
 
 * ### PieDock
 	PieDock is a task bar and application launcher in shape of a
-	pie menu for [X11](https://en.wikipedia.org/wiki/X_Window_System).
+	pie menu for
+	[X Window System](https://en.wikipedia.org/wiki/X_Window_System).
+
+	<p class="Stats"><span>Created in December 2010</span>$(loc ../PieDock src)</p>
 
 	+ [GitHub](https://github.com/markusfisch/PieDock)
 	+ [Releases](https://github.com/markusfisch/PieDock/releases)
 * ### cpprc
 	Embed any data file into C++.
+
+	<p class="Stats"><span>Created in December 2010</span>$(loc ../cpprc)</p>
 
 	+ [GitHub](https://github.com/markusfisch/cpprc)
 * ### bbdock
@@ -20,8 +25,12 @@ operating systems.
 	[Openbox](https://en.wikipedia.org/wiki/Openbox) or
 	[Fluxbox](https://en.wikipedia.org/wiki/Fluxbox) slit.
 
+	<p class="Stats"><span>Created in March 2011</span>$(loc ../bbdock src)</p>
+
 	+ [GitHub](https://github.com/markusfisch/bbdock)
 * ### calc
 	Line calculator in portable C.
+
+	<p class="Stats"><span>Created in June 2013</span>$(loc ../calc)</p>
 
 	+ [GitHub](https://github.com/markusfisch/calc)

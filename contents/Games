@@ -5,25 +5,35 @@ Just some games I made.
 * ### GalEx
 	Deliver mail and connect worlds.
 
+	<p class="Stats"><span>Created in August 2014</span>$(loc ../GalEx htdocs)</p>
+
 	+ [Play](http://galex.markusfisch.de)
 	+ [GitHub](https://github.com/markusfisch/GalEx)
 * ### Gingerman
 	Help Gingerman to get to the top of the christmas tree.
+
+	<p class="Stats"><span>Created in December 2014</span>$(loc ../Gingerman htdocs)</p>
 
 	+ [Play](http://gingerman.markusfisch.de)
 	+ [GitHub](https://github.com/markusfisch/Gingerman)
 * ### Jumpy Green
 	A little green man trying to get evil astronauts off his small world.
 
+	<p class="Stats"><span>Created in April 2017</span>$(loc ../JumpyGreen htdocs)</p>
+
 	+ [Play](http://www.hhsw.de/sites/jumpygreen/)
 	+ [GitHub](https://github.com/markusfisch/JumpyGreen)
 * ### Ski Run
 	Ski racing game for two players on one screen.
 
+	<p class="Stats"><span>Created in January 2014</span>$(loc ../SkiRun htdocs)</p>
+
 	+ [Play](http://hhsw.de/sites/SkiRun)
 	+ [GitHub](https://github.com/markusfisch/SkiRun)
 * ### Ten Seconds To Venus
 	Express point-and-click riddle.
+
+	<p class="Stats"><span>Created in August 2013</span>$(loc ../TenSecondsToVenus htdocs)</p>
 
 	+ [Play](http://hhsw.de/sites/TenSecondsToVenus)
 	+ [GitHub](https://github.com/markusfisch/TenSecondsToVenus)
@@ -38,17 +48,23 @@ file size limit of 13 kilobytes.
 * ### Lost Treasures
 	Dive to find coins for [Js13kGames][js13kgames] 2017 "Lost". Playable.
 
+	<p class="Stats"><span>Created in September 2017</span>$(loc ../LostTreasures:submission src.js)</p>
+
 	+ [Play](http://hhsw.de/sites/proto/js13k2017/)
 	+ [Entry](http://js13kgames.com/entries/lost-treasures)
 	+ [GitHub](https://github.com/markusfisch/LostTreasures)
 * ### Glitch Yeagers
 	Air combat for [Js13kGames][js13kgames] 2016 "Glitch". Playable.
 
+	<p class="Stats"><span>Created in August 2016</span>$(loc ../GlitchYeagers:submission src.js)</p>
+
 	+ [Play](http://hhsw.de/sites/proto/js13k2016/)
 	+ [Entry](http://js13kgames.com/entries/glitch-yeagers)
 	+ [GitHub](https://github.com/markusfisch/GlitchYeagers)
 * ### Eugor
 	Roguelike for [Js13kGames][js13kgames] 2015 "Reversed". Playable.
+
+	<p class="Stats"><span>Created in August 2015</span>$(loc ../Eugor:submission htdocs)</p>
 
 	+ [Play](http://hhsw.de/sites/proto/js13k2015/)
 	+ [Entry](http://js13kgames.com/entries/eugor)
@@ -64,12 +80,16 @@ file size limit of 13 kilobytes.
 	[Ludum Dare][ldjam] #40 "The more you have, the worse it is".
 	Playable with friends only.
 
+	<p class="Stats"><span>Created in December 2017</span>$(loc ../Rogues:submission htdocs server)</p>
+
 	+ [Play](http://hhsw.de/sites/proto/ld40/)
 	+ [Entry](https://ldjam.com/events/ludum-dare/40/rogues)
 	+ [GitHub](https://github.com/markusfisch/Rogues)
 * ### Jumpy Green
 	A little green man trying to get evil astronauts off his small world
 	for [Ludum Dare][ldjam] #38 "A Small World". Playable.
+
+	<p class="Stats"><span>Created in April 2017</span>$(loc ../JumpyGreen:submission htdocs)</p>
 
 	+ [Play](http://hhsw.de/sites/proto/ld38/)
 	+ [Entry](https://ldjam.com/events/ludum-dare/38/jumpy-green)
@@ -78,6 +98,8 @@ file size limit of 13 kilobytes.
 	Multiplayer multi-device turn-based death match for
 	[Ludum Dare][ldjam] #37 "One Room". Playable with friends only.
 
+	<p class="Stats"><span>Created in December 2016</span>$(loc ../RobotClash:submission htdocs server)</p>
+
 	+ [Play](http://hhsw.de/sites/proto/ld37/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/RobotClash)
@@ -85,12 +107,16 @@ file size limit of 13 kilobytes.
 	Shifting puzzler for [Ludum Dare][ldjam] #35 "Shapeshift".
 	Playable.
 
+	<p class="Stats"><span>Created in April 2016</span>$(loc ../RubiksPlane:submission htdocs)</p>
+
 	+ [Play](http://hhsw.de/sites/proto/ld35/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/RubiksPlane)
 * ### Sweet Tooth Mouse
 	Prototype game of a mouse and a lot of sweets for
 	[Ludum Dare][ldjam] #34 "Growing". Ran out of time.
+
+	<p class="Stats"><span>Created in December 2015</span>$(loc ../SweetToothMouse:submission htdocs)</p>
 
 	+ [Play](http://hhsw.de/sites/proto/ld34/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=19466)
@@ -101,6 +127,8 @@ file size limit of 13 kilobytes.
 	Just two very simple levels. Ran out of time.
 	And there's no way to fire that gun on a touch device, sorry.
 
+	<p class="Stats"><span>Created in April 2015</span>$(loc ../HorribleTigerGun:submission htdocs)</p>
+
 	+ [Play](http://hhsw.de/sites/proto/ld32/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/HorribleTigerGun)
@@ -108,12 +136,16 @@ file size limit of 13 kilobytes.
 	Christmas game for [Ludum Dare][ldjam] #31 "Entire Game on One Screen".
 	Playable.
 
+	<p class="Stats"><span>Created in December 2014</span>$(loc ../Gingerman:submission htdocs)</p>
+
 	+ [Play](http://hhsw.de/sites/proto/ld31/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/Gingerman)
 * ### GalEx
 	Deliver mail in space for [Ludum Dare][ldjam] #30 "Connected Worlds".
 	Playable.
+
+	<p class="Stats"><span>Created in August 2014</span>$(loc ../GalEx:submission htdocs)</p>
 
 	+ [Play](http://hhsw.de/sites/proto/ld30/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=19466)
@@ -123,12 +155,16 @@ file size limit of 13 kilobytes.
 	[Ludum Dare][ldjam] #29 "Beneath the Surface". Playable but _very_ simple.
 	Ran out of time.
 
+	<p class="Stats"><span>Created in April 2014</span>$(loc ../Tycho:submission htdocs)</p>
+
 	+ [Play](http://hhsw.de/sites/proto/ld29/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-29/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/Tycho)
 * ### Ten Seconds To Venus
 	Astronaut game for [Ludum Dare][ldjam] #27 "10 Seconds".
 	Playable.
+
+	<p class="Stats"><span>Created in August 2013</span>$(loc ../TenSecondsToVenus:submission index.html)</p>
 
 	+ [Play](http://hhsw.de/sites/proto/ld27/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=19466)
@@ -137,12 +173,16 @@ file size limit of 13 kilobytes.
 	Two player game about matching triangles for [Ludum Dare][ldjam] #26
 	"Minimalism". Playable with a friend.
 
+	<p class="Stats"><span>Created in April 2013</span>$(loc ../quadTRI:submission index.html)</p>
+
 	+ [Play](http://hhsw.de/sites/proto/ld26/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/quadTRI)
 * ### Alien Invasion
 	Prototype game for [Ludum Dare][ldjam] #25 "You Are The Villain".
 	Playable.
+
+	<p class="Stats"><span>Created in December 2012</span>$(loc ../AlienInvasion:submission htdocs)</p>
 
 	+ [Play](http://hhsw.de/sites/proto/ld25/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-25/?action=preview&uid=19466)
@@ -156,6 +196,8 @@ file size limit of 13 kilobytes.
 * ### Huh
 	Click on a free spot to survive. Made for [0h Game Jam][0hgame] 2014.
 
+	<p class="Stats"><span>Created in October 2014</span>$(loc ../huh:submission)</p>
+
 	+ [Play](http://hhsw.de/sites/proto/huh/)
 	+ [Timelapse](https://vimeo.com/110055282)
 
@@ -163,10 +205,16 @@ file size limit of 13 kilobytes.
 * ### Striker
 	Very fast vertical shooter. Doesn't work well on mobile.
 
+	<p class="Stats"><span>Created in April 2012</span>$(loc ../Striker js/src src)</p>
+
 	+ [Play](http://striker.markusfisch.de/)
 	+ [GitHub](https://github.com/markusfisch/Striker)
 * ### Sheeptris
-	Multiplayer Tetris with Sheeps. Doesn't work well on mobile.
+	Multiplayer Tetris with Sheeps. Requires
+	[Java in the browser](https://en.wikipedia.org/wiki/Java_applet).
+	Doesn't work on mobile.
+
+	<p class="Stats"><span>Created in July 2004</span>$(loc ../Sheeptris)</p>
 
 	+ [Play](http://hhsw.de/sites/sheeptris/)
 

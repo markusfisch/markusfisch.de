@@ -130,6 +130,16 @@ body.History { background: #ddd; }
 	max-width: 33em;
 }
 
+#Article .Stats {
+	margin: .5em 0 0;
+	font-size: 80%;
+	line-height: 150%;
+}
+
+#Article .Stats span {
+	white-space: nowrap;
+}
+
 #Article li ul {
 	margin: .75em 0 0; padding: 0;
 	list-style: none;

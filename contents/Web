@@ -6,6 +6,8 @@ Software I wrote for the Internet.
 * ### qrim
 	Merge a QR code with a background image.
 
+	<p class="Stats"><span>Created in July 2015</span>$(loc ../qrim lib/qrim.js)</p>
+
 	+ [Website](http://qrim.markusfisch.de/)
 	+ [GitHub](https://github.com/markusfisch/qrim)
 
@@ -13,17 +15,25 @@ Software I wrote for the Internet.
 * ### simsala
 	Static site editor and generator.
 
+	<p class="Stats"><span>Created in December 2013</span>$(loc ../simsala)</p>
+
 	+ [GitHub](https://github.com/markusfisch/simsala)
 * ### SimsalaPhp
 	PHP class to compose a web site from a tree of files.
+
+	<p class="Stats"><span>Created in November 2013</span>$(loc ../SimsalaPhp)</p>
 
 	+ [GitHub](https://github.com/markusfisch/SimsalaPhp)
 * ### Phapp
 	Scalable object-oriented web application framework for PHP5+.
 
+	<p class="Stats"><span>Created in March 2013</span>$(loc ../Phapp)</p>
+
 	+ [GitHub](https://github.com/markusfisch/Phapp)
 * ### sqlc
 	Quick and dirty SQL web console for PHP5+.
+
+	<p class="Stats"><span>Created in July 2014</span>$(loc ../gists/sqlc)</p>
 
 	+ [Gist](https://gist.github.com/markusfisch/0f1bfaf2673eed968a94)
 
@@ -31,12 +41,18 @@ Software I wrote for the Internet.
 * ### TouchClockJs
 	Editable clock view.
 
+	<p class="Stats"><span>Created in September 2014</span>$(loc ../TouchClockJs)</p>
+
 	+ [GitHub](https://github.com/markusfisch/TouchClock.js)
 * ### WebPie
 	Fancy Pie menu.
 
+	<p class="Stats"><span>Created in December 2010</span>$(loc ../WebPie)</p>
+
 	+ [GitHub](https://github.com/markusfisch/WebPie)
 * ### ZoomGrid
 	Two dimensional accordion for the web
+
+	<p class="Stats"><span>Created in December 2010</span>$(loc ../ZoomGrid)</p>
 
 	+ [GitHub](https://github.com/markusfisch/ZoomGrid)

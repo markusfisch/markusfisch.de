@@ -8,11 +8,15 @@ Software I wrote for [Android](https://www.android.com/).
 	Create and edit [GLSL](https://en.wikipedia.org/wiki/GLSL) shaders on
 	your Android phone.
 
+	<p class="Stats"><span>Created in June 2013</span>$(loc ../ShaderEditor app/src/main)</p>
+
 	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.shadereditor)
 	+ [GitHub](https://github.com/markusfisch/ShaderEditor)
 	+ [Releases](https://github.com/markusfisch/ShaderEditor/releases)
 * ### Binary Eye
 	1D and 2D barcode scanner for Android.
+
+	<p class="Stats"><span>Created in August 2017</span>$(loc ../BinaryEye app/src/main)</p>
 
 	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye)
 	+ [GitHub](https://github.com/markusfisch/BinaryEye)
@@ -20,16 +24,22 @@ Software I wrote for [Android](https://www.android.com/).
 * ### Libra
 	Helps making hard decisions.
 
+	<p class="Stats"><span>Created in March 2017</span>$(loc ../Libra app/src/main)</p>
+
 	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.libra)
 	+ [GitHub](https://github.com/markusfisch/Libra)
 	+ [Releases](https://github.com/markusfisch/Libra/releases)
 * ### Moto Score
 	Tally counter for motorcyclists to record tours and mistakes.
 
+	<p class="Stats"><span>Created in February 2014</span>$(loc ../MotoScore app/src/main)</p>
+
 	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.motoscore)
 	+ [GitHub](https://github.com/markusfisch/MotoScore)
 * ### Wave Lines Wallpaper
 	Live wallpaper showing slowly moving wave lines.
+
+	<p class="Stats"><span>Created in August 2012</span>$(loc ../WaveLinesWallpaper app/src/main)</p>
 
 	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.wavelines)
 	+ [GitHub](https://github.com/markusfisch/WaveLinesWallpaper)
@@ -38,23 +48,33 @@ Software I wrote for [Android](https://www.android.com/).
 * ### CameraView
 	A view that shows what the camera sees.
 
+	<p class="Stats"><span>Created in August 2017</span>$(loc ../CameraView cameraview/src/main)</p>
+
 	+ [GitHub](https://github.com/markusfisch/CameraView)
 	+ [JitPack](https://jitpack.io/#markusfisch/CameraView)
 * ### ScalingImageView
 	ImageView that transforms its drawable according to touch input.
+
+	<p class="Stats"><span>Created in November 2015</span>$(loc ../ScalingImageView scalingimageview/src/main)</p>
 
 	+ [GitHub](https://github.com/markusfisch/ScalingImageView)
 	+ [JitPack](https://jitpack.io/#markusfisch/ScalingImageView)
 * ### SwipeImageView
 	Swipe/zoom/pinch ImageView.
 
+	<p class="Stats"><span>Created in January 2017</span>$(loc ../SwipeImageView swipeimageview/src/main)</p>
+
 	+ [GitHub](https://github.com/markusfisch/SwipeImageView)
 	+ [JitPack](https://jitpack.io/#markusfisch/SwipeImageView)
 * ### Pie Menu
 	A zooming pie menu.
 
+	<p class="Stats"><span>Created in September 2013</span>$(loc ../AndroidPieMenu src)</p>
+
 	+ [GitHub](https://github.com/markusfisch/AndroidPieMenu)
 * ### TouchClock
 	Editable clock view.
+
+	<p class="Stats"><span>Created in September 2013</span>$(loc ../TouchClock src)</p>
 
 	+ [GitHub](https://github.com/markusfisch/TouchClock)

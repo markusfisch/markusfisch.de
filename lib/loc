@@ -1,0 +1,45 @@
+# Count and print lines of code
+#
+# @param ... - path to search for code files
+count_lines() {
+	if [ -f "$1" ]
+	then
+		cat "$1"
+	else
+		find "${@:-.}" -type f | while read -r
+		do
+			[[ $REPLY == *.aside* ]] && continue
+			case "${REPLY##*.}" in
+				java|kt|c|cpp|cc|h|hh|js|html|php|glsl|fs|vs)
+					cat "$REPLY";;
+			esac
+		done
+	fi | wc -l
+}
+
+# Print lines of code for given repository
+#
+# @param 1 - path to repository
+# @param ... - path to source files (optional)
+loc() {
+	local REPO=${1%%:*}
+	local TAG=
+	[[ $1 == *:* ]] && TAG=${1##*:}
+	[ -d "$REPO" ] && (
+		cd "$REPO" || exit
+
+		BRANCH=
+		[ -d .git ] && [ "$TAG" ] && {
+			BRANCH=$(git rev-parse --abbrev-ref HEAD)
+			git checkout "$TAG" &>/dev/null || exit
+		}
+
+		shift
+		LOC=$(count_lines "${@:-.}")
+		LOC=${LOC##* }
+
+		[ "$BRANCH" ] && git checkout "$BRANCH" &>/dev/null
+
+		echo " • <span>$LOC lines of code</span>"
+	)
+}
