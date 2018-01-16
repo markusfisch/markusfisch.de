@@ -158,7 +158,6 @@ body.History { background: #ddd; }
 	border-color: #111; /* fallback */
 	border-bottom: .1em solid #000a;
 	border-radius: .25em;
-	transition: opacity 0.25s linear;
 }
 
 #Footer {
