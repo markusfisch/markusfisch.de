@@ -205,7 +205,7 @@ file size limit of 13 kilobytes.
 * ### Striker
 	Very fast vertical shooter. Doesn't work well on mobile.
 
-	<p class="Stats"><span>Created in April 2012</span>$(loc ../Striker js/src src)</p>
+	<p class="Stats"><span>Created in August 2002</span>$(loc ../Striker js/src src)</p>
 
 	+ [Play](http://striker.markusfisch.de/)
 	+ [GitHub](https://github.com/markusfisch/Striker)
