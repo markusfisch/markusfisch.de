@@ -5,22 +5,20 @@ html {
 
 body {
 	margin: 0; padding: 0;
-	background: #74bcb4;
 	color: #111; /* fallback */
 	color: #0009;
 }
 
-body.Android { background: #96cca0; }
-body.Shell { background: #c7b1e0; }
-body.Tools { background: #a5b7f1; }
-body.Libs { background: #8ecdc6; }
-body.Games { background: #ddb4db; }
-body.Web { background: #e8dba6; }
-body.History { background: #ddd; }
+#Article.Android { background: #96cca0; }
+#Article.Shell { background: #c7b1e0; }
+#Article.Tools { background: #a5b7f1; }
+#Article.Libs { background: #8ecdc6; }
+#Article.Games { background: #ddb4db; }
+#Article.Web { background: #e8dba6; }
+#Article.History { background: #ddd; }
 
 #Nav {
 	margin: 0; padding: 0 1.8em;
-	background: #fff;
 	font: 90% sans-serif; color: #333;
 	text-transform: uppercase;
 	line-height: 130%;
@@ -162,7 +160,6 @@ body.History { background: #ddd; }
 
 #Footer {
 	margin: 0; padding: 2em 2.8em;
-	background: #fff;
 	font: 80% sans-serif; color: #333;
 	overflow: hidden;
 }
