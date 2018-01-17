@@ -65,11 +65,11 @@ body {
 }
 
 #Article h2:before {
-	content: '↓ ';
+	content: '⬇ ';
 }
 
 #Article h2:after {
-	content: ' ↓';
+	content: ' ⬇';
 }
 
 #Article > article > h3 {
