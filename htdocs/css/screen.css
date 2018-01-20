@@ -58,18 +58,12 @@ body {
 }
 
 #Article h2 {
-	margin: 0 0 1em; padding: 0;
+	margin: 0 0 1em; padding: 0 0 .25em;
 	text-transform: uppercase;
 	font-weight: bolder;
 	font-size: 100%;
-}
-
-#Article h2:before {
-	content: '⬇ ';
-}
-
-#Article h2:after {
-	content: ' ⬇';
+	border-bottom: .1em solid #111; /* fallback */
+	border-bottom: .1em solid #000a;
 }
 
 #Article > article > h3 {
