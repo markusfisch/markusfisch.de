@@ -1,34 +1,34 @@
 @-ms-keyframes slidein {
 	from {
-		-ms-transform: translateX(100%);
+		-ms-transform: translateX(-100%);
 	} to {
 		-ms-transform: translateX(0);
 	}
 }
 @-webkit-keyframes slidein {
 	from {
-		-webkit-transform: translateX(100%);
+		-webkit-transform: translateX(-100%);
 	} to {
 		-webkit-transform: translateX(0);
 	}
 }
 @-moz-keyframes slidein {
 	from {
-		-moz-transform: translateX(100%);
+		-moz-transform: translateX(-100%);
 	} to {
 		-moz-transform: translateX(0);
 	}
 }
 @-o-keyframes slidein {
 	from {
-		-o-transform: translateX(100%);
+		-o-transform: translateX(-100%);
 	} to {
 		-o-transform: translateX(0);
 	}
 }
 @keyframes slidein {
 	from {
-		transform: translateX(100%)
+		transform: translateX(-100%)
 	} to {
 		transform: translateX(0);
 	}
