@@ -7,10 +7,10 @@ OPTIONS = --recursive \
 	--times \
 	--compress
 
-htdocs: contents layouts lib
+compose: contents layouts lib
 	bin/simsalabash
 
-sync: htdocs
+sync: compose
 	rsync $(OPTIONS) $(OBJECTS) $(SERVER)
 
 clean:
