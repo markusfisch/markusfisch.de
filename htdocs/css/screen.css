@@ -19,8 +19,8 @@ body {
 #Article.History { background: #ddd; }
 
 #Nav {
-	margin: 0; padding: 0 1.8em;
-	font: 90% sans-serif; color: #333;
+	margin: 0; padding: 0 1.2em;
+	font: 110% sans-serif; color: #333;
 	text-transform: uppercase;
 	line-height: 130%;
 }
@@ -188,6 +188,7 @@ body {
 @media screen and (max-width: 640px) {
 	#Nav {
 		padding: 0 .7em;
+		font-size: 90%;
 	}
 
 	#Article {
