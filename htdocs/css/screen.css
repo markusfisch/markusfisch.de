@@ -19,9 +19,10 @@ body {
 #Article.History { background: #ddd; }
 
 #Nav {
-	margin: 0; padding: 0 1.2em;
+	margin: 2em 1em 3em; padding: 0;
 	font: 110% sans-serif; color: #333;
 	text-transform: uppercase;
+	text-align: center;
 	line-height: 130%;
 }
 
@@ -32,12 +33,13 @@ body {
 }
 
 #Nav li {
+	display: inline-block;
 	margin: 0; padding: 0;
 }
 
 #Nav a {
-	float: left;
-	margin: 0 1em 0 0; padding: 2em 1em;
+	display: inline-block;
+	margin: .5em; padding: 1.25em 1em;
 	color: #333;
 	text-decoration: none;
 	white-space: nowrap;
@@ -45,13 +47,15 @@ body {
 
 #Nav li.Active a {
 	background: #333; color: #fff;
+	border-radius: .2em;
 }
 
 #Article {
-	margin: 0; padding: 2em;
+	margin: 0 auto; padding: 2em;
+	max-width: 40em;
 	font: 120% sans-serif;
 	line-height: 150%;
-	clear: both;
+	border-radius: .25em;
 }
 
 #Article h1 {
@@ -76,7 +80,6 @@ body {
 
 #Article > article > p {
 	margin: 0 0 2em; padding: 0;
-	max-width: 33em;
 }
 
 #Article a {
@@ -119,10 +122,6 @@ body {
 	font-size: 150%;
 }
 
-#Article li > p {
-	max-width: 33em;
-}
-
 #Article .Stats {
 	margin: .5em 0 0;
 	font-size: 80%;
@@ -154,13 +153,14 @@ body {
 }
 
 #Footer {
-	margin: 0; padding: 2em 2.8em;
+	margin: 0; padding: 6em 1em 3em;
 	font: 80% sans-serif; color: #333;
 	overflow: hidden;
+	text-align: center;
 }
 
 #Footer h2 {
-	float: right;
+	display: inline-block;
 	margin: 0 0 3em; padding: 80px 180px 0 0;
 	background: bottom right url(logo.svg) no-repeat;
 	width: 0; height: 0;
@@ -168,11 +168,8 @@ body {
 }
 
 #Footer p {
-	clear: both;
-	float: right;
 	margin: 0; padding: 0;
 	line-height: 150%;
-	text-align: right;
 }
 
 #Footer span {
@@ -187,15 +184,11 @@ body {
 
 @media screen and (max-width: 640px) {
 	#Nav {
-		padding: 0 .7em;
 		font-size: 90%;
 	}
 
 	#Article {
-		padding: 2em 1.25em;
-	}
-
-	#Footer {
-		padding: 2em 1.75em;
+		padding: 1em;
+		border-radius: 0;
 	}
 }
