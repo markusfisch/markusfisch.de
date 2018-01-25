@@ -1,10 +1,5 @@
 # Shell
 
-Software I wrote for the Unix shell
-[Bash](https://en.wikipedia.org/wiki/Bash_\(Unix_shell\)).
-Find more everyday scripts in my
-[dotfiles](https://github.com/markusfisch/dotfiles) repository.
-
 * ### simsalabash
 	Dead simple static site generator for command line lovers.
 
@@ -47,3 +42,6 @@ Find more everyday scripts in my
 	<p class="Stats"><span>Created in October 2014</span>$(loc ../gists/takahashi takahashi)</p>
 
 	+ [Gist](https://gist.github.com/markusfisch/eff723d3445839fc4eb5)
+
+Find more everyday scripts in my
+[dotfiles](https://github.com/markusfisch/dotfiles) repository.
