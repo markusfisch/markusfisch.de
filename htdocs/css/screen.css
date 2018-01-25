@@ -153,7 +153,7 @@ body {
 }
 
 #Footer {
-	margin: 0; padding: 6em 1em 3em;
+	margin: 0; padding: 7em 1em 3em;
 	font: 80% sans-serif; color: #333;
 	overflow: hidden;
 	text-align: center;
@@ -161,7 +161,7 @@ body {
 
 #Footer h2 {
 	display: inline-block;
-	margin: 0 0 3em; padding: 80px 180px 0 0;
+	margin: 0 0 .75em; padding: 80px 180px 0 0;
 	background: bottom right url(logo.svg) no-repeat;
 	width: 0; height: 0;
 	overflow: hidden;
