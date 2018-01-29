@@ -9,7 +9,10 @@ body {
 	color: #0009;
 }
 
-#Article.Hello { background: #f8f8f8; }
+#Article.Hello {
+	background: #f8f8f8 center bottom url(head.svg) no-repeat;
+	min-height: 344px;
+}
 #Article.Android { background: #96cca0; }
 #Article.Shell { background: #c7b1e0; }
 #Article.Tools { background: #a5b7f1; }
