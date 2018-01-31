@@ -10,7 +10,7 @@ body {
 }
 
 #Article.Hello {
-	background: #f8f8f8 center bottom url(head.svg) no-repeat;
+	background: center bottom url(head.svg) no-repeat;
 	min-height: 344px;
 }
 #Article.Android { background: #96cca0; }
