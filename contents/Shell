@@ -9,7 +9,7 @@
 * ### readmail
 	POP3/SMTP client.
 
-	<p class="Stats"><span>Created in June 2011</span>$(loc ../readmail readmail)</p>
+	<p class="Stats"><span>Created in June 2006</span>$(loc ../readmail readmail)</p>
 
 	+ [GitHub](https://github.com/markusfisch/readmail)
 * ### annual
@@ -33,7 +33,7 @@
 * ### bars
 	Print horizontal bar diagrams from a list of values.
 
-	<p class="Stats"><span>Created in March 2017</span>$(loc ../gists/bars bars)</p>
+	<p class="Stats"><span>Created in January 2013</span>$(loc ../gists/bars bars)</p>
 
 	+ [Gist](https://gist.github.com/markusfisch/4612424)
 * ### takahashi
