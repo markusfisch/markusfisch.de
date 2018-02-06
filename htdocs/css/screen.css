@@ -65,10 +65,11 @@ body {
 #Article h2 {
 	margin: 0 0 1.5em; padding: 0 0 .25em;
 	text-transform: uppercase;
-	font-weight: bolder;
+	font-weight: bold;
 	font-size: 100%;
-	border-bottom: .1em solid #111; /* fallback */
-	border-bottom: .1em solid #000a;
+	letter-spacing: .2em;
+	border-bottom: .2em solid #111; /* fallback */
+	border-bottom: .2em solid #0009;
 }
 
 #Article > article > h3 {
