@@ -3,8 +3,8 @@
 ## Apps
 
 * ### Shader Editor
-	Create and edit [GLSL](https://en.wikipedia.org/wiki/GLSL) shaders on
-	your Android phone.
+	Create [GLSL](https://en.wikipedia.org/wiki/GLSL) shaders on
+	your Android phone and use them as live wallpaper.
 
 	<p class="Stats"><span>Created in June 2013</span>$(loc ../ShaderEditor app/src/main)</p>
 
