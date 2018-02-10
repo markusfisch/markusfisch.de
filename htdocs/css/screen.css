@@ -51,6 +51,7 @@ body {
 }
 
 #Article {
+	position: relative;
 	margin: 0 auto; padding: 2em;
 	max-width: 40em;
 	font: 120% sans-serif;
@@ -62,15 +63,29 @@ body {
 	display: none;
 }
 
+#Article h2:before {
+	display: inline-block;
+	content: '';
+	font-size: 70%;
+	margin: 0 .75em 0 0;
+	width: 0; height: 0;
+	border-top: .5em solid transparent;
+	border-bottom: .5em solid transparent;
+	border-right: .5em solid #111;
+}
+
 #Article h2 {
-	margin: 0 0 2em; padding: 0 0 .25em;
+	display: inline-block;
+	position: absolute;
+	right: 99%;
+	margin: 0; padding: 0 .5em;
 	text-transform: uppercase;
-	text-align: center;
 	font-weight: bold;
-	font-size: 100%;
-	letter-spacing: .2em;
-	border-bottom: .13em solid #111; /* fallback */
-	border-color: #0009;
+	font-size: 60%;
+	white-space: nowrap;
+	letter-spacing: .1em;
+	transform-origin: top right;
+	transform: rotate(-90deg);
 }
 
 #Article > article > h3 {
@@ -190,7 +205,11 @@ body {
 	}
 
 	#Article {
-		padding: 1.25em 1em;
+		padding: 1.25em 1.5em;
 		border-radius: 0;
+	}
+
+	#Article h2 {
+		right: 100%;
 	}
 }
