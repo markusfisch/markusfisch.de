@@ -69,7 +69,7 @@ body {
 	font-weight: bold;
 	font-size: 100%;
 	letter-spacing: .2em;
-	border-bottom: .15em solid #111; /* fallback */
+	border-bottom: .13em solid #111; /* fallback */
 	border-color: #0009;
 }
 
