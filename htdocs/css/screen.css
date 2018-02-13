@@ -111,6 +111,12 @@ body {
 #Article ul {
 	margin: 0 0 3em; padding: 0;
 	list-style: none;
+	border-bottom: 2px solid #111; /* fallback */
+	border-color: #0004;
+}
+
+#Article ul:last-child {
+	border: 0;
 }
 
 #Article ul > li {
@@ -149,6 +155,7 @@ body {
 	margin: .75em 0 0; padding: 0;
 	list-style: none;
 	overflow: hidden;
+	border: 0;
 }
 
 #Article li ul li {
