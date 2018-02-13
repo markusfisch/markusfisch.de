@@ -89,14 +89,14 @@ body {
 	transform: rotate(-90deg);
 }
 
-#Article > article > h3 {
+#Article h3 {
 	margin: 0; padding: 0;
 	text-transform: uppercase;
 	font-weight: bolder;
 	font-size: 80%;
 }
 
-#Article > article > p {
+#Article p {
 	margin: 0 0 2em; padding: 0;
 }
 
@@ -109,22 +109,17 @@ body {
 }
 
 #Article ul {
-	margin: 0; padding: 0;
+	margin: 0 0 3em; padding: 0;
 	list-style: none;
 }
 
-#Article > article > ul {
-	margin: 0 0 3em;
-	clear: both;
-}
-
-#Article > article > ul > li {
+#Article ul > li {
 	margin: 0 0 2em; padding: 0 0 .5em;
 	border-bottom: 1px solid #111; /* fallback */
 	border-color: #0002;
 }
 
-#Article > article > ul > li:last-child {
+#Article ul > li:last-child {
 	border-bottom: 0;
 }
 
@@ -154,6 +149,11 @@ body {
 	margin: .75em 0 0; padding: 0;
 	list-style: none;
 	overflow: hidden;
+}
+
+#Article li ul li {
+	margin: 0; padding: 0;
+	border: 0;
 }
 
 #Article li ul li a {
