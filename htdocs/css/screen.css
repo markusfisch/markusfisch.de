@@ -9,19 +9,10 @@ body {
 	color: #0009;
 }
 
-#Article.Hello { background: #a6dff1; }
-#Article.Android { background: #96cca0; }
-#Article.Shell { background: #c7b1e0; }
-#Article.Tools { background: #a5b7f1; }
-#Article.Libs { background: #8ecdc6; }
-#Article.Games { background: #ddb4db; }
-#Article.Web { background: #e8dba6; }
-#Article.History { background: #ddd; }
-
 #Nav {
 	margin: 2em auto 3em; padding: 0 1em;
 	max-width: 40em;
-	font: 120% sans-serif; color: #111;
+	font: 120% sans-serif;
 	text-transform: uppercase;
 	text-align: center;
 	line-height: 130%;
@@ -51,13 +42,21 @@ body {
 	border-radius: .2em;
 }
 
-#Article {
+#Article.Hello { background: #a6dff1; }
+#Article.Android { background: #96cca0; }
+#Article.Shell { background: #c7b1e0; }
+#Article.Tools { background: #a5b7f1; }
+#Article.Libs { background: #8ecdc6; }
+#Article.Games { background: #ddb4db; }
+#Article.Web { background: #e8dba6; }
+#Article.History { background: #ddd; }
+
+article {
 	position: relative;
 	margin: 0 auto; padding: 2em;
 	max-width: 40em;
 	font: 120% sans-serif;
 	line-height: 150%;
-	border-radius: .25em;
 }
 
 #Article h1 {
@@ -212,7 +211,7 @@ body {
 		font-size: 95%;
 	}
 
-	#Article {
+	article {
 		padding: 1.25em 1.5em;
 		border-radius: 0;
 	}
