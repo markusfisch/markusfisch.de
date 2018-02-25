@@ -126,6 +126,7 @@ article {
 
 #Article ul > li:last-child {
 	border-bottom: 0;
+	padding: 0;
 }
 
 #Article li > h3,
