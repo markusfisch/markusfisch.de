@@ -36,7 +36,7 @@
 	+ [Play](http://hhsw.de/sites/TenSecondsToVenus)
 	+ [GitHub](https://github.com/markusfisch/TenSecondsToVenus)
 * ### Hop Hop
-	You're a bunny trying to catch a butterfly. How fast can you do it?
+	A pixel bunny trying to catch a butterfly.
 
 	<p class="Stats"><span>Created in April 2018</span>$(loc ../HopHop htdocs)</p>
 
@@ -45,7 +45,7 @@
 * ### Bots
 	Terrain parsing game for bots.
 
-	<p class="Stats"><span>Created in April 2018</span>$(loc ../bots server)</p>
+	<p class="Stats"><span>Created in March 2018</span>$(loc ../bots server)</p>
 
 	+ [GitHub](https://github.com/markusfisch/bots)
 
