@@ -1,3 +1,9 @@
+@keyframes bg {
+	0% { background: #96cca0; }
+	50% { background: #8ecdc6; }
+	100% { background: #96cca0; }
+}
+
 html {
 	margin: 0; padding: 0;
 	background: #fff;
@@ -42,21 +48,17 @@ body {
 	border-radius: .2em;
 }
 
-#Article.Hello { background: #a6dff1; }
-#Article.Android { background: #96cca0; }
-#Article.Shell { background: #c7b1e0; }
-#Article.Tools { background: #a5b7f1; }
-#Article.Libs { background: #8ecdc6; }
-#Article.Games { background: #ddb4db; }
-#Article.Web { background: #e8dba6; }
-#Article.History { background: #ddd; }
-
 article {
 	position: relative;
 	margin: 0 auto; padding: 2em;
 	max-width: 40em;
 	font: 120% sans-serif;
 	line-height: 150%;
+}
+
+#Article {
+	background: #96cca0;
+	animation: bg 6s linear infinite;
 }
 
 #Article h1 {
