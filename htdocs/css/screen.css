@@ -1,7 +1,7 @@
 @keyframes bg {
-	0% { background: #96cca0; }
-	50% { background: #8ecdc6; }
-	100% { background: #96cca0; }
+	0% { background: #a6dcb0; }
+	50% { background: #9eddd6; }
+	100% { background: #a6dcb0; }
 }
 
 html {
@@ -58,7 +58,7 @@ article {
 
 #Article {
 	background: #96cca0;
-	animation: bg 6s linear infinite;
+	animation: bg 9s linear infinite;
 }
 
 #Article h1 {
