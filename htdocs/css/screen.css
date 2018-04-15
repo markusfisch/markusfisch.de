@@ -4,7 +4,7 @@
 	100% { background: #cbf262; }
 }
 @keyframes appear {
-	0% { transform: scale(.3); }
+	0% { transform: scale(.8); }
 	100% { transform: scale(1); }
 }
 
@@ -50,7 +50,7 @@ body {
 #Nav li.Active a {
 	background: #333; color: #fff;
 	border-radius: .2em;
-	animation: appear .25s ease-in-out;
+	animation: appear .2s ease-in-out;
 }
 
 article {
