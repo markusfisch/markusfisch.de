@@ -1,7 +1,7 @@
 @keyframes bg {
-	0% { background: #cbf262; }
+	0% { background: #a4efa7; }
 	50% { background: #62f2cb; }
-	100% { background: #cbf262; }
+	100% { background: #a4efa7; }
 }
 @keyframes appear {
 	0% { transform: scale(.8); }
@@ -68,7 +68,7 @@ article {
 }
 
 #Article {
-	background: #cbf262;
+	background: #90efc1;
 	animation: bg 9s linear infinite;
 }
 
