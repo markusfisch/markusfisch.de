@@ -198,11 +198,12 @@ article {
 }
 
 #Footer h2 {
-	display: inline-block;
-	margin: 0 0 2em; padding: 80px 180px 0 0;
-	background: bottom right url(logo.svg) no-repeat;
-	width: 0; height: 0;
-	overflow: hidden;
+	margin: 0 0 1em; padding: 108px 0 0 .28em;
+	background: top center url(logo.svg) no-repeat;
+	letter-spacing: .28em;
+	font-size: 130%;
+	font-weight: normal;
+	text-transform: uppercase;
 }
 
 #Footer p {
@@ -217,7 +218,6 @@ article {
 #Footer a {
 	text-decoration: none;
 	color: #333;
-	border-bottom: .08em solid #333;
 }
 
 @media screen and (max-width: 640px) {
