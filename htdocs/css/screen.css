@@ -47,6 +47,12 @@ body {
 	white-space: nowrap;
 }
 
+#Nav a:active {
+	transition: transform .2s ease;
+	transform: scale(.8);
+	background: #ddd;
+}
+
 #Nav li.Active a {
 	background: #333; color: #fff;
 	border-radius: .2em;
