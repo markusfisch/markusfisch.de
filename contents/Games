@@ -86,6 +86,15 @@ file size limit of 13 kilobytes.
 [Ludum Dare](ludumdare) is one of the world's largest and longest running
 [Game Jam](https://en.wikipedia.org/wiki/Game_jam) events.
 
+* ### Bad Minton
+	Monochrome Pong/Card mashup for [Ludum Dare][ldjam] #41
+	"Combine 2 Incompatible Genres".
+
+	<p class="Stats"><span>Created in April 2018</span>$(loc ../BadMinton:submission htdocs)</p>
+
+	+ [Play](http://hhsw.de/sites/proto/ld41/)
+	+ [Entry](https://ldjam.com/events/ludum-dare/41/bad-minton)
+	+ [GitHub](https://github.com/markusfisch/BadMinton)
 * ### Rogues
 	Multiplayer multi-device game about stealing gold for
 	[Ludum Dare][ldjam] #40 "The more you have, the worse it is".
