@@ -1,5 +1,7 @@
 # Games
 
+## Featured
+
 * ### GalEx
 	Deliver mail and connect worlds.
 
@@ -24,7 +26,7 @@
 * ### Bad Minton
 	Monochrome Pong/Card mashup.
 
-	<p class="Stats"><span>Created in April 2018</span>$(loc ../BadMinton:submission htdocs)</p>
+	<p class="Stats"><span>Created in April 2018</span>$(loc ../BadMinton htdocs)</p>
 
 	+ [Play](http://hhsw.de/sites/BadMinton/)
 	+ [GitHub](https://github.com/markusfisch/BadMinton)
@@ -33,14 +35,14 @@
 
 	<p class="Stats"><span>Created in January 2014</span>$(loc ../SkiRun htdocs)</p>
 
-	+ [Play](http://hhsw.de/sites/SkiRun)
+	+ [Play](http://hhsw.de/sites/SkiRun/)
 	+ [GitHub](https://github.com/markusfisch/SkiRun)
 * ### Ten Seconds To Venus
 	Express point-and-click riddle.
 
 	<p class="Stats"><span>Created in August 2013</span>$(loc ../TenSecondsToVenus htdocs)</p>
 
-	+ [Play](http://hhsw.de/sites/TenSecondsToVenus)
+	+ [Play](http://hhsw.de/sites/TenSecondsToVenus/)
 	+ [GitHub](https://github.com/markusfisch/TenSecondsToVenus)
 * ### Hop Hop
 	A pixel bunny trying to catch a butterfly.
@@ -49,12 +51,6 @@
 
 	+ [Play](http://hhsw.de/sites/proto/hophop/)
 	+ [GitHub](https://github.com/markusfisch/HopHop)
-* ### Bots
-	Terrain parsing game for bots.
-
-	<p class="Stats"><span>Created in March 2018</span>$(loc ../bots server)</p>
-
-	+ [GitHub](https://github.com/markusfisch/bots)
 
 ## Game Jam Entries
 
@@ -68,7 +64,7 @@ file size limit of 13 kilobytes.
 
 	<p class="Stats"><span>Created in September 2017</span>$(loc ../LostTreasures:submission src.js)</p>
 
-	+ [Play](http://hhsw.de/sites/proto/js13k2017/)
+	+ [Play](http://hhsw.de/sites/LostTreasures/)
 	+ [Entry](http://js13kgames.com/entries/lost-treasures)
 	+ [GitHub](https://github.com/markusfisch/LostTreasures)
 * ### Glitch Yeagers
@@ -76,7 +72,7 @@ file size limit of 13 kilobytes.
 
 	<p class="Stats"><span>Created in August 2016</span>$(loc ../GlitchYeagers:submission src.js)</p>
 
-	+ [Play](http://hhsw.de/sites/proto/js13k2016/)
+	+ [Play](http://hhsw.de/sites/GlitchYeagers/)
 	+ [Entry](http://js13kgames.com/entries/glitch-yeagers)
 	+ [GitHub](https://github.com/markusfisch/GlitchYeagers)
 * ### Eugor
@@ -84,7 +80,7 @@ file size limit of 13 kilobytes.
 
 	<p class="Stats"><span>Created in August 2015</span>$(loc ../Eugor:submission htdocs)</p>
 
-	+ [Play](http://hhsw.de/sites/proto/js13k2015/)
+	+ [Play](http://hhsw.de/sites/eugor/)
 	+ [Entry](http://js13kgames.com/entries/eugor)
 	+ [GitHub](https://github.com/markusfisch/Eugor)
 
@@ -99,7 +95,7 @@ file size limit of 13 kilobytes.
 
 	<p class="Stats"><span>Created in April 2018</span>$(loc ../BadMinton:submission htdocs)</p>
 
-	+ [Play](http://hhsw.de/sites/proto/ld41/)
+	+ [Play](http://hhsw.de/sites/BadMinton/)
 	+ [Entry](https://ldjam.com/events/ludum-dare/41/bad-minton)
 	+ [GitHub](https://github.com/markusfisch/BadMinton)
 * ### Rogues
@@ -109,7 +105,7 @@ file size limit of 13 kilobytes.
 
 	<p class="Stats"><span>Created in December 2017</span>$(loc ../Rogues:submission htdocs server)</p>
 
-	+ [Play](http://hhsw.de/sites/proto/ld40/)
+	+ [Play](http://hhsw.de/sites/rogues/)
 	+ [Entry](https://ldjam.com/events/ludum-dare/40/rogues)
 	+ [GitHub](https://github.com/markusfisch/Rogues)
 * ### Jumpy Green
@@ -118,7 +114,7 @@ file size limit of 13 kilobytes.
 
 	<p class="Stats"><span>Created in April 2017</span>$(loc ../JumpyGreen:submission htdocs)</p>
 
-	+ [Play](http://hhsw.de/sites/proto/ld38/)
+	+ [Play](http://hhsw.de/sites/jumpygreen/)
 	+ [Entry](https://ldjam.com/events/ludum-dare/38/jumpy-green)
 	+ [GitHub](https://github.com/markusfisch/JumpyGreen)
 * ### Robot Clash
@@ -137,6 +133,7 @@ file size limit of 13 kilobytes.
 	<p class="Stats"><span>Created in April 2016</span>$(loc ../RubiksPlane:submission htdocs)</p>
 
 	+ [Play](http://hhsw.de/sites/proto/ld35/)
+	+ [Alternative](http://hhsw.de/sites/proto/shiftingcastle/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/RubiksPlane)
 * ### Sweet Tooth Mouse
@@ -165,7 +162,7 @@ file size limit of 13 kilobytes.
 
 	<p class="Stats"><span>Created in December 2014</span>$(loc ../Gingerman:submission htdocs)</p>
 
-	+ [Play](http://hhsw.de/sites/proto/ld31/)
+	+ [Play](http://gingerman.markusfisch.de)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/Gingerman)
 * ### GalEx
@@ -174,7 +171,7 @@ file size limit of 13 kilobytes.
 
 	<p class="Stats"><span>Created in August 2014</span>$(loc ../GalEx:submission htdocs)</p>
 
-	+ [Play](http://hhsw.de/sites/proto/ld30/)
+	+ [Play](http://galex.markusfisch.de)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/GalEx)
 * ### Tycho
@@ -193,7 +190,7 @@ file size limit of 13 kilobytes.
 
 	<p class="Stats"><span>Created in August 2013</span>$(loc ../TenSecondsToVenus:submission index.html)</p>
 
-	+ [Play](http://hhsw.de/sites/proto/ld27/)
+	+ [Play](http://hhsw.de/sites/TenSecondsToVenus/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/TenSecondsToVenus)
 * ### quadTRI
@@ -202,7 +199,7 @@ file size limit of 13 kilobytes.
 
 	<p class="Stats"><span>Created in April 2013</span>$(loc ../quadTRI:submission index.html)</p>
 
-	+ [Play](http://hhsw.de/sites/proto/ld26/)
+	+ [Play](http://hhsw.de/sites/quadTRI/)
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/quadTRI)
 * ### Alien Invasion
@@ -228,7 +225,17 @@ file size limit of 13 kilobytes.
 	+ [Play](http://hhsw.de/sites/proto/huh/)
 	+ [Timelapse](https://vimeo.com/110055282)
 
+## Other
+
+* ### Bots
+	Programming game about bots that move on a grid.
+
+	<p class="Stats"><span>Created in March 2018</span>$(loc ../bots server)</p>
+
+	+ [GitHub](https://github.com/markusfisch/bots)
+
 ## Old games
+
 * ### Striker
 	Very fast vertical shooter. Doesn't work well on mobile.
 
