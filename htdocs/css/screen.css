@@ -198,12 +198,10 @@ article {
 }
 
 #Footer h2 {
-	margin: 0 0 1em; padding: 108px 0 0 .28em;
+	margin: 0 0 .5em; padding: 108px 0 0 .28em;
 	background: top center url(logo.svg) no-repeat;
-	letter-spacing: .28em;
-	font-size: 130%;
-	font-weight: normal;
-	text-transform: uppercase;
+	overflow: hidden;
+	height: 0;
 }
 
 #Footer p {
