@@ -123,8 +123,8 @@ article {
 #Article ul {
 	margin: 0 0 3em; padding: 0;
 	list-style: none;
-	border-bottom: 2px solid #111; /* fallback */
-	border-color: #0004;
+	border-bottom: 2px dashed #111; /* fallback */
+	border-color: #0009;
 }
 
 #Article ul:last-child {
@@ -133,8 +133,8 @@ article {
 
 #Article ul > li {
 	margin: 0 0 2em; padding: 0 0 .5em;
-	border-bottom: 1px solid #111; /* fallback */
-	border-color: #0002;
+	border-bottom: 1px dashed #111; /* fallback */
+	border-color: #0009;
 }
 
 #Article ul > li:last-child {
