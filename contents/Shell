@@ -7,7 +7,7 @@
 
 	+ [GitHub](https://github.com/markusfisch/simsalabash)
 * ### readmail
-	POP3/SMTP client.
+	POP3/SMTP client in bash.
 
 	<p class="Stats"><span>Created in June 2006</span>$(loc ../readmail readmail)</p>
 
