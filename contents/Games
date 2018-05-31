@@ -60,7 +60,7 @@
 file size limit of 13 kilobytes.
 
 * ### Lost Treasures
-	Dive to find coins for [Js13kGames][js13kgames] 2017 "Lost". Playable.
+	Dive to find coins for [Js13kGames][js13kgames] 2017 "Lost".
 
 	<p class="Stats"><span>Created in September 2017</span>$(loc ../LostTreasures:submission src.js)</p>
 
@@ -68,7 +68,7 @@ file size limit of 13 kilobytes.
 	+ [Entry](http://js13kgames.com/entries/lost-treasures)
 	+ [GitHub](https://github.com/markusfisch/LostTreasures)
 * ### Glitch Yeagers
-	Air combat for [Js13kGames][js13kgames] 2016 "Glitch". Playable.
+	Air combat for [Js13kGames][js13kgames] 2016 "Glitch".
 
 	<p class="Stats"><span>Created in August 2016</span>$(loc ../GlitchYeagers:submission src.js)</p>
 
@@ -76,7 +76,7 @@ file size limit of 13 kilobytes.
 	+ [Entry](http://js13kgames.com/entries/glitch-yeagers)
 	+ [GitHub](https://github.com/markusfisch/GlitchYeagers)
 * ### Eugor
-	Roguelike for [Js13kGames][js13kgames] 2015 "Reversed". Playable.
+	Roguelike for [Js13kGames][js13kgames] 2015 "Reversed".
 
 	<p class="Stats"><span>Created in August 2015</span>$(loc ../Eugor:submission htdocs)</p>
 
@@ -214,7 +214,7 @@ file size limit of 13 kilobytes.
 
 ### 0h Game Jam
 
-[0h Game Jam](0hgame) is a coding competition that takes place during
+[0h Game Jam][0hgame] is a coding competition that takes place during
 [DST hour shift](https://en.wikipedia.org/wiki/Daylight_saving_time).
 
 * ### Huh
