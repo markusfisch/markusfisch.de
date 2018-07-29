@@ -49,21 +49,18 @@
 	<p class="Stats"><span>Created in August 2017</span>$(loc ../CameraView cameraview/src/main)</p>
 
 	+ [GitHub](https://github.com/markusfisch/CameraView)
-	+ [JitPack](https://jitpack.io/#markusfisch/CameraView)
 * ### ScalingImageView
 	ImageView that transforms its drawable according to touch input.
 
 	<p class="Stats"><span>Created in November 2015</span>$(loc ../ScalingImageView scalingimageview/src/main)</p>
 
 	+ [GitHub](https://github.com/markusfisch/ScalingImageView)
-	+ [JitPack](https://jitpack.io/#markusfisch/ScalingImageView)
 * ### SwipeImageView
 	Swipe/zoom/pinch ImageView.
 
 	<p class="Stats"><span>Created in January 2017</span>$(loc ../SwipeImageView swipeimageview/src/main)</p>
 
 	+ [GitHub](https://github.com/markusfisch/SwipeImageView)
-	+ [JitPack](https://jitpack.io/#markusfisch/SwipeImageView)
 * ### Pie Menu
 	A zooming pie menu.
 
