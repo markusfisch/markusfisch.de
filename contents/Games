@@ -2,6 +2,13 @@
 
 ## Featured
 
+* ### Bad Minton
+	Monochrome Pong/Card mashup.
+
+	<p class="Stats"><span>Created in April 2018</span>$(loc ../BadMinton htdocs)</p>
+
+	+ [Play](http://hhsw.de/sites/BadMinton/)
+	+ [GitHub](https://github.com/markusfisch/BadMinton)
 * ### GalEx
 	Deliver mail and connect worlds.
 
@@ -21,15 +28,8 @@
 
 	<p class="Stats"><span>Created in April 2017</span>$(loc ../JumpyGreen htdocs)</p>
 
-	+ [Play](http://www.hhsw.de/sites/jumpygreen/)
+	+ [Play](http://jumpygreen.markusfisch.de/)
 	+ [GitHub](https://github.com/markusfisch/JumpyGreen)
-* ### Bad Minton
-	Monochrome Pong/Card mashup.
-
-	<p class="Stats"><span>Created in April 2018</span>$(loc ../BadMinton htdocs)</p>
-
-	+ [Play](http://hhsw.de/sites/BadMinton/)
-	+ [GitHub](https://github.com/markusfisch/BadMinton)
 * ### Ski Run
 	Ski racing game for two players on one screen.
 
@@ -233,6 +233,7 @@ file size limit of 13 kilobytes.
 	<p class="Stats"><span>Created in March 2018</span>$(loc ../bots server)</p>
 
 	+ [GitHub](https://github.com/markusfisch/bots)
+	+ [Web Client](https://markusfisch.github.io/bots/)
 
 ## Old games
 
