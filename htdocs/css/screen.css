@@ -1,9 +1,3 @@
-@keyframes bg {
-	0% { background: #a4efa7; }
-	50% { background: #62f2cb; }
-	100% { background: #a4efa7; }
-}
-
 html {
 	margin: 0; padding: 0;
 	background: #fff;
@@ -58,7 +52,7 @@ body {
 
 article {
 	position: relative;
-	margin: 0 auto; padding: 2em;
+	margin: 0 auto; padding: 3em 2em;
 	max-width: 40em;
 	font: 120% sans-serif;
 	line-height: 150%;
@@ -66,7 +60,11 @@ article {
 
 #Article {
 	background: #90efc1;
-	animation: bg 9s linear infinite;
+	background: linear-gradient(
+		45deg,
+		rgba(164,239,167,1) 0%,
+		rgba(98,242,203,1) 100%
+	);
 }
 
 #Article h1 {
@@ -120,8 +118,8 @@ article {
 #Article ul {
 	margin: 0 0 3em; padding: 0;
 	list-style: none;
-	border-bottom: 2px dashed #111; /* fallback */
-	border-color: #0009;
+	border-bottom: 3px solid #fff; /* fallback */
+	border-color: #fff4;
 }
 
 #Article ul:last-child {
@@ -130,8 +128,8 @@ article {
 
 #Article ul > li {
 	margin: 0 0 2em; padding: 0 0 .5em;
-	border-bottom: 1px dashed #111; /* fallback */
-	border-color: #0009;
+	border-bottom: 1px solid #fff; /* fallback */
+	border-color: #fff4;
 }
 
 #Article ul > li:last-child {
