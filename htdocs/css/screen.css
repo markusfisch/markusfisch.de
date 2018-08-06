@@ -120,7 +120,7 @@ article {
 #Article ul {
 	margin: 0 0 3em; padding: 0;
 	list-style: none;
-	border-bottom: 3px solid #fff; /* fallback */
+	border-bottom: 7px solid #fff; /* fallback */
 	border-color: #fff4;
 }
 
@@ -129,14 +129,13 @@ article {
 }
 
 #Article ul > li {
-	margin: 0 0 2em; padding: 0 0 .5em;
+	margin: 0 0 1em; padding: 0 0 1em;
 	border-bottom: 1px solid #fff; /* fallback */
 	border-color: #fff4;
 }
 
 #Article ul > li:last-child {
 	border-bottom: 0;
-	padding: 0;
 }
 
 #Article li > h3,
