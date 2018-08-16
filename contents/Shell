@@ -19,7 +19,8 @@
 
 	+ [Gist](https://gist.github.com/markusfisch/c43e32a50f833539ea0f7b8b6109320e)
 * ### mkatlas
-	Builds a texture atlas.
+	Create a texture atlas in bash with
+	[ImageMagick](https://www.imagemagick.org/).
 
 	<p class="Stats"><span>Created in September 2013</span>$(loc ../gists/mkatlas mkatlas)</p>
 

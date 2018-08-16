@@ -30,13 +30,6 @@
 
 	+ [Play](http://jumpygreen.markusfisch.de/)
 	+ [GitHub](https://github.com/markusfisch/JumpyGreen)
-* ### Ski Run
-	Ski racing game for two players on one screen.
-
-	<p class="Stats"><span>Created in January 2014</span>$(loc ../SkiRun htdocs)</p>
-
-	+ [Play](http://hhsw.de/sites/SkiRun/)
-	+ [GitHub](https://github.com/markusfisch/SkiRun)
 * ### Ten Seconds To Venus
 	Express point-and-click riddle.
 
@@ -44,13 +37,13 @@
 
 	+ [Play](http://hhsw.de/sites/TenSecondsToVenus/)
 	+ [GitHub](https://github.com/markusfisch/TenSecondsToVenus)
-* ### Hop Hop
-	A pixel bunny trying to catch a butterfly.
+* ### Ski Run
+	Ski racing game for two players on one screen.
 
-	<p class="Stats"><span>Created in April 2018</span>$(loc ../HopHop htdocs)</p>
+	<p class="Stats"><span>Created in January 2014</span>$(loc ../SkiRun htdocs)</p>
 
-	+ [Play](http://hhsw.de/sites/proto/hophop/)
-	+ [GitHub](https://github.com/markusfisch/HopHop)
+	+ [Play](http://hhsw.de/sites/SkiRun/)
+	+ [GitHub](https://github.com/markusfisch/SkiRun)
 
 ## Game Jam Entries
 
@@ -234,11 +227,18 @@ file size limit of 13 kilobytes.
 
 	+ [GitHub](https://github.com/markusfisch/bots)
 	+ [Web Client](https://markusfisch.github.io/bots/)
+* ### Hop Hop
+	A pixel bunny trying to catch a butterfly.
+
+	<p class="Stats"><span>Created in April 2018</span>$(loc ../HopHop htdocs)</p>
+
+	+ [Play](http://hhsw.de/sites/proto/hophop/)
+	+ [GitHub](https://github.com/markusfisch/HopHop)
 
 ## Old games
 
 * ### Striker
-	Very fast vertical shooter. Doesn't work well on mobile.
+	Very fast vertical shooter. Doesn't work on mobile.
 
 	<p class="Stats"><span>Created in August 2002</span>$(loc ../Striker js/src src)</p>
 
