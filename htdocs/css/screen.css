@@ -108,6 +108,7 @@ article {
 	margin: 0 0 1em; padding: 0 0 1em;
 	border-bottom: 1px solid #fff; /* fallback */
 	border-color: #fff4;
+	overflow: hidden;
 }
 
 #Article ul > li:last-child {
@@ -124,6 +125,16 @@ article {
 	margin: 0 0 .25em;
 	font-family: monospace;
 	font-size: 150%;
+}
+
+#Article .Screenshot {
+	float: right;
+	margin: .25em 0 .25em .5em;
+	width: 20%;
+	height: auto;
+	border-color: #111; /* fallback */
+	border: .15em solid #000a;
+	border-radius: .25em;
 }
 
 #Article .Stats {
@@ -146,6 +157,7 @@ article {
 #Article li ul li {
 	margin: 0; padding: 0;
 	border: 0;
+	overflow: visible;
 }
 
 #Article li ul li a {
@@ -197,6 +209,10 @@ article {
 
 	article {
 		padding: 1.25em 1.5em;
+	}
+
+	#Article .Screenshot {
+		width: 30%;
 	}
 
 	#Article h2 {
