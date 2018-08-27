@@ -74,9 +74,10 @@ article {
 
 #Article h2 {
 	margin: 0 0 1em; padding: 0;
-	color: #fffa;
-	font-weight: normal;
-	font-size: 150%;
+	color: #fff;
+	font-weight: bolder;
+	font-size: 200%;
+	text-transform: uppercase;
 }
 
 #Article h3 {
@@ -196,5 +197,9 @@ article {
 
 	article {
 		padding: 1.25em 1.5em;
+	}
+
+	#Article h2 {
+		font-size: 150%;
 	}
 }
