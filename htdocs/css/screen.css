@@ -132,8 +132,8 @@ article {
 	margin: .25em 0 .25em .5em;
 	width: 20%;
 	height: auto;
-	border-color: #111; /* fallback */
-	border: .15em solid #000a;
+	border-color: #91e1c4; /* fallback */
+	border: 4px solid #0001;
 	border-radius: .25em;
 }
 
