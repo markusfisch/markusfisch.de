@@ -10,7 +10,7 @@ body {
 }
 
 #Nav {
-	margin: 2em auto 3em; padding: 0 1em;
+	margin: 2em auto; padding: 0 1em;
 	max-width: 40em;
 	font: 120% sans-serif;
 	text-transform: uppercase;
@@ -208,7 +208,7 @@ article {
 	}
 
 	article {
-		padding: 1.25em 1.5em;
+		padding: 1.5em 1.5em;
 	}
 
 	#Article .Screenshot {
