@@ -109,8 +109,8 @@ article {
 
 #Article ul > li {
 	margin: 0 0 1em; padding: 0 0 1em;
-	border-bottom: 1px solid #fff; /* fallback */
-	border-color: #fff4;
+	border-bottom: 1px solid #91e1c4; /* fallback */
+	border-color: #0001;
 	overflow: hidden;
 }
 
