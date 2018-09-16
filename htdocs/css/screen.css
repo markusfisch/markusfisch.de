@@ -77,7 +77,10 @@ article {
 	color: #fff;
 	font-weight: bolder;
 	font-size: 200%;
+	letter-spacing: -.05em;
 	text-transform: uppercase;
+	text-shadow: .07em .07em #0001;
+	text-align: center;
 }
 
 #Article h3 {
