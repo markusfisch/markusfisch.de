@@ -66,6 +66,8 @@
 file size limit of 13 kilobytes.
 
 * ### Pronto
+	<a href="http://hhsw.de/sites/proto/js13k2018/"><img class="Screenshot"
+		src="screenshots/pronto.png" alt="Pronto"/></a>
 	Simple reaction game for [Js13kGames][js13kgames] 2018 "offline".
 	6923 bytes (51%).
 
@@ -75,6 +77,8 @@ file size limit of 13 kilobytes.
 	+ [Entry](https://js13kgames.com/entries/pronto)
 	+ [GitHub](https://github.com/markusfisch/Pronto)
 * ### Lost Treasures
+	<a href="http://hhsw.de/sites/LostTreasures/"><img class="Screenshot"
+		src="screenshots/lost_treasures.png" alt="Lost Treasures"/></a>
 	Dive to find coins for [Js13kGames][js13kgames] 2017 "Lost".
 	7928 bytes (59%).
 
@@ -84,6 +88,8 @@ file size limit of 13 kilobytes.
 	+ [Entry](http://js13kgames.com/entries/lost-treasures)
 	+ [GitHub](https://github.com/markusfisch/LostTreasures)
 * ### Glitch Yeagers
+	<a href="http://hhsw.de/sites/GlitchYeagers/"><img class="Screenshot"
+		src="screenshots/glitch_yeagers.png" alt="Glitch Yeagers"/></a>
 	Air combat for [Js13kGames][js13kgames] 2016 "Glitch".
 	6917 bytes (52%).
 
@@ -93,6 +99,8 @@ file size limit of 13 kilobytes.
 	+ [Entry](http://js13kgames.com/entries/glitch-yeagers)
 	+ [GitHub](https://github.com/markusfisch/GlitchYeagers)
 * ### Eugor
+	<a href="http://hhsw.de/sites/eugor/"><img class="Screenshot"
+		src="screenshots/eugor.png" alt="Eugor"/></a>
 	Roguelike for [Js13kGames][js13kgames] 2015 "Reversed".
 	7126 bytes (53%).
 
