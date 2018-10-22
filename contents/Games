@@ -66,14 +66,14 @@
 file size limit of 13 kilobytes.
 
 * ### Pronto
-	<a href="http://hhsw.de/sites/proto/js13k2018/"><img class="Screenshot"
+	<a href="http://pronto.markusfisch.de/"><img class="Screenshot"
 		src="screenshots/pronto.png" alt="Pronto"/></a>
 	Simple reaction game for [Js13kGames][js13kgames] 2018 "offline".
 	6923 bytes (51%).
 
 	<p class="Stats"><span>Created in September 2018</span>$(loc ../Pronto:submission src.js)</p>
 
-	+ [Play](http://hhsw.de/sites/proto/js13k2018/)
+	+ [Play](http://pronto.markusfisch.de/)
 	+ [Entry](https://js13kgames.com/entries/pronto)
 	+ [GitHub](https://github.com/markusfisch/Pronto)
 * ### Lost Treasures
