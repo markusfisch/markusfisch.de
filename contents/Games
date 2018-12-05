@@ -115,6 +115,16 @@ file size limit of 13 kilobytes.
 [Ludum Dare](ludumdare) is one of the world's largest and longest running
 [Game Jam](https://en.wikipedia.org/wiki/Game_jam) events.
 
+* ### Saving Oskar
+	Try and save your dear lamb Oskar from being sacrificed.
+	Made with [Christian Braun][chris] for [Ludum Dare][ldjam] #43
+	"Sacrifices must be made".
+
+	<p class="Stats"><span>Created in December 2018</span>$(loc ../SavingOskar:submission htdocs)</p>
+
+	+ [Play](http://hhsw.de/sites/proto/ld43/)
+	+ [Entry](https://ldjam.com/events/ludum-dare/43/saving-oskar)
+	+ [GitHub](https://github.com/markusfisch/SavingOskar)
 * ### Bad Minton
 	Monochrome Pong/Card mashup for [Ludum Dare][ldjam] #41
 	"Combine 2 Incompatible Genres".
@@ -297,3 +307,4 @@ file size limit of 13 kilobytes.
 [ldjam]: http://ldjam.com/
 [js13kgames]: http://js13kgames.com/
 [0hgame]: http://www.0hgame.eu/
+[chris]: https://github.com/ChristianNorbertBraun
