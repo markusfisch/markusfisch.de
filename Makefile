@@ -14,4 +14,4 @@ sync: compose
 	rsync $(OPTIONS) $(OBJECTS) $(SERVER)
 
 clean:
-	rm -f htdocs/*.html*
+	rm -f htdocs/*.html
