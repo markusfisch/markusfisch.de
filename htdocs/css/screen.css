@@ -132,8 +132,6 @@ article {
 	margin: .25em 0 .25em .5em;
 	width: 20%;
 	height: auto;
-	border-color: #91e1c4; /* fallback */
-	border: 4px solid #0001;
 	border-radius: .25em;
 	filter: grayscale(100%);
 	mix-blend-mode: multiply;
