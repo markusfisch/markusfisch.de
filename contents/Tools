@@ -1,4 +1,4 @@
-# Tools
+## Bin
 
 * ### PieDock
 	PieDock is a task bar and application launcher in shape of a
@@ -33,3 +33,116 @@
 	<p class="Stats"><span>Created in June 2004</span>$(loc ../calc)</p>
 
 	+ [GitHub](https://github.com/markusfisch/calc)
+
+## Libraries
+
+* ### libhttp
+	Light-weight C library for HTTP/1.1.
+
+	<p class="Stats"><span>Created in August 2013</span>$(loc ../libhttp http.c)</p>
+
+	+ [GitHub](https://github.com/markusfisch/libhttp)
+* ### libxml
+	Incremental XML parser in plain C.
+
+	<p class="Stats"><span>Created in September 2013</span>$(loc ../libxml xml.c)</p>
+
+	+ [GitHub](https://github.com/markusfisch/libxml)
+
+## Shell
+
+* ### simsalabash
+	Dead simple static site generator for command line lovers.
+
+	<p class="Stats"><span>Created in November 2011</span>$(loc ../simsalabash simsalabash)</p>
+
+	+ [GitHub](https://github.com/markusfisch/simsalabash)
+* ### readmail
+	POP3/SMTP client in bash.
+
+	<p class="Stats"><span>Created in June 2006</span>$(loc ../readmail readmail)</p>
+
+	+ [GitHub](https://github.com/markusfisch/readmail)
+* ### annual
+	Generate an annual report from your local git repositories.
+
+	<p class="Stats"><span>Created in October 2016</span>$(loc ../gists/annual annual)</p>
+
+	+ [Gist](https://gist.github.com/markusfisch/c43e32a50f833539ea0f7b8b6109320e)
+* ### mkatlas
+	Create a texture atlas in bash with
+	[ImageMagick](https://www.imagemagick.org/).
+
+	<p class="Stats"><span>Created in September 2013</span>$(loc ../gists/mkatlas mkatlas)</p>
+
+	+ [Gist](https://gist.github.com/markusfisch/6442297)
+* ### tree
+	Show a file listing as tree structure.
+
+	<p class="Stats"><span>Created in April 2013</span>$(loc ../gists/tree tree)</p>
+
+	+ [Gist](https://gist.github.com/markusfisch/5411843)
+* ### bars
+	Print horizontal bar diagrams from a list of values.
+
+	<p class="Stats"><span>Created in January 2013</span>$(loc ../gists/bars bars)</p>
+
+	+ [Gist](https://gist.github.com/markusfisch/4612424)
+* ### takahashi
+	Create a single file web presentation from a Markdown document.
+
+	<p class="Stats"><span>Created in October 2014</span>$(loc ../gists/takahashi takahashi)</p>
+
+	+ [Gist](https://gist.github.com/markusfisch/eff723d3445839fc4eb5)
+
+## Web
+
+* ### qrim
+	Merge a QR code with a background image.
+
+	<p class="Stats"><span>Created in July 2015</span>$(loc ../qrim lib/qrim.js)</p>
+
+	+ [Website](http://qrim.markusfisch.de/)
+	+ [GitHub](https://github.com/markusfisch/qrim)
+* ### simsala
+	Static site editor and generator.
+
+	<p class="Stats"><span>Created in December 2013</span>$(loc ../simsala)</p>
+
+	+ [GitHub](https://github.com/markusfisch/simsala)
+* ### SimsalaPhp
+	PHP class to compose a web site from a tree of files.
+
+	<p class="Stats"><span>Created in November 2013</span>$(loc ../SimsalaPhp)</p>
+
+	+ [GitHub](https://github.com/markusfisch/SimsalaPhp)
+* ### Phapp
+	Scalable object-oriented web application framework for PHP5+.
+
+	<p class="Stats"><span>Created in March 2013</span>$(loc ../Phapp)</p>
+
+	+ [GitHub](https://github.com/markusfisch/Phapp)
+* ### sqlc
+	Quick and dirty SQL web console for PHP5+.
+
+	<p class="Stats"><span>Created in July 2014</span>$(loc ../gists/sqlc)</p>
+
+	+ [Gist](https://gist.github.com/markusfisch/0f1bfaf2673eed968a94)
+* ### TouchClockJs
+	Editable clock view.
+
+	<p class="Stats"><span>Created in September 2014</span>$(loc ../TouchClockJs)</p>
+
+	+ [GitHub](https://github.com/markusfisch/TouchClock.js)
+* ### WebPie
+	Fancy Pie menu.
+
+	<p class="Stats"><span>Created in December 2010</span>$(loc ../WebPie)</p>
+
+	+ [GitHub](https://github.com/markusfisch/WebPie)
+* ### ZoomGrid
+	Two dimensional accordion for the web
+
+	<p class="Stats"><span>Created in December 2010</span>$(loc ../ZoomGrid)</p>
+
+	+ [GitHub](https://github.com/markusfisch/ZoomGrid)
