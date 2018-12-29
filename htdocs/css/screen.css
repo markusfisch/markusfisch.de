@@ -135,6 +135,13 @@ article {
 	border-color: #91e1c4; /* fallback */
 	border: 4px solid #0001;
 	border-radius: .25em;
+	filter: grayscale(100%);
+	mix-blend-mode: multiply;
+}
+
+#Article .Screenshot:hover {
+	filter: none;
+	mix-blend-mode: normal;
 }
 
 #Article .Stats {
