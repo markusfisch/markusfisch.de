@@ -116,6 +116,8 @@ file size limit of 13 kilobytes.
 [Game Jam](https://en.wikipedia.org/wiki/Game_jam) events.
 
 * ### Saving Oskar
+	<a href="http://savingoskar.markusfisch.de"><img class="Screenshot"
+		src="screenshots/savingoskar.png" alt="Saving Oskar"/></a>
 	Try and save your dear lamb Oskar from being sacrificed.
 	Made with [Christian Braun][chris] for [Ludum Dare][ldjam] #43
 	"Sacrifices must be made".
@@ -126,6 +128,8 @@ file size limit of 13 kilobytes.
 	+ [Entry](https://ldjam.com/events/ludum-dare/43/saving-oskar)
 	+ [GitHub](https://github.com/markusfisch/SavingOskar)
 * ### Bad Minton
+	<a href="http://badminton.markusfisch.de"><img class="Screenshot"
+		src="screenshots/bad_minton.png" alt="Bad Minton"/></a>
 	Monochrome Pong/Card mashup for [Ludum Dare][ldjam] #41
 	"Combine 2 Incompatible Genres".
 
@@ -135,6 +139,8 @@ file size limit of 13 kilobytes.
 	+ [Entry](https://ldjam.com/events/ludum-dare/41/bad-minton)
 	+ [GitHub](https://github.com/markusfisch/BadMinton)
 * ### Rogues
+	<a href="http://hhsw.de/sites/rogues/"><img class="Screenshot"
+		src="screenshots/rogues.jpg" alt="Rogues"/></a>
 	Multiplayer multi-device game about stealing gold for
 	[Ludum Dare][ldjam] #40 "The more you have, the worse it is".
 	Playable with friends only.
@@ -145,6 +151,8 @@ file size limit of 13 kilobytes.
 	+ [Entry](https://ldjam.com/events/ludum-dare/40/rogues)
 	+ [GitHub](https://github.com/markusfisch/Rogues)
 * ### Jumpy Green
+	<a href="http://jumpygreen.markusfisch.de/"><img class="Screenshot"
+		src="screenshots/jumpy_green.png" alt="Jumpy Green"/></a>
 	A little green man trying to get evil astronauts off his small world
 	for [Ludum Dare][ldjam] #38 "A Small World". Playable.
 
@@ -154,6 +162,8 @@ file size limit of 13 kilobytes.
 	+ [Entry](https://ldjam.com/events/ludum-dare/38/jumpy-green)
 	+ [GitHub](https://github.com/markusfisch/JumpyGreen)
 * ### Robot Clash
+	<a href="http://hhsw.de/sites/proto/ld37/"><img class="Screenshot"
+		src="screenshots/robot_clash.png" alt="Robot Clash"/></a>
 	Multiplayer multi-device turn-based death match for
 	[Ludum Dare][ldjam] #37 "One Room". Playable with friends only.
 
@@ -163,6 +173,8 @@ file size limit of 13 kilobytes.
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/RobotClash)
 * ### Rubiks Plane
+	<a href="http://hhsw.de/sites/proto/ld35/"><img class="Screenshot"
+		src="screenshots/rubiks_plane.png" alt="Rubiks Plane"/></a>
 	Shifting puzzler for [Ludum Dare][ldjam] #35 "Shapeshift".
 	Playable.
 
@@ -173,6 +185,8 @@ file size limit of 13 kilobytes.
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/RubiksPlane)
 * ### Sweet Tooth Mouse
+	<a href="http://hhsw.de/sites/proto/ld34/"><img class="Screenshot"
+		src="screenshots/sweet_tooth_mouse.png" alt="Sweet Tooth Mouse"/></a>
 	Prototype game of a mouse and a lot of sweets for
 	[Ludum Dare][ldjam] #34 "Growing". Ran out of time.
 
@@ -182,6 +196,8 @@ file size limit of 13 kilobytes.
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/SweetToothMouse)
 * ### 00Q And The Horrible Tiger Gun
+	<a href="http://hhsw.de/sites/proto/ld32/"><img class="Screenshot"
+		src="screenshots/00q.png" alt="00Q"/></a>
 	Her Majesty's Only Field Test Spy™ hard in action for
 	[Ludum Dare][ldjam] #32 "An Unconventional Weapon".
 	Just two very simple levels. Ran out of time.
@@ -193,6 +209,8 @@ file size limit of 13 kilobytes.
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/HorribleTigerGun)
 * ### Gingerman
+	<a href="http://gingerman.markusfisch.de"><img class="Screenshot"
+		src="screenshots/gingerman.png" alt="Gingerman"/></a>
 	Christmas game for [Ludum Dare][ldjam] #31 "Entire Game on One Screen".
 	Playable.
 
@@ -202,6 +220,8 @@ file size limit of 13 kilobytes.
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/Gingerman)
 * ### GalEx
+	<a href="http://galex.markusfisch.de"><img class="Screenshot"
+		src="screenshots/galex.png" alt="Galex"/></a>
 	Deliver mail in space for [Ludum Dare][ldjam] #30 "Connected Worlds".
 	Playable.
 
@@ -211,6 +231,8 @@ file size limit of 13 kilobytes.
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/GalEx)
 * ### Tycho
+	<a href="http://hhsw.de/sites/proto/ld29/"><img class="Screenshot"
+		src="screenshots/tycho.png" alt="Tycho"/></a>
 	Prototype game about finding crystals on a blue planet for
 	[Ludum Dare][ldjam] #29 "Beneath the Surface". Playable but _very_ simple.
 	Ran out of time.
@@ -221,6 +243,9 @@ file size limit of 13 kilobytes.
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-29/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/Tycho)
 * ### Ten Seconds To Venus
+	<a href="http://tensecondstovenus.markusfisch.de"><img class="Screenshot"
+		src="screenshots/ten_seconds_to_venus.png"
+		alt="Ten Seconds To Venus"/></a>
 	Astronaut game for [Ludum Dare][ldjam] #27 "10 Seconds".
 	Playable.
 
@@ -230,6 +255,8 @@ file size limit of 13 kilobytes.
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/TenSecondsToVenus)
 * ### quadTRI
+	<a href="http://hhsw.de/sites/quadTRI/"><img class="Screenshot"
+		src="screenshots/quadtri.png" alt="quadTRI"/></a>
 	Two player game about matching triangles for [Ludum Dare][ldjam] #26
 	"Minimalism". Playable with a friend.
 
@@ -239,6 +266,8 @@ file size limit of 13 kilobytes.
 	+ [Entry](http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=19466)
 	+ [GitHub](https://github.com/markusfisch/quadTRI)
 * ### Alien Invasion
+	<a href="http://hhsw.de/sites/proto/ld25/"><img class="Screenshot"
+		src="screenshots/alien_invasion.png" alt="Alien Invasion"/></a>
 	Prototype game for [Ludum Dare][ldjam] #25 "You Are The Villain".
 	Playable.
 
@@ -254,6 +283,8 @@ file size limit of 13 kilobytes.
 [DST hour shift](https://en.wikipedia.org/wiki/Daylight_saving_time).
 
 * ### Huh
+	<a href="http://hhsw.de/sites/proto/huh/"><img class="Screenshot"
+		src="screenshots/huh.png" alt="Huh"/></a>
 	Click on a free spot to survive. Made for [0h Game Jam][0hgame] 2014.
 
 	<p class="Stats"><span>Created in October 2014</span>$(loc ../huh:submission)</p>
@@ -264,6 +295,8 @@ file size limit of 13 kilobytes.
 ## Sundries
 
 * ### Bots
+	<a href="https://markusfisch.github.io/bots/"><img class="Screenshot"
+		src="screenshots/bots.png" alt="Bots"/></a>
 	Programming game about bots that move on a grid.
 
 	<p class="Stats"><span>Created in March 2018</span>$(loc ../bots server)</p>
@@ -271,6 +304,8 @@ file size limit of 13 kilobytes.
 	+ [GitHub](https://github.com/markusfisch/bots)
 	+ [Web Client](https://markusfisch.github.io/bots/)
 * ### Hop Hop
+	<a href="http://hhsw.de/sites/proto/hophop/"><img class="Screenshot"
+		src="screenshots/hophop.png" alt="Hop Hop"/></a>
 	A pixel bunny trying to catch a butterfly.
 
 	<p class="Stats"><span>Created in April 2018</span>$(loc ../HopHop htdocs)</p>
@@ -281,6 +316,8 @@ file size limit of 13 kilobytes.
 ## Obsolete
 
 * ### Striker
+	<a href="http://striker.markusfisch.de/"><img class="Screenshot"
+		src="screenshots/striker.png" alt="Striker"/></a>
 	Very fast vertical shooter. Doesn't work on mobile.
 
 	<p class="Stats"><span>Created in August 2002</span>$(loc ../Striker js/src src)</p>
