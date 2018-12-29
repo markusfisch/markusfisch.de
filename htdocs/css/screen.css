@@ -35,9 +35,7 @@ body {
 	color: #333;
 	text-decoration: none;
 	white-space: nowrap;
-	border-left: .2em solid transparent;
-	border-right: .2em solid transparent;
-	border-radius: .5em;
+	border-bottom: .15em solid transparent;
 }
 
 #Nav a:active {
@@ -46,8 +44,7 @@ body {
 
 #Nav li.Active a {
 	font-weight: bolder;
-	border-left: .2em solid #333;
-	border-right: .2em solid #333;
+	border-color: #333;
 }
 
 article {
