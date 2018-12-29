@@ -169,7 +169,7 @@ article {
 
 #Article li ul li a {
 	float: left;
-	margin: 0 .75em .75em 0; padding: 1em;
+	margin: 0 .75em .75em 0; padding: 1.25em;
 	background: #fff; color: #333;
 	font: 60% sans-serif;
 	font-weight: bolder;
