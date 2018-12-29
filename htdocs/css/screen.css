@@ -175,7 +175,7 @@ article {
 }
 
 #Footer {
-	margin: 0; padding: 7em 1em 3em;
+	margin: 0; padding: 7em 2em 3em;
 	font-family: sans-serif; color: #333;
 	overflow: hidden;
 	text-align: center;
@@ -191,10 +191,6 @@ article {
 #Footer p {
 	margin: 0; padding: 0;
 	line-height: 150%;
-}
-
-#Footer span {
-	white-space: nowrap;
 }
 
 #Footer a {
