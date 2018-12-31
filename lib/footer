@@ -4,7 +4,7 @@ footer() {
 <p><a href="https://twitter.com/markusfisch">@markusfisch</a>
 on Twitter.</p>
 <p>The <a href="https://en.wikipedia.org/wiki/Email_address">local part</a>
-of my mailbox are my initials.</p>
+of my mailbox is my first name.</p>
 <p>This website is about software I wrote for fun in my spare time.</p>
 EOF
 }
