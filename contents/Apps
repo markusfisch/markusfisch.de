@@ -6,7 +6,7 @@
 	Create [GLSL](https://en.wikipedia.org/wiki/GLSL) shaders on
 	your Android phone and use them as live wallpaper.
 
-	<p class="Stats"><span>Created in June 2013</span>$(loc ../ShaderEditor app/src/main)</p>
+	<p class="Stats"><span>Created in <time datetime="2013-06">June 2013</time></span>$(loc ../ShaderEditor app/src/main)</p>
 
 	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.shadereditor)
 	+ [GitHub](https://github.com/markusfisch/ShaderEditor)
@@ -14,7 +14,7 @@
 * ### Binary Eye
 	1D and 2D barcode scanner for Android.
 
-	<p class="Stats"><span>Created in August 2017</span>$(loc ../BinaryEye app/src/main)</p>
+	<p class="Stats"><span>Created in <time datetime="2017-08">August 2017</time></span>$(loc ../BinaryEye app/src/main)</p>
 
 	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye)
 	+ [GitHub](https://github.com/markusfisch/BinaryEye)
@@ -22,7 +22,7 @@
 * ### Libra
 	Helps making hard decisions.
 
-	<p class="Stats"><span>Created in March 2017</span>$(loc ../Libra app/src/main)</p>
+	<p class="Stats"><span>Created in <time datetime="2017-03">March 2017</time></span>$(loc ../Libra app/src/main)</p>
 
 	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.libra)
 	+ [GitHub](https://github.com/markusfisch/Libra)
@@ -30,7 +30,7 @@
 * ### Moto Score
 	Tally counter for motorcyclists to record tours and mistakes.
 
-	<p class="Stats"><span>Created in February 2014</span>$(loc ../MotoScore app/src/main)</p>
+	<p class="Stats"><span>Created in <time datetime="2014-02">February 2014</time></span>$(loc ../MotoScore app/src/main)</p>
 
 	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.motoscore)
 	+ [GitHub](https://github.com/markusfisch/MotoScore)
@@ -38,7 +38,7 @@
 * ### Wave Lines Wallpaper
 	Live wallpaper showing slowly moving wave lines.
 
-	<p class="Stats"><span>Created in August 2012</span>$(loc ../WaveLinesWallpaper app/src/main)</p>
+	<p class="Stats"><span>Created in <time datetime="2012-08">August 2012</time></span>$(loc ../WaveLinesWallpaper app/src/main)</p>
 
 	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.wavelines)
 	+ [GitHub](https://github.com/markusfisch/WaveLinesWallpaper)
@@ -48,33 +48,33 @@
 * ### CameraView
 	A view that shows what the camera sees.
 
-	<p class="Stats"><span>Created in August 2017</span>$(loc ../CameraView cameraview/src/main)</p>
+	<p class="Stats"><span>Created in <time datetime="2017-08">August 2017</time></span>$(loc ../CameraView cameraview/src/main)</p>
 
 	+ [GitHub](https://github.com/markusfisch/CameraView)
 	+ [Releases](https://github.com/markusfisch/CameraView/releases)
 * ### ScalingImageView
 	ImageView that transforms its drawable according to touch input.
 
-	<p class="Stats"><span>Created in November 2015</span>$(loc ../ScalingImageView scalingimageview/src/main)</p>
+	<p class="Stats"><span>Created in <time datetime="2015-11">November 2015</time></span>$(loc ../ScalingImageView scalingimageview/src/main)</p>
 
 	+ [GitHub](https://github.com/markusfisch/ScalingImageView)
 	+ [Releases](https://github.com/markusfisch/ScalingImageView/releases)
 * ### SwipeImageView
 	Swipe/zoom/pinch ImageView.
 
-	<p class="Stats"><span>Created in January 2017</span>$(loc ../SwipeImageView swipeimageview/src/main)</p>
+	<p class="Stats"><span>Created in <time datetime="2017-01">January 2017</time></span>$(loc ../SwipeImageView swipeimageview/src/main)</p>
 
 	+ [GitHub](https://github.com/markusfisch/SwipeImageView)
 	+ [Releases](https://github.com/markusfisch/SwipeImageView/releases)
 * ### Pie Menu
 	A zooming pie menu.
 
-	<p class="Stats"><span>Created in September 2013</span>$(loc ../AndroidPieMenu src)</p>
+	<p class="Stats"><span>Created in <time datetime="2013-09">September 2013</time></span>$(loc ../AndroidPieMenu src)</p>
 
 	+ [GitHub](https://github.com/markusfisch/AndroidPieMenu)
 * ### TouchClock
 	Editable clock view.
 
-	<p class="Stats"><span>Created in September 2013</span>$(loc ../TouchClock src)</p>
+	<p class="Stats"><span>Created in <time datetime="2013-09">September 2013</time></span>$(loc ../TouchClock src)</p>
 
 	+ [GitHub](https://github.com/markusfisch/TouchClock)
