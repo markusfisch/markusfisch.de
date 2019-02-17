@@ -133,6 +133,8 @@ article {
 	margin: .25em 0 .25em .5em;
 	width: 20%;
 	height: auto;
+	border: 1px solid #91e1c4; /* fallback */
+	border-color: #0001;
 	border-radius: .25em;
 	filter: grayscale(100%);
 	mix-blend-mode: multiply;
