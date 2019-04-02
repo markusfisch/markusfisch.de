@@ -29,6 +29,15 @@
 
 	+ [Play](http://gingerman.markusfisch.de)
 	+ [GitHub](https://github.com/markusfisch/Gingerman)
+* ### Saving Oskar
+	<a href="http://savingoskar.markusfisch.de"><img class="Screenshot"
+		src="screenshots/savingoskar.jpg" alt="Saving Oskar"/></a>
+	Try and save your dear lamb Oskar from being sacrificed.
+
+	<p class="Stats"><span>Created in <time datetime="2018-12">December 2018</time></span>$(loc ../SavingOskar:submission htdocs)</p>
+
+	+ [Play](http://savingoskar.markusfisch.de/)
+	+ [GitHub](https://github.com/markusfisch/SavingOskar)
 * ### Jumpy Green
 	<a href="http://jumpygreen.markusfisch.de"><img class="Screenshot"
 		src="screenshots/jumpy_green.jpg" alt="Jumpy Green"/></a>
