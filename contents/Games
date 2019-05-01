@@ -31,7 +31,7 @@
 	+ [GitHub](https://github.com/markusfisch/Gingerman)
 * ### Saving Oskar
 	<a href="http://savingoskar.markusfisch.de"><img class="Screenshot"
-		src="screenshots/savingoskar.jpg" alt="Saving Oskar"/></a>
+		src="screenshots/saving_oskar.jpg" alt="Saving Oskar"/></a>
 	Try and save your dear lamb Oskar from being sacrificed.
 
 	<p class="Stats"><span>Created in <time datetime="2018-12">December 2018</time></span>$(loc ../SavingOskar:submission htdocs)</p>
@@ -124,9 +124,20 @@ file size limit of 13 kilobytes.
 [Ludum Dare](ludumdare) is one of the world's largest and longest running
 [Game Jam](https://en.wikipedia.org/wiki/Game_jam) events.
 
+* ### Nine Lives
+	<a href="http://hhsw.de/sites/NineLives"><img class="Screenshot"
+		src="screenshots/nine_lives.jpg" alt="Nine Lives"/></a>
+	Nine lives aren't enough for [Ludum Dare][ldjam] #44
+	"Your life is currency".
+
+	<p class="Stats"><span>Created in <time datetime="2019-04">April 2019</time></span>$(loc ../NineLives:submission htdocs)</p>
+
+	+ [Play](http://hhsw.de/sites/NineLives)
+	+ [Entry](https://ldjam.com/events/ludum-dare/44/nine-lives)
+	+ [GitHub](https://github.com/markusfisch/NineLives)
 * ### Saving Oskar
 	<a href="http://savingoskar.markusfisch.de"><img class="Screenshot"
-		src="screenshots/savingoskar.jpg" alt="Saving Oskar"/></a>
+		src="screenshots/saving_oskar.jpg" alt="Saving Oskar"/></a>
 	Try and save your dear lamb Oskar from being sacrificed.
 	Made with [Christian Braun][chris] for [Ludum Dare][ldjam] #43
 	"Sacrifices must be made".
