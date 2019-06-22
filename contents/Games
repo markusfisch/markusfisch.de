@@ -322,7 +322,7 @@ file size limit of 13 kilobytes.
 	<p class="Stats"><span>Created in <time datetime="2018-03">March 2018</time></span>$(loc ../bots server)</p>
 
 	+ [GitHub](https://github.com/markusfisch/bots)
-	+ [Web Client](https://markusfisch.github.io/bots/)
+	+ [Web Client](http://bots.markusfisch.de)
 * ### Hop Hop
 	<a href="http://hhsw.de/sites/proto/hophop/"><img class="Screenshot"
 		src="screenshots/hophop.jpg" alt="Hop Hop"/></a>
