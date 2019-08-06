@@ -19,6 +19,14 @@
 	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye)
 	+ [GitHub](https://github.com/markusfisch/BinaryEye)
 	+ [Releases](https://github.com/markusfisch/BinaryEye/releases)
+* ### Wave Lines Wallpaper
+	Live wallpaper showing slowly moving wave lines.
+
+	<p class="Stats"><span>Created in <time datetime="2012-08">August 2012</time></span>$(loc ../WaveLinesWallpaper app/src/main)</p>
+
+	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.wavelines)
+	+ [GitHub](https://github.com/markusfisch/WaveLinesWallpaper)
+	+ [Releases](https://github.com/markusfisch/WaveLinesWallpaper/releases)
 * ### Libra
 	Helps making hard decisions.
 
@@ -35,14 +43,6 @@
 	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.motoscore)
 	+ [GitHub](https://github.com/markusfisch/MotoScore)
 	+ [Releases](https://github.com/markusfisch/MotoScore/releases)
-* ### Wave Lines Wallpaper
-	Live wallpaper showing slowly moving wave lines.
-
-	<p class="Stats"><span>Created in <time datetime="2012-08">August 2012</time></span>$(loc ../WaveLinesWallpaper app/src/main)</p>
-
-	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.wavelines)
-	+ [GitHub](https://github.com/markusfisch/WaveLinesWallpaper)
-	+ [Releases](https://github.com/markusfisch/WaveLinesWallpaper/releases)
 
 ## Components
 * ### CameraView
