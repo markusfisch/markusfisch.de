@@ -74,6 +74,18 @@
 [Js13kGames](js13kgames) is a JavaScript coding competition with a
 file size limit of 13 kilobytes.
 
+* ### Conflict Management
+	<a href="http://hhsw.de/sites/proto/js13k2019/"><img class="Screenshot"
+		src="screenshots/conflict_management.jpg"
+		alt="Conflict Management"/></a>
+	A turn-based game about conflict management like it was back in the
+	day for [js13kGames][js13kgames] 2019 "back" 10128 bytes (76%).
+
+	<p class="Stats"><span>Created in <time datetime="2019-09">September 2019</time></span>$(loc ../ConflictManagement:submission src.js)</p>
+
+	+ [Play](http://hhsw.de/sites/proto/js13k2019/)
+	+ [Entry](http://js13kgames.com/entries/conflict-management)
+	+ [GitHub](https://github.com/markusfisch/ConflictManagement)
 * ### Pronto
 	<a href="http://pronto.markusfisch.de/"><img class="Screenshot"
 		src="screenshots/pronto.jpg" alt="Pronto"/></a>
