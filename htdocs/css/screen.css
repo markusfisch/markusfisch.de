@@ -216,3 +216,63 @@ article {
 		font-size: 150%;
 	}
 }
+
+@media (prefers-color-scheme: dark) {
+	html {
+		background: #111;
+	}
+
+	body {
+		color: #fffe;
+	}
+
+	#Nav a {
+		color: #eee;
+	}
+
+	#Nav a:active {
+		background: #222;
+	}
+
+	#Nav li.Active a {
+		border-color: #eee;
+	}
+
+	article {
+		background: #0001;
+	}
+
+	#Article {
+		background: #055;
+	}
+
+	#Article h2 {
+		color: #fff;
+		text-shadow: .07em .07em #0008;
+	}
+
+	#Article a {
+		color: #fffe;
+		border-color: #fffe;
+	}
+
+	#Article ul > li {
+		border-color: #0004;
+	}
+
+	#Article .Screenshot {
+		border-color: #fff1;
+	}
+
+	#Article li ul li a {
+		background: #fff2; color: #fff;
+	}
+
+	#Footer, #Footer a {
+		color: #fff;
+	}
+
+	#Footer h2 {
+		filter: invert(100%);
+	}
+}
