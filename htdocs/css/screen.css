@@ -239,16 +239,16 @@ article {
 	}
 
 	article {
-		background: #0001;
+		background: none;
 	}
 
 	#Article {
-		background: #055;
+		background: #222;
 	}
 
 	#Article h2 {
 		color: #fff;
-		text-shadow: .07em .07em #0008;
+		text-shadow: .1em .1em #0008;
 	}
 
 	#Article a {
@@ -257,7 +257,7 @@ article {
 	}
 
 	#Article ul > li {
-		border-color: #0004;
+		border-color: none;
 	}
 
 	#Article .Screenshot {
@@ -266,6 +266,7 @@ article {
 
 	#Article li ul li a {
 		background: #fff2; color: #fff;
+		border-bottom-width: .2em;
 	}
 
 	#Footer, #Footer a {
