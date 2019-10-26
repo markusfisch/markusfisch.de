@@ -3,6 +3,9 @@
 ## Apps
 
 * ### Shader Editor
+	<a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.shadereditor"><img class="Screenshot"
+		src="screenshots/shader_editor.jpg" alt="Shader Editor"/></a>
+
 	Create [GLSL](https://en.wikipedia.org/wiki/GLSL) shaders on
 	your Android phone and use them as live wallpaper.
 
@@ -12,6 +15,9 @@
 	+ [GitHub](https://github.com/markusfisch/ShaderEditor)
 	+ [Releases](https://github.com/markusfisch/ShaderEditor/releases)
 * ### Binary Eye
+	<a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye"><img class="Screenshot"
+		src="screenshots/binary_eye.jpg" alt="Binary Eye"/></a>
+
 	1D and 2D barcode scanner for Android.
 
 	<p class="Stats"><span>Created in <time datetime="2017-08">August 2017</time></span>$(loc ../BinaryEye app/src/main)</p>
@@ -20,6 +26,9 @@
 	+ [GitHub](https://github.com/markusfisch/BinaryEye)
 	+ [Releases](https://github.com/markusfisch/BinaryEye/releases)
 * ### Wave Lines Wallpaper
+	<a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.wavelines"><img class="Screenshot"
+		src="screenshots/wavelines.jpg" alt="Wave Lines Wallpaper"/></a>
+
 	Live wallpaper showing slowly moving wave lines.
 
 	<p class="Stats"><span>Created in <time datetime="2012-08">August 2012</time></span>$(loc ../WaveLinesWallpaper app/src/main)</p>
@@ -27,8 +36,11 @@
 	+ [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.wavelines)
 	+ [GitHub](https://github.com/markusfisch/WaveLinesWallpaper)
 	+ [Releases](https://github.com/markusfisch/WaveLinesWallpaper/releases)
-* ### Libra
-	Helps making hard decisions.
+* ### Decisions
+	<a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.libra"><img class="Screenshot"
+		src="screenshots/decisions.jpg" alt="Decisons"/></a>
+
+	Helps making decisions.
 
 	<p class="Stats"><span>Created in <time datetime="2017-03">March 2017</time></span>$(loc ../Libra app/src/main)</p>
 
@@ -36,6 +48,9 @@
 	+ [GitHub](https://github.com/markusfisch/Libra)
 	+ [Releases](https://github.com/markusfisch/Libra/releases)
 * ### Moto Score
+	<a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.motoscore"><img class="Screenshot"
+		src="screenshots/moto_score.jpg" alt="Moto Score"/></a>
+
 	Tally counter for motorcyclists to record tours and mistakes.
 
 	<p class="Stats"><span>Created in <time datetime="2014-02">February 2014</time></span>$(loc ../MotoScore app/src/main)</p>
