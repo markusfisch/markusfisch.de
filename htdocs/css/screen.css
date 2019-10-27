@@ -130,7 +130,7 @@ article {
 
 #Article .Screenshot {
 	float: right;
-	margin: .25em 0 .25em .5em;
+	margin: .5em 0 .5em .5em;
 	width: 20%;
 	height: auto;
 	border: .3em solid #91e1c4; /* fallback */
