@@ -97,6 +97,13 @@
 
 ## Web
 
+* ### Was Machen?
+	Simple, searchable list of what to do around Nuremberg, Germany.
+
+	<p class="Stats"><span>Created in <time datetime="2020-01">January 2020</time></span>$(loc ../was-machen bin)</p>
+
+	+ [Website](https://m9h.menkent.uberspace.de/)
+	+ [GitHub](https://github.com/markusfisch/was-machen)
 * ### qrim
 	Merge a QR code with a background image.
 

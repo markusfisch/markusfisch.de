@@ -10,7 +10,7 @@ count_lines() {
 		do
 			[[ $REPLY == *.aside* ]] && continue
 			case "${REPLY##*.}" in
-				java|kt|c|cpp|cc|h|hh|js|html|php|glsl|fs|vs)
+				java|kt|c|cpp|cc|h|hh|js|html|php|py|glsl|fs|vs)
 					cat "$REPLY";;
 			esac
 		done
