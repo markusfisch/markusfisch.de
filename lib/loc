@@ -14,7 +14,7 @@ count_lines() {
 					cat "$REPLY";;
 			esac
 		done
-	fi | wc -l
+	fi | awk 'NF' | wc -l
 }
 
 # Print lines of code for given repository
