@@ -93,15 +93,3 @@
 
 	+ [GitHub](https://github.com/markusfisch/SwipeImageView)
 	+ [Releases](https://github.com/markusfisch/SwipeImageView/releases)
-* ### Pie Menu
-	A zooming pie menu.
-
-	<p class="Stats"><span>Created in <time datetime="2013-09">September 2013</time></span>$(loc ../AndroidPieMenu src)</p>
-
-	+ [GitHub](https://github.com/markusfisch/AndroidPieMenu)
-* ### TouchClock
-	Editable clock view.
-
-	<p class="Stats"><span>Created in <time datetime="2013-09">September 2013</time></span>$(loc ../TouchClock src)</p>
-
-	+ [GitHub](https://github.com/markusfisch/TouchClock)
