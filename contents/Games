@@ -74,12 +74,23 @@
 [Js13kGames](js13kgames) is a JavaScript coding competition with a
 file size limit of 13 kilobytes.
 
+* ### Sojuz 404
+	<a href="http://hhsw.de/sites/proto/js13k2020/"><img class="Screenshot"
+		src="screenshots/soyuz404.jpg" alt="Sojuz 404"/></a>
+	A space adventure for [js13kGames][js13kgames] 2020 "404".
+	13298 bytes (99%).
+
+	<p class="Stats"><span>Created in <time datetime="2020-09">September 2020</time></span>$(loc ../Sojuz404:submission src/src.js)</p>
+
+	+ [Play](http://hhsw.de/sites/proto/js13k2020/)
+	+ [Entry](https://js13kgames.com/entries/sojuz-404)
+	+ [GitHub](https://github.com/markusfisch/Sojuz404)
 * ### Conflict Management
 	<a href="http://hhsw.de/sites/proto/js13k2019/"><img class="Screenshot"
 		src="screenshots/conflict_management.jpg"
 		alt="Conflict Management"/></a>
 	A turn-based game about conflict management like it was back in the
-	day for [js13kGames][js13kgames] 2019 "back" 10128 bytes (76%).
+	day for [js13kGames][js13kgames] 2019 "back". 10128 bytes (76%).
 
 	<p class="Stats"><span>Created in <time datetime="2019-09">September 2019</time></span>$(loc ../ConflictManagement:submission src.js)</p>
 
