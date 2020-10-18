@@ -2,6 +2,16 @@
 
 ## Featured
 
+* ### Soyuz 404
+	<a href="http://hhsw.de/sites/proto/js13k2020/"><img class="Screenshot"
+		src="screenshots/soyuz404.jpg" alt="Soyuz 404"/></a>
+	A space adventure in 13k for [js13kGames][js13kgames] 2020.
+
+	<p class="Stats"><span>Created in <time datetime="2020-09">September 2020</time></span>$(loc ../Soyuz404:submission src/src.js)</p>
+
+	+ [Play](http://hhsw.de/sites/proto/js13k2020/)
+	+ [Entry](https://js13kgames.com/entries/sojuz-404)
+	+ [GitHub](https://github.com/markusfisch/Sojuz404)
 * ### Bad Minton
 	<a href="http://badminton.markusfisch.de"><img class="Screenshot"
 		src="screenshots/bad_minton.jpg" alt="Bad Minton"/></a>
@@ -74,13 +84,13 @@
 [Js13kGames](js13kgames) is a JavaScript coding competition with a
 file size limit of 13 kilobytes.
 
-* ### Sojuz 404
+* ### Soyuz 404
 	<a href="http://hhsw.de/sites/proto/js13k2020/"><img class="Screenshot"
-		src="screenshots/soyuz404.jpg" alt="Sojuz 404"/></a>
+		src="screenshots/soyuz404.jpg" alt="Soyuz 404"/></a>
 	A space adventure for [js13kGames][js13kgames] 2020 "404".
 	13298 bytes (99%).
 
-	<p class="Stats"><span>Created in <time datetime="2020-09">September 2020</time></span>$(loc ../Sojuz404:submission src/src.js)</p>
+	<p class="Stats"><span>Created in <time datetime="2020-09">September 2020</time></span>$(loc ../Soyuz404:submission src/src.js)</p>
 
 	+ [Play](http://hhsw.de/sites/proto/js13k2020/)
 	+ [Entry](https://js13kgames.com/entries/sojuz-404)
