@@ -97,13 +97,13 @@
 
 ## Web
 
-* ### Was Machen?
+* ### Was ist los um Nürnberg?
 	Simple, searchable list of what to do around Nuremberg, Germany.
 
-	<p class="Stats"><span>Created in <time datetime="2020-01">January 2020</time></span>$(loc ../was-machen bin)</p>
+	<p class="Stats"><span>Created in <time datetime="2020-01">January 2020</time></span>$(loc ../was-los bin)</p>
 
-	+ [Website](https://qisma.de/)
-	+ [GitHub](https://github.com/markusfisch/was-machen)
+	+ [Website](https://los.baby/)
+	+ [GitHub](https://github.com/markusfisch/was-los)
 * ### qrim
 	Merge a QR code with a background image.
 
