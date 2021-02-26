@@ -10,7 +10,6 @@
 	<p class="Stats"><span>Created in <time datetime="2020-09">September 2020</time></span>$(loc ../Soyuz404:submission src/src.js)</p>
 
 	+ [Play](http://hhsw.de/sites/Soyuz404/)
-	+ [Entry](https://js13kgames.com/entries/sojuz-404)
 	+ [GitHub](https://github.com/markusfisch/Sojuz404)
 * ### Bad Minton
 	<a href="http://badminton.markusfisch.de"><img class="Screenshot"
