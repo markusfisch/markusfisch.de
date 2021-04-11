@@ -1,0 +1,81 @@
+<h1>Android</h1>
+
+<article><a name="binary_eye"><h2>Binary Eye</h2></a>
+<a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye" class="IconLink"><img src="screenshots/binary_eye_icon.png" alt="Binary Eye Icon"/></a>
+<p>Yet another barcode scanner. Simple, free and without any ads.</p>
+<p>Uses the <a href="https://github.com/zxing/zxing">ZXing</a> ("Zebra Crossing") barcode scanning library. Reads and writes all barcode formats (QR Code, Aztec, etc.) ZXing can read and write.</p>
+<p class="Stats"><time datetime="2017-08">August 2017</time> • $(loc ../BinaryEye app/src/main) • Kotlin • MIT</p>
+<ul class="ProjectLinks Separator">
+<li><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye">Google Play</a></li>
+<li><a href="https://f-droid.org/en/packages/de.markusfisch.android.binaryeye/">F-Droid</a></li>
+<li><a href="https://github.com/markusfisch/BinaryEye">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/BinaryEye/releases">Releases</a></li>
+</ul></article>
+
+<article><a name="pie_launcher"><h2>Pie Launcher</h2></a>
+<a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.pielauncher" class="IconLink"><img src="screenshots/pie_launcher_icon.png" alt="Pie Launcher Icon"/></a>
+<p>Android home screen launcher that uses a dynamic pie menu instead of tables of icons.</p>
+<p>Once you get used to it, you can launch your most frequently used apps using muscle memory without even looking at the screen.</p>
+<p>Apps you don't use regularly are quickly available with just one tap and by typing the first one or two letters of the app name.</p>
+<p>Here's a <a href="https://www.youtube.com/watch?v=JM70qf93UqY">video</a> of the launcher in action.</p>
+<p class="Stats"><time datetime="2019-12">December 2019</time> • $(loc ../PieLauncher app/src/main) • Java • MIT</p>
+<ul class="ProjectLinks Separator">
+<li><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.pielauncher">Google Play</a></li>
+<li><a href="https://f-droid.org/de/packages/de.markusfisch.android.pielauncher/">F-Droid</a></li>
+<li><a href="https://github.com/markusfisch/PieLauncher">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/PieLauncher/releases">Releases</a></li>
+<li><a href="https://www.youtube.com/watch?v=JM70qf93UqY">Video</a></li>
+</ul></article>
+
+<article><a name="shader_editor"><h2>Shader Editor</h2></a>
+<a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.shadereditor" class="IconLink"><img src="screenshots/shader_editor_icon.png" alt="Shader Editor Icon"/></a>
+<p>Create <a href="https://en.wikipedia.org/wiki/GLSL">GLSL</a> shaders on your Android phone and use them as live wallpaper.</p>
+<p>An app for people interested in graphics programming and customizing the screen of their smartphone.</p>
+<p class="Stats"><time datetime="2013-06">June 2013</time> • $(loc ../ShaderEditor app/src/main) • Java • MIT</p>
+<ul class="ProjectLinks Separator">
+<li><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.shadereditor">Google Play</a></li>
+<li><a href="https://f-droid.org/en/packages/de.markusfisch.android.shadereditor/">F-Droid</a></li>
+<li><a href="https://github.com/markusfisch/ShaderEditor">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/ShaderEditor/releases">Releases</a></li>
+</ul></article>
+
+<article><a name="wave_lines_wallpaper"><h2>Wave Lines Wallpaper</h2></a>
+<a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.wavelines" class="IconLink"><img src="screenshots/wavelines_icon.png" alt="Wave Lines Wallpaper Icon"/></a>
+<p>Live wallpaper showing slowly moving wave lines.</p>
+<p>Either choose a predefined theme, edit a theme to your liking, or simply create your own.</p>
+<p class="Stats"><time datetime="2012-08">August 2012</time> • $(loc ../WaveLinesWallpaper app/src/main) • Java • MIT</p>
+<ul class="ProjectLinks Separator">
+<li><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.wavelines">Google Play</a></li>
+<li><a href="https://f-droid.org/packages/de.markusfisch.android.wavelines/">F-Droid</a></li>
+<li><a href="https://github.com/markusfisch/WaveLinesWallpaper">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/WaveLinesWallpaper/releases">Releases</a></li>
+</ul></article>
+
+<article><a name="decisions"><h2>Decisions</h2></a>
+<a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.libra" class="IconLink"><img src="screenshots/decisions_icon.png" alt="Decisions Icon"/></a>
+<p>Helps making decisions. Works like this:</p>
+<ol>
+<li>Write down pros and cons</li>
+<li>Weigh arguments from 1 to 10</li>
+<li>Get a recommendation</li>
+</ol>
+<p>Inspired by this <a href="http://time.com/3772262/billionaire-trick-for-decisions/">Time article</a>.</p>
+<p class="Stats"><time datetime="2017-03">March 2017</time> • $(loc ../Libra app/src/main) • Kotlin • MIT</p>
+<ul class="ProjectLinks Separator">
+<li><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.libra">Google Play</a></li>
+<li><a href="https://f-droid.org/en/packages/de.markusfisch.android.libra/">F-Droid</a></li>
+<li><a href="https://github.com/markusfisch/Libra">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/Libra/releases">Releases</a></li>
+</ul></article>
+
+<article><a name="moto_score"><h2>Moto Score</h2></a>
+<a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.motoscore" class="IconLink"><img src="screenshots/moto_score_icon.png" alt="Moto Score Icon"/></a>
+<p>Tally counter for motorcyclists to record tours and mistakes (i.e. everything you wouldn't do again like this).</p>
+<p>Because according to <a href="https://www.amazon.com/The-Upper-Half-Motorcycle-Machine/dp/1884313752">The Upper Half of the Motorcycle</a>, consciously counting mistakes stimulates learning.</p>
+<p>The prototype of this app was written and presented at "Hack The Ride", a hackathon held by BMW Motorrad in Barcelona 2014.</p>
+<p class="Stats"><time datetime="2014-02">February 2014</time> • $(loc ../MotoScore app/src/main) • Java • Unlicense</p>
+<ul class="ProjectLinks Separator">
+<li><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.motoscore">Google Play</a></li>
+<li><a href="https://github.com/markusfisch/MotoScore">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/MotoScore/releases">Releases</a></li>
+</ul></article>

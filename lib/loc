@@ -8,9 +8,15 @@ count_lines() {
 	else
 		find "${@:-.}" -type f | while read -r
 		do
-			[[ $REPLY == *.aside* ]] && continue
+			[[ $REPLY == *.aside/* ]] && continue
+			[[ $REPLY == *.git/* ]] && continue
+			[[ $REPLY == *build/* ]] && continue
+			[[ $REPLY == bin/* ]] && {
+				cat "$REPLY"
+				continue
+			}
 			case "${REPLY##*.}" in
-				java|kt|c|cpp|cc|h|hh|js|html|php|py|glsl|fs|vs)
+				java|kt|rs|c|cpp|cc|h|hh|js|html|php|py|glsl|fs|vs)
 					cat "$REPLY";;
 			esac
 		done
@@ -40,6 +46,6 @@ loc() {
 
 		[ "$BRANCH" ] && git checkout "$BRANCH" &>/dev/null
 
-		echo " • <span>$LOC lines of code</span>"
+		echo "$LOC LINES"
 	)
 }

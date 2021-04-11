@@ -1,0 +1,21 @@
+<h1>Web</h1>
+
+<article><a name="was_ist_los_um_nürnberg?"><h2>Was ist los um Nürnberg?</h2></a>
+<a href="https://los.baby/" class="IconLink"><img src="screenshots/was_los_icon.png" alt="Was ist los um Nürnberg? Icon"/></a>
+<p>Simple, searchable list of what to do around Nuremberg, Germany.</p>
+<p>This was written just before the outbreak of the Covid19 pandemic, and some of the sources have since dried up. Hopefully only transitionally.</p>
+<p class="Stats"><time datetime="2020-01">January 2020</time> • $(loc ../was-los bin) • Python • Unlicense</p>
+<ul class="ProjectLinks Separator">
+<li><a href="https://los.baby/">Website</a></li>
+<li><a href="https://github.com/markusfisch/was-los">GitHub</a></li>
+</ul></article>
+
+<article><a name="qrim"><h2>qrim</h2></a>
+<a href="http://qrim.markusfisch.de/" class="ScreenshotLink"><img src="screenshots/qrim.jpg" alt="qrim Screenshot"/></a>
+<p>Merge a QR code with a background image.</p>
+<p>Only modifies the source image where necessary.</p>
+<p class="Stats"><time datetime="2015-07">July 2015</time> • $(loc ../qrim lib/qrim.js) • JavaScript • Unlicense</p>
+<ul class="ProjectLinks Separator">
+<li><a href="http://qrim.markusfisch.de/">Website</a></li>
+<li><a href="https://github.com/markusfisch/qrim">GitHub</a></li>
+</ul></article>
