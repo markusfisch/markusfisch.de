@@ -89,6 +89,10 @@ a.Active {
 	text-underline-offset: .05em;
 }
 
+#Main p, #Main li {
+	line-height: 1.5;
+}
+
 .ScreenshotLink img, .IconLink img {
 	margin: 0 0 1em 1em;
 	float: right;
