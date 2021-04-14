@@ -2,8 +2,9 @@
 
 <article><a name="soyuz_404"><h2>Soyuz 404</h2></a>
 <a href="http://hhsw.de/sites/Soyuz404/" class="ScreenshotLink"><img src="screenshots/soyuz404.jpg" alt="Soyuz 404 Screenshot"/></a>
-<p>A space adventure in 13 kilobytes.</p>
-<p>Works on your phone, too. Keep the finger on the screen to explore a scene. Lifting the finger over something does use that something.</p>
+<p>A space adventure in 13 kilobytes you can play through during your lunch break.</p>
+<p>Works on your phone, too. Hold and move your finger on the screen to explore a scene. When you lift your finger over something, that something is used.</p>
+<p>By the way, the formula in the game isn't made up but the real <a href="https://www.forbes.com/sites/startswithabang/2020/08/12/a-spacetime-surprise-time-isnt-just-another-dimension/?sh=79b89a5d47dc">spacetime interval equation</a>.</p>
 <p class="Stats"><time datetime="2020-09">September 2020</time> • $(loc ../Soyuz404:submission src/src.js) • JavaScript • Unlicense</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/Soyuz404/">Play</a></li>
@@ -13,7 +14,7 @@
 <article><a name="bad_minton"><h2>Bad Minton</h2></a>
 <a href="http://badminton.markusfisch.de" class="ScreenshotLink"><img src="screenshots/bad_minton.jpg" alt="Bad Minton Screenshot"/></a>
 <p>Monochrome Pong/Card mashup.</p>
-<p>Works well on your phone too. In fact, the two player mode is meant to be played on a mobile unless you have two mice on your desktop.</p>
+<p>Also works well on your phone. In fact, the two player mode is meant to be played on a mobile unless you have two mice on your desktop.</p>
 <p class="Stats"><time datetime="2018-04">April 2018</time> • $(loc ../BadMinton htdocs) • JavaScript • Unlicense</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://badminton.markusfisch.de">Play</a></li>
@@ -22,7 +23,8 @@
 
 <article><a name="galex"><h2>GalEx</h2></a>
 <a href="http://galex.markusfisch.de" class="ScreenshotLink"><img src="screenshots/galex.jpg" alt="GalEx Screenshot"/></a>
-<p>Deliver mail and connect worlds.</p>
+<p>Be a daredevil space pilot and deliver interplanetary mail to connect worlds. But watch out, gravity is fun but dangerous!</p>
+<p>There are 11 missions waiting for you. At the end, the game displays the net playing time of all successful attempts. Everything under 2 minutes would be pretty good.</p>
 <p>Works on any device with a decent web browser.</p>
 <p class="Stats"><time datetime="2014-08">August 2014</time> • $(loc ../GalEx htdocs) • JavaScript • Unlicense</p>
 <ul class="ProjectLinks Separator">
@@ -33,7 +35,7 @@
 <article><a name="gingerman"><h2>Gingerman</h2></a>
 <a href="http://gingerman.markusfisch.de" class="ScreenshotLink"><img src="screenshots/gingerman.jpg" alt="Gingerman Screenshot"/></a>
 <p>Help Gingerman to get to the top of the Christmas tree.</p>
-<p>Written around and for the Christmas season. Works on any device with a decent web browser.</p>
+<p>Jump on anything that does not burn to climb the tree. Written around and for the Christmas season. Works on any device with a decent web browser.</p>
 <p class="Stats"><time datetime="2014-12">December 2014</time> • $(loc ../Gingerman htdocs) • JavaScript • Unlicense</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://gingerman.markusfisch.de">Play</a></li>
@@ -43,7 +45,8 @@
 <article><a name="saving_oskar"><h2>Saving Oskar</h2></a>
 <a href="http://savingoskar.markusfisch.de/" class="ScreenshotLink"><img src="screenshots/saving_oskar.jpg" alt="Saving Oskar Screenshot"/></a>
 <p>Try and save your dear lamb Oskar from being sacrificed.</p>
-<p>The gods demand a sacrifice and so a lamb must die. But not Oskar, your dear friend. So you need to sacrifice another lamb. Again and again. Until all lambs are sacrificed, except Oskar. Then, the gods will be pleased and you will win the game.</p>
+<p>The gods demand a sacrifice and so a lamb must die. But not Oskar, your dear friend. So you need to sacrifice another lamb. Again and again. Until all lambs are sacrificed, except Oskar. Then, and only then, the gods will be pleased and you win the game.</p>
+<p>Made this game with <a href="https://github.com/ChristianNorbertBraun">Christian Braun</a>, who did almost all the graphics and the all the music.</p>
 <p class="Stats"><time datetime="2018-12">December 2018</time> • $(loc ../SavingOskar:submission htdocs) • JavaScript • Unlicense</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://savingoskar.markusfisch.de/">Play</a></li>
@@ -53,7 +56,7 @@
 <article><a name="jumpy_green"><h2>Jumpy Green</h2></a>
 <a href="http://jumpygreen.markusfisch.de" class="ScreenshotLink"><img src="screenshots/jumpy_green.jpg" alt="Jumpy Green Screenshot"/></a>
 <p>A little green man trying to get evil astronauts off his small world.</p>
-<p>Get rid of Buck Rodgers by jumping high when he's on the opposite side of the world. If jump high enough, he'll be thrown off your world and get lost in space again.</p>
+<p>Get rid of Buck Rodgers by jumping high and landing hard when he is on the opposite side of your world. If you jump high enough, he will be thrown off your world and get lost in space again.</p>
 <p class="Stats"><time datetime="2017-04">April 2017</time> • $(loc ../JumpyGreen htdocs) • JavaScript • Unlicense</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://jumpygreen.markusfisch.de">Play</a></li>
@@ -73,7 +76,7 @@
 <article><a name="ski_run"><h2>Ski Run</h2></a>
 <a href="http://hhsw.de/sites/SkiRun/" class="ScreenshotLink"><img src="screenshots/ski_run.jpg" alt="Ski Run Screenshot"/></a>
 <p>Ski racing game for two players on one screen.</p>
-<p>Works on any device with a decent web browser.</p>
+<p>Works on any screen with a decent web browser.</p>
 <p class="Stats"><time datetime="2014-01">January 2014</time> • $(loc ../SkiRun htdocs) • JavaScript • Unlicense</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/SkiRun/">Play</a></li>
@@ -82,8 +85,8 @@
 
 <article><a name="striker"><h2>Striker</h2></a>
 <a href="http://striker.markusfisch.de/" class="ScreenshotLink"><img src="screenshots/striker.jpg" alt="Striker Screenshot"/></a>
-<p>Very fast vertical shooter.</p>
-<p>Doesn't work on mobile because it was written in 2002. As an easter egg for a boring business web site.</p>
+<p>Fast vertical <a href="https://en.wikipedia.org/wiki/Shoot_'em_up">shoot 'em up</a>. Shoot down as many enemy vessels as possible.</p>
+<p>Does not work on mobile because it was written in 2002. Originally as an easter egg for a boring business website.</p>
 <p class="Stats"><time datetime="2002-08">August 2002</time> • $(loc ../Striker js/src src) • JavaScript • Unlicense</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://striker.markusfisch.de/">Play</a></li>
@@ -92,8 +95,8 @@
 
 <article><a name="sheeptris"><h2>Sheeptris</h2></a>
 <a href="https://github.com/markusfisch/Sheeptris" class="ScreenshotLink"><img src="screenshots/sheeptris.jpg" alt="Sheeptris Screenshot"/></a>
-<p>A multiplayer Tetris with sheeps.</p>
-<p>Can be played by up to three players simultaneously.</p>
+<p>A multiplayer Tetris with sheeps. Can be played by up to three players simultaneously.</p>
+<p>Originally, this game was also playable in a web browser. But since <a href="https://en.wikipedia.org/wiki/Java_applet">Java applets</a> have fallen out of favor, that no longer works. So not only do you have to download the game, but you also have to have Java installed to run it.</p>
 <p class="Stats"><time datetime="2004-07">July 2004</time> • $(loc ../Sheeptris src) • Java • Unlicense</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://github.com/markusfisch/Sheeptris">GitHub</a></li>
