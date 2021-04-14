@@ -2,7 +2,7 @@
 
 <article><a name="binary_eye"><h2>Binary Eye</h2></a>
 <a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye" class="IconLink"><img src="screenshots/binary_eye_icon.png" alt="Binary Eye Icon"/></a>
-<p>Yet another barcode scanner. Simple, free and without any ads.</p>
+<p>Yet another barcode scanner. Works in portrait and landscape mode, can read inverted barcodes, reads barcodes with binary data and can also generate barcodes.</p>
 <p>Uses the <a href="https://github.com/zxing/zxing">ZXing</a> ("Zebra Crossing") barcode scanning library. Reads and writes all barcode formats (QR Code, Aztec, etc.) ZXing can read and write.</p>
 <p class="Stats"><time datetime="2017-08">August 2017</time> • $(loc ../BinaryEye app/src/main) • Kotlin • MIT</p>
 <ul class="ProjectLinks Separator">
@@ -14,10 +14,9 @@
 
 <article><a name="pie_launcher"><h2>Pie Launcher</h2></a>
 <a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.pielauncher" class="IconLink"><img src="screenshots/pie_launcher_icon.png" alt="Pie Launcher Icon"/></a>
-<p>Android home screen launcher that uses a dynamic pie menu instead of tables of icons.</p>
+<p>Android home screen launcher that uses a dynamic pie menu instead of tables of icons. Here's a <a href="https://www.youtube.com/watch?v=JM70qf93UqY">video</a> of it.</p>
 <p>Once you get used to it, you can launch your most frequently used apps using muscle memory without even looking at the screen.</p>
 <p>Apps you don't use regularly are quickly available with just one tap and by typing the first one or two letters of the app name.</p>
-<p>Here's a <a href="https://www.youtube.com/watch?v=JM70qf93UqY">video</a> of the launcher in action.</p>
 <p class="Stats"><time datetime="2019-12">December 2019</time> • $(loc ../PieLauncher app/src/main) • Java • MIT</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.pielauncher">Google Play</a></li>
@@ -29,8 +28,9 @@
 
 <article><a name="shader_editor"><h2>Shader Editor</h2></a>
 <a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.shadereditor" class="IconLink"><img src="screenshots/shader_editor_icon.png" alt="Shader Editor Icon"/></a>
-<p>Create <a href="https://en.wikipedia.org/wiki/GLSL">GLSL</a> shaders on your Android phone and use them as live wallpaper.</p>
+<p>Create <a href="https://en.wikipedia.org/wiki/GLSL">GLSL</a> shaders on your Android phone and use them as live wallpaper. Exposes many sensors of your smartphone for <a href="https://thebookofshaders.com/">shader programming</a>. Like the gyroscope or the magnetic field sensor, for example.</p>
 <p>An app for people interested in graphics programming and customizing the screen of their smartphone.</p>
+<p>Includes some samples to get started like a <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">Game of Life</a> shader you can <a href="https://twitter.com/markusfisch/status/685823091541434368?s=20">touch</a>. Here's another <a href="https://twitter.com/markusfisch/status/1216103115939897344?s=20">sample</a>.</p>
 <p class="Stats"><time datetime="2013-06">June 2013</time> • $(loc ../ShaderEditor app/src/main) • Java • MIT</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.shadereditor">Google Play</a></li>
@@ -41,8 +41,9 @@
 
 <article><a name="wave_lines_wallpaper"><h2>Wave Lines Wallpaper</h2></a>
 <a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.wavelines" class="IconLink"><img src="screenshots/wavelines_icon.png" alt="Wave Lines Wallpaper Icon"/></a>
-<p>Live wallpaper showing slowly moving wave lines.</p>
-<p>Either choose a predefined theme, edit a theme to your liking, or simply create your own.</p>
+<p>A live wallpaper with colorful, slowly moving wavy lines.</p>
+<p>You can either choose a predefined theme, edit a theme to your liking, or simply create your own.</p>
+<p>I actually wrote the first version of this app on an Android device.</p>
 <p class="Stats"><time datetime="2012-08">August 2012</time> • $(loc ../WaveLinesWallpaper app/src/main) • Java • MIT</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.wavelines">Google Play</a></li>

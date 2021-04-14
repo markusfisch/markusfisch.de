@@ -2,8 +2,8 @@
 
 <article><a name="piedock"><h2>PieDock</h2></a>
 <a href="https://github.com/markusfisch/PieDock" class="ScreenshotLink"><img src="screenshots/piedock.jpg" alt="PieDock Screenshot"/></a>
-<p>PieDock is a task bar and application launcher in shape of a pie menu for the <a href="https://en.wikipedia.org/wiki/X_Window_System">X Window System</a>.</p>
-<p>Here is a <a href="https://vimeo.com/21360384">video</a> of the concept in action.</p>
+<p>PieDock is a task bar and application launcher in shape of a pie menu for the <a href="https://en.wikipedia.org/wiki/X_Window_System">X Window System</a>. Feels a little bit like the famous OS X dock in a circle.</p>
+<p>Here is a <a href="https://vimeo.com/21360384">video</a> of the concept in action. Also did an Android <a href="apps-android.html#pie_launcher">home screen launcher</a> with the same idea. As well as a JavaScript <a href="tools-web.html#webpie">version</a> for the web.</p>
 <p class="Stats"><time datetime="2007-12">December 2007</time> • $(loc ../PieDock src) • C++ • MIT</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://github.com/markusfisch/PieDock">GitHub</a></li>
@@ -13,7 +13,7 @@
 
 <article><a name="bbdock"><h2>bbdock</h2></a>
 <a href="https://github.com/markusfisch/bbdock" class="ScreenshotLink"><img src="screenshots/bbdock.jpg" alt="bbdock Screenshot"/></a>
-<p>Displays transparent PNG icons in the <a href="https://en.wikipedia.org/wiki/Blackbox">Blackbox</a>, <a href="https://en.wikipedia.org/wiki/Openbox">Openbox</a> or <a href="https://en.wikipedia.org/wiki/Fluxbox">Fluxbox</a> slit.</p>
+<p>Displays transparent PNG icons in the <a href="https://en.wikipedia.org/wiki/Blackbox">Blackbox</a>, <a href="https://en.wikipedia.org/wiki/Openbox">Openbox</a> or <a href="https://en.wikipedia.org/wiki/Fluxbox">Fluxbox</a> slit. If that doesn't mean anything to you, you don't need it.</p>
 <p class="Stats"><time datetime="2005-03">March 2005</time> • $(loc ../bbdock src) • C++ • Unlicense</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://github.com/markusfisch/bbdock">GitHub</a></li>

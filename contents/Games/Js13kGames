@@ -1,5 +1,5 @@
 <h1>Js13kGames</h1>
-<p class="Separator"><a href="https://js13kgames.com">js13kGames</a> is a JavaScript coding competition with a file size limit of 13 kilobytes.</p>
+<p class="Separator">Here are the games I wrote for <a href="https://js13kgames.com">js13kGames</a>. js13kgames is a JavaScript coding competition with a file size limit of 13 kilobytes.</p>
 
 <article><a name="soyuz_404"><h2>Soyuz 404</h2></a>
 <a href="http://hhsw.de/sites/proto/js13k2020/" class="ScreenshotLink"><img src="screenshots/soyuz404.jpg" alt="Soyuz 404 Screenshot"/></a>
