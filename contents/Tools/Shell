@@ -10,7 +10,7 @@
 
 <article><a name="annual"><h2>annual</h2></a>
 <p>Generate an annual report from your local git repositories.</p>
-<p>Here are my reports, professional and personal repositories combined.</p>
+<p>Here are my reports since I started using git, professional and personal repositories combined.</p>
 <p class="Stats"><time datetime="2016-10">October 2016</time> • $(loc ../gists/annual annual) • bash • Unlicense</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://gist.github.com/markusfisch/c43e32a50f833539ea0f7b8b6109320e">Gist</a></li>

@@ -13,7 +13,7 @@
 
 <article><a name="libhttp"><h2>libhttp</h2></a>
 <p>Light-weight C library for HTTP/1.1 requests.</p>
-<p>Meant for embedded environments or whereever libcurl would be just too much.</p>
+<p>Build for embedded environments or whereever libcurl would be just too much.</p>
 <p class="Stats"><time datetime="2013-08">August 2013</time> • $(loc ../libhttp http.c) • C • MIT</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://github.com/markusfisch/libhttp">GitHub</a></li>
