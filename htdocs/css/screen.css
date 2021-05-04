@@ -133,6 +133,48 @@ a.Active {
 	margin-bottom: 4rem;
 }
 
+.TL {
+	position: relative;
+	margin: 0; padding: 0;
+	list-style: none;
+}
+
+.TL:after {
+	content: ' ';
+	position: absolute; left: 50%; top: 0;
+	width: 1px; height: 100%;
+	background: #111;
+}
+
+.TL li {
+	position: relative;
+	margin: 0 50% 0 0; padding: .5em 1em .5em 0;
+	text-align: right;
+}
+
+.TL li:after {
+	content: ' ';
+	position: absolute; right: 0; top: 1.25em;
+	width: .8em; height: 1px;
+	background: #111;
+}
+
+.TL li:nth-child(even) {
+	margin: 0 0 0 50%; padding: .5em 0 .5em 1em;
+	text-align: left;
+}
+
+.TL li:nth-child(even):after {
+	left: 0;
+}
+
+.TL time {
+	display: block;
+	font-size: 70%;
+	text-transform: uppercase;
+	color: #888;
+}
+
 @media screen and (max-height: 480px) {
 	nav {
 		position: absolute;
@@ -195,11 +237,14 @@ a.Active {
 		color: #fff;
 	}
 
-	.ProjectLinks a {
+	.ProjectLinks a,
+	.TL li {
 		border-color: #ddd;
 	}
 
-	.ProjectLinks a:hover {
+	.ProjectLinks a:hover,
+	.TL:after,
+	.TL li:after {
 		background: #ddd; color: #111;
 	}
 }

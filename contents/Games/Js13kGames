@@ -1,7 +1,7 @@
 <h1>Js13kGames</h1>
 <p class="Separator">Here are the games I wrote for <a href="https://js13kgames.com">js13kGames</a>. js13kgames is a JavaScript coding competition with a file size limit of 13 kilobytes.</p>
 
-<article><a name="soyuz_404"><h2>Soyuz 404</h2></a>
+<article><a name="soyuz-404"><h2>Soyuz 404</h2></a>
 <a href="http://hhsw.de/sites/proto/js13k2020/" class="ScreenshotLink"><img src="screenshots/soyuz404.jpg" alt="Soyuz 404 Screenshot"/></a>
 <p>A space adventure for <a href="https://js13kgames.com">js13kGames</a> 2020 "404". 13298 bytes (99%).</p>
 </p>The game and a few details about it were mentioned in this <a href="https://www.youtube.com/watch?v=GKOgm5-GbUA">video summary</a> of the 2020 event.</p>
@@ -12,7 +12,7 @@
 <li><a href="https://github.com/markusfisch/Sojuz404">GitHub</a></li>
 </ul></article>
 
-<article><a name="conflict_management"><h2>Conflict Management</h2></a>
+<article><a name="conflict-management"><h2>Conflict Management</h2></a>
 <a href="http://hhsw.de/sites/proto/js13k2019/" class="ScreenshotLink"><img src="screenshots/conflict_management.jpg" alt="Conflict Management Screenshot"/></a>
 <p>A turn-based game about conflict management like it was back in the day for <a href="https://js13kgames.com">js13kGames</a> 2019 "back". 10128 bytes (76%).</p>
 <p class="Stats"><time datetime="2019-09">September 2019</time> • $(loc ../ConflictManagement:submission src.js) • JavaScript • Unlicense</p>
@@ -32,7 +32,7 @@
 <li><a href="https://github.com/markusfisch/Pronto">GitHub</a></li>
 </ul></article>
 
-<article><a name="lost_treasures"><h2>Lost Treasures</h2></a>
+<article><a name="lost-treasures"><h2>Lost Treasures</h2></a>
 <a href="http://hhsw.de/sites/LostTreasures/" class="ScreenshotLink"><img src="screenshots/lost_treasures.jpg" alt="Lost Treasures Screenshot"/></a>
 <p>Dive to find coins for <a href="https://js13kgames.com">js13kGames</a> 2017 "Lost". 7928 bytes (59%).</p>
 <p class="Stats"><time datetime="2017-09">September 2017</time> • $(loc ../LostTreasures:submission src.js) • JavaScript • Unlicense</p>
@@ -42,7 +42,7 @@
 <li><a href="https://github.com/markusfisch/LostTreasures">GitHub</a></li>
 </ul></article>
 
-<article><a name="glitch_yeagers"><h2>Glitch Yeagers</h2></a>
+<article><a name="glitch-yeagers"><h2>Glitch Yeagers</h2></a>
 <a href="http://hhsw.de/sites/GlitchYeagers/" class="ScreenshotLink"><img src="screenshots/glitch_yeagers.jpg" alt="Glitch Yeagers Screenshot"/></a>
 <p>Air combat for <a href="https://js13kgames.com">js13kGames</a> 2016 "Glitch". 6917 bytes (52%).</p>
 <p class="Stats"><time datetime="2016-08">August 2016</time> • $(loc ../GlitchYeagers:submission src.js) • JavaScript • Unlicense</p>

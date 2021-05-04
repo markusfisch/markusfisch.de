@@ -1,6 +1,6 @@
 <h1>Casual</h1>
 
-<article><a name="soyuz_404"><h2>Soyuz 404</h2></a>
+<article><a name="soyuz-404"><h2>Soyuz 404</h2></a>
 <a href="http://hhsw.de/sites/Soyuz404/" class="ScreenshotLink"><img src="screenshots/soyuz404.jpg" alt="Soyuz 404 Screenshot"/></a>
 <p>A space adventure in 13 kilobytes you can play through during your lunch break.</p>
 <p>Works on your phone, too. Hold and move your finger on the screen to explore a scene. When you lift your finger over something, that something is used.</p>
@@ -12,7 +12,7 @@
 <li><a href="https://github.com/markusfisch/Sojuz404">GitHub</a></li>
 </ul></article>
 
-<article><a name="bad_minton"><h2>Bad Minton</h2></a>
+<article><a name="bad-minton"><h2>Bad Minton</h2></a>
 <a href="http://badminton.markusfisch.de" class="ScreenshotLink"><img src="screenshots/bad_minton.jpg" alt="Bad Minton Screenshot"/></a>
 <p>Monochrome Pong/Card mashup.</p>
 <p>Also works well on your phone. In fact, the two player mode is meant to be played on a mobile unless you have two mice on your desktop.</p>
@@ -44,7 +44,7 @@
 <li><a href="https://github.com/markusfisch/Gingerman">GitHub</a></li>
 </ul></article>
 
-<article><a name="saving_oskar"><h2>Saving Oskar</h2></a>
+<article><a name="saving-oskar"><h2>Saving Oskar</h2></a>
 <a href="http://savingoskar.markusfisch.de/" class="ScreenshotLink"><img src="screenshots/saving_oskar.jpg" alt="Saving Oskar Screenshot"/></a>
 <p>Try and save your dear lamb Oskar from being sacrificed.</p>
 <p>The gods demand a sacrifice and so a lamb must die. But not Oskar, your dear friend. So you need to sacrifice another lamb. Again and again. Until all lambs are sacrificed, except Oskar. Then, and only then, the gods will be pleased and you win the game.</p>
@@ -55,7 +55,7 @@
 <li><a href="https://github.com/markusfisch/SavingOskar">GitHub</a></li>
 </ul></article>
 
-<article><a name="jumpy_green"><h2>Jumpy Green</h2></a>
+<article><a name="jumpy-green"><h2>Jumpy Green</h2></a>
 <a href="http://jumpygreen.markusfisch.de" class="ScreenshotLink"><img src="screenshots/jumpy_green.jpg" alt="Jumpy Green Screenshot"/></a>
 <p>A little green man trying to get evil astronauts off his small world.</p>
 <p>Get rid of Buck Rodgers by jumping high and landing hard when he is on the opposite side of your world. If you jump high enough, he will be thrown off your world and get lost in space again.</p>
@@ -66,7 +66,7 @@
 <li><a href="https://github.com/markusfisch/JumpyGreen">GitHub</a></li>
 </ul></article>
 
-<article><a name="ten_seconds_to_venus"><h2>Ten Seconds To Venus</h2></a>
+<article><a name="ten-seconds-to-venus"><h2>Ten Seconds To Venus</h2></a>
 <a href="http://tensecondstovenus.markusfisch.de" class="ScreenshotLink"><img src="screenshots/ten_seconds_to_venus.jpg" alt="Ten Seconds To Venus Screenshot"/></a>
 <p>Express point-and-click riddle.</p>
 <p>You are on board of a space station in Venus orbit. You are sleeping. Then you wake from a roaring BANG! You have just ten seconds until the ship will be destroyed…</p>
@@ -77,7 +77,7 @@
 <li><a href="https://github.com/markusfisch/TenSecondsToVenus">GitHub</a></li>
 </ul></article>
 
-<article><a name="ski_run"><h2>Ski Run</h2></a>
+<article><a name="ski-run"><h2>Ski Run</h2></a>
 <a href="http://hhsw.de/sites/SkiRun/" class="ScreenshotLink"><img src="screenshots/ski_run.jpg" alt="Ski Run Screenshot"/></a>
 <p>Ski racing game for two players on one screen.</p>
 <p>Works on any screen with a decent web browser. <a href="http://hhsw.de/sites/proto/ld28/">Originally</a> written for Ludum Dare #28 but never submitted.</p>
