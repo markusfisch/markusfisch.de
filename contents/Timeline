@@ -1,6 +1,8 @@
 <article>
 <h1>Timeline</h1>
 <ul class="TL">
+<li><a href="tools-shell.html#advent-of-awk-2020">Advent of AWK 2020</a>
+<time datetime="2020-12">December 2020</time></li>
 <li><a href="games-casual.html#soyuz-404">Soyuz 404</a>
 <time datetime="2020-09">September 2020</time></li>
 <li><a href="apps-web.html#was-ist-los-um-nürnberg?">Was ist los um Nürnberg?</a>
