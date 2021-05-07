@@ -44,7 +44,7 @@
 
 <article><a name="advent-of-awk-2020"><h2>Advent of AWK 2020</h2></a>
 <p><a href="https://en.wikipedia.org/wiki/AWK">AWK</a> solutions for <a href="https://adventofcode.com/2020">Advent of Code 2020</a>.</p>
-<p class="Stats"><time datetime="2020-12">December 2020</time> • $(loc ../advent-of-awk) • awk • Unlicense</p>
+<p class="Stats"><time datetime="2020-12">December 2020</time> • $(loc ../advent-of-awk '*/part?') • awk • Unlicense</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://github.com/markusfisch/advent-of-awk">GitHub</a></li>
 </ul></article>

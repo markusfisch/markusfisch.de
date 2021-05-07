@@ -2,25 +2,30 @@
 #
 # @param ... - path to search for code files
 count_lines() {
-	if [ -f "$1" ]
-	then
-		cat "$1"
-	else
-		find "${@:-.}" -type f | while read -r
-		do
-			[[ $REPLY == *.aside/* ]] && continue
-			[[ $REPLY == *.git/* ]] && continue
-			[[ $REPLY == *build/* ]] && continue
-			[[ $REPLY == bin/* ]] && {
-				cat "$REPLY"
-				continue
-			}
-			case "${REPLY##*.}" in
-				java|kt|rs|c|cpp|cc|h|hh|js|html|php|py|glsl|fs|vs)
-					cat "$REPLY";;
-			esac
-		done
-	fi | awk 'NF' | wc -l
+	for P
+	do
+		if [ -d "$P" ]
+		then
+			find "$P" -type f | while read -r
+			do
+				[[ $REPLY == *.aside/* ]] && continue
+				[[ $REPLY == *.git/* ]] && continue
+				[[ $REPLY == *build/* ]] && continue
+				[[ $REPLY == bin/* ]] && {
+					# include scripts in dotfiles
+					cat "$REPLY"
+					continue
+				}
+				case "${REPLY##*.}" in
+					java|kt|rs|c|cpp|cc|h|hh|js|html|php|py|glsl|fs|vs)
+						cat "$REPLY";;
+				esac
+			done
+		else
+			# expand possible wildcards
+			cat $P
+		fi
+	done | awk 'NF' | wc -l
 }
 
 # Print lines of code for given repository
