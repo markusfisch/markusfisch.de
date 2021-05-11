@@ -1,0 +1,95 @@
+<html>
+<head>
+<meta name="author" content="Markus Fisch">
+<meta name="audience" content="All">
+<meta name="documentType" content="WebDocument">
+<title>hammerhead sharkware</title>
+<meta name="author" content="markus fisch">
+</head>
+
+<body background="backctrl.gif" topmargin=0 leftmargin=0
+	marginwidth=0 marginheight=0
+	link="#00000" vlink="#00000" alink="#00000">
+
+<font size=3 face="verdana,arial,helv,helvetica">
+
+<script language="javascript">
+if (document.images) {
+	img1 = new Image();
+	img1.src = "button1a.gif";
+	img1off = new Image();
+	img1off.src = "button1.gif";
+	img1click = new Image();
+	img1click.src = "button1p.gif";
+
+	img2 = new Image();
+	img2.src = "button2a.gif";
+	img2off = new Image();
+	img2off.src = "button2.gif";
+	img2click = new Image();
+	img2click.src = "button2p.gif";
+
+	img6 = new Image();
+	img6.src = "button6a.gif";
+	img6off = new Image();
+	img6off.src = "button6.gif";
+	img6click = new Image();
+	img6click.src = "button6p.gif";
+
+	img7 = new Image();
+	img7.src = "button7a.gif";
+	img7off = new Image();
+	img7off.src = "button7.gif";
+	img7click = new Image();
+	img7click.src = "button7p.gif";
+}
+
+// function to click images
+
+function imgClick(imgName) {
+	window.focus();
+	if (document.images) {
+		document[imgName].src = eval(imgName + "click.src");
+		setTimeout( 'imgOff("'+imgName+'")', 500 );
+	}
+}
+
+// function to activate images
+
+function imgOn(imgName) {
+	if (document.images) {
+		document[imgName].src = eval(imgName + ".src");
+	}
+}
+
+// functions to deactivate images
+
+function imgOff(imgName) {
+	if (document.images) {
+		document[imgName].src = eval(imgName + "off.src");
+	}
+}
+
+</script>
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<a href="software.html" target="display" onClick = "imgClick('img1')" onMouseOver = "imgOn('img1'); window.status='Software, Tools and more ...';return true"; onMouseOut = "imgOff('img1')"><img border="0" src="button1.gif" name="img1" alt="Software, Tools and more ..."></a>
+</td>
+
+<td>
+<a href="mailto:info@hammerheadsharkware.de" target="display" onClick = "imgClick('img6')" onMouseOver = "imgOn('img6'); window.status='Contact via eMail';return true"; onMouseOut = "imgOff('img6')"><img border="0" src="button6.gif" name="img6" alt="Contact via eMail"></a>
+</td>
+
+<td width=100%>
+</td>
+
+<td>
+<a href="startup.html" target="display" onClick = "imgClick('img7')" onMouseOver = "imgOn('img7'); window.status='About Hammerhead Sharkware';return true"; onMouseOut = "imgOff('img7')"><img border="0" src="button7.gif" name="img7" alt="About Hammerhead Sharkware"></a>
+</td>
+</tr>
+</table>
+
+</body>
+</html>

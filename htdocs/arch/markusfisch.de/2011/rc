@@ -1,8 +1,0 @@
-export PS1='$ '
-export EDITOR=vim
-alias l=ls
-alias ..='cd ..'
-alias e=vim
-alias m=make
-alias mc='make clean'
-set -o vi

@@ -1,0 +1,7 @@
+DirectoryIndex index.html
+Options -Indexes
+
+mod_gzip_on Yes
+
+ErrorDocument 404 http://markusfisch.de/
+ErrorDocument 500 http://markusfisch.de/

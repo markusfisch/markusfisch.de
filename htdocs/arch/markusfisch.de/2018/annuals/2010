@@ -1,0 +1,54 @@
+In 2010 you made 18 commits in 18 projects.
+The average length of a commit message was 6 characters.
+
+Commits per weekday
+    Monday       0 
+   Tuesday       8 ***********************************************
+ Wednesday       0 
+  Thursday       0 
+    Friday       0 
+  Saturday       0 
+    Sunday      10 ***********************************************************
+
+Commits per month
+       Jan       0 
+       Feb       0 
+       Mar       0 
+       Apr       0 
+       May       0 
+       Jun       0 
+       Jul       0 
+       Aug       0 
+       Sep       0 
+       Oct       0 
+       Nov       0 
+       Dec      18 ***********************************************************
+
+Lines added (+) and removed (-) per weekday
+    Monday       0 
+   Tuesday  181160 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ Wednesday       0 
+  Thursday       0 
+    Friday       0 
+  Saturday       0 
+    Sunday   14647 ++++
+
+Lines added (+) and removed (-) per month
+       Jan       0 
+       Feb       0 
+       Mar       0 
+       Apr       0 
+       May       0 
+       Jun       0 
+       Jul       0 
+       Aug       0 
+       Sep       0 
+       Oct       0 
+       Nov       0 
+       Dec  195807 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Top 3 words in commit messages (ignoring words up to three letters)
+    commit      18 ***********************************************************
+     first      10 ********************************
+     First       8 **************************
+

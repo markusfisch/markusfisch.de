@@ -1,0 +1,8 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\htmlfile\shell\edit]
+@="&Bearbeiten"
+
+[HKEY_CLASSES_ROOT\htmlfile\shell\edit\command]
+@="notepad.exe %1"
+

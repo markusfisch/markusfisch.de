@@ -1,0 +1,283 @@
+html {
+	margin: 0; padding: 0;
+	background: #fff;
+}
+
+body {
+	margin: 0; padding: 0;
+	color: #111; /* fallback */
+	color: #0009;
+	font: 115% sans-serif;
+	line-height: 1.5em;
+}
+
+#Nav {
+	margin: 2em auto; padding: 0 1em;
+	max-width: 40em;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+#Nav ul {
+	display: flex;
+	flex-direction: row;
+	margin: 0; padding: 0;
+	list-style: none;
+	overflow: hidden;
+}
+
+#Nav li {
+	margin: 0; padding: 0;
+	flex-grow: 1;
+	text-align: center;
+	font-size: min(3vw, 100%);
+}
+
+#Nav a {
+	display: inline-block;
+	margin: .5em; padding: 1.25em 1em;
+	color: #333;
+	text-decoration: none;
+	white-space: nowrap;
+	border-bottom: .15em solid transparent;
+}
+
+#Nav a:active {
+	background: #f8f8f8;
+}
+
+#Nav li.Active a {
+	font-weight: bolder;
+	border-color: #333;
+}
+
+article {
+	background: #fff2;
+	position: relative;
+	margin: 0 auto; padding: 2em;
+	max-width: 40em;
+}
+
+#Article {
+	background: #90efc1;
+	background: linear-gradient(
+		45deg,
+		rgba(164,239,167,1) 0%,
+		rgba(98,242,203,1) 100%
+	);
+}
+
+#Article h1 {
+	display: none;
+}
+
+#Article h2 {
+	margin: 0 0 1em; padding: 0;
+	color: #fff;
+	font-weight: bolder;
+	font-size: 200%;
+	line-height: 3em;
+	letter-spacing: -.05em;
+	text-transform: uppercase;
+	text-shadow: .07em .07em #0001;
+	text-align: center;
+}
+
+#Article h3 {
+	margin: 0; padding: 0;
+	text-transform: uppercase;
+	font-weight: bolder;
+	font-size: 80%;
+	line-height: 3em;
+}
+
+#Article p {
+	margin: 0 0 2em; padding: 0;
+}
+
+#Article a {
+	color: #111; /* fallback */
+	color: #000a;
+	text-decoration: none;
+	border-bottom: .1em solid #111; /* fallback */
+	border-color: #000a;
+}
+
+#Article ul {
+	margin: 0 0 3em; padding: 0;
+	list-style: none;
+}
+
+#Article ul > li {
+	margin: 0 0 1em; padding: 0 0 1em;
+	border-bottom: 1px solid #91e1c4; /* fallback */
+	border-color: #0001;
+	overflow: hidden;
+}
+
+#Article ul > li:last-child {
+	border-bottom: 0;
+}
+
+#Article li > h3,
+#Article li > p {
+	margin: 0; padding: 0;
+	text-transform: none;
+}
+
+#Article li > h3 {
+	margin: 0 0 .25em;
+	font-family: monospace;
+	font-size: 150%;
+	line-height: 1.5em;
+}
+
+#Article .Screenshot {
+	float: right;
+	margin: .5em 0 .5em .5em;
+	width: 20%;
+	height: auto;
+	border: .3em solid #91e1c4; /* fallback */
+	border-color: #0001;
+	border-radius: .25em;
+}
+
+#Article .Stats {
+	margin: .5em 0 0;
+	font-size: 80%;
+	line-height: 1.5em;
+}
+
+#Article .Stats span {
+	white-space: nowrap;
+}
+
+#Article li ul {
+	margin: .75em 0 0; padding: 0;
+	list-style: none;
+	overflow: hidden;
+	border: 0;
+}
+
+#Article li ul li {
+	margin: 0; padding: 0;
+	border: 0;
+	overflow: visible;
+}
+
+#Article li ul li a {
+	float: left;
+	margin: 0 .75em .75em 0; padding: 1.25em;
+	background: #fff; color: #333;
+	font: 60% sans-serif;
+	font-weight: bolder;
+	text-transform: uppercase;
+	text-decoration: none;
+	letter-spacing: .1em;
+	border-color: #111; /* fallback */
+	border-bottom: .1em solid #000a;
+	border-radius: .25em;
+}
+
+#Footer {
+	margin: 0; padding: 7em 2em 3em;
+	color: #333;
+	overflow: hidden;
+	text-align: center;
+}
+
+#Footer h2 {
+	margin: 0 0 .5em; padding: 108px 0 0 .28em;
+	background: top center url(logo.svg) no-repeat;
+	overflow: hidden;
+	height: 0;
+}
+
+#Footer p {
+	margin: 0; padding: 0;
+}
+
+#Footer a {
+	text-decoration: none;
+	color: #333;
+	font-weight: bold;
+}
+
+@media screen and (max-width: 640px) {
+	#Nav, #Footer {
+		font-size: 95%;
+	}
+
+	article {
+		padding: 1.5em 1.5em;
+	}
+
+	#Article .Screenshot {
+		width: 30%;
+	}
+
+	#Article h2 {
+		font-size: 150%;
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+	html {
+		background: #1a1a1a;
+	}
+
+	body {
+		color: #fffe;
+	}
+
+	#Nav a {
+		color: #eee;
+	}
+
+	#Nav a:active {
+		background: #222;
+	}
+
+	#Nav li.Active a {
+		border-color: #eee;
+	}
+
+	article {
+		background: none;
+	}
+
+	#Article {
+		background: #222;
+	}
+
+	#Article h2 {
+		color: #fff;
+		text-shadow: .1em .1em #0008;
+	}
+
+	#Article a {
+		color: #fffe;
+		border-color: #fffe;
+	}
+
+	#Article ul > li {
+		border-color: none;
+	}
+
+	#Article .Screenshot {
+		border-color: #fff1;
+	}
+
+	#Article li ul li a {
+		background: #fff2; color: #fff;
+		border-bottom-width: .2em;
+	}
+
+	#Footer, #Footer a {
+		color: #fff;
+	}
+
+	#Footer h2 {
+		filter: invert(100%);
+	}
+}

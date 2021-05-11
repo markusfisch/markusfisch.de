@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/markusfisch
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://markusfisch.de
+  * I am markusfisch (https://keybase.io/markusfisch) on keybase.
+  * I have a public key with fingerprint C87D EB20 EEF3 E854 BCEB  9883 32D7 D983 E2F0 EBD2
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01018627885c66fe8decf53968d343717da234cd4aa2762aceacc750f0b2f30b72270a",
+            "fingerprint": "c87deb20eef3e854bceb988332d7d983e2f0ebd2",
+            "host": "keybase.io",
+            "key_id": "32d7d983e2f0ebd2",
+            "kid": "01018627885c66fe8decf53968d343717da234cd4aa2762aceacc750f0b2f30b72270a",
+            "uid": "42dccdfd977f3d5e05f7b2f57260cb19",
+            "username": "markusfisch"
+        },
+        "service": {
+            "hostname": "markusfisch.de",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1478253939,
+    "expire_in": 157680000,
+    "prev": "b67f9f18582a48c7446a43565f940b295c81a7e7b92e0f1ef87b10c9e942b392",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUm1MW1UYLqVjyDKHrovBMFiuZpOtsPt97u2ApJmA2gxWyEoFSnc/zoUbWG/X
+Wz5qQ4phimx8zC2BiE5B5hDMNiENY2Zu6haSSXCTGeemuIlMUxcFRDcbYXhL9Jf+
+9Pw4J+e8z/Oc533yHl4bq9PH4NdvNE3P3Z2MGQ/zOkeyMxBAeEX0I+YAUgVXDlgt
+QtXnqpJFxIygGIoxNA4YhhJoWoKMCAWJIliaEQmSABgQOZwgBZHkOBzQOCdAThAA
+hUooj0sEygMcByiHmBBJdldAr8cru32arMAAEfI4CqFEQIYieQHyLMMQBC4CkWUI
+iEso5EVcI1YqapShmeM5FWbIivamXVwr9v4D/z/7rlmRI3FREERJZAGQCJGCKCUB
+DUgBnEYFHmOjQBV63dw+qKH3cd6qGlWSVaESaTAhWqFWFmA022gz/wZliFAT8HgV
+nyIo1Vqt0ufzmKNUn98TxdZB3vW3iouX3aKWpUaohV5VVtyIGdOQgk+OymIkYHCt
+T4I1IbDeI3uhS44iKEAzqLai38BaTZKnQZnEShhDMThHMgIgSZojCYqmJJbUQmAp
+gcE4AAHP4hCVMCgxgMdQgYUsifMEG41ahfvdCmImNZ9chaapyhVuzlfjhUhDQos+
+2aCL0eviVumjU6ZLeCjxn9ELv7FuKeW3z3sfHHd9fKm10lIcir9cdPbbE/mRhaLg
+U4HE8ISfX28r/3ks/vFdivH7iG+8nd79XXP6ra39Dx/yJGVvdATf3HNwS51tc2k4
+JmlHAWI+MNjVuuayRWi+kbs5a2ogJq08ffWn45M9YmfbW3GjqZ0f/Ki8ff31lPzQ
+FwvnbfjkS9ZN5ddOu3dGPhlpfy7c1zOSo7MOTmfc88+2XDmWlrQ735Kbl5YwV7KK
+n1D9e38fmP1FCT1z57P10y/e29qtn1eC563DeXlS29mkkXMdGUTIVgbrduyaff5X
+mCYP9c0ct/fb+4cM1qw4Ijz108Ci8VDXn1jz/X7ptq20zFEYce3JfG856yCzlPPo
+ORDb7Wx64bFCYy2KWUa2o13OdWd6nH1LQ3ca57tKWlpPuTpOXin5450NvHPcYBt6
+Fy0IJl6tf2X5VpBpcxS1fhkanTwwv/a1i1sGrSnDC3OXRi2mbbk3n03Y1rA3lO3/
+cCLTEyiY1rc32FXDg1i8e0Y0HjXWqOnVwdH7OWdKnfbki3QJYcxmoKfXvtERa8kr
+7zMMOK7Ozkxp++meWnTh7v651Mj7t5Xt4NTO5AvFjS/bv1m96diFSJP1ozWm4uqm
+zvqakaN4/NOjTx42nbw5s2Focbn41cbh1DHTVz+MLS7nFlZSHdcy7R2GI7qvHUd6
+H8lwnJh+wvQX
+=V3VB
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/markusfisch
+
+==================================================================
+

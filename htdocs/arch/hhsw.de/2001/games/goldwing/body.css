@@ -1,0 +1,13 @@
+BODY {background-color:#00008b; background-image:url(body.jpg);}
+
+.content {position:absolute; left:0; top:0; z-index:2; visibility:visible;}
+
+.fOperative {position:absolute; left:0; top:0; z-index:400; visibility:hidden;}
+
+a:link {color:#ffff00; text-decoration:underline;}
+a:visited {color:#ffff00; text-decoration:underline;}
+a:active {color:#ffff00; text-decoration:underline;}
+a:hover {color:#cccc00; text-decoration:none;}
+
+p,div,table {font-family:verdana,helvetica,helv; color:#ffff00; font-size:10pt; font-weight:bold;}
+

@@ -1,0 +1,432 @@
+<html>
+
+<head>
+<meta name="keywords" content="hammerhead sharkware, javascript, jscript, java, script, dhtml sample, free scripts, nonrectangular, non-rectangular window, nonrektangular, unrectangular, unregelm&auml;&szlig;ige Fenster, freie Fensterform, jede Fensterform, rpg, rollenspiel, midgard, midgard 1880, adventure, abenteuer, freeshape, mcc1880, midgard character creator, wallpapers, hintergrundbilder, markus fisch">
+<meta name="description" content="Freeware, Scripts, Wallpapers and Storys">
+<meta name="publisher" content="Hammerhead Sharkware">
+<meta name="copyright" content="Hammerhead Sharkware">
+<meta name="page-topic" content="Hammerhead Sharkware Homepage">
+<meta name="content-language" content="de">
+<meta name="author" content="Markus Fisch">
+<meta name="audience" content="All">
+<meta name="creationDate" content="Wed, 14 Feb 2001 00:00:00 GMT">
+<meta name="documentType" content="WebDocument">
+<title>Hammerhead Sharkware</title>
+<link rel=STYLESHEET type="text/css" href="main.css"></link>
+</head>
+
+<body text="#0080ff" link="#00aaff" vlink="#00aaff" alink="#00aaff"
+	bgcolor="#000000" scroll=no
+	marginwidth=0 marginheight=0 leftmargin=0 topmargin=0
+	onLoad="setup()" onResize="window.location.reload()">
+
+<div ID="rec" class="rec"><img src="lod.jpg" border=0></div>
+<div ID="recb" class="recb"><img src="lodb.jpg" border=0></div>
+<div ID="button0" class="button"><a href="javascript:command(0)" onMouseOver="ButtonOn(0)" onMouseOut="ButtonOff(0)"><img src="void.gif" name="hButton0" width=50 height=52 border=0 alt="Software"></a></div>
+<div ID="button1" class="button"><a href="javascript:command(1)" onMouseOver="ButtonOn(1)" onMouseOut="ButtonOff(1)"><img src="void.gif" name="hButton1" width=50 height=52 border=0 alt="Online Spiele"></a></div>
+<div ID="button2" class="button"><a href="javascript:command(2)" onMouseOver="ButtonOn(2)" onMouseOut="ButtonOff(2)"><img src="void.gif" name="hButton2" width=50 height=52 border=0 alt="Dokumente"></a></div>
+<div ID="button3" class="button"><a href="javascript:command(3)" onMouseOver="ButtonOn(3)" onMouseOut="ButtonOff(3)"><img src="void.gif" name="hButton3" width=50 height=52 border=0 alt="Hintergrundbilder"></a></div>
+<div ID="button4" class="button"><a href="javascript:command(4)" onMouseOver="ButtonOn(4)" onMouseOut="ButtonOff(4)"><img src="void.gif" name="hButton4" width=50 height=52 border=0 alt="Links"></a></div>
+<div ID="button5" class="button"><a href="mailto:info@hammerheadsharkware.de" onMouseOver="ButtonOn(5)" onMouseOut="ButtonOff(5)"><img src="void.gif" name="hButton5" width=50 height=52 border=0 alt="eMail senden"></a></div>
+<div ID="vlights" class="vlight"><img src="void.gif" width=40 height=150 border=0 name="hVlites"></div>
+<div ID="hlights" class="hlight"><img src="void.gif" width=150 height=40 border=0 name="hHlites"></div>
+<div ID="up" class="arw">
+	<table width=16 border=0 cellpadding=0 cellspacing=0>
+		<tr><td valign=top height=24>
+			<a href="javascript:scrollhome();" onMouseOver="scrollup(30)" onMouseOut="clearTimeout(scrID)"><img src="void.gif" border=0 width=16 height=16 name="hUp3"></a><br>
+		</td></tr>
+		<tr><td valign=top height=20>
+			<a href="javascript:scrollhome();" onMouseOver="scrollup(15)" onMouseOut="clearTimeout(scrID)"><img src="void.gif" border=0 width=16 height=12 name="hUp2"></a><br>
+		</td></tr>
+		<tr><td valign=top height=8>
+			<a href="javascript:scrollhome();" onMouseOver="scrollup(5)" onMouseOut="clearTimeout(scrID)"><img src="void.gif" border=0 width=16 height=8 name="hUp1"></a><br>
+		</td></tr>
+	</table>
+</div>
+<div ID="down" class="arw">
+	<table width=16 border=0 cellpadding=0 cellspacing=0>
+		<tr><td valign=top height=16>
+			<a href="javascript:scrollend();" onMouseOver="scrolldown(5)" onMouseOut="clearTimeout(scrID)"><img src="void.gif" border=0 width=16 height=8 name="hDown1"></a><br>
+		</td></tr>
+		<tr><td valign=top height=20>
+			<a href="javascript:scrollend();" onMouseOver="scrolldown(15)" onMouseOut="clearTimeout(scrID)"><img src="void.gif" border=0 width=16 height=12 name="hDown2"></a><br>
+		</td></tr>
+		<tr><td valign=top height=16>
+			<a href="javascript:scrollend();" onMouseOver="scrolldown(30)" onMouseOut="clearTimeout(scrID)"><img src="void.gif" border=0 width=16 height=16 name="hDown3"></a><br>
+		</td></tr>
+	</table>
+</div>
+<div ID="submarine" class="submarine"><img src="void.gif" border=0 width=152 height=46 name="hSubmarine"></div>
+<div ID="submarineb" class="submarineb"><img src="void.gif" border=0 width=152 height=46 name="hSubmarineb"></div>
+<div ID="swirl" class="swirl"><img src="void.gif" border=0 width=12 height=8 name="hSwirl"></div>
+<div ID="vline" class="vline"><img src="void.gif" border=0 width=2 height=2000 name="hVline"></div>
+<div ID="hline" class="hline"><img src="void.gif" border=0 width=2000 height=2 name="hHline"></div>
+<div ID="tracktop" class="track"><img src="void.gif" border=0 width=184 height=11 name="hFrameTop"></div>
+<div ID="trackbottom" class="track"><img src="void.gif" border=0 width=184 height=11 name="hFrameBottom"></div>
+<div ID="scannerData" class="scannerData">
+	<table width=104 border=0 cellpadding=0 cellspacing=0>
+		<tr><td valign=top width=8 height=54>
+			<img src="void.gif" border=0 width=8 height=47 name="hSbmIDLeft"><br>
+		</td><td valign=top width=88>
+			<img src="void.gif" border=0 width=88 height=47 name="hSbmID"><br>
+		</td><td valign=top width=8>
+			<img src="void.gif" border=0 width=8 height=47 name="hSbmIDRight"><br>
+		</td></tr>
+	</table>
+</div>
+
+<div ID='data0' class='data'>
+	<table width=60% border=0 cellpadding=0 cellspacing=0>
+		<tr><td valign=top><font class='normal'>
+		<img src='void.gif' name='hdata0_0' width=50 height=52 border=0 align=right>
+		<font size=5 class='headline'>Software</font>
+		<font size=4 class='headline'><br><br>
+		FreeShape<br>
+		<table border=0 cellpadding=0 cellspacing=0>
+		<tr><td width=120 valign=top>
+			<font size=2 class='small'>Version</font>
+		</td><td valign=top>
+			<font size=2 class='small'>0.9 Beta!</font>
+		</tr></td>
+		<tr><td width=120 valign=top>
+			<font size=2 class='small'>Sprache</font>
+		</td><td valign=top>
+			<font size=2 class='small'>english/deutsch</font>
+		</tr></td>
+		<tr><td width=120 valign=top>
+			<font size=2 class='small'>Lizenz</font>
+		</td><td valign=top>
+			<font size=2 class='small'>Freeware</font>
+		</tr></td>
+		<tr><td width=120 valign=top>
+			<font size=2 class='small'>Plattform</font>
+		</td><td valign=top>
+			<font size=2 class='small'>Windows 9x,ME,NT,2000</font>
+		</tr></td>
+		<tr><td width=120 valign=top>
+			<font size=2 class='small'>Laufzeitmodule</font>
+		</td><td valign=top>
+			<font size=2 class='small'>-</font>
+		</tr></td>
+		<tr><td width=120 valign=top>
+			<font size=2 class='small'>Download</font>
+		</td><td valign=top>
+			<font size=2 class='small'><a href='download/software/fs0963.zip'>.zip Archiv, 153KB</a></font>
+		</tr></td>
+		<tr><td width=120 valign=top>
+			<font size=2 class='small'>Screenshots</font>
+		</td><td valign=top>
+			<font size=2 class='small'>
+			<a href="javascript:screenshot('scrnshot_freeshape.gif', 287, 283);">Hauptfenster</a>
+			</font>
+		</tr></td>
+		<tr><td width=120 valign=top>
+			<font size=2 class='small'>Beschreibung</font><br>
+		</td><td valign=top>
+			<p align='justify'><font size=2 class='small'>Werkzeug zur Erstellung und Programmierung von nichtrektangularen Fenstern unter Windows, enthält Code und Beispiele
+			für Visual C und Visual Basic. Unterstützt drei verschiedene Techniken zur Formdefinition: Linien, Rechtecke und Polygone.</font></p>
+		</tr></td>
+		</table><br>
+		Midgard Character Creator 1880<br>
+		<table border=0 cellpadding=0 cellspacing=0>
+		<tr><td width=120 valign=top>
+			<font size=2 class='small'>Version</font>
+		</td><td valign=top>
+			<font size=2 class='small'>2.60</font>
+		</tr></td>
+		<tr><td width=120 valign=top>
+			<font size=2 class='small'>Sprache</font>
+		</td><td valign=top>
+			<font size=2 class='small'>deutsch</font>
+		</tr></td>
+		<tr><td width=120 valign=top>
+			<font size=2 class='small'>Lizenz</font>
+		</td><td valign=top>
+			<font size=2 class='small'>Freeware</font>
+		</tr></td>
+		<tr><td width=120 valign=top>
+			<font size=2 class='small'>Plattform</font>
+		</td><td valign=top>
+			<font size=2 class='small'>Windows 9x,ME,NT,2000</font>
+		</tr></td>
+		<tr><td width=120 valign=top>
+			<font size=2 class='small'>Laufzeitmodule</font>
+		</td><td valign=top>
+			<font size=2 class='small'>VB6 <a href='download/software/msvbvm60.zip'>Laufzeitmodule</a></font>
+		</tr></td>
+		<tr><td width=120 valign=top>
+			<font size=2 class='small'>Download</font>
+		</td><td valign=top>
+			<font size=2 class='small'><a href='download/software/mcc260.zip'>.zip Archiv, 599KB</a></font>
+		</tr></td>
+		<tr><td width=120 valign=top>
+			<font size=2 class='small'>Screenshots</font>
+		</td><td valign=top>
+			<font size=2 class='small'>
+			<a href="javascript:screenshot('scrnshot_mccstart.gif', 286, 279);">Startbildschirm</a>,
+			<a href="javascript:screenshot('scrnshot_mcccreate.gif', 472, 472);">Erschaffung</a>,
+			<a href="javascript:screenshot('scrnshot_mccmanage.gif', 625, 488);">Verwaltung</a>
+			</font>
+		</tr></td>
+		<tr><td width=120 valign=top>
+			<font size=2 class='small'>Beschreibung</font><br>
+		</td><td valign=top>
+			<p align='justify'><font size=2 class='small'>Charakter Erschaffung und Verwaltung für das deutsche Rollenspiel
+			Midgard 1880. Das Datenblatt ist im Microsoft Word Format exportierbar und kann für jeden Character individuell angepaßt werden.
+			Die Charakterdateien werden zum besseren Zugriff an Windows registriert.</font></p>
+		</tr></td>
+		</table><br>
+		</font>
+
+		<p align='justify'><font size=2>
+		Die hier angebotene Software wird "AS IS" zur Verfügung gestellt, ohne jegliche
+		Garantien, weder ausdrücklich noch impliziert. Hammerhead Sharkware übernimmt keinerlei
+		Verantwortung für eventuelle Fehler oder Versäumnisse. In keinem Fall wird
+		Hammerhead Sharkware für irgendwelche speziellen, zufälligen, indirekten oder
+		Folgeschäden haften, noch für Schäden jeglicher Art, einschließlich, ohne Beschränkung,
+		den Schäden, die aus Nutzungsverlust, Datenverlust oder Ertragsverlust hervorgehen.<br>
+		</font></p>
+
+		</font>
+		</td></tr>
+	</table>
+</div>
+
+<div ID='data1' class='data'>
+	<table width=60% border=0 cellpadding=0 cellspacing=0>
+		<tr><td valign=top><font size=2 class='normal'>
+		<img src='void.gif' name='hdata1_0' width=50 height=52 border=0 align=right>
+		<font size=5 class='headline'>Online Spiele</font><br>
+		<table width=100% border=0 cellpadding=0 cellspacing=0>
+			<tr><td valign=top align=left>
+				<table border=0 cellpadding=0 cellspacing=0>
+					<tr><td valign=top height=128 width=168>
+						<a href='games/goldwing/index.html' target='new'>
+						<img src='void.gif' name='hdata1_1' width=160 height=120 border=0>
+						</a>
+					</td><td valign=top>
+						<a href='games/goldwing/index.html' target='new'>
+						<font size=2 class='normal'>Goldwing</font>
+						</a>
+					</td></tr>
+				</table>
+			</td></tr>
+		</table>
+		</td></tr>
+	</table>
+</div>
+
+<div ID='data2' class='data'>
+	<table width=60% border=0 cellpadding=0 cellspacing=0>
+		<tr><td valign=top><font size=2 class='normal'>
+		<img src='void.gif' name='hdata2_0' width=50 height=52 border=0 align=right>
+		<font size=5 class='headline'>Dokumente</font><br>
+		<font size=4 class='headline'><br>Midgard 1996</font><br>
+		<table width=100% border=0 cellpadding=0 cellspacing=0>
+			<tr><td valign=top align=left><font size=2 class='normal'>
+				Concorde Inferno<br>
+				Deep Past<br>
+				Der Köder<br>
+				Der Sammler<br>
+				Der umgekehrte Turm zu Babel<br>
+				Die Berge von Atlantis<br>
+				Drei Prozent<br>
+				Eleven Hours<br>
+				High Attitude<br>
+				Kosmisches Strandgut<br>
+				<a href='download/documents/kurzundschmerzvoll.zip'>Kurz und schmerzvoll</a><br>
+				<a href='download/documents/liftout.zip'>Liftout</a><br>
+				Protection<br>
+				PsyOp<br>
+				Shopping<br>
+				The Lighthouse<br>
+				Vom Teufel geholt<br>
+			</font></td><td valign=top align=right><font size=2 class='normal'>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+				7 Seiten (pdf, 29KB)<br>
+				8 Seiten (pdf, 40KB)<br>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+			</font></td></tr>
+		</table><br>
+		<font size=4 class='headline'>Midgard 1880</font><br>
+		<table width=100% border=0 cellpadding=0 cellspacing=0>
+			<tr><td valign=top align=left><font size=2 class='normal'>
+				Der Armbruster<br>
+				And the adventure continues ...<br>
+				The Big Bankrobbery<br>
+				Burning Flesh<br>
+				Call of Anubis<br>
+				Don't trust anybody<br>
+				<a href='download/documents/glueckesschmied.zip'>Seines eignen Glückes Schmied</a><br>
+				<a href='download/documents/grabgottes.zip'>Das Grab Gottes</a><br>
+				<a href='download/documents/totenbestatter.zip'>Die toten Bestatter</a><br>
+			</font></td><td valign=top align=right><font size=2 class='normal'>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+				19 Seiten (pdf, 26KB)<br>
+				10 Seiten (pdf, 41KB)<br>
+				6 Seiten, (pdf, 68KB)<br>
+			</font></td></tr>
+		</table><br>
+		<font size=4 class='headline'>Midgard</font><br>
+		<table width=100% border=0 cellpadding=0 cellspacing=0>
+			<tr><td valign=top align=left><font size=2 class='normal'>
+				Aquaria<br>
+				Dark Jungle<br>
+				Die Eiswüste<br>
+				Der falsche König<br>
+				Das Goldschiff<br>
+				Das Grab im Tal der Könige<br>
+				Kakao<br>
+				Leibwächter des Königs<br>
+				Luftschiff der Dämonen<br>
+				Das Gasthaus zum Mondreiter<br>
+				<a href='download/documents/makron.zip'>Das Makron</a><br>
+				Die Puppe Asmodis<br>
+				Sieben Hügel und der Schlund<br>
+				Der Schneepilz<br>
+				Das Streichholz<br>
+				Die Turmuhr<br>
+				Turm der Angst<br>
+				<a href='download/documents/traukeinem.zip'>Trau Wirklich Wirklich Keinem</a><br>
+				Weg !<br>
+				Werwölfe<br>
+				Xahrae<br>
+				The Last Zombie Zone<br>
+			</font></td><td valign=top align=right><font size=2 class='normal'>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+				22 Seiten, (pdf, 171KB)<br>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+				5 Seiten, (pdf, 19KB)<br>
+				-<br>
+				-<br>
+				-<br>
+				-<br>
+			</font></td></tr>
+		</table><br>
+		<font size=4 class='headline'>Erweiterungen</font><br>
+		<table width=100% border=0 cellpadding=0 cellspacing=0>
+			<tr><td valign=top align=left><font size=2 class='normal'>
+				<a href='download/documents/combat.zip'>Zusatzregeln Schußwaffen</a><br>
+			</font></td><td valign=top align=right><font size=2 class='normal'>
+				2 Seiten, (pdf, 44KB)<br>
+			</font></td></tr>
+		</table><br>
+		</font></td></tr>
+	</table>
+</div>
+
+<div ID='data3' class='data'>
+	<table width=60% border=0 cellpadding=0 cellspacing=0>
+		<tr><td><font class='normal' size=2>
+		<img src='void.gif' name='hdata3_0' width=50 height=52 border=0 align=right>
+		<font size=5 class='headline'>Wallpapers</font><br>
+		<p align='justify'>
+		<font size=4 class='headline'>Hintergrundbilder</font><br>
+		Bei einer Farbtiefe von 16 Bit (High Color) oder weniger ist die Darstellung
+		von JPEG Bildern im Browser nicht korrekt. Um eine genaue Kopie der Datei zu erhalten
+		klicken Sie bitte mit der rechten Maustaste auf das Bild und wählen den Befehl
+		"Ziel speichern unter..." im Internet Explorer oder "Verknüpfung speichern unter" im Netscape Communicator.
+		</p>
+		<table width=100% border=0 cellpadding=0 cellspacing=0>
+			<tr><td valign=top align=left>
+				<table border=0 cellpadding=0 cellspacing=0>
+					<tr><td valign=top height=128 width=168>
+						<a href='download/themes/badday.jpg' target='new'>
+						<img src='void.gif' name='hdata3_1' width=160 height=120 border=0>
+						</a>
+					</td><td valign=top>
+						<font size=2 class='normal'>1024x768<br>JPEG, 96KB</font>
+					</td></tr>
+					<tr><td valign=top height=128>
+						<a href='download/themes/hammerheadisle.jpg' target='new'>
+						<img src='void.gif' name='hdata3_2' width=160 height=120 border=0>
+						</a>
+					</td><td valign=top>
+						<font size=2 class='normal'>1024x768<br>JPEG, 151KB</font>
+					</td></tr>
+					<tr><td valign=top height=128>
+						<a href='download/themes/warbird.jpg' target='new'>
+						<img src='void.gif' name='hdata3_3' width=160 height=120 border=0>
+						</a>
+					</td><td valign=top>
+						<font size=2 class='normal'>1024x768<br>JPEG, 197KB</font>
+					</td></tr>
+					<tr><td valign=top height=128>
+						<a href='download/themes/bullet.jpg' target='new'>
+						<img src='void.gif' name='hdata3_4' width=160 height=120 border=0>
+						</a>
+					</td><td valign=top>
+						<font size=2 class='normal'>1024x768<br>JPEG, 115KB</font>
+					</td></tr>
+				</table>
+			</td></tr>
+		</table>
+		</font></td></tr>
+	</table>
+</div>
+
+<div ID='data4' class='data'>
+	<table width=60% border=0 cellpadding=0 cellspacing=0>
+		<tr><td valign=top><font size=2 class='normal'>
+		<img src='void.gif' name='hdata4_0' width=50 height=52 border=0 align=right>
+		<font size=5 class='headline'>Links</font><br><br>
+		<font size=4 class='headline'>Intern</font><br>
+		<table width=100% border=0 cellpadding=0 cellspacing=0>
+			<tr><td valign=top align=left><font size=2 class='normal'>
+				<a href='low' target='_top'>Low-Level Home</a><br>
+			</font></td><td valign=top align=right><font size=2 class='normal'>
+				www.hammerheadsharkware.de/low<br>
+			</font></td></tr>
+		</table><br>
+		<font size=4 class='headline'>Button</font><br>
+		<a href="?"><img src='void.gif' name='hdata4_1' width=165 height=40 border=0 alt='Hammerhead Sharkware'></a><br>
+		</font></td></tr>
+	</table>
+</div>
+
+<div ID="err" class="error">
+<font face="Geneva,Helvetica,Arial,sans-serif" color="#0080ff" size=2>
+<center>
+This browser is <b>not able</b> to display this site !<br><br>
+Please use the low level <a href="low">pages</a>
+or send a <a href="mailto:info@hammerheadsharkware.de">mail</a>.<br>
+</center>
+</font>
+</div>
+
+</body>
+<script language="javascript" src="main.js"></script>
+
+</html>

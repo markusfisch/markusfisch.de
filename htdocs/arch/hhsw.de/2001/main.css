@@ -1,0 +1,28 @@
+BODY {background-color: #000000;}
+
+.normal {font-family:Helvetica,sans-serif; color:#0080ff; text-decoration:none;}
+.small {font-family:Helvetica,sans-serif; color:#0080ff; text-decoration:none;}
+.headline {font-family:Helvetica,sans-serif; color:#0060ff; text-decoration:none;}
+
+.error {position:absolute; left:0; top:100;  width:100%; height:100; z-index:1; visibility:hidden;}
+.rec {position:absolute; left:0; top:0; width:202; height:18; z-index:2; visibility:hidden;}
+.recb {position:absolute; left:0; top:0; width:202; height:18; z-index:3; visibility:hidden;}
+.button {position:absolute; left:0; top:0; width:50; height:52; z-index:300; visibility:hidden;}
+.back {position:absolute; left:0; top:0; width:100%; height:100%; z-index:100; visibility:hidden;}
+.backb {position:absolute; left:0; top:0; width:100%; height:100%; z-index:200; visibility:hidden;}
+.data {position:absolute; left:0; top:0; width:100%; height:100%; z-index:250; visibility:hidden;}
+.vlight {position:absolute; left:118; top:249; width:40; height:150; z-index:150; visibility:hidden;}
+.hlight {position:absolute; left:252; top:116; width:150; height:40; z-index:150; visibility:hidden;}
+.arw {position:absolute; left:0; top:0; width:16; height:52; z-index:300; visibility:hidden;}
+.submarine {position:absolute; left:0; top:0; width:152; height:46; z-index:225; visibility:hidden;}
+.submarineb {position:absolute; left:0; top:0; width:152; height:46; z-index:230; visibility:hidden;}
+.swirl {position:absolute; left:0; top:0; width:12; height:8; z-index:225; visibility:hidden;}
+.vline {position:absolute; left:0; top:0; width:2000; height:2; z-index:225; visibility:hidden;}
+.hline {position:absolute; left:0; top:0; width:2; height:2000; z-index:225; visibility:hidden;}
+.track {position:absolute; left:0; top:0; width:184; height:11; z-index:225; visibility:hidden;}
+.scannerData {position:absolute; left:0; top:0; width:104; height:86; z-index:250; visibility:hidden;}
+
+a:link {color: #00aaff; text-decoration: none;}
+a:visited {color: #00aaff; text-decoration: none;}
+a:active {color: #00aaff; text-decoration: none;}
+a:hover	{color: #00bbff;text-decoration: underline;}

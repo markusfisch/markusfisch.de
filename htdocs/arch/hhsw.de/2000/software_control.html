@@ -1,0 +1,72 @@
+<html>
+
+<head>
+<meta name="author" content="Markus Fisch">
+<meta name="audience" content="All">
+<meta name="documentType" content="WebDocument">
+<title>hammerhead sharkware</title>
+</head>
+
+<body background="backgrnd.gif"
+	topmargin=0 leftmargin=0 marginwidth=0 marginheight=0
+	link="#00000" vlink="#00000" alink="#00000">
+
+<font size=3 face=arial>
+
+<script language="javascript">
+<!--
+if (document.images) {
+	img1 = new Image();
+	img1.src = "software_0a.gif";
+	img1off = new Image();
+	img1off.src = "software_0.gif";
+	img1click = new Image();
+	img1click.src = "software_0p.gif";
+
+	img2 = new Image();
+	img2.src = "software_1a.gif";
+	img2off = new Image();
+	img2off.src = "software_1.gif";
+	img2click = new Image();
+	img2click.src = "software_1p.gif";
+}
+
+// function to click images
+
+function imgClick(imgName) {
+	window.focus();
+	if (document.images) {
+		document[imgName].src = eval(imgName + "click.src");
+		setTimeout( 'imgOff("'+imgName+'")', 500 );
+	}
+}
+
+// function to activate images
+
+function imgOn(imgName) {
+	if (document.images) {
+		document[imgName].src = eval(imgName + ".src");
+	}
+}
+
+// functions to deactivate images
+
+function imgOff(imgName) {
+	if (document.images) {
+		document[imgName].src = eval(imgName + "off.src");
+	}
+}
+
+function navOff(navName) {
+	if (document.images) {
+		document[navName].src = eval(navName + "off.src");
+	}
+}
+// end hide -->
+</script>
+
+<a href="software_0.html" target="software_display" onClick = "imgClick('img1')" onMouseOver = "imgOn('img1'); window.status='Windows';return true"; onMouseOut = "imgOff('img1')"><img border="0" src="software_0.gif" name="img1" alt="Windows" width=56 height=56></a><br>
+<a href="software_1.html" target="software_display" onClick = "imgClick('img2')" onMouseOver = "imgOn('img2'); window.status='DOS';return true"; onMouseOut = "imgOff('img2')"><img border="0" src="software_1.gif" name="img2" alt="DOS" width=56 height=56></a><br>
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+BODY {background-color:#b10000; font-family:helvetica,helv,sans-serif,verdana; color:#ffffff; text-decoration:none; font-size:10pt;}
+
+a:link {color:#000000; text-decoration:none; font-weight:bold;}
+a:visited {color:#400000; text-decoration:none; font-weight:bold;}
+a:active {color:#000000; text-decoration:none; font-weight:bold;}
+a:hover	{color:#ffffff;text-decoration:underline; font-weight:bold;}
+
+p,li,ul,ol,td,div {font-family:helvetica,helv,sans-serif,verdana; color:#ffffff; text-decoration:none; font-size:10pt;}
+h1 {font-family:helvetica,helv,sans-serif,verdana; color:#ffffff; text-decoration:none; font-size:16pt;}
+h2 {font-family:helvetica,helv,sans-serif,verdana; color:#ffffff; text-decoration:none; font-size:13pt;}
+h3 {font-family:helvetica,helv,sans-serif,verdana; color:#ffffff; text-decoration:none; font-size:12pt;}
+h4 {font-family:helvetica,helv,sans-serif,verdana; color:#ffffff; text-decoration:none; font-size:10pt;}
+h5 {font-family:helvetica,helv,sans-serif,verdana; color:#ffffff; text-decoration:none; font-size:9pt;}
+h6 {font-family:helvetica,helv,sans-serif,verdana; color:#ffffff; text-decoration:none; font-size:8pt;}
