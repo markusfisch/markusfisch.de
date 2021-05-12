@@ -14,7 +14,7 @@
 
 <article><a name="pie-launcher"><h2>Pie Launcher</h2></a>
 <a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.pielauncher" class="IconLink"><img src="screenshots/pie_launcher_icon.png" alt="Pie Launcher Icon"/></a>
-<p>Android home screen launcher that uses a dynamic pie menu instead of tables of icons. Here's a <a href="https://www.youtube.com/watch?v=JM70qf93UqY">video</a> of it.</p>
+<p>Android home screen launcher that uses a dynamic pie menu instead of tables of icons. Here's a <a href="https://www.youtube.com/watch?v=zg0h3s_yua8">video</a> of it.</p>
 <p>Once you get used to it, you can launch your most frequently used apps using muscle memory without even looking at the screen.</p>
 <p>Apps you don't use regularly are quickly available with just one tap and by typing the first one or two letters of the app name.</p>
 <p class="Stats"><time datetime="2019-12">December 2019</time> • $(loc ../PieLauncher app/src/main) • Java • MIT</p>
@@ -23,7 +23,7 @@
 <li><a href="https://f-droid.org/de/packages/de.markusfisch.android.pielauncher/">F-Droid</a></li>
 <li><a href="https://github.com/markusfisch/PieLauncher">GitHub</a></li>
 <li><a href="https://github.com/markusfisch/PieLauncher/releases">Releases</a></li>
-<li><a href="https://www.youtube.com/watch?v=JM70qf93UqY">Video</a></li>
+<li><a href="https://www.youtube.com/watch?v=zg0h3s_yua8">Video</a></li>
 </ul></article>
 
 <article><a name="shader-editor"><h2>Shader Editor</h2></a>
