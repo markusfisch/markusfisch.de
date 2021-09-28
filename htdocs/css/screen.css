@@ -209,6 +209,8 @@ a.Active {
 
 	h1 {
 		font-size: 250%;
+		border-bottom: 2px solid #111;
+		margin-bottom: 1rem;
 	}
 
 	#Main {
@@ -233,6 +235,10 @@ a.Active {
 
 	.NavList:before {
 		filter: invert(100%);
+	}
+
+	h1 {
+		border-color: #ddd;
 	}
 
 	a {
