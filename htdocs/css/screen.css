@@ -1,3 +1,8 @@
+html {
+	min-height: calc(100% - 1em);
+	border-bottom: 1em solid #111;
+}
+
 html, body {
 	background: #f4f4f4; color: #333;
 }
@@ -223,6 +228,7 @@ a.Active {
 @media (prefers-color-scheme: dark) {
 	html, body {
 		background: #111; color: #ddd;
+		border-color: #ddd;
 	}
 
 	.NavList:before {
