@@ -13,9 +13,9 @@ h1, h2, h3, p, ul {
 
 h1 {
 	font-size: 400%;
-	font-weight: lighter;
-	margin-bottom: 2rem;
-	border-bottom: 2px solid #111;
+	margin-bottom: 3rem;
+	border-bottom: 6px solid #111;
+	text-align: center;
 }
 
 a {
@@ -74,6 +74,7 @@ nav {
 
 a.Active {
 	font-weight: bold;
+	font-size: 110%;
 }
 
 #Main {
@@ -206,7 +207,7 @@ a.Active {
 
 	h1 {
 		font-size: 250%;
-		margin-bottom: 1rem;
+		margin-bottom: 2rem;
 	}
 
 	#Main {
