@@ -132,7 +132,6 @@ a.Active {
 }
 
 .Separator {
-	position: relative;
 	margin-bottom: 4rem;
 }
 
@@ -212,17 +211,6 @@ a.Active {
 
 	#Main {
 		margin-left: 0;
-	}
-
-	.Separator:after {
-		position: absolute;
-		left: 0; right: 0; top: 4rem;
-		content: '…';
-		text-align: center;
-	}
-
-	article:last-of-type .Separator:after {
-		content: '';
 	}
 
 	.ProjectLinks {
