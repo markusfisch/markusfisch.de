@@ -1,11 +1,12 @@
 <article>
 <h1>Hello!</h1>
-<p>Here you will find some <a href="apps-android.html">apps</a>, casual
-<a href="games-casual.html">games</a> you can play directly in your browser,
-and a few <a href="tools-android.html">tools</a> for working on the
-computer.</p>
-<p>Maybe there is something on here that you will find useful or
-entertaining.</p>
+<p>Here you will find a few
+<a href="apps-android.html">apps</a>
+for Android smartphones, some casual
+<a href="games-casual.html">games</a>
+that you can play directly in your browser, and some
+<a href="tools-android.html">tools</a>
+for working on the computer.</p>
 <p>You can also find me on:</p>
 <ul class="ProjectLinks">
 <li><a href="https://github.com/markusfisch">GitHub</a></li>
