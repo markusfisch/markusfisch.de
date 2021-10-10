@@ -13,7 +13,7 @@ h1, h2, h3, p, ul {
 
 h1 {
 	font-size: 400%;
-	margin-bottom: 3rem;
+	margin-bottom: 1rem;
 	border-bottom: 6px solid #111;
 	text-align: center;
 }
@@ -206,7 +206,6 @@ a.Active {
 
 	h1 {
 		font-size: 250%;
-		margin-bottom: 2rem;
 	}
 
 	#Main {
