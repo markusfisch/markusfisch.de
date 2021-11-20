@@ -74,7 +74,8 @@ nav {
 
 a.Active {
 	font-weight: bold;
-	font-size: 110%;
+	transform: scale(1.3);
+	transform-origin: center left;
 }
 
 #Main {
