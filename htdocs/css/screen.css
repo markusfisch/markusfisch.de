@@ -109,7 +109,7 @@ a.Active {
 .Stats {
 	font-size: 70%;
 	text-transform: uppercase;
-	color: #888;
+	color: #555;
 }
 
 .ProjectLinks {
@@ -175,7 +175,7 @@ a.Active {
 	display: block;
 	font-size: 70%;
 	text-transform: uppercase;
-	color: #888;
+	color: #555;
 }
 
 @media screen and (max-height: 480px) {
@@ -257,5 +257,10 @@ a.Active {
 	.TL:after,
 	.TL li:after {
 		background: #ddd; color: #111;
+	}
+
+	.Stats,
+	.TL time {
+		color: #aaa;
 	}
 }
