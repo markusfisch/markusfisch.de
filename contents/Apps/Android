@@ -80,3 +80,13 @@
 <li><a href="https://github.com/markusfisch/MotoScore">GitHub</a></li>
 <li><a href="https://github.com/markusfisch/MotoScore/releases">Releases</a></li>
 </ul></article>
+
+<article><a name="screen-time"><h2>Screen Time</h2></a>
+<a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.screentime" class="IconLink"><img src="screenshots/screen_time_icon.png" alt="Screen Time Icon"/></a>
+<p>Displays your screen time in a permanent notification.</p><p>By making screen time more prominent, you can get a better sense of how much of the day you spend on your phone. Without judgement. Just so you know.</p><p>Of course, there's Google's Digital Wellbeing app and a lot of other apps that track app usage. But I just like to see my screen time at a glance without having to open an app.</p>
+<p class="Stats"><time datetime="2018-11">November 2018</time> • $(loc ../ScreenTime app/src/main) • Kotlin • Unlicense</p>
+<ul class="ProjectLinks Separator">
+<li><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.screentime">Google Play</a></li>
+<li><a href="https://github.com/markusfisch/ScreenTime">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/ScreenTime/releases">Releases</a></li>
+</ul></article>
