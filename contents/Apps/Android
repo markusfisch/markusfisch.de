@@ -71,7 +71,7 @@
 
 <article><a name="moto-score"><h2>Moto Score</h2></a>
 <a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.motoscore" class="IconLink"><img src="screenshots/moto_score_icon.png" alt="Moto Score Icon"/></a>
-<p>Tally counter for motorcyclists to record tours and mistakes (i.e. everything you wouldn't do again like this).</p>
+<p>Tally counter for motorcyclists to record tours and mistakes (i.e. everything you wouldn't do again).</p>
 <p>Because according to <a href="https://www.amazon.com/The-Upper-Half-Motorcycle-Machine/dp/1884313752">The Upper Half of the Motorcycle</a>, consciously counting mistakes stimulates learning.</p>
 <p>The prototype of this app was written and presented at "Hack The Ride", a hackathon held by BMW Motorrad in Barcelona 2014.</p>
 <p class="Stats"><time datetime="2014-02">February 2014</time> • $(loc ../MotoScore app/src/main) • Java • Unlicense</p>
