@@ -12,9 +12,33 @@ h1, h2, h3, p, ul {
 }
 
 h1 {
-	font: 300% serif;
-	font-weight: bold;
+	font-size: 60%; color: #e4e4e4;
+	font-weight: normal;
 	margin-bottom: 2rem;
+	letter-spacing: .5em;
+	text-transform: uppercase;
+	text-align: center;
+	overflow: hidden;
+}
+
+h1:before,
+h1:after {
+	background-color: #e4e4e4;
+	content: "";
+	display: inline-block;
+	height: 1px;
+	position: relative;
+	vertical-align: middle;
+	width: 50%;
+}
+
+h1:before {
+	right: .5em;
+	margin-left: -50%;
+}
+
+h1:after {
+	margin-right: -50%;
 }
 
 a {
@@ -201,7 +225,8 @@ a.Active {
 		position: static;
 		width: auto;
 		text-align: left;
-		padding-top: .75em; margin-bottom: 2rem;
+		padding-top: .75em;
+		padding-bottom: 0;
 	}
 
 	.NavList:before {
@@ -210,10 +235,6 @@ a.Active {
 
 	.NavList {
 		padding: 0 100px 0 0;
-	}
-
-	h1 {
-		font-size: 250%;
 	}
 
 	#Main {
@@ -247,7 +268,12 @@ a.Active {
 	}
 
 	h1 {
-		color: #ddd;
+		color: #333;
+	}
+
+	h1:before,
+	h1:after {
+		background-color: #333;
 	}
 
 	a {
