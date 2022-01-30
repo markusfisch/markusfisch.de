@@ -83,7 +83,7 @@ a.Active {
 }
 
 #Main h2 {
-	font-family: serif;
+	font: 200% serif;
 	margin-bottom: .3rem;
 	clear: both;
 }
@@ -214,6 +214,10 @@ a.Active {
 
 	#Main {
 		margin-left: 0;
+	}
+
+	#Main h2 {
+		font-size: 150%;
 	}
 
 	.ProjectLinks {
