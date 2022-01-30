@@ -345,7 +345,7 @@
 	{
 		"cat": "Games",
 		"subcat": "Js13kGames",
-		"info": "<p class=\"Separator\">Here are the games I wrote for <a href=\"https://js13kgames.com\">js13kGames</a>. js13kgames is a JavaScript coding competition with a file size limit of 13 kilobytes.</p>"
+		"info": "<p class=\"Excerpt Separator\"><a href=\"https://js13kgames.com\">js13kGames</a> is a JavaScript coding competition with a file size limit of 13 kilobytes.</p>"
 	},
 	{
 		"cat": "Games",
@@ -462,7 +462,7 @@
 	{
 		"cat": "Games",
 		"subcat": "Ludum_Dare",
-		"info": "<p class=\"Separator\">Here are the games and prototypes I wrote for <a href=\"https://ldjam.com\">Ludum Dare</a>. Ludum Dare is one of the world's largest and longest running Game Jam events.</p>"
+		"info": "<p class=\"Excerpt Separator\"><a href=\"https://ldjam.com\">Ludum Dare</a> is one of the world's largest and longest running Game Jam events.</p>"
 	},
 	{
 		"cat": "Games",
@@ -708,14 +708,14 @@
 	{
 		"cat": "Games",
 		"subcat": "0h_Game_Jam",
-		"info": "<p class=\"Separator\"><a href=\"http://0hgame.eu\">0h Game Jam</a> is a coding competition that takes place during <a href=\"https://en.wikipedia.org/wiki/Daylight_saving_time\">DST hour shift</a>.</p>"
+		"info": "<p class=\"Excerpt Separator\"><a href=\"http://0hgame.eu\">0h Game Jam</a> is a coding competition that takes place during <a href=\"https://en.wikipedia.org/wiki/Daylight_saving_time\">DST hour shift</a>.</p>"
 	},
 	{
 		"cat": "Games",
 		"subcat": "0h_Game_Jam",
 		"name": "Huh",
 		"screenshot": "screenshots/huh.jpg",
-		"description": "<p>Click on a free spot to survive. Made for <a href=\"http://0hgame.eu/\">0h Game Jam</a> 2014.</p>\n<p>Here is the <a href=\"https://vimeo.com/110055282\">time-lapse video</a> of that hour that never was.</p>",
+		"description": "<p>Click on a free spot to survive. Made for <a href=\"http://0hgame.eu/\">0h Game Jam</a> 2014.</p>\n<p>Here is the <a href=\"https://vimeo.com/110055282\">time-lapse video</a> of the hour that never was.</p>",
 		"dob": "2014-10",
 		"loc": "../huh:submission",
 		"lang": "JavaScript",

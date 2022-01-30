@@ -107,6 +107,11 @@ a.Active {
 	border-radius: 6em;
 }
 
+.Excerpt {
+	font-size: 90%;
+	font-style: italic;
+}
+
 .Stats,
 .TL time {
 	font-size: 70%;
