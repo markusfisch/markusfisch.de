@@ -28,6 +28,25 @@ count_lines() {
 	done | awk 'NF' | wc -l
 }
 
+# Group digits
+#
+# @param 1 - digits to group
+group_digits() {
+	local LEN=${#1}
+	local GL=$((LEN % 3))
+	((GL == 0)) && GL=3
+	local I=0
+	while true
+	do
+		printf "${1:I:GL}"
+		((I += GL))
+		((I >= LEN)) && break
+		printf ','
+		GL=3
+	done
+	echo
+}
+
 # Print lines of code for given repository
 #
 # @param 1 - path to repository
@@ -51,6 +70,6 @@ loc() {
 
 		[ "$BRANCH" ] && git checkout "$BRANCH" &>/dev/null
 
-		echo "$LOC LINES"
+		echo "$(group_digits "$LOC") Lines"
 	)
 }
