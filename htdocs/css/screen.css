@@ -116,7 +116,7 @@ a.Active {
 }
 
 .ScreenshotLink img {
-	border-radius: 6em;
+	border-radius: .1em;
 }
 
 .ProjectLinks {
