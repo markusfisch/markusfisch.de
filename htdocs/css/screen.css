@@ -110,7 +110,7 @@ a.Active {
 }
 
 .ScreenshotLink img, .IconLink img {
-	margin: 0 0 1em 1em;
+	margin: .5em 0 1em 1em;
 	float: right;
 	width: 6em;
 }
@@ -225,7 +225,6 @@ a.Active {
 	}
 
 	.ScreenshotLink img, .IconLink img {
-		margin: 0 0 .5em .5em;
 		width: 4em;
 	}
 }
