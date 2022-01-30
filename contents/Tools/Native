@@ -1,44 +1,44 @@
 <h1>Native</h1>
 
 <article><a name="bots"><h2>Bots</h2></a>
+<p class="Stats"><time datetime="2018-03">March 2018</time> • $(loc ../bots server) • C • Unlicense</p>
 <a href="https://github.com/markusfisch/bots" class="ScreenshotLink"><img src="screenshots/bots.jpg" alt="Bots Screenshot"/></a>
 <p>Programming game about bots that move on a grid.</p>
 <p>To play the game, your program, a so-called bot, must connect a socket to the Bots server. The bot can be programmed in any language that can open a socket. </p>
 <p>Used for the <a href="https://kurzdigital.com">KURZ Digital</a> Coding Night <a href="https://twitter.com/markusfisch/status/1008395010247741440?s=20">2018</a> and <a href="https://twitter.com/kurzdigital/status/1139827333228113920?s=20">2019</a>.</p>
-<p class="Stats"><time datetime="2018-03">March 2018</time> • $(loc ../bots server) • C • Unlicense</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://github.com/markusfisch/bots">GitHub</a></li>
 <li><a href="http://bots.markusfisch.de">Web Client</a></li>
 </ul></article>
 
 <article><a name="libhttp"><h2>libhttp</h2></a>
+<p class="Stats"><time datetime="2013-08">August 2013</time> • $(loc ../libhttp http.c) • C • MIT</p>
 <p>Light-weight C library for HTTP/1.1 requests.</p>
 <p>Build for embedded environments or whereever libcurl would be just too much.</p>
-<p class="Stats"><time datetime="2013-08">August 2013</time> • $(loc ../libhttp http.c) • C • MIT</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://github.com/markusfisch/libhttp">GitHub</a></li>
 </ul></article>
 
 <article><a name="libxml"><h2>libxml</h2></a>
+<p class="Stats"><time datetime="2013-09">September 2013</time> • $(loc ../libxml xml.c) • C • MIT</p>
 <p>Incremental XML parser in plain C.</p>
 <p>Processes XML input in chunks without caching the entire document.</p>
-<p class="Stats"><time datetime="2013-09">September 2013</time> • $(loc ../libxml xml.c) • C • MIT</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://github.com/markusfisch/libxml">GitHub</a></li>
 </ul></article>
 
 <article><a name="cpprc"><h2>cpprc</h2></a>
+<p class="Stats"><time datetime="2006-12">December 2006</time> • $(loc ../cpprc) • C++ • Unlicense</p>
 <p>Embed data files into C++. What "xxd -i" does for C.</p>
 </p>Like "qtrc" from <a href="https://www.qt.io/">Qt</a> but for <a href="https://www.wxwidgets.org/">wxWidgets</a> and the C++ <a href="https://en.wikipedia.org/wiki/Standard_Template_Library">STL</a>.</p>
-<p class="Stats"><time datetime="2006-12">December 2006</time> • $(loc ../cpprc) • C++ • Unlicense</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://github.com/markusfisch/cpprc">GitHub</a></li>
 </ul></article>
 
 <article><a name="calc"><h2>calc</h2></a>
+<p class="Stats"><time datetime="2004-06">June 2004</time> • $(loc ../calc) • C • Unlicense</p>
 <p>Tiny line calculator in portable C.</p>
 <p>A humble <a href="https://en.wikipedia.org/wiki/Bc_(programming_language)">bc</a> alternative.</p>
-<p class="Stats"><time datetime="2004-06">June 2004</time> • $(loc ../calc) • C • Unlicense</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://github.com/markusfisch/calc">GitHub</a></li>
 </ul></article>

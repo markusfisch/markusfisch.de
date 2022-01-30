@@ -1,17 +1,17 @@
 <h1>Shell</h1>
 
 <article><a name="dotfiles"><h2>dotfiles</h2></a>
+<p class="Stats"><time datetime="2012-10">October 2012</time> • $(loc ../dotfiles bin) • bash • Unlicense</p>
 <p>The terminal is my IDE and this is my configuration. </p>
 <p>Find here some shell scripts that make my life easier.</p>
-<p class="Stats"><time datetime="2012-10">October 2012</time> • $(loc ../dotfiles bin) • bash • Unlicense</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://github.com/markusfisch/dotfiles">GitHub</a></li>
 </ul></article>
 
 <article><a name="annual"><h2>annual</h2></a>
+<p class="Stats"><time datetime="2016-10">October 2016</time> • $(loc ../gists/annual annual) • bash • Unlicense</p>
 <p>Generate an annual report from your local git repositories.</p>
 <p>Here are my reports since I started using git, professional and personal repositories combined.</p>
-<p class="Stats"><time datetime="2016-10">October 2016</time> • $(loc ../gists/annual annual) • bash • Unlicense</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://gist.github.com/markusfisch/c43e32a50f833539ea0f7b8b6109320e">Gist</a></li>
 <li><a href="annuals/charts.html">Charts</a></li>
@@ -30,51 +30,51 @@
 </ul></article>
 
 <article><a name="simsalabash"><h2>simsalabash</h2></a>
-<p>Dead simple static site generator for command line lovers.</p><p>This <a href="https://github.com/markusfisch/markusfisch.de">website</a> is built using it. Yes, sometimes I fall prey to the <a href="https://en.wikipedia.org/wiki/Not_invented_here">NIH syndrome</a>. On purpose.</p>
 <p class="Stats"><time datetime="2011-11">November 2011</time> • $(loc ../simsalabash simsalabash) • bash • Unlicense</p>
+<p>Dead simple static site generator for command line lovers.</p><p>This <a href="https://github.com/markusfisch/markusfisch.de">website</a> is built using it. Yes, sometimes I fall prey to the <a href="https://en.wikipedia.org/wiki/Not_invented_here">NIH syndrome</a>. On purpose.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://github.com/markusfisch/simsalabash">GitHub</a></li>
 </ul></article>
 
 <article><a name="readmail"><h2>readmail</h2></a>
-<p>POP3/SMTP client in bash.</p>
 <p class="Stats"><time datetime="2006-06">June 2006</time> • $(loc ../readmail readmail) • bash • Unlicense</p>
+<p>POP3/SMTP client in bash.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://github.com/markusfisch/readmail">GitHub</a></li>
 </ul></article>
 
 <article><a name="advent-of-awk-2020"><h2>Advent of AWK 2020</h2></a>
-<p><a href="https://en.wikipedia.org/wiki/AWK">AWK</a> solutions for <a href="https://adventofcode.com/2020">Advent of Code 2020</a>.</p>
 <p class="Stats"><time datetime="2020-12">December 2020</time> • $(loc ../advent-of-awk '*/part?') • awk • Unlicense</p>
+<p><a href="https://en.wikipedia.org/wiki/AWK">AWK</a> solutions for <a href="https://adventofcode.com/2020">Advent of Code 2020</a>.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://github.com/markusfisch/advent-of-awk">GitHub</a></li>
 </ul></article>
 
 <article><a name="mkatlas"><h2>mkatlas</h2></a>
-<p>Create a texture atlas in bash with <a href="https://www.imagemagick.org/">ImageMagick</a>.</p>
 <p class="Stats"><time datetime="2013-09">September 2013</time> • $(loc ../gists/mkatlas mkatlas) • bash • Unlicense</p>
+<p>Create a texture atlas in bash with <a href="https://www.imagemagick.org/">ImageMagick</a>.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://gist.github.com/markusfisch/6442297">Gist</a></li>
 </ul></article>
 
 <article><a name="tree"><h2>tree</h2></a>
-<p>Show a file listing as tree structure.</p>
 <p class="Stats"><time datetime="2013-04">April 2013</time> • $(loc ../gists/tree tree) • bash • Unlicense</p>
+<p>Show a file listing as tree structure.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://gist.github.com/markusfisch/5411843">Gist</a></li>
 </ul></article>
 
 <article><a name="bars"><h2>bars</h2></a>
-<p>Print horizontal bar diagrams from a list of values.</p>
 <p class="Stats"><time datetime="2013-01">January 2013</time> • $(loc ../gists/bars bars) • bash • Unlicense</p>
+<p>Print horizontal bar diagrams from a list of values.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://gist.github.com/markusfisch/4612424">Gist</a></li>
 </ul></article>
 
 <article><a name="takahashi"><h2>takahashi</h2></a>
+<p class="Stats"><time datetime="2014-10">October 2014</time> • $(loc ../gists/takahashi takahashi) • bash • Unlicense</p>
 <p>Create a single file web presentation from a Markdown document.</p>
 <p>This is for you if you like Markdown and the <a href="https://en.wikipedia.org/wiki/Takahashi_method">Takahashi method</a>.</p>
-<p class="Stats"><time datetime="2014-10">October 2014</time> • $(loc ../gists/takahashi takahashi) • bash • Unlicense</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://gist.github.com/markusfisch/eff723d3445839fc4eb5">Gist</a></li>
 </ul></article>

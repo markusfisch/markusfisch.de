@@ -1,21 +1,21 @@
 <h1>Web</h1>
 
 <article><a name="was-ist-los-um-nürnberg?"><h2>Was ist los um Nürnberg?</h2></a>
+<p class="Stats"><time datetime="2020-01">January 2020</time> • $(loc ../was-los bin) • Python • Unlicense</p>
 <a href="https://los.baby/" class="IconLink"><img src="screenshots/was_los_icon.png" alt="Was ist los um Nürnberg? Icon"/></a>
 <p>Simple, searchable list of what to do around Nuremberg, Germany.</p>
 <p>This was written just before the outbreak of the COVID-19 pandemic, and some of the sources have since dried up. Hopefully only transitionally.</p>
-<p class="Stats"><time datetime="2020-01">January 2020</time> • $(loc ../was-los bin) • Python • Unlicense</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://los.baby/">Website</a></li>
 <li><a href="https://github.com/markusfisch/was-los">GitHub</a></li>
 </ul></article>
 
 <article><a name="qrim"><h2>qrim</h2></a>
+<p class="Stats"><time datetime="2015-07">July 2015</time> • $(loc ../qrim lib/qrim.js) • JavaScript • Unlicense</p>
 <a href="http://qrim.markusfisch.de/" class="ScreenshotLink"><img src="screenshots/qrim.jpg" alt="qrim Screenshot"/></a>
 <p>Merge a <a href="https://en.wikipedia.org/wiki/QR_code">QR Code</a> with any background image. Modifies the source image only where necessary.</p>
 <p>This exploits the fact that barcode reading is based on contrast differences. Started as an experiment to see how far you could go.</p>
 <p>Please keep in mind that QR Codes like this are naturally harder to read and that not every QR Code scanner might be able to read them. You may use the sliders to find a reliable configuration for your background image and make sure to test the result with different scanners.</p>
-<p class="Stats"><time datetime="2015-07">July 2015</time> • $(loc ../qrim lib/qrim.js) • JavaScript • Unlicense</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://qrim.markusfisch.de/">Website</a></li>
 <li><a href="https://github.com/markusfisch/qrim">GitHub</a></li>
