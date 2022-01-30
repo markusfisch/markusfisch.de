@@ -106,10 +106,11 @@ a.Active {
 	border-radius: 6em;
 }
 
-.Stats {
+.Stats,
+.TL time {
 	font-size: 70%;
 	text-transform: uppercase;
-	color: #555;
+	color: #aaa;
 }
 
 .ProjectLinks {
@@ -172,9 +173,6 @@ a.Active {
 
 .TL time {
 	display: block;
-	font-size: 70%;
-	text-transform: uppercase;
-	color: #555;
 }
 
 @media screen and (max-height: 480px) {
@@ -263,6 +261,6 @@ a.Active {
 
 	.Stats,
 	.TL time {
-		color: #aaa;
+		color: #777;
 	}
 }
