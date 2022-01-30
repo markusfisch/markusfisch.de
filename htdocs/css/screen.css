@@ -12,10 +12,9 @@ h1, h2, h3, p, ul {
 }
 
 h1 {
-	font-size: 300%;
-	font-weight: normal;
+	font: 300% serif;
+	font-weight: bold;
 	margin-bottom: 2rem;
-	border-bottom: 1px solid #e4e4e4;
 }
 
 a {
@@ -237,7 +236,6 @@ a.Active {
 
 	h1 {
 		color: #ddd;
-		border-color: #333;
 	}
 
 	a {
