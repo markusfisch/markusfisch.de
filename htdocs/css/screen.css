@@ -188,6 +188,10 @@ a.Active {
 }
 
 @media screen and (max-width: 640px) {
+	body {
+		font-size: 105%;
+	}
+
 	nav, #Main {
 		padding: 1em;
 		max-width: none;
