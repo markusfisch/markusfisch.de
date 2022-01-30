@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+readonly BASE=${0%/*}
+rm -rf contents/[^H]* && "$BASE/generate_contents" "$BASE/items.json" && {
+	cat << EOF > contents/Games/.nav
+Casual
+Js13kGames
+Ludum-Dare
+0h-Game-Jam
+EOF
+} && make clean compose

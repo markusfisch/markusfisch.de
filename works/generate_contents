@@ -1,0 +1,118 @@
+#!/usr/bin/env python3
+
+import json
+import os
+import shutil
+import sys
+
+from datetime import datetime, timedelta
+
+
+def anchorize(name):
+    return name.replace(' ', '-').lower()
+
+
+def anchor(cat, subcat, name):
+    cat = cat.lower()
+    subcat = subcat.replace('_', '-').lower()
+    return f'{cat}-{subcat}.html#{anchorize(name)}'
+
+
+def timeline(items):
+    items = filter(lambda item: item.get('name') is not None and
+            item.get('dob') is not None, items)
+    hist = {}
+    for item in items:
+        name = item['name']
+        # prefer first occurence
+        if name in hist:
+            continue
+        cat = item['cat']
+        if cat == 'Archive':
+            href = item['links']['Visit']
+        else:
+            href = anchor(cat, item['subcat'], name)
+        hist[name] = {
+            'href': href,
+            'name': name,
+            'dob': item['dob'],
+        }
+    f = open(f'contents/Timeline', 'w+')
+    f.write(f'<article>\n<h1>Timeline</h1>\n')
+    f.write('<ul class="TL">\n')
+    for item in sorted(
+        hist.values(),
+        key=lambda item: item['dob'],
+        reverse=True,
+    ):
+        dob = item['dob']
+        pretty = datetime.strptime(dob, '%Y-%m').strftime('%B %Y')
+        f.write(f'''<li><a href="{item["href"]}">{item["name"]}</a>
+<time datetime="{dob}">{pretty}</time></li>\n''')
+    f.write('</ul></article>\n')
+
+
+def entry(item):
+    info = item.get('info')
+    if info is not None:
+        return f'{info}\n'
+
+    name = item.get('name')
+    description = item.get('description')
+    icon = item.get('icon')
+    screenshot = item.get('screenshot')
+    dob = item.get('dob')
+    loc = item.get('loc')
+    lang = item.get('lang')
+    license = item.get('license')
+    links = item.get('links')
+
+    out = f'\n<article><a name="{anchorize(name)}"><h2>{name}</h2></a>\n'
+    if screenshot is not None:
+        for label in links:
+            out += f'<a href="{links.get(label)}" class="ScreenshotLink"><img src="{screenshot}" alt="{name} Screenshot"/></a>\n'
+            break
+    if icon is not None:
+        for label in links:
+            out += f'<a href="{links.get(label)}" class="IconLink"><img src="{icon}" alt="{name} Icon"/></a>\n'
+            break
+    out += f'{description}\n'
+    if dob is not None:
+        dt = datetime.strptime(dob, '%Y-%m')
+        pretty = dt.strftime('%B %Y')
+        loc = f' • $(loc {loc})' if loc is not None else ''
+        lang = f' • {lang}' if lang is not None else ''
+        license = f' • {license}' if license is not None else ''
+        out += f'<p class="Stats"><time datetime="{dob}">{pretty}</time>{loc}{lang}{license}</p>\n'
+    out += f'<ul class="ProjectLinks Separator">\n'
+    for label in links:
+        out += f'<li><a href="{links.get(label)}">{label}</a></li>\n'
+    out += '</ul></article>\n'
+    return out
+
+
+def main(source):
+    f = None
+    current = None
+    items = json.load(open(source))
+    timeline(items)
+    for item in items:
+        cat = item.get('cat').replace("_", "-")
+        if cat == 'Archive':
+            continue
+        subcat = item.get('subcat').replace("_", "-")
+        target = f'{cat}/{subcat}'
+        if current != target:
+            if f is not None:
+                f.flush()
+                f.close()
+            current = target
+            os.makedirs(f'contents/{cat}', exist_ok=True)
+            f = open(f'contents/{target}', 'a+')
+            if f.tell() == 0:
+                f.write(f'<h1>{subcat.replace("-", " ")}</h1>\n')
+        f.write(entry(item))
+
+
+if __name__ == '__main__':
+    main( * sys.argv[1:])

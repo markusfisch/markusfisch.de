@@ -1,0 +1,1097 @@
+[
+	{
+		"cat": "Apps",
+		"subcat": "Android",
+		"name": "Binary Eye",
+		"icon": "screenshots/binary_eye_icon.png",
+		"description": "<p>Yet another barcode scanner. Works in portrait and landscape mode, can read inverted barcodes, reads barcodes with binary data and can also generate barcodes.</p>\n<p>Uses the <a href=\"https://github.com/zxing/zxing\">ZXing</a> (\"Zebra Crossing\") barcode scanning library. Reads and writes all barcode formats (QR Code, Aztec, etc.) ZXing can read and write.</p>",
+		"dob": "2017-08",
+		"loc": "../BinaryEye app/src/main",
+		"lang": "Kotlin",
+		"license": "MIT",
+		"links": {
+			"Google Play": "https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye",
+			"F-Droid": "https://f-droid.org/en/packages/de.markusfisch.android.binaryeye/",
+			"GitHub": "https://github.com/markusfisch/BinaryEye",
+			"Releases": "https://github.com/markusfisch/BinaryEye/releases"
+		}
+	},
+	{
+		"cat": "Apps",
+		"subcat": "Android",
+		"name": "Pie Launcher",
+		"icon": "screenshots/pie_launcher_icon.png",
+		"description": "<p>Android home screen launcher that uses a dynamic pie menu instead of tables of icons. Here's a <a href=\"https://www.youtube.com/watch?v=zg0h3s_yua8\">video</a> of it.</p>\n<p>Once you get used to it, you can launch your most frequently used apps using muscle memory without even looking at the screen.</p>\n<p>Apps you don't use regularly are quickly available with just one tap and by typing the first one or two letters of the app name.</p>",
+		"dob": "2019-12",
+		"loc": "../PieLauncher app/src/main",
+		"lang": "Java",
+		"license": "MIT",
+		"links": {
+			"Google Play": "https://play.google.com/store/apps/details?id=de.markusfisch.android.pielauncher",
+			"F-Droid": "https://f-droid.org/de/packages/de.markusfisch.android.pielauncher/",
+			"GitHub": "https://github.com/markusfisch/PieLauncher",
+			"Releases": "https://github.com/markusfisch/PieLauncher/releases",
+			"Video": "https://www.youtube.com/watch?v=zg0h3s_yua8"
+		}
+	},
+	{
+		"cat": "Apps",
+		"subcat": "Android",
+		"name": "Shader Editor",
+		"icon": "screenshots/shader_editor_icon.png",
+		"description": "<p>Create <a href=\"https://en.wikipedia.org/wiki/GLSL\">GLSL</a> shaders on your Android phone and use them as live wallpaper. Exposes many sensors of your smartphone for <a href=\"https://thebookofshaders.com/\">shader programming</a>. Like the gyroscope or the magnetic field sensor, for example.</p>\n<p>An app for people interested in graphics programming and customizing the screen of their smartphone.</p>\n<p>Includes some samples to get started like a <a href=\"https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life\">Game of Life</a> shader you can <a href=\"https://twitter.com/markusfisch/status/685823091541434368?s=20\">touch</a>. Here's another <a href=\"https://twitter.com/markusfisch/status/1216103115939897344?s=20\">sample</a>.</p>",
+		"dob": "2013-06",
+		"loc": "../ShaderEditor app/src/main",
+		"lang": "Java",
+		"license": "MIT",
+		"links": {
+			"Google Play": "https://play.google.com/store/apps/details?id=de.markusfisch.android.shadereditor",
+			"F-Droid": "https://f-droid.org/en/packages/de.markusfisch.android.shadereditor/",
+			"GitHub": "https://github.com/markusfisch/ShaderEditor",
+			"Releases": "https://github.com/markusfisch/ShaderEditor/releases"
+		}
+	},
+	{
+		"cat": "Apps",
+		"subcat": "Android",
+		"name": "Wave Lines Wallpaper",
+		"icon": "screenshots/wavelines_icon.png",
+		"description": "<p>A live wallpaper with colorful, slowly moving wavy lines.</p>\n<p>You can either choose a predefined theme, edit a theme to your liking, or simply create your own.</p>\n<p>I actually wrote the first version of this app on an Android device.</p>",
+		"dob": "2012-08",
+		"loc": "../WaveLinesWallpaper app/src/main",
+		"lang": "Java",
+		"license": "MIT",
+		"links": {
+			"Google Play": "https://play.google.com/store/apps/details?id=de.markusfisch.android.wavelines",
+			"F-Droid": "https://f-droid.org/packages/de.markusfisch.android.wavelines/",
+			"GitHub": "https://github.com/markusfisch/WaveLinesWallpaper",
+			"Releases": "https://github.com/markusfisch/WaveLinesWallpaper/releases"
+		}
+	},
+	{
+		"cat": "Apps",
+		"subcat": "Android",
+		"name": "Decisions",
+		"icon": "screenshots/decisions_icon.png",
+		"description": "<p>Helps making decisions. Works like this:</p>\n<ol>\n<li>Write down pros and cons</li>\n<li>Weigh arguments from 1 to 10</li>\n<li>Get a recommendation</li>\n</ol>\n<p>Inspired by this <a href=\"http://time.com/3772262/billionaire-trick-for-decisions/\">Time article</a>.</p>",
+		"dob": "2017-03",
+		"loc": "../Libra app/src/main",
+		"lang": "Kotlin",
+		"license": "MIT",
+		"links": {
+			"Google Play": "https://play.google.com/store/apps/details?id=de.markusfisch.android.libra",
+			"F-Droid": "https://f-droid.org/en/packages/de.markusfisch.android.libra/",
+			"GitHub": "https://github.com/markusfisch/Libra",
+			"Releases": "https://github.com/markusfisch/Libra/releases"
+		}
+	},
+	{
+		"cat": "Apps",
+		"subcat": "Android",
+		"name": "Moto Score",
+		"icon": "screenshots/moto_score_icon.png",
+		"description": "<p>Tally counter for motorcyclists to record tours and mistakes (i.e. everything you wouldn't do again).</p>\n<p>Because according to <a href=\"https://www.amazon.com/The-Upper-Half-Motorcycle-Machine/dp/1884313752\">The Upper Half of the Motorcycle</a>, consciously counting mistakes stimulates learning.</p>\n<p>The prototype of this app was written and presented at \"Hack The Ride\", a hackathon held by BMW Motorrad in Barcelona 2014.</p>",
+		"dob": "2014-02",
+		"loc": "../MotoScore app/src/main",
+		"lang": "Java",
+		"license": "Unlicense",
+		"links": {
+			"Google Play": "https://play.google.com/store/apps/details?id=de.markusfisch.android.motoscore",
+			"GitHub": "https://github.com/markusfisch/MotoScore",
+			"Releases": "https://github.com/markusfisch/MotoScore/releases"
+		}
+	},
+	{
+		"cat": "Apps",
+		"subcat": "Android",
+		"name": "Screen Time",
+		"icon": "screenshots/screen_time_icon.png",
+		"description": "<p>Displays your screen time in a permanent notification.</p><p>By making screen time more prominent, you can get a better sense of how much of the day you spend on your phone. Without judgement. Just so you know.</p><p>Of course, there's Google's Digital Wellbeing app and a lot of other apps that track app usage. But I just like to see my screen time at a glance without having to open an app.</p>",
+		"dob": "2018-11",
+		"loc": "../ScreenTime app/src/main",
+		"lang": "Kotlin",
+		"license": "Unlicense",
+		"links": {
+			"Google Play": "https://play.google.com/store/apps/details?id=de.markusfisch.android.screentime",
+			"GitHub": "https://github.com/markusfisch/ScreenTime",
+			"Releases": "https://github.com/markusfisch/ScreenTime/releases"
+		}
+	},
+	{
+		"cat": "Apps",
+		"subcat": "Desktop",
+		"name": "PieDock",
+		"screenshot": "screenshots/piedock.jpg",
+		"description": "<p>PieDock is a task bar and application launcher in shape of a pie menu for the <a href=\"https://en.wikipedia.org/wiki/X_Window_System\">X Window System</a>. Feels a little bit like the famous OS X dock in a circle.</p>\n<p>Here is a <a href=\"https://vimeo.com/21360384\">video</a> of the concept in action. Also made a <a href=\"apps-android.html#pie_launcher\">home screen launcher</a> for Android with the same idea. And a JavaScript <a href=\"tools-web.html#webpie\">version</a> for the web.</p>",
+		"dob": "2007-12",
+		"loc": "../PieDock src",
+		"lang": "C++",
+		"license": "MIT",
+		"links": {
+			"GitHub": "https://github.com/markusfisch/PieDock",
+			"Releases": "https://github.com/markusfisch/PieDock/releases",
+			"Video": "https://vimeo.com/21360384"
+		}
+	},
+	{
+		"cat": "Apps",
+		"subcat": "Desktop",
+		"name": "bbdock",
+		"screenshot": "screenshots/bbdock.jpg",
+		"description": "<p>Displays transparent PNG icons in the <a href=\"https://en.wikipedia.org/wiki/Blackbox\">Blackbox</a>, <a href=\"https://en.wikipedia.org/wiki/Openbox\">Openbox</a> or <a href=\"https://en.wikipedia.org/wiki/Fluxbox\">Fluxbox</a> slit. If this is greek to you, you don't need it.</p>",
+		"dob": "2005-03",
+		"loc": "../bbdock src",
+		"lang": "C++",
+		"license": "Unlicense",
+		"links": {
+			"GitHub": "https://github.com/markusfisch/bbdock"
+		}
+	},
+	{
+		"cat": "Apps",
+		"subcat": "Web",
+		"name": "Was ist los um Nürnberg?",
+		"icon": "screenshots/was_los_icon.png",
+		"description": "<p>Simple, searchable list of what to do around Nuremberg, Germany.</p>\n<p>This was written just before the outbreak of the COVID-19 pandemic, and some of the sources have since dried up. Hopefully only transitionally.</p>",
+		"dob": "2020-01",
+		"loc": "../was-los bin",
+		"lang": "Python",
+		"license": "Unlicense",
+		"links": {
+			"Website": "https://los.baby/",
+			"GitHub": "https://github.com/markusfisch/was-los"
+		}
+	},
+	{
+		"cat": "Apps",
+		"subcat": "Web",
+		"name": "qrim",
+		"screenshot": "screenshots/qrim.jpg",
+		"description": "<p>Merge a <a href=\"https://en.wikipedia.org/wiki/QR_code\">QR Code</a> with any background image. Modifies the source image only where necessary.</p>\n<p>This exploits the fact that barcode reading is based on contrast differences. Started as an experiment to see how far you could go.</p>\n<p>Please keep in mind that QR Codes like this are naturally harder to read and that not every QR Code scanner might be able to read them. You may use the sliders to find a reliable configuration for your background image and make sure to test the result with different scanners.</p>",
+		"dob": "2015-07",
+		"loc": "../qrim lib/qrim.js",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Website": "http://qrim.markusfisch.de/",
+			"GitHub": "https://github.com/markusfisch/qrim"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Casual",
+		"name": "Soyuz 404",
+		"screenshot": "screenshots/soyuz404.jpg",
+		"description": "<p>A space adventure in 13 kilobytes you can play through during your lunch break.</p>\n<p>Works on your phone, too. Hold and move your finger on the screen to explore a scene. When you lift your finger over something, that something is used.</p>\n<p>This is a <a href=\"https://twitter.com/markusfisch/status/1314985981263699968?s=20\">slightly improved</a> version of a game I wrote for js13kgames <a href=\"games-js13kgames.html#soyuz_404\">2020</a>.</p>\n<p>PS: the formula, which plays a significant role in the game, is not made up, but the real <a href=\"https://www.forbes.com/sites/startswithabang/2020/08/12/a-spacetime-surprise-time-isnt-just-another-dimension/?sh=79b89a5d47dc\">spacetime interval equation</a>.</p>",
+		"dob": "2020-09",
+		"loc": "../Soyuz404:submission src/src.js",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/Soyuz404/",
+			"GitHub": "https://github.com/markusfisch/Sojuz404"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Casual",
+		"name": "Bad Minton",
+		"screenshot": "screenshots/bad_minton.jpg",
+		"description": "<p>Monochrome Pong/Card mashup.</p>\n<p>Also works well on your phone. In fact, the two player mode is meant to be played on a mobile unless you have two mice on your desktop.</p>\n<p>Written for Ludum Dare <a href=\"games-ludum-dare.html#bad_minton\">#41</a>.</p>",
+		"dob": "2018-04",
+		"loc": "../BadMinton htdocs",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://badminton.markusfisch.de",
+			"GitHub": "https://github.com/markusfisch/BadMinton"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Casual",
+		"name": "GalEx",
+		"screenshot": "screenshots/galex.jpg",
+		"description": "<p>Be a daredevil space pilot and deliver interplanetary mail to connect worlds. But watch out, gravity is fun but dangerous!</p>\n<p>There are 11 missions waiting for you. At the end, the game displays the net playing time of all successful attempts. Everything under 2 minutes would be pretty good.</p>\n<p>Works on any device with a decent web browser. This is an enhanced version of a game I wrote for Ludum Dare <a href=\"games-ludum-dare.html#galex\">#30</a>.</p>",
+		"dob": "2014-08",
+		"loc": "../GalEx htdocs",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://galex.markusfisch.de",
+			"GitHub": "https://github.com/markusfisch/GalEx"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Casual",
+		"name": "Gingerman",
+		"screenshot": "screenshots/gingerman.jpg",
+		"description": "<p>Help Gingerman to get to the top of the Christmas tree. Jump on anything that does not burn to climb the tree.</p>\n<p>Works on any device with a decent web browser. Written around and for the Christmas season for Ludum Dare <a href=\"games-ludum-dare.html#gingerman\">#31</a>. This is an enhanced version.</p>",
+		"dob": "2014-12",
+		"loc": "../Gingerman htdocs",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://gingerman.markusfisch.de",
+			"GitHub": "https://github.com/markusfisch/Gingerman"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Casual",
+		"name": "Saving Oskar",
+		"screenshot": "screenshots/saving_oskar.jpg",
+		"description": "<p>Try and save your dear lamb Oskar from being sacrificed.</p>\n<p>The gods demand a sacrifice and so a lamb must die. But not Oskar, your dear friend. So you need to sacrifice another lamb. Again and again. Until all lambs are sacrificed, except Oskar. Then, and only then, the gods will be pleased and you win the game.</p>\n<p>Made this game for Ludum Dare <a href=\"games-ludum-dare.html#saving_oskar\">#43</a> with <a href=\"https://github.com/ChristianNorbertBraun\">Christian Braun</a>, who did almost all the graphics and the all the music.</p>",
+		"dob": "2018-12",
+		"loc": "../SavingOskar:submission htdocs",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://savingoskar.markusfisch.de/",
+			"GitHub": "https://github.com/markusfisch/SavingOskar"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Casual",
+		"name": "Jumpy Green",
+		"screenshot": "screenshots/jumpy_green.jpg",
+		"description": "<p>A little green man trying to get evil astronauts off his small world.</p>\n<p>Get rid of Buck Rodgers by jumping high and landing hard when he is on the opposite side of your world. If you jump high enough, he will be thrown off your world and get lost in space again.</p>\n<p>Written for Ludum Dare <a href=\"games-ludum-dare.html#jumpy_green\">#38</a>.</p>",
+		"dob": "2017-04",
+		"loc": "../JumpyGreen htdocs",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://jumpygreen.markusfisch.de",
+			"GitHub": "https://github.com/markusfisch/JumpyGreen"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Casual",
+		"name": "Ten Seconds To Venus",
+		"screenshot": "screenshots/ten_seconds_to_venus.jpg",
+		"description": "<p>Express point-and-click riddle.</p>\n<p>You are on board of a space station in Venus orbit. You are sleeping. Then you wake from a roaring BANG! You have just ten seconds until the ship will be destroyed…</p>\n<p>Made for Ludum Dare <a href=\"games-ludum-dare.html#ten_seconds_to_venus\">#27</a>.</p>",
+		"dob": "2013-08",
+		"loc": "../TenSecondsToVenus htdocs",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://tensecondstovenus.markusfisch.de",
+			"GitHub": "https://github.com/markusfisch/TenSecondsToVenus"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Casual",
+		"name": "Ski Run",
+		"screenshot": "screenshots/ski_run.jpg",
+		"description": "<p>Ski racing game for two players on one screen.</p>\n<p>Works on any screen with a decent web browser. <a href=\"http://hhsw.de/sites/proto/ld28/\">Originally</a> written for Ludum Dare #28 but never submitted.</p>",
+		"dob": "2014-01",
+		"loc": "../SkiRun htdocs",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/SkiRun/",
+			"GitHub": "https://github.com/markusfisch/SkiRun"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Casual",
+		"name": "Striker",
+		"screenshot": "screenshots/striker.jpg",
+		"description": "<p>Fast vertical <a href=\"https://en.wikipedia.org/wiki/Shoot_'em_up\">shoot 'em up</a>. Shoot down as many enemy vessels as possible.</p>\n<p>Does not work on mobile because it was written in 2002. Originally made as an easter egg for a boring business website that doesn't exist anymore.</p>",
+		"dob": "2002-08",
+		"loc": "../Striker js/src src",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://striker.markusfisch.de/",
+			"GitHub": "https://github.com/markusfisch/Striker"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Casual",
+		"name": "Sheeptris",
+		"screenshot": "screenshots/sheeptris.jpg",
+		"description": "<p>A multiplayer Tetris with sheeps. Can be played by up to three players simultaneously.</p>\n<p>Originally, this game was also playable in a web browser. But since <a href=\"https://en.wikipedia.org/wiki/Java_applet\">Java applets</a> have fallen out of favor, that no longer works. So not only do you have to download the game, but you also have to have Java installed to run it.</p>",
+		"dob": "2004-07",
+		"loc": "../Sheeptris src",
+		"lang": "Java",
+		"license": "Unlicense",
+		"links": {
+			"GitHub": "https://github.com/markusfisch/Sheeptris",
+			"Releases": "https://github.com/markusfisch/Sheeptris/releases"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Native",
+		"name": "Bots",
+		"screenshot": "screenshots/bots.jpg",
+		"description": "<p>Programming game about bots that move on a grid.</p>\n<p>To play the game, your program, a so-called bot, must connect a socket to the Bots server. The bot can be programmed in any language that can open a socket. </p>\n<p>Used for the <a href=\"https://kurzdigital.com\">KURZ Digital</a> Coding Night <a href=\"https://twitter.com/markusfisch/status/1008395010247741440?s=20\">2018</a> and <a href=\"https://twitter.com/kurzdigital/status/1139827333228113920?s=20\">2019</a>.</p>",
+		"dob": "2018-03",
+		"loc": "../bots server",
+		"lang": "C",
+		"license": "Unlicense",
+		"links": {
+			"GitHub": "https://github.com/markusfisch/bots",
+			"Web Client": "http://bots.markusfisch.de"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Js13kGames",
+		"info": "<p class=\"Separator\">Here are the games I wrote for <a href=\"https://js13kgames.com\">js13kGames</a>. js13kgames is a JavaScript coding competition with a file size limit of 13 kilobytes.</p>"
+	},
+	{
+		"cat": "Games",
+		"subcat": "Js13kGames",
+		"name": "Humwin & Darbold",
+		"screenshot": "screenshots/humwin_and_darbold.jpg",
+		"description": "<p>A small action adventure for <a href=\"https://js13kgames.com\">js13kGames</a> 2021 \"Space\". 12703 bytes (95%).</p>\n</p>Humwin, your friendly space exploring robot, is in search for his pal Darbold, who has gone missing on a strange planet. What happened to him and where is he?</p><p>Unfortunately, the game turned out to be too unforgiving and I failed to make the solution clear. So here's a hopefully better <a href=\"https://hhsw.de/sites/humwin\">post-compo</a> version.</p>",
+		"dob": "2021-09",
+		"loc": "../HumwinAndDarbold:submission src/src.js",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/proto/js13k2021/",
+			"Entry": "https://js13kgames.com/entries/humwin-darbold",
+			"GitHub": "https://github.com/markusfisch/HumwinAndDarbold"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Js13kGames",
+		"name": "Soyuz 404",
+		"screenshot": "screenshots/soyuz404.jpg",
+		"description": "<p>A space adventure for <a href=\"https://js13kgames.com\">js13kGames</a> 2020 \"404\". 13298 bytes (99%).</p>\n</p>The game and a few details about it were mentioned in this <a href=\"https://www.youtube.com/watch?v=GKOgm5-GbUA\">video summary</a> of the 2020 event.</p>",
+		"dob": "2020-09",
+		"loc": "../Soyuz404:submission src/src.js",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/proto/js13k2020/",
+			"Entry": "https://js13kgames.com/entries/sojuz-404",
+			"GitHub": "https://github.com/markusfisch/Sojuz404"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Js13kGames",
+		"name": "Conflict Management",
+		"screenshot": "screenshots/conflict_management.jpg",
+		"description": "<p>A turn-based game about conflict management like it was back in the day for <a href=\"https://js13kgames.com\">js13kGames</a> 2019 \"back\". 10128 bytes (76%).</p>",
+		"dob": "2019-09",
+		"loc": "../ConflictManagement:submission src.js",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/proto/js13k2019/",
+			"Entry": "http://js13kgames.com/entries/conflict-management",
+			"GitHub": "https://github.com/markusfisch/ConflictManagement"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Js13kGames",
+		"name": "Pronto",
+		"screenshot": "screenshots/pronto.jpg",
+		"description": "<p>Simple reaction game for <a href=\"https://js13kgames.com\">js13kGames</a> 2018 \"offline\". 6923 bytes (51%).</p>",
+		"dob": "2018-09",
+		"loc": "../Pronto:submission src.js",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://pronto.markusfisch.de/",
+			"Entry": "https://js13kgames.com/entries/pronto",
+			"GitHub": "https://github.com/markusfisch/Pronto"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Js13kGames",
+		"name": "Lost Treasures",
+		"screenshot": "screenshots/lost_treasures.jpg",
+		"description": "<p>Dive to find coins for <a href=\"https://js13kgames.com\">js13kGames</a> 2017 \"Lost\". 7928 bytes (59%).</p>",
+		"dob": "2017-09",
+		"loc": "../LostTreasures:submission src.js",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/LostTreasures/",
+			"Entry": "http://js13kgames.com/entries/lost-treasures",
+			"GitHub": "https://github.com/markusfisch/LostTreasures"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Js13kGames",
+		"name": "Glitch Yeagers",
+		"screenshot": "screenshots/glitch_yeagers.jpg",
+		"description": "<p>Air combat for <a href=\"https://js13kgames.com\">js13kGames</a> 2016 \"Glitch\". 6917 bytes (52%).</p>",
+		"dob": "2016-08",
+		"loc": "../GlitchYeagers:submission src.js",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/GlitchYeagers/",
+			"Entry": "http://js13kgames.com/entries/glitch-yeagers",
+			"GitHub": "https://github.com/markusfisch/GlitchYeagers"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Js13kGames",
+		"name": "Eugor",
+		"screenshot": "screenshots/eugor.jpg",
+		"description": "<p>Roguelike for <a href=\"https://js13kgames.com\">js13kGames</a> 2015 \"Reversed\". 7126 bytes (53%).</p>",
+		"dob": "2015-08",
+		"loc": "../Eugor:submission htdocs",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/eugor/",
+			"Entry": "http://js13kgames.com/entries/eugor",
+			"GitHub": "https://github.com/markusfisch/Eugor"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Ludum_Dare",
+		"info": "<p class=\"Separator\">Here are the games and prototypes I wrote for <a href=\"https://ldjam.com\">Ludum Dare</a>. Ludum Dare is one of the world's largest and longest running Game Jam events.</p>"
+	},
+	{
+		"cat": "Games",
+		"subcat": "Ludum_Dare",
+		"name": "Nine Lives",
+		"screenshot": "screenshots/nine_lives.jpg",
+		"description": "<p>Nine lives aren't enough for <a href=\"https://ldjam.com\">Ludum Dare</a> #44 \"Your life is currency\".</p>",
+		"dob": "2019-04",
+		"loc": "../NineLives:submission htdocs",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/NineLives",
+			"Entry": "https://ldjam.com/events/ludum-dare/44/nine-lives",
+			"GitHub": "https://github.com/markusfisch/NineLives"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Ludum_Dare",
+		"name": "Saving Oskar",
+		"screenshot": "screenshots/saving_oskar.jpg",
+		"description": "<p>Try and save your dear lamb Oskar from being sacrificed. Made with <a href=\"https://github.com/ChristianNorbertBraun\">Christian Braun</a> for <a href=\"https://ldjam.com\">Ludum Dare</a> #43 \"Sacrifices must be made\".</p>",
+		"dob": "2018-12",
+		"loc": "../SavingOskar:submission htdocs",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://savingoskar.markusfisch.de/",
+			"Entry": "https://ldjam.com/events/ludum-dare/43/saving-oskar",
+			"GitHub": "https://github.com/markusfisch/SavingOskar"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Ludum_Dare",
+		"name": "Bad Minton",
+		"screenshot": "screenshots/bad_minton.jpg",
+		"description": "<p>Monochrome Pong/Card mashup for <a href=\"https://ldjam.com\">Ludum Dare</a> #41 \"Combine 2 Incompatible Genres\".</p>",
+		"dob": "2018-04",
+		"loc": "../BadMinton:submission htdocs",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://badminton.markusfisch.de",
+			"Entry": "https://ldjam.com/events/ludum-dare/41/bad-minton",
+			"GitHub": "https://github.com/markusfisch/BadMinton"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Ludum_Dare",
+		"name": "Rogues",
+		"screenshot": "screenshots/rogues.jpg",
+		"description": "<p>Multiplayer multi-device game about stealing gold for <a href=\"https://ldjam.com\">Ludum Dare</a> #40 \"The more you have, the worse it is\". Playable with friends only.</p>",
+		"dob": "2017-12",
+		"loc": "../Rogues:submission htdocs server",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/rogues/",
+			"Entry": "https://ldjam.com/events/ludum-dare/40/rogues",
+			"GitHub": "https://github.com/markusfisch/Rogues"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Ludum_Dare",
+		"name": "Jumpy Green",
+		"screenshot": "screenshots/jumpy_green.jpg",
+		"description": "<p>A little green man trying to get evil astronauts off his small world for <a href=\"https://ldjam.com\">Ludum Dare</a> #38 \"A Small World\". Playable.</p>",
+		"dob": "2017-04",
+		"loc": "../JumpyGreen:submission htdocs",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://jumpygreen.markusfisch.de/",
+			"Entry": "https://ldjam.com/events/ludum-dare/38/jumpy-green",
+			"GitHub": "https://github.com/markusfisch/JumpyGreen"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Ludum_Dare",
+		"name": "Robot Clash",
+		"screenshot": "screenshots/robot_clash.jpg",
+		"description": "<p>Multiplayer multi-device turn-based death match for <a href=\"https://ldjam.com\">Ludum Dare</a> #37 \"One Room\". Playable with friends only.</p>",
+		"dob": "2016-12",
+		"loc": "../RobotClash:submission htdocs server",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/proto/ld37/",
+			"Entry": "http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=19466",
+			"GitHub": "https://github.com/markusfisch/RobotClash"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Ludum_Dare",
+		"name": "Rubiks Plane",
+		"screenshot": "screenshots/rubiks_plane.jpg",
+		"description": "<p>Shifting puzzler for <a href=\"https://ldjam.com\">Ludum Dare</a> #35 \"Shapeshift\". Playable.</p>",
+		"dob": "2016-04",
+		"loc": "../RubiksPlane:submission htdocs",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/proto/ld35/",
+			"Alternative": "http://hhsw.de/sites/proto/shiftingcastle/",
+			"Entry": "http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=19466",
+			"GitHub": "https://github.com/markusfisch/RubiksPlane"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Ludum_Dare",
+		"name": "Sweet Tooth Mouse",
+		"screenshot": "screenshots/sweet_tooth_mouse.jpg",
+		"description": "<p>Prototype game of a mouse and a lot of sweets for <a href=\"https://ldjam.com\">Ludum Dare</a> #34 \"Growing\". Ran out of time.</p>",
+		"dob": "2015-12",
+		"loc": "../SweetToothMouse:submission htdocs",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/proto/ld34/",
+			"Entry": "http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=19466",
+			"GitHub": "https://github.com/markusfisch/SweetToothMouse"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Ludum_Dare",
+		"name": "00Q And The Horrible Tiger Gun",
+		"screenshot": "screenshots/00q.jpg",
+		"description": "<p>Her Majesty's Only Field Test Spy™ hard in action for <a href=\"https://ldjam.com\">Ludum Dare</a> #32 \"An Unconventional Weapon\". Just two very simple levels. Ran out of time. And there's no way to fire that gun on a touch device, sorry.</p>",
+		"dob": "2015-04",
+		"loc": "../HorribleTigerGun:submission htdocs",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/proto/ld32/",
+			"Entry": "http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=19466",
+			"GitHub": "https://github.com/markusfisch/HorribleTigerGun"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Ludum_Dare",
+		"name": "Gingerman",
+		"screenshot": "screenshots/gingerman.jpg",
+		"description": "<p>Christmas game for <a href=\"https://ldjam.com\">Ludum Dare</a> #31 \"Entire Game on One Screen\". Playable.</p>",
+		"dob": "2014-12",
+		"loc": "../Gingerman:submission htdocs",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://gingerman.markusfisch.de",
+			"Entry": "http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=19466",
+			"GitHub": "https://github.com/markusfisch/Gingerman"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Ludum_Dare",
+		"name": "GalEx",
+		"screenshot": "screenshots/galex.jpg",
+		"description": "<p>Deliver mail in space for <a href=\"https://ldjam.com\">Ludum Dare</a> #30 \"Connected Worlds\". Playable.</p>",
+		"dob": "2014-08",
+		"loc": "../GalEx:submission htdocs",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://galex.markusfisch.de",
+			"Entry": "http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=19466",
+			"GitHub": "https://github.com/markusfisch/GalEx"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Ludum_Dare",
+		"name": "Tycho",
+		"screenshot": "screenshots/tycho.jpg",
+		"description": "<p>Prototype game about finding crystals on a blue planet for <a href=\"https://ldjam.com\">Ludum Dare</a> #29 \"Beneath the Surface\". Playable but _very_ simple. Ran out of time.</p>",
+		"dob": "2014-04",
+		"loc": "../Tycho:submission htdocs",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/proto/ld29/",
+			"Entry": "http://ludumdare.com/compo/ludum-dare-29/?action=preview&uid=19466",
+			"GitHub": "https://github.com/markusfisch/Tycho"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Ludum_Dare",
+		"name": "Ten Seconds To Venus",
+		"screenshot": "screenshots/ten_seconds_to_venus.jpg",
+		"description": "<p>Astronaut game for <a href=\"https://ldjam.com\">Ludum Dare</a> #27 \"10 Seconds\". Playable.</p>",
+		"dob": "2013-08",
+		"loc": "../TenSecondsToVenus:submission index.html",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://tensecondstovenus.markusfisch.de",
+			"Entry": "http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=19466",
+			"GitHub": "https://github.com/markusfisch/TenSecondsToVenus"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Ludum_Dare",
+		"name": "quadTRI",
+		"screenshot": "screenshots/quadtri.jpg",
+		"description": "<p>Two player game about matching triangles for <a href=\"https://ldjam.com\">Ludum Dare</a> #26 \"Minimalism\". Playable with a friend.</p>",
+		"dob": "2013-04",
+		"loc": "../quadTRI:submission index.html",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/quadTRI/",
+			"Entry": "http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=19466",
+			"GitHub": "https://github.com/markusfisch/quadTRI"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Ludum_Dare",
+		"name": "Alien Invasion",
+		"screenshot": "screenshots/alien_invasion.jpg",
+		"description": "<p>Prototype game for <a href=\"https://ldjam.com\">Ludum Dare</a> #25 \"You Are The Villain\". Playable.</p>",
+		"dob": "2012-12",
+		"loc": "../AlienInvasion:submission htdocs",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/proto/ld25/",
+			"Entry": "http://ludumdare.com/compo/ludum-dare-25/?action=preview&uid=19466",
+			"GitHub": "https://github.com/markusfisch/AlienInvasion"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "0h_Game_Jam",
+		"info": "<p class=\"Separator\"><a href=\"http://0hgame.eu\">0h Game Jam</a> is a coding competition that takes place during <a href=\"https://en.wikipedia.org/wiki/Daylight_saving_time\">DST hour shift</a>.</p>"
+	},
+	{
+		"cat": "Games",
+		"subcat": "0h_Game_Jam",
+		"name": "Huh",
+		"screenshot": "screenshots/huh.jpg",
+		"description": "<p>Click on a free spot to survive. Made for <a href=\"http://0hgame.eu/\">0h Game Jam</a> 2014.</p>\n<p>Here is the <a href=\"https://vimeo.com/110055282\">time-lapse video</a> of that hour that never was.</p>",
+		"dob": "2014-10",
+		"loc": "../huh:submission",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/proto/huh/",
+			"Timelapse": "https://vimeo.com/110055282"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Android",
+		"name": "CameraView",
+		"description": "<p>A view that shows what the camera sees.</p>\n<p>Supports orientation changes, fits the preview image into the available view space and works with Gingerbread (minSDK 9) or better.</p>",
+		"dob": "2017-08",
+		"loc": "../CameraView cameraview/src/main",
+		"lang": "Java",
+		"license": "Unlicense",
+		"links": {
+			"GitHub": "https://github.com/markusfisch/CameraView",
+			"Releases": "https://github.com/markusfisch/CameraView/releases"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Android",
+		"name": "ScalingImageView",
+		"description": "<p>An ImageView that transforms its drawable according to touch input.</p>\n<p>Supports rotated images and keeps transformation when you exchange the image for another one with a different size.</p>",
+		"dob": "2015-11",
+		"loc": "../ScalingImageView scalingimageview/src/main",
+		"lang": "Java",
+		"license": "Unlicense",
+		"links": {
+			"GitHub": "https://github.com/markusfisch/ScalingImageView",
+			"Releases": "https://github.com/markusfisch/ScalingImageView/releases"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Android",
+		"name": "SwipeImageView",
+		"description": "<p>An ImageView that can be used to swipe between images and supports pinch/zoom gestures to explore the current image.</p><p>Think of Google Photos.</p>",
+		"dob": "2017-01",
+		"loc": "../SwipeImageView swipeimageview/src/main",
+		"lang": "Java",
+		"license": "Unlicense",
+		"links": {
+			"GitHub": "https://github.com/markusfisch/SwipeImageView",
+			"Releases": "https://github.com/markusfisch/SwipeImageView/releases"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Native",
+		"name": "libhttp",
+		"description": "<p>Light-weight C library for HTTP/1.1 requests.</p>\n<p>Build for embedded environments or whereever libcurl would be just too much.</p>",
+		"dob": "2013-08",
+		"loc": "../libhttp http.c",
+		"lang": "C",
+		"license": "MIT",
+		"links": {
+			"GitHub": "https://github.com/markusfisch/libhttp"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Native",
+		"name": "libxml",
+		"description": "<p>Incremental XML parser in plain C.</p>\n<p>Processes XML input in chunks without caching the entire document.</p>",
+		"dob": "2013-09",
+		"loc": "../libxml xml.c",
+		"lang": "C",
+		"license": "MIT",
+		"links": {
+			"GitHub": "https://github.com/markusfisch/libxml"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Native",
+		"name": "cpprc",
+		"description": "<p>Embed data files into C++. What \"xxd -i\" does for C.</p>\n</p>Like \"qtrc\" from <a href=\"https://www.qt.io/\">Qt</a> but for <a href=\"https://www.wxwidgets.org/\">wxWidgets</a> and the C++ <a href=\"https://en.wikipedia.org/wiki/Standard_Template_Library\">STL</a>.</p>",
+		"dob": "2006-12",
+		"loc": "../cpprc",
+		"lang": "C++",
+		"license": "Unlicense",
+		"links": {
+			"GitHub": "https://github.com/markusfisch/cpprc"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Native",
+		"name": "calc",
+		"description": "<p>Tiny line calculator in portable C.</p>\n<p>A humble <a href=\"https://en.wikipedia.org/wiki/Bc_(programming_language)\">bc</a> alternative.</p>",
+		"dob": "2004-06",
+		"loc": "../calc",
+		"lang": "C",
+		"license": "Unlicense",
+		"links": {
+			"GitHub": "https://github.com/markusfisch/calc"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Shell",
+		"name": "dotfiles",
+		"description": "<p>The terminal is my IDE and this is my configuration. </p>\n<p>Find here some shell scripts that make my life easier.</p>",
+		"dob": "2012-10",
+		"loc": "../dotfiles bin",
+		"lang": "bash",
+		"license": "Unlicense",
+		"links": {
+			"GitHub": "https://github.com/markusfisch/dotfiles"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Shell",
+		"name": "annual",
+		"description": "<p>Generate an annual report from your local git repositories.</p>\n<p>Here are my reports since I started using git, professional and personal repositories combined.</p>",
+		"dob": "2016-10",
+		"loc": "../gists/annual annual",
+		"lang": "bash",
+		"license": "Unlicense",
+		"links": {
+			"Gist": "https://gist.github.com/markusfisch/c43e32a50f833539ea0f7b8b6109320e",
+			"Charts": "annuals/charts.html",
+			"2021": "annuals/2021",
+			"2020": "annuals/2020",
+			"2019": "annuals/2019",
+			"2018": "annuals/2018",
+			"2017": "annuals/2017",
+			"2016": "annuals/2016",
+			"2015": "annuals/2015",
+			"2014": "annuals/2014",
+			"2013": "annuals/2013",
+			"2012": "annuals/2012",
+			"2011": "annuals/2011",
+			"2010": "annuals/2010"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Shell",
+		"name": "simsalabash",
+		"description": "<p>Dead simple static site generator for command line lovers.</p><p>This <a href=\"https://github.com/markusfisch/markusfisch.de\">website</a> is built using it. Yes, sometimes I fall prey to the <a href=\"https://en.wikipedia.org/wiki/Not_invented_here\">NIH syndrome</a>. On purpose.</p>",
+		"dob": "2011-11",
+		"loc": "../simsalabash simsalabash",
+		"lang": "bash",
+		"license": "Unlicense",
+		"links": {
+			"GitHub": "https://github.com/markusfisch/simsalabash"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Shell",
+		"name": "readmail",
+		"description": "<p>POP3/SMTP client in bash.</p>",
+		"dob": "2006-06",
+		"loc": "../readmail readmail",
+		"lang": "bash",
+		"license": "Unlicense",
+		"links": {
+			"GitHub": "https://github.com/markusfisch/readmail"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Shell",
+		"name": "Advent of AWK 2020",
+		"description": "<p><a href=\"https://en.wikipedia.org/wiki/AWK\">AWK</a> solutions for <a href=\"https://adventofcode.com/2020\">Advent of Code 2020</a>.</p>",
+		"dob": "2020-12",
+		"loc": "../advent-of-awk '*/part?'",
+		"lang": "awk",
+		"license": "Unlicense",
+		"links": {
+			"GitHub": "https://github.com/markusfisch/advent-of-awk"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Shell",
+		"name": "mkatlas",
+		"description": "<p>Create a texture atlas in bash with <a href=\"https://www.imagemagick.org/\">ImageMagick</a>.</p>",
+		"dob": "2013-09",
+		"loc": "../gists/mkatlas mkatlas",
+		"lang": "bash",
+		"license": "Unlicense",
+		"links": {
+			"Gist": "https://gist.github.com/markusfisch/6442297"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Shell",
+		"name": "tree",
+		"description": "<p>Show a file listing as tree structure.</p>",
+		"dob": "2013-04",
+		"loc": "../gists/tree tree",
+		"lang": "bash",
+		"license": "Unlicense",
+		"links": {
+			"Gist": "https://gist.github.com/markusfisch/5411843"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Shell",
+		"name": "bars",
+		"description": "<p>Print horizontal bar diagrams from a list of values.</p>",
+		"dob": "2013-01",
+		"loc": "../gists/bars bars",
+		"lang": "bash",
+		"license": "Unlicense",
+		"links": {
+			"Gist": "https://gist.github.com/markusfisch/4612424"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Shell",
+		"name": "takahashi",
+		"description": "<p>Create a single file web presentation from a Markdown document.</p>\n<p>This is for you if you like Markdown and the <a href=\"https://en.wikipedia.org/wiki/Takahashi_method\">Takahashi method</a>.</p>",
+		"dob": "2014-10",
+		"loc": "../gists/takahashi takahashi",
+		"lang": "bash",
+		"license": "Unlicense",
+		"links": {
+			"Gist": "https://gist.github.com/markusfisch/eff723d3445839fc4eb5"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Web",
+		"name": "sqlc",
+		"description": "<p>Quick and dirty SQL web console for PHP5+.</p>\n<p> Helpful when you don't have shell access to the database server.</p>",
+		"dob": "2014-07",
+		"loc": "../gists/sqlc",
+		"lang": "PHP",
+		"license": "Unlicense",
+		"links": {
+			"Gist": "https://gist.github.com/markusfisch/0f1bfaf2673eed968a94"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Web",
+		"name": "Phapp",
+		"description": "<p>Scalable object-oriented web application framework for PHP5+.</p>\n<p>I've used this on many personal and professional web application projects.</p>",
+		"dob": "2013-03",
+		"loc": "../Phapp",
+		"lang": "PHP",
+		"license": "Unlicense",
+		"links": {
+			"GitHub": "https://github.com/markusfisch/Phapp"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Web",
+		"name": "simsala",
+		"description": "<p>Static site editor and generator.</p>\n<p>Uses Phapp and contains a PHP port of <a href=\"tools-shell.html#simsalabash\">simsalabash</a>.",
+		"dob": "2013-12",
+		"loc": "../simsala",
+		"lang": "PHP",
+		"license": "Unlicense",
+		"links": {
+			"GitHub": "https://github.com/markusfisch/simsala"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Web",
+		"name": "TouchClockJs",
+		"description": "<p>A clock you can touch (or click) to set a time and (optionally) a duration.</p>",
+		"dob": "2014-09",
+		"loc": "../TouchClockJs",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"GitHub": "https://github.com/markusfisch/TouchClock.js"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Web",
+		"name": "WebPie",
+		"description": "<p>A zooming pie menu for web pages.</p>\n<p>Uses the same algorithm as <a href=\"apps-android.html#pie_launcher\">Pie Launcher</a> and <a href=\"apps-desktop.html#piedock\">PieDock</a>.</p>",
+		"dob": "2010-12",
+		"loc": "../WebPie",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"GitHub": "https://github.com/markusfisch/WebPie"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Web",
+		"name": "ZoomGrid",
+		"description": "<p>A two-dimensional accordion menu inside a fixed rectangle.</p>\n<p>Originally written and used for my 2011 <a href=\"arch/markusfisch.de/2011\">website</a>.</p>",
+		"dob": "2010-12",
+		"loc": "../ZoomGrid",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"GitHub": "https://github.com/markusfisch/ZoomGrid"
+		}
+	},
+	{
+		"cat": "Archive",
+		"subcat": "Web",
+		"name": "Kartpokal Franken Relaunch 2012",
+		"description": "<p>Was an indoor go-kart championship for everyone.</p>\n<p>I raced in the team \"KRC Schwabach\".</p>",
+		"dob": "2012-01",
+		"license": "Unlicense",
+		"links": {
+			"Visit": "http://kartpokal.de/",
+			"GitHub": "https://github.com/markusfisch/kartpokal.de"
+		}
+	},
+	{
+		"cat": "Archive",
+		"subcat": "Web",
+		"name": "Kartpokal Franken 2003",
+		"dob": "2003-03",
+		"license": "Unlicense",
+		"links": {
+			"Visit": "arch/kartpokal.de/2003/index.html"
+		}
+	},
+	{
+		"cat": "Archive",
+		"subcat": "Web",
+		"name": "markusfisch.de Relaunch 2018",
+		"dob": "2018-01",
+		"links": {
+			"Visit": "arch/markusfisch.de/2018/index.html"
+		}
+	},
+	{
+		"cat": "Archive",
+		"subcat": "Web",
+		"name": "markusfisch.de Relaunch 2011",
+		"dob": "2011-01",
+		"links": {
+			"Visit": "arch/markusfisch.de/2011/About.html"
+		}
+	},
+	{
+		"cat": "Archive",
+		"subcat": "Web",
+		"name": "hhsw.de Relaunch 2001",
+		"dob": "2001-06",
+		"links": {
+			"Visit": "arch/hhsw.de/2001/index.html"
+		}
+	},
+	{
+		"cat": "Archive",
+		"subcat": "Web",
+		"name": "hhsw.de Relaunch 2000",
+		"dob": "2000-03",
+		"links": {
+			"Visit": "arch/hhsw.de/2000/index.html"
+		}
+	},
+	{
+		"cat": "Archive",
+		"subcat": "Web",
+		"name": "My first website",
+		"dob": "1998-09",
+		"links": {
+			"Visit": "arch/hhsw.de/1998/index.html"
+		}
+	}
+]
