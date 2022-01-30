@@ -1,5 +1,5 @@
 <h1>Ludum Dare</h1>
-<p class="Separator">Here are the games and prototypes I wrote for <a href="https://ldjam.com">Ludum Dare</a>. Ludum Dare is one of the world's largest and longest running Game Jam events.</p>
+<p class="Excerpt Separator"><a href="https://ldjam.com">Ludum Dare</a> is one of the world's largest and longest running Game Jam events.</p>
 
 <article><a name="nine-lives"><h2>Nine Lives</h2></a>
 <p class="Stats"><time datetime="2019-04">April 2019</time> • $(loc ../NineLives:submission htdocs) • JavaScript • Unlicense</p>
