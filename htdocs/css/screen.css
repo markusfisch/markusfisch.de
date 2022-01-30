@@ -97,16 +97,6 @@ a.Active {
 	line-height: 1.5;
 }
 
-.ScreenshotLink img, .IconLink img {
-	margin: 0 0 1em 1em;
-	float: right;
-	width: 6em;
-}
-
-.ScreenshotLink img {
-	border-radius: 6em;
-}
-
 .Excerpt {
 	font-size: 90%;
 	font-style: italic;
@@ -117,6 +107,16 @@ a.Active {
 	font-size: 70%;
 	text-transform: uppercase;
 	color: #aaa;
+}
+
+.ScreenshotLink img, .IconLink img {
+	margin: 0 0 1em 1em;
+	float: right;
+	width: 6em;
+}
+
+.ScreenshotLink img {
+	border-radius: 6em;
 }
 
 .ProjectLinks {
