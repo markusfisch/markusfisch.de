@@ -5,7 +5,7 @@
 <p class="Stats"><time datetime="2021-09">September 2021</time> • $(loc ../HumwinAndDarbold:submission src/src.js) • JavaScript • Unlicense</p>
 <a href="http://hhsw.de/sites/proto/js13k2021/" class="ScreenshotLink"><img src="screenshots/humwin_and_darbold.jpg" alt="Humwin & Darbold Screenshot"/></a>
 <p>A small action adventure for <a href="https://js13kgames.com">js13kGames</a> 2021 "Space". 12703 bytes (95%).</p>
-</p>Humwin, your friendly space exploring robot, is in search for his pal Darbold, who has gone missing on a strange planet. What happened to him and where is he?</p><p>Unfortunately, the game turned out to be too unforgiving and I failed to make the solution clear. So here's a hopefully better <a href="https://hhsw.de/sites/humwin">post-compo</a> version.</p>
+<p>Humwin, your friendly space exploring robot, is in search for his pal Darbold, who has gone missing on a strange planet. What happened to him and where is he?</p><p>Unfortunately, the game turned out to be too unforgiving and I failed to make the solution clear. So here's a hopefully better <a href="https://hhsw.de/sites/humwin">post-compo</a> version.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/proto/js13k2021/">Play</a></li>
 <li><a href="https://js13kgames.com/entries/humwin-darbold">Entry</a></li>
@@ -16,7 +16,7 @@
 <p class="Stats"><time datetime="2020-09">September 2020</time> • $(loc ../Soyuz404:submission src/src.js) • JavaScript • Unlicense</p>
 <a href="http://hhsw.de/sites/proto/js13k2020/" class="ScreenshotLink"><img src="screenshots/soyuz404.jpg" alt="Soyuz 404 Screenshot"/></a>
 <p>A space adventure for <a href="https://js13kgames.com">js13kGames</a> 2020 "404". 13298 bytes (99%).</p>
-</p>The game and a few details about it were mentioned in this <a href="https://www.youtube.com/watch?v=GKOgm5-GbUA">video summary</a> of the 2020 event.</p>
+<p>The game and a few details about it were mentioned in this <a href="https://www.youtube.com/watch?v=GKOgm5-GbUA">video summary</a> of the 2020 event.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/proto/js13k2020/">Play</a></li>
 <li><a href="https://js13kgames.com/entries/sojuz-404">Entry</a></li>
