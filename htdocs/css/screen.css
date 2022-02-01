@@ -12,33 +12,7 @@ h1, h2, h3, p, ul {
 }
 
 h1 {
-	font-size: 60%; color: #e4e4e4;
-	font-weight: normal;
-	margin-bottom: 2rem;
-	letter-spacing: .5em;
-	text-transform: uppercase;
-	text-align: center;
-	overflow: hidden;
-}
-
-h1:before,
-h1:after {
-	position: relative;
-	display: inline-block;
-	vertical-align: middle;
-	content: "";
-	background: #e4e4e4;
-	width: 50%;
-	height: 1px;
-}
-
-h1:before {
-	right: .5em;
-	margin-left: -50%;
-}
-
-h1:after {
-	margin-right: -50%;
+	display: none;
 }
 
 a {
@@ -219,6 +193,37 @@ a.Active {
 @media screen and (max-width: 640px) {
 	body {
 		font-size: 105%;
+	}
+
+	h1 {
+		display: block;
+		font-size: 60%; color: #e4e4e4;
+		font-weight: normal;
+		margin-bottom: 2rem;
+		letter-spacing: .5em;
+		text-transform: uppercase;
+		text-align: center;
+		overflow: hidden;
+	}
+
+	h1:before,
+	h1:after {
+		position: relative;
+		display: inline-block;
+		vertical-align: middle;
+		content: "";
+		background: #e4e4e4;
+		width: 50%;
+		height: 1px;
+	}
+
+	h1:before {
+		right: .5em;
+		margin-left: -50%;
+	}
+
+	h1:after {
+		margin-right: -50%;
 	}
 
 	nav, #Main {
