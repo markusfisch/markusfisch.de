@@ -140,7 +140,7 @@ a.Active {
 }
 
 .ScreenshotLink img {
-	border-radius: .1em;
+	border: 1px solid #e4e4e4;
 }
 
 .ProjectLinks {
@@ -284,7 +284,8 @@ a.Active {
 		color: #fff;
 	}
 
-	.ProjectLinks a {
+	.ProjectLinks a,
+	.ScreenshotLink img {
 		border-color: #333;
 	}
 
