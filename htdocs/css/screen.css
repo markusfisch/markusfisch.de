@@ -134,12 +134,16 @@ a.Active {
 }
 
 .ScreenshotLink img, .IconLink img {
-	margin: .5em 0 1em 1em;
+	margin: .2em 0 1em 1em;
 	float: right;
-	width: 6em;
+}
+
+.IconLink img {
+	width: 4em;
 }
 
 .ScreenshotLink img {
+	width: 128px;
 	border: 1px solid #e4e4e4;
 }
 
@@ -249,9 +253,21 @@ a.Active {
 	.ProjectLinks {
 		margin-bottom: 5rem;
 	}
+}
 
-	.ScreenshotLink img, .IconLink img {
-		width: 4em;
+@media screen and (max-width: 320px) {
+	body {
+		font-size: 95%;
+	}
+
+	.ScreenshotLink img {
+		width: 100%;
+		margin: 0 0 1em;
+	}
+
+	.IconLink img {
+		width: 3em;
+		margin: 0 0 .5em .5em;
 	}
 }
 
