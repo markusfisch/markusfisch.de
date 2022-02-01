@@ -130,7 +130,7 @@ a.Active {
 .TL time {
 	font-size: 70%;
 	text-transform: uppercase;
-	color: #aaa;
+	color: #777;
 }
 
 .ScreenshotLink img, .IconLink img {
@@ -297,10 +297,5 @@ a.Active {
 	.TL:after,
 	.TL li:after {
 		background: #333;
-	}
-
-	.Stats,
-	.TL time {
-		color: #777;
 	}
 }
