@@ -114,7 +114,7 @@ a.Active {
 
 #Main p a {
 	text-decoration: underline;
-	text-underline-offset: .05em;
+	text-underline-offset: .1em;
 }
 
 #Main p, #Main li {
