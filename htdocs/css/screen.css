@@ -23,13 +23,13 @@ h1 {
 
 h1:before,
 h1:after {
-	background-color: #e4e4e4;
-	content: "";
-	display: inline-block;
-	height: 1px;
 	position: relative;
+	display: inline-block;
 	vertical-align: middle;
+	content: "";
+	background: #e4e4e4;
 	width: 50%;
+	height: 1px;
 }
 
 h1:before {
@@ -54,17 +54,17 @@ nav {
 	width: 8em;
 }
 
+.NavList {
+	position: relative;
+	margin: 0; padding: 140px 0 0;
+	list-style: none;
+}
+
 .NavList:before {
 	position: absolute; left: 0; top: 0;
 	content: '';
 	background: 0 0 url(logo.svg) no-repeat;
 	width: 72px; height: 80px;
-}
-
-.NavList {
-	position: relative;
-	margin: 0; padding: 140px 0 0;
-	list-style: none;
 }
 
 .NavList .NavList {
@@ -263,10 +263,6 @@ a.Active {
 		color: #ddd;
 	}
 
-	.NavList:before {
-		filter: invert(100%);
-	}
-
 	h1 {
 		color: #333;
 	}
@@ -274,6 +270,10 @@ a.Active {
 	h1:before,
 	h1:after {
 		background-color: #333;
+	}
+
+	.NavList:before {
+		filter: invert(100%);
 	}
 
 	a {
