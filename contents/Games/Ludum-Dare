@@ -1,5 +1,5 @@
 <h1>Ludum Dare</h1>
-<p class="Excerpt Separator"><a href="https://ldjam.com">Ludum Dare</a> is one of the world's largest and longest running Game Jam events.</p>
+<p class="Excerpt Separator"><a href="https://ldjam.com">Ludum Dare</a> is one of the world's largest and longest running Game Jam events. The games (or sometimes rather prototypes) you see here were made within 48 hours in the so-called <a href="https://ldjam.com/events/ludum-dare/rules">Compo</a> mode.</p>
 
 <article><a name="nine-lives"><h2>Nine Lives</h2></a>
 <p class="Stats"><time datetime="2019-04">April 2019</time> • $(loc ../NineLives:submission htdocs) • JavaScript • Unlicense</p>

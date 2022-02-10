@@ -346,7 +346,7 @@
 	{
 		"cat": "Games",
 		"subcat": "Js13kGames",
-		"info": "<p class=\"Excerpt Separator\"><a href=\"https://js13kgames.com\">js13kGames</a> is a JavaScript coding competition with a file size limit of 13 kilobytes.</p>"
+		"info": "<p class=\"Excerpt Separator\"><a href=\"https://js13kgames.com\">js13kGames</a> is a JavaScript coding competition with a file size limit of 13 kilobytes. The competition runs every year from 13 August to 13 September.</p>"
 	},
 	{
 		"cat": "Games",
@@ -463,7 +463,7 @@
 	{
 		"cat": "Games",
 		"subcat": "Ludum_Dare",
-		"info": "<p class=\"Excerpt Separator\"><a href=\"https://ldjam.com\">Ludum Dare</a> is one of the world's largest and longest running Game Jam events.</p>"
+		"info": "<p class=\"Excerpt Separator\"><a href=\"https://ldjam.com\">Ludum Dare</a> is one of the world's largest and longest running Game Jam events. The games (or sometimes rather prototypes) you see here were made within 48 hours in the so-called <a href=\"https://ldjam.com/events/ludum-dare/rules\">Compo</a> mode.</p>"
 	},
 	{
 		"cat": "Games",
