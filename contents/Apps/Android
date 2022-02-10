@@ -87,6 +87,7 @@
 <p>Displays your screen time in a permanent notification.</p><p>By making screen time more prominent, you can get a better sense of how much of the day you spend on your phone. Without judgement. Just so you know.</p><p>Of course, there's Google's Digital Wellbeing app and a lot of other apps that track app usage. But I just like to see my screen time at a glance without having to open an app.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.screentime">Google Play</a></li>
+<li><a href="https://f-droid.org/packages/de.markusfisch.android.screentime/">F-Droid</a></li>
 <li><a href="https://github.com/markusfisch/ScreenTime">GitHub</a></li>
 <li><a href="https://github.com/markusfisch/ScreenTime/releases">Releases</a></li>
 </ul></article>

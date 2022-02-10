@@ -113,6 +113,7 @@
 		"license": "Unlicense",
 		"links": {
 			"Google Play": "https://play.google.com/store/apps/details?id=de.markusfisch.android.screentime",
+			"F-Droid": "https://f-droid.org/packages/de.markusfisch.android.screentime/",
 			"GitHub": "https://github.com/markusfisch/ScreenTime",
 			"Releases": "https://github.com/markusfisch/ScreenTime/releases"
 		}
