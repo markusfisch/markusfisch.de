@@ -12,7 +12,7 @@
 		"links": {
 			"Google Play": "https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye",
 			"F-Droid": "https://f-droid.org/en/packages/de.markusfisch.android.binaryeye/",
-			"GitHub": "https://github.com/markusfisch/BinaryEye",
+			"Source": "https://github.com/markusfisch/BinaryEye",
 			"Releases": "https://github.com/markusfisch/BinaryEye/releases"
 		}
 	},
@@ -29,7 +29,7 @@
 		"links": {
 			"Google Play": "https://play.google.com/store/apps/details?id=de.markusfisch.android.pielauncher",
 			"F-Droid": "https://f-droid.org/de/packages/de.markusfisch.android.pielauncher/",
-			"GitHub": "https://github.com/markusfisch/PieLauncher",
+			"Source": "https://github.com/markusfisch/PieLauncher",
 			"Releases": "https://github.com/markusfisch/PieLauncher/releases",
 			"Video": "https://www.youtube.com/watch?v=zg0h3s_yua8"
 		}
@@ -47,7 +47,7 @@
 		"links": {
 			"Google Play": "https://play.google.com/store/apps/details?id=de.markusfisch.android.shadereditor",
 			"F-Droid": "https://f-droid.org/en/packages/de.markusfisch.android.shadereditor/",
-			"GitHub": "https://github.com/markusfisch/ShaderEditor",
+			"Source": "https://github.com/markusfisch/ShaderEditor",
 			"Releases": "https://github.com/markusfisch/ShaderEditor/releases"
 		}
 	},
@@ -64,7 +64,7 @@
 		"links": {
 			"Google Play": "https://play.google.com/store/apps/details?id=de.markusfisch.android.wavelines",
 			"F-Droid": "https://f-droid.org/packages/de.markusfisch.android.wavelines/",
-			"GitHub": "https://github.com/markusfisch/WaveLinesWallpaper",
+			"Source": "https://github.com/markusfisch/WaveLinesWallpaper",
 			"Releases": "https://github.com/markusfisch/WaveLinesWallpaper/releases"
 		}
 	},
@@ -81,7 +81,7 @@
 		"links": {
 			"Google Play": "https://play.google.com/store/apps/details?id=de.markusfisch.android.libra",
 			"F-Droid": "https://f-droid.org/en/packages/de.markusfisch.android.libra/",
-			"GitHub": "https://github.com/markusfisch/Libra",
+			"Source": "https://github.com/markusfisch/Libra",
 			"Releases": "https://github.com/markusfisch/Libra/releases"
 		}
 	},
@@ -97,7 +97,7 @@
 		"license": "Unlicense",
 		"links": {
 			"Google Play": "https://play.google.com/store/apps/details?id=de.markusfisch.android.motoscore",
-			"GitHub": "https://github.com/markusfisch/MotoScore",
+			"Source": "https://github.com/markusfisch/MotoScore",
 			"Releases": "https://github.com/markusfisch/MotoScore/releases"
 		}
 	},
@@ -114,7 +114,7 @@
 		"links": {
 			"Google Play": "https://play.google.com/store/apps/details?id=de.markusfisch.android.screentime",
 			"F-Droid": "https://f-droid.org/packages/de.markusfisch.android.screentime/",
-			"GitHub": "https://github.com/markusfisch/ScreenTime",
+			"Source": "https://github.com/markusfisch/ScreenTime",
 			"Releases": "https://github.com/markusfisch/ScreenTime/releases"
 		}
 	},
@@ -129,7 +129,7 @@
 		"lang": "C++",
 		"license": "MIT",
 		"links": {
-			"GitHub": "https://github.com/markusfisch/PieDock",
+			"Source": "https://github.com/markusfisch/PieDock",
 			"Releases": "https://github.com/markusfisch/PieDock/releases",
 			"Video": "https://vimeo.com/21360384"
 		}
@@ -145,7 +145,7 @@
 		"lang": "C++",
 		"license": "Unlicense",
 		"links": {
-			"GitHub": "https://github.com/markusfisch/bbdock"
+			"Source": "https://github.com/markusfisch/bbdock"
 		}
 	},
 	{
@@ -160,7 +160,7 @@
 		"license": "Unlicense",
 		"links": {
 			"Website": "https://los.baby/",
-			"GitHub": "https://github.com/markusfisch/was-los"
+			"Source": "https://github.com/markusfisch/was-los"
 		}
 	},
 	{
@@ -175,7 +175,7 @@
 		"license": "Unlicense",
 		"links": {
 			"Website": "http://qrim.markusfisch.de/",
-			"GitHub": "https://github.com/markusfisch/qrim"
+			"Source": "https://github.com/markusfisch/qrim"
 		}
 	},
 	{
@@ -190,7 +190,7 @@
 		"license": "Unlicense",
 		"links": {
 			"Play": "http://hhsw.de/sites/Soyuz404/",
-			"GitHub": "https://github.com/markusfisch/Sojuz404"
+			"Source": "https://github.com/markusfisch/Sojuz404"
 		}
 	},
 	{
@@ -205,7 +205,7 @@
 		"license": "Unlicense",
 		"links": {
 			"Play": "http://badminton.markusfisch.de",
-			"GitHub": "https://github.com/markusfisch/BadMinton"
+			"Source": "https://github.com/markusfisch/BadMinton"
 		}
 	},
 	{
@@ -220,7 +220,7 @@
 		"license": "Unlicense",
 		"links": {
 			"Play": "http://galex.markusfisch.de",
-			"GitHub": "https://github.com/markusfisch/GalEx"
+			"Source": "https://github.com/markusfisch/GalEx"
 		}
 	},
 	{
@@ -235,7 +235,7 @@
 		"license": "Unlicense",
 		"links": {
 			"Play": "http://gingerman.markusfisch.de",
-			"GitHub": "https://github.com/markusfisch/Gingerman"
+			"Source": "https://github.com/markusfisch/Gingerman"
 		}
 	},
 	{
@@ -250,7 +250,7 @@
 		"license": "Unlicense",
 		"links": {
 			"Play": "http://savingoskar.markusfisch.de/",
-			"GitHub": "https://github.com/markusfisch/SavingOskar"
+			"Source": "https://github.com/markusfisch/SavingOskar"
 		}
 	},
 	{
@@ -265,7 +265,7 @@
 		"license": "Unlicense",
 		"links": {
 			"Play": "http://jumpygreen.markusfisch.de",
-			"GitHub": "https://github.com/markusfisch/JumpyGreen"
+			"Source": "https://github.com/markusfisch/JumpyGreen"
 		}
 	},
 	{
@@ -280,7 +280,7 @@
 		"license": "Unlicense",
 		"links": {
 			"Play": "http://tensecondstovenus.markusfisch.de",
-			"GitHub": "https://github.com/markusfisch/TenSecondsToVenus"
+			"Source": "https://github.com/markusfisch/TenSecondsToVenus"
 		}
 	},
 	{
@@ -295,7 +295,7 @@
 		"license": "Unlicense",
 		"links": {
 			"Play": "http://hhsw.de/sites/SkiRun/",
-			"GitHub": "https://github.com/markusfisch/SkiRun"
+			"Source": "https://github.com/markusfisch/SkiRun"
 		}
 	},
 	{
@@ -310,7 +310,7 @@
 		"license": "Unlicense",
 		"links": {
 			"Play": "http://striker.markusfisch.de/",
-			"GitHub": "https://github.com/markusfisch/Striker"
+			"Source": "https://github.com/markusfisch/Striker"
 		}
 	},
 	{
@@ -324,7 +324,7 @@
 		"lang": "Java",
 		"license": "Unlicense",
 		"links": {
-			"GitHub": "https://github.com/markusfisch/Sheeptris",
+			"Source": "https://github.com/markusfisch/Sheeptris",
 			"Releases": "https://github.com/markusfisch/Sheeptris/releases"
 		}
 	},
@@ -339,7 +339,7 @@
 		"lang": "C",
 		"license": "Unlicense",
 		"links": {
-			"GitHub": "https://github.com/markusfisch/bots",
+			"Source": "https://github.com/markusfisch/bots",
 			"Web Client": "http://bots.markusfisch.de"
 		}
 	},
@@ -361,7 +361,7 @@
 		"links": {
 			"Play": "http://hhsw.de/sites/proto/js13k2021/",
 			"Entry": "https://js13kgames.com/entries/humwin-darbold",
-			"GitHub": "https://github.com/markusfisch/HumwinAndDarbold"
+			"Source": "https://github.com/markusfisch/HumwinAndDarbold"
 		}
 	},
 	{
@@ -377,7 +377,7 @@
 		"links": {
 			"Play": "http://hhsw.de/sites/proto/js13k2020/",
 			"Entry": "https://js13kgames.com/entries/sojuz-404",
-			"GitHub": "https://github.com/markusfisch/Sojuz404"
+			"Source": "https://github.com/markusfisch/Sojuz404"
 		}
 	},
 	{
@@ -393,7 +393,7 @@
 		"links": {
 			"Play": "http://hhsw.de/sites/proto/js13k2019/",
 			"Entry": "http://js13kgames.com/entries/conflict-management",
-			"GitHub": "https://github.com/markusfisch/ConflictManagement"
+			"Source": "https://github.com/markusfisch/ConflictManagement"
 		}
 	},
 	{
@@ -409,7 +409,7 @@
 		"links": {
 			"Play": "http://pronto.markusfisch.de/",
 			"Entry": "https://js13kgames.com/entries/pronto",
-			"GitHub": "https://github.com/markusfisch/Pronto"
+			"Source": "https://github.com/markusfisch/Pronto"
 		}
 	},
 	{
@@ -425,7 +425,7 @@
 		"links": {
 			"Play": "http://hhsw.de/sites/LostTreasures/",
 			"Entry": "http://js13kgames.com/entries/lost-treasures",
-			"GitHub": "https://github.com/markusfisch/LostTreasures"
+			"Source": "https://github.com/markusfisch/LostTreasures"
 		}
 	},
 	{
@@ -441,7 +441,7 @@
 		"links": {
 			"Play": "http://hhsw.de/sites/GlitchYeagers/",
 			"Entry": "http://js13kgames.com/entries/glitch-yeagers",
-			"GitHub": "https://github.com/markusfisch/GlitchYeagers"
+			"Source": "https://github.com/markusfisch/GlitchYeagers"
 		}
 	},
 	{
@@ -457,7 +457,7 @@
 		"links": {
 			"Play": "http://hhsw.de/sites/eugor/",
 			"Entry": "http://js13kgames.com/entries/eugor",
-			"GitHub": "https://github.com/markusfisch/Eugor"
+			"Source": "https://github.com/markusfisch/Eugor"
 		}
 	},
 	{
@@ -478,7 +478,7 @@
 		"links": {
 			"Play": "http://hhsw.de/sites/NineLives",
 			"Entry": "https://ldjam.com/events/ludum-dare/44/nine-lives",
-			"GitHub": "https://github.com/markusfisch/NineLives"
+			"Source": "https://github.com/markusfisch/NineLives"
 		}
 	},
 	{
@@ -494,7 +494,7 @@
 		"links": {
 			"Play": "http://savingoskar.markusfisch.de/",
 			"Entry": "https://ldjam.com/events/ludum-dare/43/saving-oskar",
-			"GitHub": "https://github.com/markusfisch/SavingOskar"
+			"Source": "https://github.com/markusfisch/SavingOskar"
 		}
 	},
 	{
@@ -510,7 +510,7 @@
 		"links": {
 			"Play": "http://badminton.markusfisch.de",
 			"Entry": "https://ldjam.com/events/ludum-dare/41/bad-minton",
-			"GitHub": "https://github.com/markusfisch/BadMinton"
+			"Source": "https://github.com/markusfisch/BadMinton"
 		}
 	},
 	{
@@ -526,7 +526,7 @@
 		"links": {
 			"Play": "http://hhsw.de/sites/rogues/",
 			"Entry": "https://ldjam.com/events/ludum-dare/40/rogues",
-			"GitHub": "https://github.com/markusfisch/Rogues"
+			"Source": "https://github.com/markusfisch/Rogues"
 		}
 	},
 	{
@@ -542,7 +542,7 @@
 		"links": {
 			"Play": "http://jumpygreen.markusfisch.de/",
 			"Entry": "https://ldjam.com/events/ludum-dare/38/jumpy-green",
-			"GitHub": "https://github.com/markusfisch/JumpyGreen"
+			"Source": "https://github.com/markusfisch/JumpyGreen"
 		}
 	},
 	{
@@ -558,7 +558,7 @@
 		"links": {
 			"Play": "http://hhsw.de/sites/proto/ld37/",
 			"Entry": "http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=19466",
-			"GitHub": "https://github.com/markusfisch/RobotClash"
+			"Source": "https://github.com/markusfisch/RobotClash"
 		}
 	},
 	{
@@ -575,7 +575,7 @@
 			"Play": "http://hhsw.de/sites/proto/ld35/",
 			"Alternative": "http://hhsw.de/sites/proto/shiftingcastle/",
 			"Entry": "http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=19466",
-			"GitHub": "https://github.com/markusfisch/RubiksPlane"
+			"Source": "https://github.com/markusfisch/RubiksPlane"
 		}
 	},
 	{
@@ -591,7 +591,7 @@
 		"links": {
 			"Play": "http://hhsw.de/sites/proto/ld34/",
 			"Entry": "http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=19466",
-			"GitHub": "https://github.com/markusfisch/SweetToothMouse"
+			"Source": "https://github.com/markusfisch/SweetToothMouse"
 		}
 	},
 	{
@@ -607,7 +607,7 @@
 		"links": {
 			"Play": "http://hhsw.de/sites/proto/ld32/",
 			"Entry": "http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=19466",
-			"GitHub": "https://github.com/markusfisch/HorribleTigerGun"
+			"Source": "https://github.com/markusfisch/HorribleTigerGun"
 		}
 	},
 	{
@@ -623,7 +623,7 @@
 		"links": {
 			"Play": "http://gingerman.markusfisch.de",
 			"Entry": "http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=19466",
-			"GitHub": "https://github.com/markusfisch/Gingerman"
+			"Source": "https://github.com/markusfisch/Gingerman"
 		}
 	},
 	{
@@ -639,7 +639,7 @@
 		"links": {
 			"Play": "http://galex.markusfisch.de",
 			"Entry": "http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=19466",
-			"GitHub": "https://github.com/markusfisch/GalEx"
+			"Source": "https://github.com/markusfisch/GalEx"
 		}
 	},
 	{
@@ -655,7 +655,7 @@
 		"links": {
 			"Play": "http://hhsw.de/sites/proto/ld29/",
 			"Entry": "http://ludumdare.com/compo/ludum-dare-29/?action=preview&uid=19466",
-			"GitHub": "https://github.com/markusfisch/Tycho"
+			"Source": "https://github.com/markusfisch/Tycho"
 		}
 	},
 	{
@@ -671,7 +671,7 @@
 		"links": {
 			"Play": "http://tensecondstovenus.markusfisch.de",
 			"Entry": "http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=19466",
-			"GitHub": "https://github.com/markusfisch/TenSecondsToVenus"
+			"Source": "https://github.com/markusfisch/TenSecondsToVenus"
 		}
 	},
 	{
@@ -687,7 +687,7 @@
 		"links": {
 			"Play": "http://hhsw.de/sites/quadTRI/",
 			"Entry": "http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=19466",
-			"GitHub": "https://github.com/markusfisch/quadTRI"
+			"Source": "https://github.com/markusfisch/quadTRI"
 		}
 	},
 	{
@@ -703,7 +703,7 @@
 		"links": {
 			"Play": "http://hhsw.de/sites/proto/ld25/",
 			"Entry": "http://ludumdare.com/compo/ludum-dare-25/?action=preview&uid=19466",
-			"GitHub": "https://github.com/markusfisch/AlienInvasion"
+			"Source": "https://github.com/markusfisch/AlienInvasion"
 		}
 	},
 	{
@@ -736,7 +736,7 @@
 		"lang": "Java",
 		"license": "Unlicense",
 		"links": {
-			"GitHub": "https://github.com/markusfisch/CameraView",
+			"Source": "https://github.com/markusfisch/CameraView",
 			"Releases": "https://github.com/markusfisch/CameraView/releases"
 		}
 	},
@@ -750,7 +750,7 @@
 		"lang": "Java",
 		"license": "Unlicense",
 		"links": {
-			"GitHub": "https://github.com/markusfisch/ScalingImageView",
+			"Source": "https://github.com/markusfisch/ScalingImageView",
 			"Releases": "https://github.com/markusfisch/ScalingImageView/releases"
 		}
 	},
@@ -764,7 +764,7 @@
 		"lang": "Java",
 		"license": "Unlicense",
 		"links": {
-			"GitHub": "https://github.com/markusfisch/SwipeImageView",
+			"Source": "https://github.com/markusfisch/SwipeImageView",
 			"Releases": "https://github.com/markusfisch/SwipeImageView/releases"
 		}
 	},
@@ -778,7 +778,7 @@
 		"lang": "C",
 		"license": "MIT",
 		"links": {
-			"GitHub": "https://github.com/markusfisch/libhttp"
+			"Source": "https://github.com/markusfisch/libhttp"
 		}
 	},
 	{
@@ -791,7 +791,7 @@
 		"lang": "C",
 		"license": "MIT",
 		"links": {
-			"GitHub": "https://github.com/markusfisch/libxml"
+			"Source": "https://github.com/markusfisch/libxml"
 		}
 	},
 	{
@@ -804,7 +804,7 @@
 		"lang": "C++",
 		"license": "Unlicense",
 		"links": {
-			"GitHub": "https://github.com/markusfisch/cpprc"
+			"Source": "https://github.com/markusfisch/cpprc"
 		}
 	},
 	{
@@ -817,7 +817,7 @@
 		"lang": "C",
 		"license": "Unlicense",
 		"links": {
-			"GitHub": "https://github.com/markusfisch/calc"
+			"Source": "https://github.com/markusfisch/calc"
 		}
 	},
 	{
@@ -830,7 +830,7 @@
 		"lang": "bash",
 		"license": "Unlicense",
 		"links": {
-			"GitHub": "https://github.com/markusfisch/dotfiles"
+			"Source": "https://github.com/markusfisch/dotfiles"
 		}
 	},
 	{
@@ -869,7 +869,7 @@
 		"lang": "bash",
 		"license": "Unlicense",
 		"links": {
-			"GitHub": "https://github.com/markusfisch/simsalabash"
+			"Source": "https://github.com/markusfisch/simsalabash"
 		}
 	},
 	{
@@ -882,7 +882,7 @@
 		"lang": "bash",
 		"license": "Unlicense",
 		"links": {
-			"GitHub": "https://github.com/markusfisch/readmail"
+			"Source": "https://github.com/markusfisch/readmail"
 		}
 	},
 	{
@@ -895,7 +895,7 @@
 		"lang": "awk",
 		"license": "Unlicense",
 		"links": {
-			"GitHub": "https://github.com/markusfisch/advent-of-awk"
+			"Source": "https://github.com/markusfisch/advent-of-awk"
 		}
 	},
 	{
@@ -973,7 +973,7 @@
 		"lang": "PHP",
 		"license": "Unlicense",
 		"links": {
-			"GitHub": "https://github.com/markusfisch/Phapp"
+			"Source": "https://github.com/markusfisch/Phapp"
 		}
 	},
 	{
@@ -986,7 +986,7 @@
 		"lang": "PHP",
 		"license": "Unlicense",
 		"links": {
-			"GitHub": "https://github.com/markusfisch/simsala"
+			"Source": "https://github.com/markusfisch/simsala"
 		}
 	},
 	{
@@ -999,7 +999,7 @@
 		"lang": "JavaScript",
 		"license": "Unlicense",
 		"links": {
-			"GitHub": "https://github.com/markusfisch/TouchClock.js"
+			"Source": "https://github.com/markusfisch/TouchClock.js"
 		}
 	},
 	{
@@ -1012,7 +1012,7 @@
 		"lang": "JavaScript",
 		"license": "Unlicense",
 		"links": {
-			"GitHub": "https://github.com/markusfisch/WebPie"
+			"Source": "https://github.com/markusfisch/WebPie"
 		}
 	},
 	{
@@ -1025,7 +1025,7 @@
 		"lang": "JavaScript",
 		"license": "Unlicense",
 		"links": {
-			"GitHub": "https://github.com/markusfisch/ZoomGrid"
+			"Source": "https://github.com/markusfisch/ZoomGrid"
 		}
 	},
 	{
@@ -1037,7 +1037,7 @@
 		"license": "Unlicense",
 		"links": {
 			"Visit": "http://kartpokal.de/",
-			"GitHub": "https://github.com/markusfisch/kartpokal.de"
+			"Source": "https://github.com/markusfisch/kartpokal.de"
 		}
 	},
 	{

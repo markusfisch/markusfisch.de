@@ -9,7 +9,7 @@
 <p>PS: the formula, which plays a significant role in the game, is not made up, but the real <a href="https://www.forbes.com/sites/startswithabang/2020/08/12/a-spacetime-surprise-time-isnt-just-another-dimension/?sh=79b89a5d47dc">spacetime interval equation</a>.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/Soyuz404/">Play</a></li>
-<li><a href="https://github.com/markusfisch/Sojuz404">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/Sojuz404">Source</a></li>
 </ul></article>
 
 <article><a name="bad-minton"><h2>Bad Minton</h2></a>
@@ -20,7 +20,7 @@
 <p>Written for Ludum Dare <a href="games-ludum-dare.html#bad_minton">#41</a>.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://badminton.markusfisch.de">Play</a></li>
-<li><a href="https://github.com/markusfisch/BadMinton">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/BadMinton">Source</a></li>
 </ul></article>
 
 <article><a name="galex"><h2>GalEx</h2></a>
@@ -31,7 +31,7 @@
 <p>Works on any device with a decent web browser. This is an enhanced version of a game I wrote for Ludum Dare <a href="games-ludum-dare.html#galex">#30</a>.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://galex.markusfisch.de">Play</a></li>
-<li><a href="https://github.com/markusfisch/GalEx">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/GalEx">Source</a></li>
 </ul></article>
 
 <article><a name="gingerman"><h2>Gingerman</h2></a>
@@ -41,7 +41,7 @@
 <p>Works on any device with a decent web browser. Written around and for the Christmas season for Ludum Dare <a href="games-ludum-dare.html#gingerman">#31</a>. This is an enhanced version.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://gingerman.markusfisch.de">Play</a></li>
-<li><a href="https://github.com/markusfisch/Gingerman">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/Gingerman">Source</a></li>
 </ul></article>
 
 <article><a name="saving-oskar"><h2>Saving Oskar</h2></a>
@@ -52,7 +52,7 @@
 <p>Made this game for Ludum Dare <a href="games-ludum-dare.html#saving_oskar">#43</a> with <a href="https://github.com/ChristianNorbertBraun">Christian Braun</a>, who did almost all the graphics and all the music.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://savingoskar.markusfisch.de/">Play</a></li>
-<li><a href="https://github.com/markusfisch/SavingOskar">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/SavingOskar">Source</a></li>
 </ul></article>
 
 <article><a name="jumpy-green"><h2>Jumpy Green</h2></a>
@@ -63,7 +63,7 @@
 <p>Written for Ludum Dare <a href="games-ludum-dare.html#jumpy_green">#38</a>.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://jumpygreen.markusfisch.de">Play</a></li>
-<li><a href="https://github.com/markusfisch/JumpyGreen">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/JumpyGreen">Source</a></li>
 </ul></article>
 
 <article><a name="ten-seconds-to-venus"><h2>Ten Seconds To Venus</h2></a>
@@ -74,7 +74,7 @@
 <p>Made for Ludum Dare <a href="games-ludum-dare.html#ten_seconds_to_venus">#27</a>.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://tensecondstovenus.markusfisch.de">Play</a></li>
-<li><a href="https://github.com/markusfisch/TenSecondsToVenus">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/TenSecondsToVenus">Source</a></li>
 </ul></article>
 
 <article><a name="ski-run"><h2>Ski Run</h2></a>
@@ -84,7 +84,7 @@
 <p>Works on any screen with a decent web browser. <a href="http://hhsw.de/sites/proto/ld28/">Originally</a> written for Ludum Dare #28 but never submitted.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/SkiRun/">Play</a></li>
-<li><a href="https://github.com/markusfisch/SkiRun">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/SkiRun">Source</a></li>
 </ul></article>
 
 <article><a name="striker"><h2>Striker</h2></a>
@@ -94,7 +94,7 @@
 <p>Does not work on mobile because it was written in 2002. Originally made as an easter egg for a boring business website that doesn't exist anymore.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://striker.markusfisch.de/">Play</a></li>
-<li><a href="https://github.com/markusfisch/Striker">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/Striker">Source</a></li>
 </ul></article>
 
 <article><a name="sheeptris"><h2>Sheeptris</h2></a>
@@ -103,6 +103,6 @@
 <p>A multiplayer Tetris with sheeps. Can be played by up to three players simultaneously.</p>
 <p>Originally, this game was also playable in a web browser. But since <a href="https://en.wikipedia.org/wiki/Java_applet">Java applets</a> have fallen out of favor, that no longer works. So not only do you have to download the game, but you also have to have Java installed to run it.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/Sheeptris">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/Sheeptris">Source</a></li>
 <li><a href="https://github.com/markusfisch/Sheeptris/releases">Releases</a></li>
 </ul></article>

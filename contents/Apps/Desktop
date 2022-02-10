@@ -6,7 +6,7 @@
 <p>PieDock is a task bar and application launcher in shape of a pie menu for the <a href="https://en.wikipedia.org/wiki/X_Window_System">X Window System</a>. Feels a little bit like the famous OS X dock in a circle.</p>
 <p>Here is a <a href="https://vimeo.com/21360384">video</a> of the concept in action. Also made a <a href="apps-android.html#pie_launcher">home screen launcher</a> for Android with the same idea. And a JavaScript <a href="tools-web.html#webpie">version</a> for the web.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/PieDock">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/PieDock">Source</a></li>
 <li><a href="https://github.com/markusfisch/PieDock/releases">Releases</a></li>
 <li><a href="https://vimeo.com/21360384">Video</a></li>
 </ul></article>
@@ -16,5 +16,5 @@
 <a href="https://github.com/markusfisch/bbdock" class="ScreenshotLink"><img src="screenshots/bbdock.jpg" alt="bbdock Screenshot"/></a>
 <p>Displays transparent PNG icons in the <a href="https://en.wikipedia.org/wiki/Blackbox">Blackbox</a>, <a href="https://en.wikipedia.org/wiki/Openbox">Openbox</a> or <a href="https://en.wikipedia.org/wiki/Fluxbox">Fluxbox</a> slit. If this is greek to you, you don't need it.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/bbdock">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/bbdock">Source</a></li>
 </ul></article>

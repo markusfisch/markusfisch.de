@@ -5,7 +5,7 @@
 <p>The terminal is my IDE and this is my configuration. </p>
 <p>Find here some shell scripts that make my life easier.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/dotfiles">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/dotfiles">Source</a></li>
 </ul></article>
 
 <article><a name="annual"><h2>annual</h2></a>
@@ -33,21 +33,21 @@
 <p class="Stats"><time datetime="2011-11">November 2011</time> • $(loc ../simsalabash simsalabash) • bash • Unlicense</p>
 <p>Dead simple static site generator for command line lovers.</p><p>This <a href="https://github.com/markusfisch/markusfisch.de">website</a> is built using it. Yes, sometimes I fall prey to the <a href="https://en.wikipedia.org/wiki/Not_invented_here">NIH syndrome</a>. On purpose.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/simsalabash">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/simsalabash">Source</a></li>
 </ul></article>
 
 <article><a name="readmail"><h2>readmail</h2></a>
 <p class="Stats"><time datetime="2006-06">June 2006</time> • $(loc ../readmail readmail) • bash • Unlicense</p>
 <p>POP3/SMTP client in bash.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/readmail">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/readmail">Source</a></li>
 </ul></article>
 
 <article><a name="advent-of-awk-2020"><h2>Advent of AWK 2020</h2></a>
 <p class="Stats"><time datetime="2020-12">December 2020</time> • $(loc ../advent-of-awk '*/part?') • awk • Unlicense</p>
 <p><a href="https://en.wikipedia.org/wiki/AWK">AWK</a> solutions for <a href="https://adventofcode.com/2020">Advent of Code 2020</a>.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/advent-of-awk">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/advent-of-awk">Source</a></li>
 </ul></article>
 
 <article><a name="mkatlas"><h2>mkatlas</h2></a>

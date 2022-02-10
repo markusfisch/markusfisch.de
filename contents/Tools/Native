@@ -7,7 +7,7 @@
 <p>To play the game, your program, a so-called bot, must connect a socket to the Bots server. The bot can be programmed in any language that can open a socket. </p>
 <p>Used for the <a href="https://kurzdigital.com">KURZ Digital</a> Coding Night <a href="https://twitter.com/markusfisch/status/1008395010247741440?s=20">2018</a> and <a href="https://twitter.com/kurzdigital/status/1139827333228113920?s=20">2019</a>.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/bots">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/bots">Source</a></li>
 <li><a href="http://bots.markusfisch.de">Web Client</a></li>
 </ul></article>
 
@@ -16,7 +16,7 @@
 <p>Light-weight C library for HTTP/1.1 requests.</p>
 <p>Build for embedded environments or whereever libcurl would be just too much.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/libhttp">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/libhttp">Source</a></li>
 </ul></article>
 
 <article><a name="libxml"><h2>libxml</h2></a>
@@ -24,7 +24,7 @@
 <p>Incremental XML parser in plain C.</p>
 <p>Processes XML input in chunks without caching the entire document.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/libxml">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/libxml">Source</a></li>
 </ul></article>
 
 <article><a name="cpprc"><h2>cpprc</h2></a>
@@ -32,7 +32,7 @@
 <p>Embed data files into C++. What "xxd -i" does for C.</p>
 <p>Like "qtrc" from <a href="https://www.qt.io/">Qt</a> but for <a href="https://www.wxwidgets.org/">wxWidgets</a> and the C++ <a href="https://en.wikipedia.org/wiki/Standard_Template_Library">STL</a>.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/cpprc">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/cpprc">Source</a></li>
 </ul></article>
 
 <article><a name="calc"><h2>calc</h2></a>
@@ -40,5 +40,5 @@
 <p>Tiny line calculator in portable C.</p>
 <p>A humble <a href="https://en.wikipedia.org/wiki/Bc_(programming_language)">bc</a> alternative.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/calc">GitHub</a></li>
+<li><a href="https://github.com/markusfisch/calc">Source</a></li>
 </ul></article>
