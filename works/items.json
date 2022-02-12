@@ -566,14 +566,13 @@
 		"subcat": "Ludum_Dare",
 		"name": "Rubiks Plane",
 		"screenshot": "screenshots/rubiks_plane.jpg",
-		"description": "<p>Shifting puzzler for <a href=\"https://ldjam.com\">Ludum Dare</a> #35 \"Shapeshift\". Playable.</p>",
+		"description": "<p>Shifting puzzler for <a href=\"https://ldjam.com\">Ludum Dare</a> #35 \"Shapeshift\". Playable.</p><p>There is also a variation with a <a href=\"http://hhsw.de/sites/proto/shiftingcastle/\">Castle</a> theme, because I wanted to put monsters on some tiles but ran out of time.</p>",
 		"dob": "2016-04",
 		"loc": "../RubiksPlane:submission htdocs",
 		"lang": "JavaScript",
 		"license": "Unlicense",
 		"links": {
 			"Play": "http://hhsw.de/sites/proto/ld35/",
-			"Alternative": "http://hhsw.de/sites/proto/shiftingcastle/",
 			"Entry": "http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=19466",
 			"Source": "https://github.com/markusfisch/RubiksPlane"
 		}
