@@ -716,7 +716,7 @@
 		"subcat": "0h_Game_Jam",
 		"name": "Huh",
 		"screenshot": "screenshots/huh.jpg",
-		"description": "<p>Click on a free spot to survive. Made for <a href=\"http://0hgame.eu/\">0h Game Jam</a> 2014.</p>\n<p>Here is the <a href=\"https://vimeo.com/110055282\">time-lapse video</a> of the hour that never was.</p>",
+		"description": "<p>You're a ghost hunter surrounded by ghost. Don't let them touch you! Click on a free spot to survive as long as you can. Made for <a href=\"http://0hgame.eu/\">0h Game Jam</a> 2014.</p>\n<p>Here is the <a href=\"https://vimeo.com/110055282\">time-lapse video</a> of the hour that never was.</p><p>Later that year, I played with the idea a bit more and made <a href=\"http://hhsw.de/sites/proto/boo/\">Boo</a>, in which the roles are reversed.</p>",
 		"dob": "2014-10",
 		"loc": "../huh:submission",
 		"lang": "JavaScript",

@@ -4,8 +4,8 @@
 <article><a name="huh"><h2>Huh</h2></a>
 <p class="Stats"><time datetime="2014-10">October 2014</time> • $(loc ../huh:submission) • JavaScript • Unlicense</p>
 <a href="http://hhsw.de/sites/proto/huh/" class="ScreenshotLink"><img src="screenshots/huh.jpg" alt="Huh Screenshot"/></a>
-<p>Click on a free spot to survive. Made for <a href="http://0hgame.eu/">0h Game Jam</a> 2014.</p>
-<p>Here is the <a href="https://vimeo.com/110055282">time-lapse video</a> of the hour that never was.</p>
+<p>You're a ghost hunter surrounded by ghost. Don't let them touch you! Click on a free spot to survive as long as you can. Made for <a href="http://0hgame.eu/">0h Game Jam</a> 2014.</p>
+<p>Here is the <a href="https://vimeo.com/110055282">time-lapse video</a> of the hour that never was.</p><p>Later that year, I played with the idea a bit more and made <a href="http://hhsw.de/sites/proto/boo/">Boo</a>, in which the roles are reversed.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/proto/huh/">Play</a></li>
 <li><a href="https://vimeo.com/110055282">Timelapse</a></li>
