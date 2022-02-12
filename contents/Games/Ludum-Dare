@@ -4,7 +4,7 @@
 <article><a name="nine-lives"><h2>Nine Lives</h2></a>
 <p class="Stats"><time datetime="2019-04">April 2019</time> • $(loc ../NineLives:submission htdocs) • JavaScript • Unlicense</p>
 <a href="http://hhsw.de/sites/NineLives" class="ScreenshotLink"><img src="screenshots/nine_lives.jpg" alt="Nine Lives Screenshot"/></a>
-<p>Nine lives aren't enough for <a href="https://ldjam.com">Ludum Dare</a> #44 "Your life is currency".</p>
+<p>Nine lives aren't enough for <a href="https://ldjam.com">Ludum Dare</a> #44 "Your life is currency".</p><p>Use the cursor keys to move and the spacebar to search for dangers nearby, which will cost you half a life.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/NineLives">Play</a></li>
 <li><a href="https://ldjam.com/events/ludum-dare/44/nine-lives">Entry</a></li>
@@ -14,7 +14,7 @@
 <article><a name="saving-oskar"><h2>Saving Oskar</h2></a>
 <p class="Stats"><time datetime="2018-12">December 2018</time> • $(loc ../SavingOskar:submission htdocs) • JavaScript • Unlicense</p>
 <a href="http://savingoskar.markusfisch.de/" class="ScreenshotLink"><img src="screenshots/saving_oskar.jpg" alt="Saving Oskar Screenshot"/></a>
-<p>Try and save your dear lamb Oskar from being sacrificed. Made with <a href="https://github.com/ChristianNorbertBraun">Christian Braun</a> for <a href="https://ldjam.com">Ludum Dare</a> #43 "Sacrifices must be made".</p>
+<p>Try and save your dear lamb Oskar from being sacrificed. Made with <a href="https://github.com/ChristianNorbertBraun">Christian Braun</a> for <a href="https://ldjam.com">Ludum Dare</a> #43 "Sacrifices must be made".</p><p>This is the only game I submitted in <a href="https://ldjam.com/events/ludum-dare/rules">Jam</a> mode because I didn't do it alone.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://savingoskar.markusfisch.de/">Play</a></li>
 <li><a href="https://ldjam.com/events/ludum-dare/43/saving-oskar">Entry</a></li>
