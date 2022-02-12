@@ -64,7 +64,7 @@ nav {
 .NavLink {
 	display: block;
 	padding: .5em 0;
-	margin-bottom: .5em;
+	margin-bottom: .3em;
 }
 
 .NavList a {
@@ -282,6 +282,15 @@ h1,
 
 	.NavList .NavList a {
 		padding-left: 2rem;
+	}
+
+	.NavLink {
+		padding: .7em 0;
+	}
+
+	.ProjectLinks a {
+		padding-top: .5em;
+		padding-bottom: .5em;
 	}
 
 	#Main {
