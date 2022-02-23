@@ -301,6 +301,21 @@
 	{
 		"cat": "Games",
 		"subcat": "Casual",
+		"name": "Boo",
+		"screenshot": "screenshots/boo.jpg",
+		"description": "<p>You're a ghost trying to hide from the priests that want to free your soul.</p>\n<p>Don't let them touch you! Click on a free spot to survive as long as you can.</p>\n<p>This is kind of a follow up of a <a href=\"games-0h-game-jam.html#huh\">game</a> I made for <a href=\"http://0hgame.eu/\">0h Game Jam</a>.</p>",
+		"dob": "2014-10",
+		"loc": "../Boo htdocs",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/proto/boo/",
+			"Source": "https://github.com/markusfisch/Boo"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Casual",
 		"name": "Striker",
 		"screenshot": "screenshots/striker.jpg",
 		"description": "<p>Fast vertical <a href=\"https://en.wikipedia.org/wiki/Shoot_'em_up\">shoot 'em up</a>. Shoot down as many enemy vessels as possible.</p>\n<p>Does not work on mobile because it was written in 2002. Originally made as an easter egg for a boring business website that doesn't exist anymore.</p>",
@@ -318,7 +333,7 @@
 		"subcat": "Casual",
 		"name": "Sheeptris",
 		"screenshot": "screenshots/sheeptris.jpg",
-		"description": "<p>A multiplayer Tetris with sheeps. Can be played by up to three players simultaneously.</p>\n<p>Originally, this game was also playable in a web browser. But since <a href=\"https://en.wikipedia.org/wiki/Java_applet\">Java applets</a> have fallen out of favor, that no longer works. So not only do you have to download the game, but you also have to have Java installed to run it.</p>",
+		"description": "<p>A multiplayer Tetris with sheeps. Can be played by up to three players simultaneously.</p>\n<p>Originally, this game was also playable in a web browser. But since <a href=\"https://en.wikipedia.org/wiki/Java_applet\">Java applets</a> have fallen out of favor, that no longer works. So not only do you have to download the game, but you also have to have Java installed to run it. Sorry.</p>",
 		"dob": "2004-07",
 		"loc": "../Sheeptris src",
 		"lang": "Java",
@@ -329,8 +344,8 @@
 		}
 	},
 	{
-		"cat": "Tools",
-		"subcat": "Native",
+		"cat": "Games",
+		"subcat": "Casual",
 		"name": "Bots",
 		"screenshot": "screenshots/bots.jpg",
 		"description": "<p>Programming game about bots that move on a grid.</p>\n<p>To play the game, your program, a so-called bot, must connect a socket to the Bots server. The bot can be programmed in any language that can open a socket. </p>\n<p>Used for the <a href=\"https://kurzdigital.com\">KURZ Digital</a> Coding Night <a href=\"https://twitter.com/markusfisch/status/1008395010247741440?s=20\">2018</a> and <a href=\"https://twitter.com/kurzdigital/status/1139827333228113920?s=20\">2019</a>.</p>",
@@ -715,7 +730,7 @@
 		"subcat": "0h_Game_Jam",
 		"name": "Huh",
 		"screenshot": "screenshots/huh.jpg",
-		"description": "<p>You're a ghost hunter surrounded by ghost. Don't let them touch you! Click on a free spot to survive as long as you can. Made for <a href=\"http://0hgame.eu/\">0h Game Jam</a> 2014.</p>\n<p>Here is the <a href=\"https://vimeo.com/110055282\">time-lapse video</a> of the hour that never was.</p><p>Later that year, I played with the idea a bit more and made <a href=\"http://hhsw.de/sites/proto/boo/\">Boo</a>, in which the roles are reversed.</p>",
+		"description": "<p>You're a ghost hunter surrounded by ghost. Don't let them touch you! Click on a free spot to survive as long as you can. Made for <a href=\"http://0hgame.eu/\">0h Game Jam</a> 2014.</p>\n<p>Here is the <a href=\"https://vimeo.com/110055282\">time-lapse video</a> of the hour that never was.</p><p>Later that year, I played with the idea a bit more and made <a href=\"games-casual.html#boo\">Boo</a>, in which the roles are reversed.</p>",
 		"dob": "2014-10",
 		"loc": "../huh:submission",
 		"lang": "JavaScript",
@@ -900,19 +915,6 @@
 	{
 		"cat": "Tools",
 		"subcat": "Shell",
-		"name": "mkatlas",
-		"description": "<p>Create a texture atlas in bash with <a href=\"https://www.imagemagick.org/\">ImageMagick</a>.</p>",
-		"dob": "2013-09",
-		"loc": "../gists/mkatlas mkatlas",
-		"lang": "bash",
-		"license": "Unlicense",
-		"links": {
-			"Gist": "https://gist.github.com/markusfisch/6442297"
-		}
-	},
-	{
-		"cat": "Tools",
-		"subcat": "Shell",
 		"name": "tree",
 		"description": "<p>Show a file listing as tree structure.</p>",
 		"dob": "2013-04",
@@ -939,14 +941,27 @@
 	{
 		"cat": "Tools",
 		"subcat": "Shell",
-		"name": "takahashi",
-		"description": "<p>Create a single file web presentation from a Markdown document.</p>\n<p>This is for you if you like Markdown and the <a href=\"https://en.wikipedia.org/wiki/Takahashi_method\">Takahashi method</a>.</p>",
-		"dob": "2014-10",
-		"loc": "../gists/takahashi takahashi",
+		"name": "viewmd",
+		"description": "<p>Render some Markdown file to HTML and show it in your browser.</p>\n<p>This is useful when you want to check a Markdown file before pushing it onto GitHub/GitLab/etc or if you want to simply print a nice looking Markdown file. Just print it from your browser.</p>\n<p>The look is broadly similar to that on GitHub but stripped down to the bare minimum. It can also be changed easily. Just have a look at the source, Luke. It's really quite simple.</p>",
+		"dob": "2020-05",
+		"loc": "../gists/viewmd viewmd",
 		"lang": "bash",
 		"license": "Unlicense",
 		"links": {
-			"Gist": "https://gist.github.com/markusfisch/eff723d3445839fc4eb5"
+			"Gist": "https://gist.github.com/markusfisch/2b8061b3d59d65de9ae1324ecab1308a"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Shell",
+		"name": "mkatlas",
+		"description": "<p>Create a texture atlas in bash with <a href=\"https://www.imagemagick.org/\">ImageMagick</a>.</p>",
+		"dob": "2013-09",
+		"loc": "../gists/mkatlas mkatlas",
+		"lang": "bash",
+		"license": "Unlicense",
+		"links": {
+			"Gist": "https://gist.github.com/markusfisch/6442297"
 		}
 	},
 	{

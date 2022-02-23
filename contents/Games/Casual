@@ -87,6 +87,17 @@
 <li><a href="https://github.com/markusfisch/SkiRun">Source</a></li>
 </ul></article>
 
+<article><a name="boo"><h2>Boo</h2></a>
+<p class="Stats"><time datetime="2014-10">October 2014</time> • $(loc ../Boo htdocs) • JavaScript • Unlicense</p>
+<a href="http://hhsw.de/sites/proto/boo/" class="ScreenshotLink"><img src="screenshots/boo.jpg" alt="Boo Screenshot"/></a>
+<p>You're a ghost trying to hide from the priests that want to free your soul.</p>
+<p>Don't let them touch you! Click on a free spot to survive as long as you can.</p>
+<p>This is kind of a follow up of a <a href="games-0h-game-jam.html#huh">game</a> I made for <a href="http://0hgame.eu/">0h Game Jam</a>.</p>
+<ul class="ProjectLinks Separator">
+<li><a href="http://hhsw.de/sites/proto/boo/">Play</a></li>
+<li><a href="https://github.com/markusfisch/Boo">Source</a></li>
+</ul></article>
+
 <article><a name="striker"><h2>Striker</h2></a>
 <p class="Stats"><time datetime="2002-08">August 2002</time> • $(loc ../Striker js/src src) • JavaScript • Unlicense</p>
 <a href="http://striker.markusfisch.de/" class="ScreenshotLink"><img src="screenshots/striker.jpg" alt="Striker Screenshot"/></a>
@@ -101,8 +112,19 @@
 <p class="Stats"><time datetime="2004-07">July 2004</time> • $(loc ../Sheeptris src) • Java • Unlicense</p>
 <a href="https://github.com/markusfisch/Sheeptris" class="ScreenshotLink"><img src="screenshots/sheeptris.jpg" alt="Sheeptris Screenshot"/></a>
 <p>A multiplayer Tetris with sheeps. Can be played by up to three players simultaneously.</p>
-<p>Originally, this game was also playable in a web browser. But since <a href="https://en.wikipedia.org/wiki/Java_applet">Java applets</a> have fallen out of favor, that no longer works. So not only do you have to download the game, but you also have to have Java installed to run it.</p>
+<p>Originally, this game was also playable in a web browser. But since <a href="https://en.wikipedia.org/wiki/Java_applet">Java applets</a> have fallen out of favor, that no longer works. So not only do you have to download the game, but you also have to have Java installed to run it. Sorry.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://github.com/markusfisch/Sheeptris">Source</a></li>
 <li><a href="https://github.com/markusfisch/Sheeptris/releases">Releases</a></li>
+</ul></article>
+
+<article><a name="bots"><h2>Bots</h2></a>
+<p class="Stats"><time datetime="2018-03">March 2018</time> • $(loc ../bots server) • C • Unlicense</p>
+<a href="https://github.com/markusfisch/bots" class="ScreenshotLink"><img src="screenshots/bots.jpg" alt="Bots Screenshot"/></a>
+<p>Programming game about bots that move on a grid.</p>
+<p>To play the game, your program, a so-called bot, must connect a socket to the Bots server. The bot can be programmed in any language that can open a socket. </p>
+<p>Used for the <a href="https://kurzdigital.com">KURZ Digital</a> Coding Night <a href="https://twitter.com/markusfisch/status/1008395010247741440?s=20">2018</a> and <a href="https://twitter.com/kurzdigital/status/1139827333228113920?s=20">2019</a>.</p>
+<ul class="ProjectLinks Separator">
+<li><a href="https://github.com/markusfisch/bots">Source</a></li>
+<li><a href="http://bots.markusfisch.de">Web Client</a></li>
 </ul></article>

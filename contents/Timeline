@@ -7,6 +7,8 @@
 <time datetime="2020-12">December 2020</time></li>
 <li><a href="games-casual.html#soyuz-404">Soyuz 404</a>
 <time datetime="2020-09">September 2020</time></li>
+<li><a href="tools-shell.html#viewmd">viewmd</a>
+<time datetime="2020-05">May 2020</time></li>
 <li><a href="apps-web.html#was-ist-los-um-nürnberg?">Was ist los um Nürnberg?</a>
 <time datetime="2020-01">January 2020</time></li>
 <li><a href="apps-android.html#pie-launcher">Pie Launcher</a>
@@ -23,7 +25,7 @@
 <time datetime="2018-09">September 2018</time></li>
 <li><a href="games-casual.html#bad-minton">Bad Minton</a>
 <time datetime="2018-04">April 2018</time></li>
-<li><a href="tools-native.html#bots">Bots</a>
+<li><a href="games-casual.html#bots">Bots</a>
 <time datetime="2018-03">March 2018</time></li>
 <li><a href="arch/markusfisch.de/2018/index.html">markusfisch.de Relaunch 2018</a>
 <time datetime="2018-01">January 2018</time></li>
@@ -61,9 +63,9 @@
 <time datetime="2015-04">April 2015</time></li>
 <li><a href="games-casual.html#gingerman">Gingerman</a>
 <time datetime="2014-12">December 2014</time></li>
-<li><a href="games-0h-game-jam.html#huh">Huh</a>
+<li><a href="games-casual.html#boo">Boo</a>
 <time datetime="2014-10">October 2014</time></li>
-<li><a href="tools-shell.html#takahashi">takahashi</a>
+<li><a href="games-0h-game-jam.html#huh">Huh</a>
 <time datetime="2014-10">October 2014</time></li>
 <li><a href="tools-web.html#touchclockjs">TouchClockJs</a>
 <time datetime="2014-09">September 2014</time></li>
