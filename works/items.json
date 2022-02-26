@@ -857,7 +857,7 @@
 		"lang": "bash",
 		"license": "Unlicense",
 		"links": {
-			"Gist": "https://gist.github.com/markusfisch/c43e32a50f833539ea0f7b8b6109320e",
+			"Source": "https://gist.github.com/markusfisch/c43e32a50f833539ea0f7b8b6109320e",
 			"Charts": "annuals/charts.html",
 			"2021": "annuals/2021",
 			"2020": "annuals/2020",
@@ -922,7 +922,7 @@
 		"lang": "bash",
 		"license": "Unlicense",
 		"links": {
-			"Gist": "https://gist.github.com/markusfisch/5411843"
+			"Source": "https://gist.github.com/markusfisch/5411843"
 		}
 	},
 	{
@@ -935,7 +935,7 @@
 		"lang": "bash",
 		"license": "Unlicense",
 		"links": {
-			"Gist": "https://gist.github.com/markusfisch/4612424"
+			"Source": "https://gist.github.com/markusfisch/4612424"
 		}
 	},
 	{
@@ -948,7 +948,7 @@
 		"lang": "bash",
 		"license": "Unlicense",
 		"links": {
-			"Gist": "https://gist.github.com/markusfisch/2b8061b3d59d65de9ae1324ecab1308a"
+			"Source": "https://gist.github.com/markusfisch/2b8061b3d59d65de9ae1324ecab1308a"
 		}
 	},
 	{
@@ -961,7 +961,7 @@
 		"lang": "bash",
 		"license": "Unlicense",
 		"links": {
-			"Gist": "https://gist.github.com/markusfisch/6442297"
+			"Source": "https://gist.github.com/markusfisch/6442297"
 		}
 	},
 	{
@@ -974,7 +974,7 @@
 		"lang": "PHP",
 		"license": "Unlicense",
 		"links": {
-			"Gist": "https://gist.github.com/markusfisch/0f1bfaf2673eed968a94"
+			"Source": "https://gist.github.com/markusfisch/0f1bfaf2673eed968a94"
 		}
 	},
 	{

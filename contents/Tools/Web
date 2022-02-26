@@ -5,7 +5,7 @@
 <p>Quick and dirty SQL web console for PHP5+.</p>
 <p> Helpful when you don't have shell access to the database server.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://gist.github.com/markusfisch/0f1bfaf2673eed968a94">Gist</a></li>
+<li><a href="https://gist.github.com/markusfisch/0f1bfaf2673eed968a94">Source</a></li>
 </ul></article>
 
 <article><a name="phapp"><h2>Phapp</h2></a>
