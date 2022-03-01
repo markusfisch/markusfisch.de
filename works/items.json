@@ -88,22 +88,6 @@
 	{
 		"cat": "Apps",
 		"subcat": "Android",
-		"name": "Moto Score",
-		"icon": "screenshots/moto_score_icon.svg",
-		"description": "<p>Tally counter for motorcyclists to record tours and mistakes (i.e. everything you wouldn't do again).</p>\n<p>Because according to <a href=\"https://www.amazon.com/The-Upper-Half-Motorcycle-Machine/dp/1884313752\">The Upper Half of the Motorcycle</a>, consciously counting mistakes stimulates learning.</p>\n<p>The prototype of this app was written and presented at \"Hack The Ride\", a hackathon held by BMW Motorrad in Barcelona 2014.</p>",
-		"dob": "2014-02",
-		"loc": "../MotoScore app/src/main",
-		"lang": "Java",
-		"license": "Unlicense",
-		"links": {
-			"Google Play": "https://play.google.com/store/apps/details?id=de.markusfisch.android.motoscore",
-			"Source": "https://github.com/markusfisch/MotoScore",
-			"Releases": "https://github.com/markusfisch/MotoScore/releases"
-		}
-	},
-	{
-		"cat": "Apps",
-		"subcat": "Android",
 		"name": "Screen Time",
 		"icon": "screenshots/screen_time_icon.svg",
 		"description": "<p>Displays your screen time in a permanent notification.</p><p>By making screen time more prominent, you can get a better sense of how much of the day you spend on your phone. Without judgement. Just so you know.</p><p>Of course, there's Google's Digital Wellbeing app and a lot of other apps that track app usage. But I just like to see my screen time at a glance without having to open an app.</p>",
@@ -116,6 +100,22 @@
 			"F-Droid": "https://f-droid.org/packages/de.markusfisch.android.screentime/",
 			"Source": "https://github.com/markusfisch/ScreenTime",
 			"Releases": "https://github.com/markusfisch/ScreenTime/releases"
+		}
+	},
+	{
+		"cat": "Apps",
+		"subcat": "Android",
+		"name": "Moto Score",
+		"icon": "screenshots/moto_score_icon.svg",
+		"description": "<p>Tally counter for motorcyclists to record tours and mistakes (i.e. everything you wouldn't do again).</p>\n<p>Because according to <a href=\"https://www.amazon.com/The-Upper-Half-Motorcycle-Machine/dp/1884313752\">The Upper Half of the Motorcycle</a>, consciously counting mistakes stimulates learning.</p>\n<p>The prototype of this app was written and presented at \"Hack The Ride\", a hackathon held by BMW Motorrad in Barcelona 2014.</p>",
+		"dob": "2014-02",
+		"loc": "../MotoScore app/src/main",
+		"lang": "Java",
+		"license": "Unlicense",
+		"links": {
+			"Google Play": "https://play.google.com/store/apps/details?id=de.markusfisch.android.motoscore",
+			"Source": "https://github.com/markusfisch/MotoScore",
+			"Releases": "https://github.com/markusfisch/MotoScore/releases"
 		}
 	},
 	{
