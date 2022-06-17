@@ -745,7 +745,7 @@
 		"subcat": "Android",
 		"name": "BarcodeScannerView",
 		"description": "<p>A barcode scanner view for Android. Batteries included.</p>",
-		"dob": "2021-04",
+		"dob": "2022-04",
 		"loc": "../BarcodeScannerView barcodescannerview/src/main",
 		"lang": "Java",
 		"license": "Unlicense",
