@@ -1,5 +1,13 @@
 <h1>Android</h1>
 
+<article><a name="barcodescannerview"><h2>BarcodeScannerView</h2></a>
+<p class="Stats"><time datetime="2021-04">April 2021</time> • $(loc ../BarcodeScannerView barcodescannerview/src/main) • Java • Unlicense</p>
+<p>A barcode scanner view for Android. Batteries included.</p>
+<ul class="ProjectLinks Separator">
+<li><a href="https://github.com/markusfisch/BarcodeScannerView">Source</a></li>
+<li><a href="https://github.com/markusfisch/BarcodeScannerView/releases">Releases</a></li>
+</ul></article>
+
 <article><a name="cameraview"><h2>CameraView</h2></a>
 <p class="Stats"><time datetime="2017-08">August 2017</time> • $(loc ../CameraView cameraview/src/main) • Java • Unlicense</p>
 <p>A view that shows what the camera sees.</p>

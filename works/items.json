@@ -743,6 +743,20 @@
 	{
 		"cat": "Tools",
 		"subcat": "Android",
+		"name": "BarcodeScannerView",
+		"description": "<p>A barcode scanner view for Android. Batteries included.</p>",
+		"dob": "2021-04",
+		"loc": "../BarcodeScannerView barcodescannerview/src/main",
+		"lang": "Java",
+		"license": "Unlicense",
+		"links": {
+			"Source": "https://github.com/markusfisch/BarcodeScannerView",
+			"Releases": "https://github.com/markusfisch/BarcodeScannerView/releases"
+		}
+	},
+	{
+		"cat": "Tools",
+		"subcat": "Android",
 		"name": "CameraView",
 		"description": "<p>A view that shows what the camera sees.</p>\n<p>Supports orientation changes, fits the preview image into the available view space and works with Gingerbread (minSDK 9) or better.</p>",
 		"dob": "2017-08",
