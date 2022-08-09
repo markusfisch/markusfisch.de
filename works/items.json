@@ -959,7 +959,7 @@
 		"description": "<p>Render some Markdown file to HTML and show it in your browser.</p>\n<p>This is useful when you want to check a Markdown file before pushing it onto GitHub/GitLab/etc or if you want to simply print a nice looking Markdown file. Just print it from your browser.</p>\n<p>The look is broadly similar to that on GitHub but stripped down to the bare minimum. It can also be changed easily. Just have a look at the source, Luke. It's really quite simple.</p>",
 		"dob": "2020-05",
 		"loc": "../gists/viewmd viewmd",
-		"lang": "bash",
+		"lang": "ruby",
 		"license": "Unlicense",
 		"links": {
 			"Source": "https://gist.github.com/markusfisch/2b8061b3d59d65de9ae1324ecab1308a"

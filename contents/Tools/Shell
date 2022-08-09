@@ -65,7 +65,7 @@
 </ul></article>
 
 <article><a name="viewmd"><h2>viewmd</h2></a>
-<p class="Stats"><time datetime="2020-05">May 2020</time> • $(loc ../gists/viewmd viewmd) • bash • Unlicense</p>
+<p class="Stats"><time datetime="2020-05">May 2020</time> • $(loc ../gists/viewmd viewmd) • ruby • Unlicense</p>
 <p>Render some Markdown file to HTML and show it in your browser.</p>
 <p>This is useful when you want to check a Markdown file before pushing it onto GitHub/GitLab/etc or if you want to simply print a nice looking Markdown file. Just print it from your browser.</p>
 <p>The look is broadly similar to that on GitHub but stripped down to the bare minimum. It can also be changed easily. Just have a look at the source, Luke. It's really quite simple.</p>
