@@ -366,6 +366,22 @@
 	{
 		"cat": "Games",
 		"subcat": "Js13kGames",
+		"name": "Swimming With Sharks",
+		"screenshot": "screenshots/swimming_with_sharks.jpg",
+		"description": "<p>A short murder mystery adventure in 13 kilobytes for <a href=\"https://js13kgames.com\">js13kGames</a> 2022 \"Death\". 12521 bytes (94%).</p>",
+		"dob": "2022-09",
+		"loc": "../SwimmingWithSharks:submission src/src.js",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/proto/js13k2022/",
+			"Entry": "https://js13kgames.com/entries/swimming-with-sharks",
+			"Source": "https://github.com/markusfisch/SwimmingWithSharks"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Js13kGames",
 		"name": "Humwin & Darbold",
 		"screenshot": "screenshots/humwin_and_darbold.jpg",
 		"description": "<p>A small action adventure for <a href=\"https://js13kgames.com\">js13kGames</a> 2021 \"Space\". 12703 bytes (95%).</p>\n<p>Humwin, your friendly space exploring robot, is in search for his pal Darbold, who has gone missing on a strange planet. What happened to him and where is he?</p><p>Unfortunately, the game turned out to be too unforgiving and I failed to make the solution clear. So here's a hopefully better <a href=\"https://hhsw.de/sites/humwin\">post-compo</a> version.</p>",

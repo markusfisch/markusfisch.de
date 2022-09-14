@@ -1,6 +1,16 @@
 <h1>Js13kGames</h1>
 <p class="Excerpt Separator"><a href="https://js13kgames.com">js13kGames</a> is a JavaScript coding competition with a file size limit of 13 kilobytes. The competition runs every year from 13 August to 13 September.</p>
 
+<article><a name="swimming-with-sharks"><h2>Swimming With Sharks</h2></a>
+<p class="Stats"><time datetime="2022-09">September 2022</time> • $(loc ../SwimmingWithSharks:submission src/src.js) • JavaScript • Unlicense</p>
+<a href="http://hhsw.de/sites/proto/js13k2022/" class="ScreenshotLink"><img src="screenshots/swimming_with_sharks.jpg" alt="Swimming With Sharks Screenshot"/></a>
+<p>A short murder mystery adventure in 13 kilobytes for <a href="https://js13kgames.com">js13kGames</a> 2022 "Death". 12521 bytes (94%).</p>
+<ul class="ProjectLinks Separator">
+<li><a href="http://hhsw.de/sites/proto/js13k2022/">Play</a></li>
+<li><a href="https://js13kgames.com/entries/swimming-with-sharks">Entry</a></li>
+<li><a href="https://github.com/markusfisch/SwimmingWithSharks">Source</a></li>
+</ul></article>
+
 <article><a name="humwin-&-darbold"><h2>Humwin & Darbold</h2></a>
 <p class="Stats"><time datetime="2021-09">September 2021</time> • $(loc ../HumwinAndDarbold:submission src/src.js) • JavaScript • Unlicense</p>
 <a href="http://hhsw.de/sites/proto/js13k2021/" class="ScreenshotLink"><img src="screenshots/humwin_and_darbold.jpg" alt="Humwin & Darbold Screenshot"/></a>
