@@ -368,7 +368,7 @@
 		"subcat": "Js13kGames",
 		"name": "Swimming With Sharks",
 		"screenshot": "screenshots/swimming_with_sharks.jpg",
-		"description": "<p>A short murder mystery adventure in 13 kilobytes for <a href=\"https://js13kgames.com\">js13kGames</a> 2022 \"Death\". 12521 bytes (94%).</p>",
+		"description": "<p>A short murder mystery in 13 kilobytes for <a href=\"https://js13kgames.com\">js13kGames</a> 2022 \"Death\". 12521 bytes (94%).</p><p>There is a <a href=\"https://hhsw.de/sites/sws\">post-compo</a> version which makes the room changing arrows easier to see.</p>",
 		"dob": "2022-09",
 		"loc": "../SwimmingWithSharks:submission src/src.js",
 		"lang": "JavaScript",
