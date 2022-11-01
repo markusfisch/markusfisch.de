@@ -180,7 +180,7 @@
 	},
 	{
 		"cat": "Games",
-		"subcat": "Casual",
+		"subcat": "Featured",
 		"name": "Soyuz 404",
 		"screenshot": "screenshots/soyuz404.jpg",
 		"description": "<p>A space adventure in 13 kilobytes you can play through during your lunch break.</p>\n<p>Works on your phone, too. Hold and move your finger on the screen to explore a scene. When you lift your finger over something, that something is used.</p>\n<p>This is a <a href=\"https://twitter.com/markusfisch/status/1314985981263699968?s=20\">slightly improved</a> version of a game I wrote for js13kgames <a href=\"games-js13kgames.html#soyuz-404\">2020</a>.</p>\n<p>PS: the formula, which plays a significant role in the game, is not made up, but the real <a href=\"https://www.forbes.com/sites/startswithabang/2020/08/12/a-spacetime-surprise-time-isnt-just-another-dimension/?sh=79b89a5d47dc\">spacetime interval equation</a>.</p>",
@@ -195,7 +195,7 @@
 	},
 	{
 		"cat": "Games",
-		"subcat": "Casual",
+		"subcat": "Featured",
 		"name": "Bad Minton",
 		"screenshot": "screenshots/bad_minton.jpg",
 		"description": "<p>Monochrome Pong/Card mashup.</p>\n<p>Also works well on your phone. In fact, the two player mode is meant to be played on a mobile unless you have two mice on your desktop.</p>\n<p>Written for Ludum Dare <a href=\"games-ludum-dare.html#bad_minton\">#41</a>.</p>",
@@ -210,7 +210,7 @@
 	},
 	{
 		"cat": "Games",
-		"subcat": "Casual",
+		"subcat": "Featured",
 		"name": "GalEx",
 		"screenshot": "screenshots/galex.jpg",
 		"description": "<p>Be a daredevil space pilot and deliver interplanetary mail to connect worlds. But watch out, gravity is fun but dangerous!</p>\n<p>There are 11 missions waiting for you. At the end, the game displays the net playing time of all successful attempts. Everything under 2 minutes would be pretty good.</p>\n<p>Works on any device with a decent web browser. This is an enhanced version of a game I wrote for Ludum Dare <a href=\"games-ludum-dare.html#galex\">#30</a>.</p>",
@@ -225,7 +225,7 @@
 	},
 	{
 		"cat": "Games",
-		"subcat": "Casual",
+		"subcat": "Featured",
 		"name": "Gingerman",
 		"screenshot": "screenshots/gingerman.jpg",
 		"description": "<p>Help Gingerman to get to the top of the Christmas tree. Jump on anything that does not burn to climb the tree.</p>\n<p>Works on any device with a decent web browser. Written around and for the Christmas season for Ludum Dare <a href=\"games-ludum-dare.html#gingerman\">#31</a>. This is an enhanced version.</p>",
@@ -240,7 +240,7 @@
 	},
 	{
 		"cat": "Games",
-		"subcat": "Casual",
+		"subcat": "Featured",
 		"name": "Saving Oskar",
 		"screenshot": "screenshots/saving_oskar.jpg",
 		"description": "<p>Try and save your dear lamb Oskar from being sacrificed.</p>\n<p>The gods demand a sacrifice and so a lamb must die. But not Oskar, your dear friend. So you need to sacrifice another lamb. Again and again. Until all lambs are sacrificed, except Oskar. Then, and only then, the gods will be pleased and you win the game.</p>\n<p>Made this game for Ludum Dare <a href=\"games-ludum-dare.html#saving_oskar\">#43</a> with <a href=\"https://github.com/ChristianNorbertBraun\">Christian Braun</a>, who did almost all the graphics and all the music.</p>",
@@ -255,7 +255,7 @@
 	},
 	{
 		"cat": "Games",
-		"subcat": "Casual",
+		"subcat": "Featured",
 		"name": "Jumpy Green",
 		"screenshot": "screenshots/jumpy_green.jpg",
 		"description": "<p>A little green man trying to get evil astronauts off his small world.</p>\n<p>Get rid of Buck Rodgers by jumping high and landing hard when he is on the opposite side of your world. If you jump high enough, he will be thrown off your world and get lost in space again.</p>\n<p>Written for Ludum Dare <a href=\"games-ludum-dare.html#jumpy_green\">#38</a>.</p>",
@@ -270,7 +270,7 @@
 	},
 	{
 		"cat": "Games",
-		"subcat": "Casual",
+		"subcat": "Featured",
 		"name": "Ten Seconds To Venus",
 		"screenshot": "screenshots/ten_seconds_to_venus.jpg",
 		"description": "<p>Express point-and-click riddle.</p>\n<p>You are on board of a space station in Venus orbit. You are sleeping. Then you wake from a roaring BANG! You have just ten seconds until the ship will be destroyed…</p>\n<p>Made for Ludum Dare <a href=\"games-ludum-dare.html#ten_seconds_to_venus\">#27</a>.</p>",
@@ -285,7 +285,7 @@
 	},
 	{
 		"cat": "Games",
-		"subcat": "Casual",
+		"subcat": "Featured",
 		"name": "Ski Run",
 		"screenshot": "screenshots/ski_run.jpg",
 		"description": "<p>Ski racing game for two players on one screen.</p>\n<p>Works on any screen with a decent web browser. <a href=\"http://hhsw.de/sites/proto/ld28/\">Originally</a> written for Ludum Dare #28 but never submitted.</p>",
@@ -300,7 +300,7 @@
 	},
 	{
 		"cat": "Games",
-		"subcat": "Casual",
+		"subcat": "Featured",
 		"name": "Boo",
 		"screenshot": "screenshots/boo.jpg",
 		"description": "<p>You're a ghost trying to hide from the priests that want to free your soul.</p>\n<p>Don't let them touch you! Click on a free spot to survive as long as you can.</p>\n<p>This is kind of a follow up of a <a href=\"games-0h-game-jam.html#huh\">game</a> I made for <a href=\"http://0hgame.eu/\">0h Game Jam</a>.</p>",
@@ -315,7 +315,7 @@
 	},
 	{
 		"cat": "Games",
-		"subcat": "Casual",
+		"subcat": "Featured",
 		"name": "Striker",
 		"screenshot": "screenshots/striker.jpg",
 		"description": "<p>Fast vertical <a href=\"https://en.wikipedia.org/wiki/Shoot_'em_up\">shoot 'em up</a>. Shoot down as many enemy vessels as possible.</p>\n<p>Does not work on mobile because it was written in 2002. Originally made as an easter egg for a boring business website that doesn't exist anymore.</p>",
@@ -330,7 +330,7 @@
 	},
 	{
 		"cat": "Games",
-		"subcat": "Casual",
+		"subcat": "Featured",
 		"name": "Sheeptris",
 		"screenshot": "screenshots/sheeptris.jpg",
 		"description": "<p>A multiplayer Tetris with sheeps. Can be played by up to three players simultaneously.</p>\n<p>Originally, this game was also playable in a web browser. But since <a href=\"https://en.wikipedia.org/wiki/Java_applet\">Java applets</a> have fallen out of favor, that no longer works. So not only do you have to download the game, but you also have to have Java installed to run it. Sorry.</p>",
@@ -345,7 +345,7 @@
 	},
 	{
 		"cat": "Games",
-		"subcat": "Casual",
+		"subcat": "Featured",
 		"name": "Bots",
 		"screenshot": "screenshots/bots.jpg",
 		"description": "<p>Programming game about bots that move on a grid.</p>\n<p>To play the game, your program, a so-called bot, must connect a socket to the Bots server. The bot can be programmed in any language that can open a socket. </p>\n<p>Used for the <a href=\"https://kurzdigital.com\">KURZ Digital</a> Coding Night <a href=\"https://twitter.com/markusfisch/status/1008395010247741440?s=20\">2018</a> and <a href=\"https://twitter.com/kurzdigital/status/1139827333228113920?s=20\">2019</a>.</p>",

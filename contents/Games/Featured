@@ -1,4 +1,4 @@
-<h1>Casual</h1>
+<h1>Featured</h1>
 
 <article><a name="soyuz-404"><h2>Soyuz 404</h2></a>
 <p class="Stats"><time datetime="2020-09">September 2020</time> • $(loc ../Soyuz404:submission src/src.js) • JavaScript • Unlicense</p>
