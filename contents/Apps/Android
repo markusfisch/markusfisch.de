@@ -4,7 +4,7 @@
 <p class="Stats"><time datetime="2017-08">August 2017</time> • $(loc ../BinaryEye app/src/main) • Kotlin • MIT</p>
 <a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye" class="IconLink"><img src="screenshots/binary_eye_icon.svg" alt="Binary Eye Icon"/></a>
 <p>Yet another barcode scanner. Works in portrait and landscape mode, can read inverted barcodes, reads barcodes with binary data and can also generate barcodes.</p>
-<p>Uses the <a href="https://github.com/zxing/zxing">ZXing</a> ("Zebra Crossing") barcode scanning library. Reads and writes all barcode formats (QR Code, Aztec, etc.) ZXing can read and write.</p>
+<p>Uses the <a href="https://github.com/zxing-cpp/zxing-cpp">ZXing-C++</a> ("Zebra Crossing") barcode scanning library. Reads and writes all barcode formats (QR Code, Aztec, etc.) ZXing can read and write.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye">Google Play</a></li>
 <li><a href="https://f-droid.org/en/packages/de.markusfisch.android.binaryeye/">F-Droid</a></li>

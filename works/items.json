@@ -4,7 +4,7 @@
 		"subcat": "Android",
 		"name": "Binary Eye",
 		"icon": "screenshots/binary_eye_icon.svg",
-		"description": "<p>Yet another barcode scanner. Works in portrait and landscape mode, can read inverted barcodes, reads barcodes with binary data and can also generate barcodes.</p>\n<p>Uses the <a href=\"https://github.com/zxing/zxing\">ZXing</a> (\"Zebra Crossing\") barcode scanning library. Reads and writes all barcode formats (QR Code, Aztec, etc.) ZXing can read and write.</p>",
+		"description": "<p>Yet another barcode scanner. Works in portrait and landscape mode, can read inverted barcodes, reads barcodes with binary data and can also generate barcodes.</p>\n<p>Uses the <a href=\"https://github.com/zxing-cpp/zxing-cpp\">ZXing-C++</a> (\"Zebra Crossing\") barcode scanning library. Reads and writes all barcode formats (QR Code, Aztec, etc.) ZXing can read and write.</p>",
 		"dob": "2017-08",
 		"loc": "../BinaryEye app/src/main",
 		"lang": "Kotlin",
