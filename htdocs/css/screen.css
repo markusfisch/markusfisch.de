@@ -324,20 +324,20 @@ h1,
 
 @media (prefers-color-scheme: dark) {
 	html {
-		background: #111;
+		background: #181818;
 	}
 
 	body {
-		color: #ddd;
+		color: #bbb;
 	}
 
 	h1 {
-		color: #333;
+		color: #555;
 	}
 
 	h1:before,
 	h1:after {
-		background-color: #333;
+		background-color: #777;
 	}
 
 	.NavList:before {
@@ -345,11 +345,11 @@ h1,
 	}
 
 	a {
-		color: #ddd;
+		color: #fff;
 	}
 
 	a.Active {
-		background: #222;
+		background: #111;
 	}
 
 	a[href].Active {
@@ -374,6 +374,6 @@ h1,
 	h1,
 	.Stats,
 	.TL time {
-		color: #9e9e9e;
+		color: #777;
 	}
 }
