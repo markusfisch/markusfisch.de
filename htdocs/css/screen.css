@@ -300,10 +300,6 @@ h1,
 	#Main h2 {
 		font-size: 150%;
 	}
-
-	.ProjectLinks {
-		margin-bottom: 5rem;
-	}
 }
 
 @media screen and (max-width: 320px) {
