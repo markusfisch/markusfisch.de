@@ -131,7 +131,7 @@ h1,
 }
 
 .IconLink img {
-	width: 4em;
+	width: 128px;
 }
 
 .ScreenshotLink img {
@@ -286,6 +286,10 @@ h1,
 
 	.NavLink {
 		padding: .7em 0;
+	}
+
+	.IconLink img {
+		width: 64px;
 	}
 
 	.ProjectLinks a {
