@@ -366,6 +366,22 @@
 	{
 		"cat": "Games",
 		"subcat": "Js13kGames",
+		"name": "Musa's Quest",
+		"screenshot": "screenshots/musas_quest.jpg",
+		"description": "<p>A medieval adventure about the search for an exotic gift in 13 kilobytes for <a href=\"https://js13kgames.com\">js13kGames</a> 2023 \"13th Century\". 13051 bytes (98%).</p>",
+		"dob": "2023-09",
+		"loc": "../MusasQuest:submission src/src.js",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/proto/js13k2023/",
+			"Entry": "https://js13kgames.com/entries/musas-quest",
+			"Source": "https://github.com/markusfisch/MusasQuest"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Js13kGames",
 		"name": "Swimming With Sharks",
 		"screenshot": "screenshots/swimming_with_sharks.jpg",
 		"description": "<p>A short murder mystery in 13 kilobytes for <a href=\"https://js13kgames.com\">js13kGames</a> 2022 \"Death\". 12521 bytes (94%).</p><p>There is a <a href=\"https://hhsw.de/sites/sws\">post-compo</a> version which makes the room changing arrows easier to see.</p>",
