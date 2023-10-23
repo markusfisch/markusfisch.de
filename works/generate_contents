@@ -85,8 +85,10 @@ def entry(item):
             break
     out += f'{description}\n'
     out += f'<ul class="ProjectLinks Separator">\n'
+    extra = ' class="Primary"'
     for label in links:
-        out += f'<li><a href="{links.get(label)}">{label}</a></li>\n'
+        out += f'<li><a href="{links.get(label)}"{extra}>{label}</a></li>\n'
+        extra = ''
     out += '</ul></article>\n'
     return out
 

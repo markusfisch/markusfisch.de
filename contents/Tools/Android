@@ -4,7 +4,7 @@
 <p class="Stats"><time datetime="2022-04">April 2022</time> • $(loc ../BarcodeScannerView barcodescannerview/src/main) • Java • Unlicense</p>
 <p>A barcode scanner view for Android. Batteries included.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/BarcodeScannerView">Source</a></li>
+<li><a href="https://github.com/markusfisch/BarcodeScannerView" class="Primary">Source</a></li>
 <li><a href="https://github.com/markusfisch/BarcodeScannerView/releases">Releases</a></li>
 </ul></article>
 
@@ -13,7 +13,7 @@
 <p>A view that shows what the camera sees.</p>
 <p>Supports orientation changes, fits the preview image into the available view space and works with Gingerbread (minSDK 9) or better.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/CameraView">Source</a></li>
+<li><a href="https://github.com/markusfisch/CameraView" class="Primary">Source</a></li>
 <li><a href="https://github.com/markusfisch/CameraView/releases">Releases</a></li>
 </ul></article>
 
@@ -22,7 +22,7 @@
 <p>An ImageView that transforms its drawable according to touch input.</p>
 <p>Supports rotated images and keeps transformation when you exchange the image for another one with a different size.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/ScalingImageView">Source</a></li>
+<li><a href="https://github.com/markusfisch/ScalingImageView" class="Primary">Source</a></li>
 <li><a href="https://github.com/markusfisch/ScalingImageView/releases">Releases</a></li>
 </ul></article>
 
@@ -30,6 +30,6 @@
 <p class="Stats"><time datetime="2017-01">January 2017</time> • $(loc ../SwipeImageView swipeimageview/src/main) • Java • Unlicense</p>
 <p>An ImageView that can be used to swipe between images and supports pinch/zoom gestures to explore the current image.</p><p>Think of Google Photos.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/SwipeImageView">Source</a></li>
+<li><a href="https://github.com/markusfisch/SwipeImageView" class="Primary">Source</a></li>
 <li><a href="https://github.com/markusfisch/SwipeImageView/releases">Releases</a></li>
 </ul></article>

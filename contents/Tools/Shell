@@ -5,7 +5,7 @@
 <p>The terminal is my IDE and this is my configuration. </p>
 <p>Find here some shell scripts that make my life easier.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/dotfiles">Source</a></li>
+<li><a href="https://github.com/markusfisch/dotfiles" class="Primary">Source</a></li>
 </ul></article>
 
 <article><a name="annual"><h2>annual</h2></a>
@@ -13,7 +13,7 @@
 <p>Generate an annual report from your local git repositories.</p>
 <p>Here are my reports since I started using git, professional and personal repositories combined.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://gist.github.com/markusfisch/c43e32a50f833539ea0f7b8b6109320e">Source</a></li>
+<li><a href="https://gist.github.com/markusfisch/c43e32a50f833539ea0f7b8b6109320e" class="Primary">Source</a></li>
 <li><a href="annuals/charts.html">Charts</a></li>
 <li><a href="annuals/2022">2022</a></li>
 <li><a href="annuals/2021">2021</a></li>
@@ -34,35 +34,35 @@
 <p class="Stats"><time datetime="2011-11">November 2011</time> • $(loc ../simsalabash simsalabash) • bash • Unlicense</p>
 <p>Dead simple static site generator for command line lovers.</p><p>This <a href="https://github.com/markusfisch/markusfisch.de">website</a> is built using it. Yes, sometimes I fall prey to the <a href="https://en.wikipedia.org/wiki/Not_invented_here">NIH syndrome</a>. On purpose.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/simsalabash">Source</a></li>
+<li><a href="https://github.com/markusfisch/simsalabash" class="Primary">Source</a></li>
 </ul></article>
 
 <article><a name="readmail"><h2>readmail</h2></a>
 <p class="Stats"><time datetime="2006-06">June 2006</time> • $(loc ../readmail readmail) • bash • Unlicense</p>
 <p>POP3/SMTP client in bash.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/readmail">Source</a></li>
+<li><a href="https://github.com/markusfisch/readmail" class="Primary">Source</a></li>
 </ul></article>
 
 <article><a name="advent-of-awk-2020"><h2>Advent of AWK 2020</h2></a>
 <p class="Stats"><time datetime="2020-12">December 2020</time> • $(loc ../advent-of-awk '*/part?') • awk • Unlicense</p>
 <p><a href="https://en.wikipedia.org/wiki/AWK">AWK</a> solutions for <a href="https://adventofcode.com/2020">Advent of Code 2020</a>.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/advent-of-awk">Source</a></li>
+<li><a href="https://github.com/markusfisch/advent-of-awk" class="Primary">Source</a></li>
 </ul></article>
 
 <article><a name="tree"><h2>tree</h2></a>
 <p class="Stats"><time datetime="2013-04">April 2013</time> • $(loc ../gists/tree tree) • bash • Unlicense</p>
 <p>Show a file listing as tree structure.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://gist.github.com/markusfisch/5411843">Source</a></li>
+<li><a href="https://gist.github.com/markusfisch/5411843" class="Primary">Source</a></li>
 </ul></article>
 
 <article><a name="bars"><h2>bars</h2></a>
 <p class="Stats"><time datetime="2013-01">January 2013</time> • $(loc ../gists/bars bars) • bash • Unlicense</p>
 <p>Print horizontal bar diagrams from a list of values.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://gist.github.com/markusfisch/4612424">Source</a></li>
+<li><a href="https://gist.github.com/markusfisch/4612424" class="Primary">Source</a></li>
 </ul></article>
 
 <article><a name="viewmd"><h2>viewmd</h2></a>
@@ -71,12 +71,12 @@
 <p>This is useful when you want to check a Markdown file before pushing it onto GitHub/GitLab/etc or if you want to simply print a nice looking Markdown file. Just print it from your browser.</p>
 <p>The look is broadly similar to that on GitHub but stripped down to the bare minimum. It can also be changed easily. Just have a look at the source, Luke. It's really quite simple.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://gist.github.com/markusfisch/2b8061b3d59d65de9ae1324ecab1308a">Source</a></li>
+<li><a href="https://gist.github.com/markusfisch/2b8061b3d59d65de9ae1324ecab1308a" class="Primary">Source</a></li>
 </ul></article>
 
 <article><a name="mkatlas"><h2>mkatlas</h2></a>
 <p class="Stats"><time datetime="2013-09">September 2013</time> • $(loc ../gists/mkatlas mkatlas) • bash • Unlicense</p>
 <p>Create a texture atlas in bash with <a href="https://www.imagemagick.org/">ImageMagick</a>.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://gist.github.com/markusfisch/6442297">Source</a></li>
+<li><a href="https://gist.github.com/markusfisch/6442297" class="Primary">Source</a></li>
 </ul></article>

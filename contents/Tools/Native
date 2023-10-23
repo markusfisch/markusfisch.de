@@ -5,7 +5,7 @@
 <p>Light-weight C library for HTTP/1.1 requests.</p>
 <p>Build for embedded environments or whereever libcurl would be just too much.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/libhttp">Source</a></li>
+<li><a href="https://github.com/markusfisch/libhttp" class="Primary">Source</a></li>
 </ul></article>
 
 <article><a name="libxml"><h2>libxml</h2></a>
@@ -13,7 +13,7 @@
 <p>Incremental XML parser in plain C.</p>
 <p>Processes XML input in chunks without caching the entire document.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/libxml">Source</a></li>
+<li><a href="https://github.com/markusfisch/libxml" class="Primary">Source</a></li>
 </ul></article>
 
 <article><a name="cpprc"><h2>cpprc</h2></a>
@@ -21,7 +21,7 @@
 <p>Embed data files into C++. What "xxd -i" does for C.</p>
 <p>Like "qtrc" from <a href="https://www.qt.io/">Qt</a> but for <a href="https://www.wxwidgets.org/">wxWidgets</a> and the C++ <a href="https://en.wikipedia.org/wiki/Standard_Template_Library">STL</a>.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/cpprc">Source</a></li>
+<li><a href="https://github.com/markusfisch/cpprc" class="Primary">Source</a></li>
 </ul></article>
 
 <article><a name="calc"><h2>calc</h2></a>
@@ -29,5 +29,5 @@
 <p>Tiny line calculator in portable C.</p>
 <p>A humble <a href="https://en.wikipedia.org/wiki/Bc_(programming_language)">bc</a> alternative.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/calc">Source</a></li>
+<li><a href="https://github.com/markusfisch/calc" class="Primary">Source</a></li>
 </ul></article>

@@ -157,6 +157,12 @@ h1,
 	border-radius: 4px;
 }
 
+.ProjectLinks a.Primary {
+	background: #111;
+	border-color: #111;
+	color: #f4f4f4;
+}
+
 .ProjectLinks a:hover {
 	border-color: #111;
 }
@@ -360,6 +366,12 @@ h1,
 	.ProjectLinks a,
 	.ScreenshotLink img {
 		border-color: #333;
+	}
+
+	.ProjectLinks a.Primary {
+		background: #fff;
+		border-color: #fff;
+		color: #111;
 	}
 
 	.ProjectLinks a:hover {

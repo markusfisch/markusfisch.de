@@ -6,7 +6,7 @@
 <p>Simple, searchable list of what to do around Nuremberg, Germany.</p>
 <p>This was written just before the outbreak of the COVID-19 pandemic, and some of the sources have since dried up. Hopefully only transitionally.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://los.baby/">Website</a></li>
+<li><a href="https://los.baby/" class="Primary">Website</a></li>
 <li><a href="https://github.com/markusfisch/was-los">Source</a></li>
 </ul></article>
 
@@ -17,6 +17,6 @@
 <p>This exploits the fact that barcode reading is based on contrast differences. Started as an experiment to see how far you could go.</p>
 <p>Please keep in mind that QR Codes like this are naturally harder to read and that not every QR Code scanner might be able to read them. You may use the sliders to find a reliable configuration for your background image and make sure to test the result with different scanners.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="http://qrim.markusfisch.de/">Website</a></li>
+<li><a href="http://qrim.markusfisch.de/" class="Primary">Website</a></li>
 <li><a href="https://github.com/markusfisch/qrim">Source</a></li>
 </ul></article>
