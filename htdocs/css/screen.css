@@ -94,7 +94,7 @@ a[href].Active {
 }
 
 #Main h2 {
-	font: 200% serif;
+	font-size: 200%;
 	margin-bottom: .1em;
 	clear: both;
 }
