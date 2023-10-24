@@ -1,9 +1,10 @@
 <h1>Ludum Dare</h1>
 <p class="Excerpt Separator"><a href="https://ldjam.com">Ludum Dare</a> is one of the world's largest and longest running Game Jam events. The games (or sometimes rather prototypes) you see here were made within 48 hours in the so-called <a href="https://ldjam.com/events/ludum-dare/rules">Compo</a> mode.</p>
 
-<article><a name="nine-lives"><h2>Nine Lives</h2></a>
+<article><a href="http://hhsw.de/sites/NineLives" class="ScreenshotLink"><img src="screenshots/nine_lives.jpg" alt="Nine Lives Screenshot"/></a>
+
+<a name="nine-lives"><h2>Nine Lives</h2></a>
 <p class="Stats"><time datetime="2019-04">April 2019</time> • $(loc ../NineLives:submission htdocs) • JavaScript • Unlicense</p>
-<a href="http://hhsw.de/sites/NineLives" class="ScreenshotLink"><img src="screenshots/nine_lives.jpg" alt="Nine Lives Screenshot"/></a>
 <p>Nine lives aren't enough for <a href="https://ldjam.com">Ludum Dare</a> #44 "Your life is currency".</p><p>Use the cursor keys to move and the spacebar to search for dangers nearby, which will cost you half a life.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/NineLives" class="Primary">Play</a></li>
@@ -11,9 +12,10 @@
 <li><a href="https://github.com/markusfisch/NineLives">Source</a></li>
 </ul></article>
 
-<article><a name="saving-oskar"><h2>Saving Oskar</h2></a>
+<article><a href="http://savingoskar.markusfisch.de/" class="ScreenshotLink"><img src="screenshots/saving_oskar.jpg" alt="Saving Oskar Screenshot"/></a>
+
+<a name="saving-oskar"><h2>Saving Oskar</h2></a>
 <p class="Stats"><time datetime="2018-12">December 2018</time> • $(loc ../SavingOskar:submission htdocs) • JavaScript • Unlicense</p>
-<a href="http://savingoskar.markusfisch.de/" class="ScreenshotLink"><img src="screenshots/saving_oskar.jpg" alt="Saving Oskar Screenshot"/></a>
 <p>Try and save your dear lamb Oskar from being sacrificed. Made with <a href="https://github.com/ChristianNorbertBraun">Christian Braun</a> for <a href="https://ldjam.com">Ludum Dare</a> #43 "Sacrifices must be made".</p><p>This is the only game I submitted in <a href="https://ldjam.com/events/ludum-dare/rules">Jam</a> mode because I didn't do it alone.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://savingoskar.markusfisch.de/" class="Primary">Play</a></li>
@@ -21,9 +23,10 @@
 <li><a href="https://github.com/markusfisch/SavingOskar">Source</a></li>
 </ul></article>
 
-<article><a name="bad-minton"><h2>Bad Minton</h2></a>
+<article><a href="http://badminton.markusfisch.de" class="ScreenshotLink"><img src="screenshots/bad_minton.jpg" alt="Bad Minton Screenshot"/></a>
+
+<a name="bad-minton"><h2>Bad Minton</h2></a>
 <p class="Stats"><time datetime="2018-04">April 2018</time> • $(loc ../BadMinton:submission htdocs) • JavaScript • Unlicense</p>
-<a href="http://badminton.markusfisch.de" class="ScreenshotLink"><img src="screenshots/bad_minton.jpg" alt="Bad Minton Screenshot"/></a>
 <p>Monochrome Pong/Card mashup for <a href="https://ldjam.com">Ludum Dare</a> #41 "Combine 2 Incompatible Genres".</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://badminton.markusfisch.de" class="Primary">Play</a></li>
@@ -31,9 +34,10 @@
 <li><a href="https://github.com/markusfisch/BadMinton">Source</a></li>
 </ul></article>
 
-<article><a name="rogues"><h2>Rogues</h2></a>
+<article><a href="http://hhsw.de/sites/rogues/" class="ScreenshotLink"><img src="screenshots/rogues.jpg" alt="Rogues Screenshot"/></a>
+
+<a name="rogues"><h2>Rogues</h2></a>
 <p class="Stats"><time datetime="2017-12">December 2017</time> • $(loc ../Rogues:submission htdocs server) • JavaScript • Unlicense</p>
-<a href="http://hhsw.de/sites/rogues/" class="ScreenshotLink"><img src="screenshots/rogues.jpg" alt="Rogues Screenshot"/></a>
 <p>Multiplayer multi-device game about stealing gold for <a href="https://ldjam.com">Ludum Dare</a> #40 "The more you have, the worse it is". Playable with friends only.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/rogues/" class="Primary">Play</a></li>
@@ -41,9 +45,10 @@
 <li><a href="https://github.com/markusfisch/Rogues">Source</a></li>
 </ul></article>
 
-<article><a name="jumpy-green"><h2>Jumpy Green</h2></a>
+<article><a href="http://jumpygreen.markusfisch.de/" class="ScreenshotLink"><img src="screenshots/jumpy_green.jpg" alt="Jumpy Green Screenshot"/></a>
+
+<a name="jumpy-green"><h2>Jumpy Green</h2></a>
 <p class="Stats"><time datetime="2017-04">April 2017</time> • $(loc ../JumpyGreen:submission htdocs) • JavaScript • Unlicense</p>
-<a href="http://jumpygreen.markusfisch.de/" class="ScreenshotLink"><img src="screenshots/jumpy_green.jpg" alt="Jumpy Green Screenshot"/></a>
 <p>A little green man trying to get evil astronauts off his small world for <a href="https://ldjam.com">Ludum Dare</a> #38 "A Small World". Playable.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://jumpygreen.markusfisch.de/" class="Primary">Play</a></li>
@@ -51,9 +56,10 @@
 <li><a href="https://github.com/markusfisch/JumpyGreen">Source</a></li>
 </ul></article>
 
-<article><a name="robot-clash"><h2>Robot Clash</h2></a>
+<article><a href="http://hhsw.de/sites/proto/ld37/" class="ScreenshotLink"><img src="screenshots/robot_clash.jpg" alt="Robot Clash Screenshot"/></a>
+
+<a name="robot-clash"><h2>Robot Clash</h2></a>
 <p class="Stats"><time datetime="2016-12">December 2016</time> • $(loc ../RobotClash:submission htdocs server) • JavaScript • Unlicense</p>
-<a href="http://hhsw.de/sites/proto/ld37/" class="ScreenshotLink"><img src="screenshots/robot_clash.jpg" alt="Robot Clash Screenshot"/></a>
 <p>Multiplayer multi-device turn-based death match for <a href="https://ldjam.com">Ludum Dare</a> #37 "One Room". Playable with friends only.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/proto/ld37/" class="Primary">Play</a></li>
@@ -61,9 +67,10 @@
 <li><a href="https://github.com/markusfisch/RobotClash">Source</a></li>
 </ul></article>
 
-<article><a name="rubiks-plane"><h2>Rubiks Plane</h2></a>
+<article><a href="http://hhsw.de/sites/proto/ld35/" class="ScreenshotLink"><img src="screenshots/rubiks_plane.jpg" alt="Rubiks Plane Screenshot"/></a>
+
+<a name="rubiks-plane"><h2>Rubiks Plane</h2></a>
 <p class="Stats"><time datetime="2016-04">April 2016</time> • $(loc ../RubiksPlane:submission htdocs) • JavaScript • Unlicense</p>
-<a href="http://hhsw.de/sites/proto/ld35/" class="ScreenshotLink"><img src="screenshots/rubiks_plane.jpg" alt="Rubiks Plane Screenshot"/></a>
 <p>Shifting puzzler for <a href="https://ldjam.com">Ludum Dare</a> #35 "Shapeshift". Playable.</p><p>There is also a variation with a <a href="http://hhsw.de/sites/proto/shiftingcastle/">Castle</a> theme, because I wanted to put monsters on some tiles but ran out of time.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/proto/ld35/" class="Primary">Play</a></li>
@@ -71,9 +78,10 @@
 <li><a href="https://github.com/markusfisch/RubiksPlane">Source</a></li>
 </ul></article>
 
-<article><a name="sweet-tooth-mouse"><h2>Sweet Tooth Mouse</h2></a>
+<article><a href="http://hhsw.de/sites/proto/ld34/" class="ScreenshotLink"><img src="screenshots/sweet_tooth_mouse.jpg" alt="Sweet Tooth Mouse Screenshot"/></a>
+
+<a name="sweet-tooth-mouse"><h2>Sweet Tooth Mouse</h2></a>
 <p class="Stats"><time datetime="2015-12">December 2015</time> • $(loc ../SweetToothMouse:submission htdocs) • JavaScript • Unlicense</p>
-<a href="http://hhsw.de/sites/proto/ld34/" class="ScreenshotLink"><img src="screenshots/sweet_tooth_mouse.jpg" alt="Sweet Tooth Mouse Screenshot"/></a>
 <p>Prototype game of a mouse and a lot of sweets for <a href="https://ldjam.com">Ludum Dare</a> #34 "Growing". Ran out of time.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/proto/ld34/" class="Primary">Play</a></li>
@@ -81,9 +89,10 @@
 <li><a href="https://github.com/markusfisch/SweetToothMouse">Source</a></li>
 </ul></article>
 
-<article><a name="00q-and-the-horrible-tiger-gun"><h2>00Q And The Horrible Tiger Gun</h2></a>
+<article><a href="http://hhsw.de/sites/proto/ld32/" class="ScreenshotLink"><img src="screenshots/00q.jpg" alt="00Q And The Horrible Tiger Gun Screenshot"/></a>
+
+<a name="00q-and-the-horrible-tiger-gun"><h2>00Q And The Horrible Tiger Gun</h2></a>
 <p class="Stats"><time datetime="2015-04">April 2015</time> • $(loc ../HorribleTigerGun:submission htdocs) • JavaScript • Unlicense</p>
-<a href="http://hhsw.de/sites/proto/ld32/" class="ScreenshotLink"><img src="screenshots/00q.jpg" alt="00Q And The Horrible Tiger Gun Screenshot"/></a>
 <p>Her Majesty's Only Field Test Spy™ hard in action for <a href="https://ldjam.com">Ludum Dare</a> #32 "An Unconventional Weapon". Just two very simple levels. Ran out of time. And there's no way to fire that gun on a touch device, sorry.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/proto/ld32/" class="Primary">Play</a></li>
@@ -91,9 +100,10 @@
 <li><a href="https://github.com/markusfisch/HorribleTigerGun">Source</a></li>
 </ul></article>
 
-<article><a name="gingerman"><h2>Gingerman</h2></a>
+<article><a href="http://gingerman.markusfisch.de" class="ScreenshotLink"><img src="screenshots/gingerman.jpg" alt="Gingerman Screenshot"/></a>
+
+<a name="gingerman"><h2>Gingerman</h2></a>
 <p class="Stats"><time datetime="2014-12">December 2014</time> • $(loc ../Gingerman:submission htdocs) • JavaScript • Unlicense</p>
-<a href="http://gingerman.markusfisch.de" class="ScreenshotLink"><img src="screenshots/gingerman.jpg" alt="Gingerman Screenshot"/></a>
 <p>Christmas game for <a href="https://ldjam.com">Ludum Dare</a> #31 "Entire Game on One Screen". Playable.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://gingerman.markusfisch.de" class="Primary">Play</a></li>
@@ -101,9 +111,10 @@
 <li><a href="https://github.com/markusfisch/Gingerman">Source</a></li>
 </ul></article>
 
-<article><a name="galex"><h2>GalEx</h2></a>
+<article><a href="http://galex.markusfisch.de" class="ScreenshotLink"><img src="screenshots/galex.jpg" alt="GalEx Screenshot"/></a>
+
+<a name="galex"><h2>GalEx</h2></a>
 <p class="Stats"><time datetime="2014-08">August 2014</time> • $(loc ../GalEx:submission htdocs) • JavaScript • Unlicense</p>
-<a href="http://galex.markusfisch.de" class="ScreenshotLink"><img src="screenshots/galex.jpg" alt="GalEx Screenshot"/></a>
 <p>Deliver mail in space for <a href="https://ldjam.com">Ludum Dare</a> #30 "Connected Worlds". Playable.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://galex.markusfisch.de" class="Primary">Play</a></li>
@@ -111,9 +122,10 @@
 <li><a href="https://github.com/markusfisch/GalEx">Source</a></li>
 </ul></article>
 
-<article><a name="tycho"><h2>Tycho</h2></a>
+<article><a href="http://hhsw.de/sites/proto/ld29/" class="ScreenshotLink"><img src="screenshots/tycho.jpg" alt="Tycho Screenshot"/></a>
+
+<a name="tycho"><h2>Tycho</h2></a>
 <p class="Stats"><time datetime="2014-04">April 2014</time> • $(loc ../Tycho:submission htdocs) • JavaScript • Unlicense</p>
-<a href="http://hhsw.de/sites/proto/ld29/" class="ScreenshotLink"><img src="screenshots/tycho.jpg" alt="Tycho Screenshot"/></a>
 <p>Prototype game about finding crystals on a blue planet for <a href="https://ldjam.com">Ludum Dare</a> #29 "Beneath the Surface". Playable but _very_ simple. Ran out of time.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/proto/ld29/" class="Primary">Play</a></li>
@@ -121,9 +133,10 @@
 <li><a href="https://github.com/markusfisch/Tycho">Source</a></li>
 </ul></article>
 
-<article><a name="ten-seconds-to-venus"><h2>Ten Seconds To Venus</h2></a>
+<article><a href="http://tensecondstovenus.markusfisch.de" class="ScreenshotLink"><img src="screenshots/ten_seconds_to_venus.jpg" alt="Ten Seconds To Venus Screenshot"/></a>
+
+<a name="ten-seconds-to-venus"><h2>Ten Seconds To Venus</h2></a>
 <p class="Stats"><time datetime="2013-08">August 2013</time> • $(loc ../TenSecondsToVenus:submission index.html) • JavaScript • Unlicense</p>
-<a href="http://tensecondstovenus.markusfisch.de" class="ScreenshotLink"><img src="screenshots/ten_seconds_to_venus.jpg" alt="Ten Seconds To Venus Screenshot"/></a>
 <p>Astronaut game for <a href="https://ldjam.com">Ludum Dare</a> #27 "10 Seconds". Playable.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://tensecondstovenus.markusfisch.de" class="Primary">Play</a></li>
@@ -131,9 +144,10 @@
 <li><a href="https://github.com/markusfisch/TenSecondsToVenus">Source</a></li>
 </ul></article>
 
-<article><a name="quadtri"><h2>quadTRI</h2></a>
+<article><a href="http://hhsw.de/sites/quadTRI/" class="ScreenshotLink"><img src="screenshots/quadtri.jpg" alt="quadTRI Screenshot"/></a>
+
+<a name="quadtri"><h2>quadTRI</h2></a>
 <p class="Stats"><time datetime="2013-04">April 2013</time> • $(loc ../quadTRI:submission index.html) • JavaScript • Unlicense</p>
-<a href="http://hhsw.de/sites/quadTRI/" class="ScreenshotLink"><img src="screenshots/quadtri.jpg" alt="quadTRI Screenshot"/></a>
 <p>Two player game about matching triangles for <a href="https://ldjam.com">Ludum Dare</a> #26 "Minimalism". Playable with a friend.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/quadTRI/" class="Primary">Play</a></li>
@@ -141,9 +155,10 @@
 <li><a href="https://github.com/markusfisch/quadTRI">Source</a></li>
 </ul></article>
 
-<article><a name="alien-invasion"><h2>Alien Invasion</h2></a>
+<article><a href="http://hhsw.de/sites/proto/ld25/" class="ScreenshotLink"><img src="screenshots/alien_invasion.jpg" alt="Alien Invasion Screenshot"/></a>
+
+<a name="alien-invasion"><h2>Alien Invasion</h2></a>
 <p class="Stats"><time datetime="2012-12">December 2012</time> • $(loc ../AlienInvasion:submission htdocs) • JavaScript • Unlicense</p>
-<a href="http://hhsw.de/sites/proto/ld25/" class="ScreenshotLink"><img src="screenshots/alien_invasion.jpg" alt="Alien Invasion Screenshot"/></a>
 <p>Prototype game for <a href="https://ldjam.com">Ludum Dare</a> #25 "You Are The Villain". Playable.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/proto/ld25/" class="Primary">Play</a></li>

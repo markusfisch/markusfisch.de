@@ -1,9 +1,10 @@
 <h1>Js13kGames</h1>
 <p class="Excerpt Separator"><a href="https://js13kgames.com">js13kGames</a> is a JavaScript coding competition with a file size limit of 13 kilobytes. The competition runs every year from 13 August to 13 September.</p>
 
-<article><a name="musa's-quest"><h2>Musa's Quest</h2></a>
+<article><a href="http://hhsw.de/sites/proto/js13k2023/" class="ScreenshotLink"><img src="screenshots/musas_quest.jpg" alt="Musa's Quest Screenshot"/></a>
+
+<a name="musa's-quest"><h2>Musa's Quest</h2></a>
 <p class="Stats"><time datetime="2023-09">September 2023</time> • $(loc ../MusasQuest:submission src/src.js) • JavaScript • Unlicense</p>
-<a href="http://hhsw.de/sites/proto/js13k2023/" class="ScreenshotLink"><img src="screenshots/musas_quest.jpg" alt="Musa's Quest Screenshot"/></a>
 <p>A medieval adventure about the search for an exotic gift in 13 kilobytes for <a href="https://js13kgames.com">js13kGames</a> 2023 "13th Century". 13051 bytes (98%).</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/proto/js13k2023/" class="Primary">Play</a></li>
@@ -11,9 +12,10 @@
 <li><a href="https://github.com/markusfisch/MusasQuest">Source</a></li>
 </ul></article>
 
-<article><a name="swimming-with-sharks"><h2>Swimming With Sharks</h2></a>
+<article><a href="http://hhsw.de/sites/proto/js13k2022/" class="ScreenshotLink"><img src="screenshots/swimming_with_sharks.jpg" alt="Swimming With Sharks Screenshot"/></a>
+
+<a name="swimming-with-sharks"><h2>Swimming With Sharks</h2></a>
 <p class="Stats"><time datetime="2022-09">September 2022</time> • $(loc ../SwimmingWithSharks:submission src/src.js) • JavaScript • Unlicense</p>
-<a href="http://hhsw.de/sites/proto/js13k2022/" class="ScreenshotLink"><img src="screenshots/swimming_with_sharks.jpg" alt="Swimming With Sharks Screenshot"/></a>
 <p>A short murder mystery in 13 kilobytes for <a href="https://js13kgames.com">js13kGames</a> 2022 "Death". 12521 bytes (94%).</p><p>There is a <a href="https://hhsw.de/sites/sws">post-compo</a> version which makes the room changing arrows easier to see.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/proto/js13k2022/" class="Primary">Play</a></li>
@@ -21,9 +23,10 @@
 <li><a href="https://github.com/markusfisch/SwimmingWithSharks">Source</a></li>
 </ul></article>
 
-<article><a name="humwin-&-darbold"><h2>Humwin & Darbold</h2></a>
+<article><a href="http://hhsw.de/sites/proto/js13k2021/" class="ScreenshotLink"><img src="screenshots/humwin_and_darbold.jpg" alt="Humwin & Darbold Screenshot"/></a>
+
+<a name="humwin-&-darbold"><h2>Humwin & Darbold</h2></a>
 <p class="Stats"><time datetime="2021-09">September 2021</time> • $(loc ../HumwinAndDarbold:submission src/src.js) • JavaScript • Unlicense</p>
-<a href="http://hhsw.de/sites/proto/js13k2021/" class="ScreenshotLink"><img src="screenshots/humwin_and_darbold.jpg" alt="Humwin & Darbold Screenshot"/></a>
 <p>A small action adventure for <a href="https://js13kgames.com">js13kGames</a> 2021 "Space". 12703 bytes (95%).</p>
 <p>Humwin, your friendly space exploring robot, is in search for his pal Darbold, who has gone missing on a strange planet. What happened to him and where is he?</p><p>Unfortunately, the game turned out to be too unforgiving and I failed to make the solution clear. So here's a hopefully better <a href="https://hhsw.de/sites/humwin">post-compo</a> version.</p>
 <ul class="ProjectLinks Separator">
@@ -32,9 +35,10 @@
 <li><a href="https://github.com/markusfisch/HumwinAndDarbold">Source</a></li>
 </ul></article>
 
-<article><a name="soyuz-404"><h2>Soyuz 404</h2></a>
+<article><a href="http://hhsw.de/sites/proto/js13k2020/" class="ScreenshotLink"><img src="screenshots/soyuz404.jpg" alt="Soyuz 404 Screenshot"/></a>
+
+<a name="soyuz-404"><h2>Soyuz 404</h2></a>
 <p class="Stats"><time datetime="2020-09">September 2020</time> • $(loc ../Soyuz404:submission src/src.js) • JavaScript • Unlicense</p>
-<a href="http://hhsw.de/sites/proto/js13k2020/" class="ScreenshotLink"><img src="screenshots/soyuz404.jpg" alt="Soyuz 404 Screenshot"/></a>
 <p>A space adventure for <a href="https://js13kgames.com">js13kGames</a> 2020 "404". 13298 bytes (99%).</p>
 <p>The game and a few details about it were mentioned in this <a href="https://www.youtube.com/watch?v=GKOgm5-GbUA">video summary</a> of the 2020 event.</p>
 <ul class="ProjectLinks Separator">
@@ -43,9 +47,10 @@
 <li><a href="https://github.com/markusfisch/Sojuz404">Source</a></li>
 </ul></article>
 
-<article><a name="conflict-management"><h2>Conflict Management</h2></a>
+<article><a href="http://hhsw.de/sites/proto/js13k2019/" class="ScreenshotLink"><img src="screenshots/conflict_management.jpg" alt="Conflict Management Screenshot"/></a>
+
+<a name="conflict-management"><h2>Conflict Management</h2></a>
 <p class="Stats"><time datetime="2019-09">September 2019</time> • $(loc ../ConflictManagement:submission src.js) • JavaScript • Unlicense</p>
-<a href="http://hhsw.de/sites/proto/js13k2019/" class="ScreenshotLink"><img src="screenshots/conflict_management.jpg" alt="Conflict Management Screenshot"/></a>
 <p>A turn-based game about conflict management like it was back in the day for <a href="https://js13kgames.com">js13kGames</a> 2019 "back". 10128 bytes (76%).</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/proto/js13k2019/" class="Primary">Play</a></li>
@@ -53,9 +58,10 @@
 <li><a href="https://github.com/markusfisch/ConflictManagement">Source</a></li>
 </ul></article>
 
-<article><a name="pronto"><h2>Pronto</h2></a>
+<article><a href="http://pronto.markusfisch.de/" class="ScreenshotLink"><img src="screenshots/pronto.jpg" alt="Pronto Screenshot"/></a>
+
+<a name="pronto"><h2>Pronto</h2></a>
 <p class="Stats"><time datetime="2018-09">September 2018</time> • $(loc ../Pronto:submission src.js) • JavaScript • Unlicense</p>
-<a href="http://pronto.markusfisch.de/" class="ScreenshotLink"><img src="screenshots/pronto.jpg" alt="Pronto Screenshot"/></a>
 <p>Simple reaction game for <a href="https://js13kgames.com">js13kGames</a> 2018 "offline". 6923 bytes (51%).</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://pronto.markusfisch.de/" class="Primary">Play</a></li>
@@ -63,9 +69,10 @@
 <li><a href="https://github.com/markusfisch/Pronto">Source</a></li>
 </ul></article>
 
-<article><a name="lost-treasures"><h2>Lost Treasures</h2></a>
+<article><a href="http://hhsw.de/sites/LostTreasures/" class="ScreenshotLink"><img src="screenshots/lost_treasures.jpg" alt="Lost Treasures Screenshot"/></a>
+
+<a name="lost-treasures"><h2>Lost Treasures</h2></a>
 <p class="Stats"><time datetime="2017-09">September 2017</time> • $(loc ../LostTreasures:submission src.js) • JavaScript • Unlicense</p>
-<a href="http://hhsw.de/sites/LostTreasures/" class="ScreenshotLink"><img src="screenshots/lost_treasures.jpg" alt="Lost Treasures Screenshot"/></a>
 <p>Dive to find coins for <a href="https://js13kgames.com">js13kGames</a> 2017 "Lost". 7928 bytes (59%).</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/LostTreasures/" class="Primary">Play</a></li>
@@ -73,9 +80,10 @@
 <li><a href="https://github.com/markusfisch/LostTreasures">Source</a></li>
 </ul></article>
 
-<article><a name="glitch-yeagers"><h2>Glitch Yeagers</h2></a>
+<article><a href="http://hhsw.de/sites/GlitchYeagers/" class="ScreenshotLink"><img src="screenshots/glitch_yeagers.jpg" alt="Glitch Yeagers Screenshot"/></a>
+
+<a name="glitch-yeagers"><h2>Glitch Yeagers</h2></a>
 <p class="Stats"><time datetime="2016-08">August 2016</time> • $(loc ../GlitchYeagers:submission src.js) • JavaScript • Unlicense</p>
-<a href="http://hhsw.de/sites/GlitchYeagers/" class="ScreenshotLink"><img src="screenshots/glitch_yeagers.jpg" alt="Glitch Yeagers Screenshot"/></a>
 <p>Air combat for <a href="https://js13kgames.com">js13kGames</a> 2016 "Glitch". 6917 bytes (52%).</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/GlitchYeagers/" class="Primary">Play</a></li>
@@ -83,9 +91,10 @@
 <li><a href="https://github.com/markusfisch/GlitchYeagers">Source</a></li>
 </ul></article>
 
-<article><a name="eugor"><h2>Eugor</h2></a>
+<article><a href="http://hhsw.de/sites/eugor/" class="ScreenshotLink"><img src="screenshots/eugor.jpg" alt="Eugor Screenshot"/></a>
+
+<a name="eugor"><h2>Eugor</h2></a>
 <p class="Stats"><time datetime="2015-08">August 2015</time> • $(loc ../Eugor:submission htdocs) • JavaScript • Unlicense</p>
-<a href="http://hhsw.de/sites/eugor/" class="ScreenshotLink"><img src="screenshots/eugor.jpg" alt="Eugor Screenshot"/></a>
 <p>Roguelike for <a href="https://js13kgames.com">js13kGames</a> 2015 "Reversed". 7126 bytes (53%).</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/eugor/" class="Primary">Play</a></li>

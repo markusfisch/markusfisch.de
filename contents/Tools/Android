@@ -1,6 +1,7 @@
 <h1>Android</h1>
 
-<article><a name="barcodescannerview"><h2>BarcodeScannerView</h2></a>
+<article>
+<a name="barcodescannerview"><h2>BarcodeScannerView</h2></a>
 <p class="Stats"><time datetime="2022-04">April 2022</time> • $(loc ../BarcodeScannerView barcodescannerview/src/main) • Java • Unlicense</p>
 <p>A barcode scanner view for Android. Batteries included.</p>
 <ul class="ProjectLinks Separator">
@@ -8,7 +9,8 @@
 <li><a href="https://github.com/markusfisch/BarcodeScannerView/releases">Releases</a></li>
 </ul></article>
 
-<article><a name="cameraview"><h2>CameraView</h2></a>
+<article>
+<a name="cameraview"><h2>CameraView</h2></a>
 <p class="Stats"><time datetime="2017-08">August 2017</time> • $(loc ../CameraView cameraview/src/main) • Java • Unlicense</p>
 <p>A view that shows what the camera sees.</p>
 <p>Supports orientation changes, fits the preview image into the available view space and works with Gingerbread (minSDK 9) or better.</p>
@@ -17,7 +19,8 @@
 <li><a href="https://github.com/markusfisch/CameraView/releases">Releases</a></li>
 </ul></article>
 
-<article><a name="scalingimageview"><h2>ScalingImageView</h2></a>
+<article>
+<a name="scalingimageview"><h2>ScalingImageView</h2></a>
 <p class="Stats"><time datetime="2015-11">November 2015</time> • $(loc ../ScalingImageView scalingimageview/src/main) • Java • Unlicense</p>
 <p>An ImageView that transforms its drawable according to touch input.</p>
 <p>Supports rotated images and keeps transformation when you exchange the image for another one with a different size.</p>
@@ -26,7 +29,8 @@
 <li><a href="https://github.com/markusfisch/ScalingImageView/releases">Releases</a></li>
 </ul></article>
 
-<article><a name="swipeimageview"><h2>SwipeImageView</h2></a>
+<article>
+<a name="swipeimageview"><h2>SwipeImageView</h2></a>
 <p class="Stats"><time datetime="2017-01">January 2017</time> • $(loc ../SwipeImageView swipeimageview/src/main) • Java • Unlicense</p>
 <p>An ImageView that can be used to swipe between images and supports pinch/zoom gestures to explore the current image.</p><p>Think of Google Photos.</p>
 <ul class="ProjectLinks Separator">

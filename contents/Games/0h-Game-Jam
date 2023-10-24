@@ -1,9 +1,10 @@
 <h1>0h Game Jam</h1>
 <p class="Excerpt Separator"><a href="http://0hgame.eu">0h Game Jam</a> is a coding competition that takes place during <a href="https://en.wikipedia.org/wiki/Daylight_saving_time">DST hour shift</a>.</p>
 
-<article><a name="huh"><h2>Huh</h2></a>
+<article><a href="http://hhsw.de/sites/proto/huh/" class="ScreenshotLink"><img src="screenshots/huh.jpg" alt="Huh Screenshot"/></a>
+
+<a name="huh"><h2>Huh</h2></a>
 <p class="Stats"><time datetime="2014-10">October 2014</time> • $(loc ../huh:submission) • JavaScript • Unlicense</p>
-<a href="http://hhsw.de/sites/proto/huh/" class="ScreenshotLink"><img src="screenshots/huh.jpg" alt="Huh Screenshot"/></a>
 <p>You're a ghost hunter surrounded by ghost. Don't let them touch you! Click on a free spot to survive as long as you can. Made for <a href="http://0hgame.eu/">0h Game Jam</a> 2014.</p>
 <p>Here is the <a href="https://vimeo.com/110055282">time-lapse video</a> of the hour that never was.</p><p>Later that year, I played with the idea a bit more and made <a href="games-casual.html#boo">Boo</a>, in which the roles are reversed.</p>
 <ul class="ProjectLinks Separator">

@@ -96,7 +96,6 @@ a[href].Active {
 #Main h2 {
 	font-size: 200%;
 	margin-bottom: .1em;
-	clear: both;
 }
 
 #Main p a {
@@ -126,8 +125,8 @@ h1,
 }
 
 .ScreenshotLink img, .IconLink img {
-	margin: .2em 0 1em 1em;
 	float: right;
+	margin: 0 0 1em 1em;
 }
 
 .IconLink img {

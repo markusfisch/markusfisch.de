@@ -1,6 +1,7 @@
 <h1>Web</h1>
 
-<article><a name="sqlc"><h2>sqlc</h2></a>
+<article>
+<a name="sqlc"><h2>sqlc</h2></a>
 <p class="Stats"><time datetime="2014-07">July 2014</time> • $(loc ../gists/sqlc) • PHP • Unlicense</p>
 <p>Quick and dirty SQL web console for PHP5+.</p>
 <p> Helpful when you don't have shell access to the database server.</p>
@@ -8,7 +9,8 @@
 <li><a href="https://gist.github.com/markusfisch/0f1bfaf2673eed968a94" class="Primary">Source</a></li>
 </ul></article>
 
-<article><a name="phapp"><h2>Phapp</h2></a>
+<article>
+<a name="phapp"><h2>Phapp</h2></a>
 <p class="Stats"><time datetime="2013-03">March 2013</time> • $(loc ../Phapp) • PHP • Unlicense</p>
 <p>Scalable object-oriented web application framework for PHP5+.</p>
 <p>I've used this on many personal and professional web application projects.</p>
@@ -16,7 +18,8 @@
 <li><a href="https://github.com/markusfisch/Phapp" class="Primary">Source</a></li>
 </ul></article>
 
-<article><a name="simsala"><h2>simsala</h2></a>
+<article>
+<a name="simsala"><h2>simsala</h2></a>
 <p class="Stats"><time datetime="2013-12">December 2013</time> • $(loc ../simsala) • PHP • Unlicense</p>
 <p>Static site editor and generator.</p>
 <p>Uses Phapp and contains a PHP port of <a href="tools-shell.html#simsalabash">simsalabash</a>.
@@ -24,14 +27,16 @@
 <li><a href="https://github.com/markusfisch/simsala" class="Primary">Source</a></li>
 </ul></article>
 
-<article><a name="touchclockjs"><h2>TouchClockJs</h2></a>
+<article>
+<a name="touchclockjs"><h2>TouchClockJs</h2></a>
 <p class="Stats"><time datetime="2014-09">September 2014</time> • $(loc ../TouchClockJs) • JavaScript • Unlicense</p>
 <p>A clock you can touch (or click) to set a time and (optionally) a duration.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://github.com/markusfisch/TouchClock.js" class="Primary">Source</a></li>
 </ul></article>
 
-<article><a name="webpie"><h2>WebPie</h2></a>
+<article>
+<a name="webpie"><h2>WebPie</h2></a>
 <p class="Stats"><time datetime="2010-12">December 2010</time> • $(loc ../WebPie) • JavaScript • Unlicense</p>
 <p>A zooming pie menu for web pages.</p>
 <p>Uses the same algorithm as <a href="apps-android.html#pie_launcher">Pie Launcher</a> and <a href="apps-desktop.html#piedock">PieDock</a>.</p>
@@ -39,7 +44,8 @@
 <li><a href="https://github.com/markusfisch/WebPie" class="Primary">Source</a></li>
 </ul></article>
 
-<article><a name="zoomgrid"><h2>ZoomGrid</h2></a>
+<article>
+<a name="zoomgrid"><h2>ZoomGrid</h2></a>
 <p class="Stats"><time datetime="2010-12">December 2010</time> • $(loc ../ZoomGrid) • JavaScript • Unlicense</p>
 <p>A two-dimensional accordion menu inside a fixed rectangle.</p>
 <p>Originally written and used for my 2011 <a href="arch/markusfisch.de/2011">website</a>.</p>

@@ -67,14 +67,7 @@ def entry(item):
     license = item.get('license')
     links = item.get('links')
 
-    out = f'\n<article><a name="{anchorize(name)}"><h2>{name}</h2></a>\n'
-    if dob is not None:
-        dt = datetime.strptime(dob, '%Y-%m')
-        pretty = dt.strftime('%B %Y')
-        loc = f' • $(loc {loc})' if loc is not None else ''
-        lang = f' • {lang}' if lang is not None else ''
-        license = f' • {license}' if license is not None else ''
-        out += f'<p class="Stats"><time datetime="{dob}">{pretty}</time>{loc}{lang}{license}</p>\n'
+    out = '\n<article>'
     if screenshot is not None:
         for label in links:
             out += f'<a href="{links.get(label)}" class="ScreenshotLink"><img src="{screenshot}" alt="{name} Screenshot"/></a>\n'
@@ -83,6 +76,14 @@ def entry(item):
         for label in links:
             out += f'<a href="{links.get(label)}" class="IconLink"><img src="{icon}" alt="{name} Icon"/></a>\n'
             break
+    out += f'\n<a name="{anchorize(name)}"><h2>{name}</h2></a>\n'
+    if dob is not None:
+        dt = datetime.strptime(dob, '%Y-%m')
+        pretty = dt.strftime('%B %Y')
+        loc = f' • $(loc {loc})' if loc is not None else ''
+        lang = f' • {lang}' if lang is not None else ''
+        license = f' • {license}' if license is not None else ''
+        out += f'<p class="Stats"><time datetime="{dob}">{pretty}</time>{loc}{lang}{license}</p>\n'
     out += f'{description}\n'
     out += f'<ul class="ProjectLinks Separator">\n'
     extra = ' class="Primary"'
