@@ -339,8 +339,8 @@
 		"lang": "Java",
 		"license": "Unlicense",
 		"links": {
-			"Source": "https://github.com/markusfisch/Sheeptris",
-			"Releases": "https://github.com/markusfisch/Sheeptris/releases"
+			"Releases": "https://github.com/markusfisch/Sheeptris/releases",
+			"Source": "https://github.com/markusfisch/Sheeptris"
 		}
 	},
 	{
@@ -354,8 +354,8 @@
 		"lang": "C",
 		"license": "Unlicense",
 		"links": {
-			"Source": "https://github.com/markusfisch/bots",
-			"Web Client": "http://bots.markusfisch.de"
+			"Web Client": "http://bots.markusfisch.de",
+			"Source": "https://github.com/markusfisch/bots"
 		}
 	},
 	{
@@ -903,7 +903,6 @@
 		"lang": "bash",
 		"license": "Unlicense",
 		"links": {
-			"Source": "https://gist.github.com/markusfisch/c43e32a50f833539ea0f7b8b6109320e",
 			"Charts": "annuals/charts.html",
 			"2022": "annuals/2022",
 			"2021": "annuals/2021",
@@ -917,7 +916,8 @@
 			"2013": "annuals/2013",
 			"2012": "annuals/2012",
 			"2011": "annuals/2011",
-			"2010": "annuals/2010"
+			"2010": "annuals/2010",
+			"Source": "https://gist.github.com/markusfisch/c43e32a50f833539ea0f7b8b6109320e"
 		}
 	},
 	{
