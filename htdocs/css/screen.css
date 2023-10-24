@@ -355,7 +355,7 @@ h1,
 	}
 
 	a.Active {
-		background: #111;
+		background: #333;
 	}
 
 	a[href].Active {
