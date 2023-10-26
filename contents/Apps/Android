@@ -42,18 +42,16 @@
 <li><a href="https://github.com/markusfisch/ShaderEditor/releases">Releases</a></li>
 </ul></article>
 
-<article><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.wavelines" class="IconLink"><img src="screenshots/wave_lines_wallpaper_icon.svg" alt="Wave Lines Wallpaper Icon"/></a>
+<article><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.screentime" class="IconLink"><img src="screenshots/screen_time_icon.svg" alt="Screen Time Icon"/></a>
 
-<a name="wave-lines-wallpaper"><h2>Wave Lines Wallpaper</h2></a>
-<p class="Stats"><time datetime="2012-08">August 2012</time> • $(loc ../WaveLinesWallpaper app/src/main) • Java • MIT</p>
-<p>A live wallpaper with colorful, slowly moving wavy lines.</p>
-<p>You can either choose a predefined theme, edit a theme to your liking, or simply create your own.</p>
-<p>I actually wrote the first version of this app on an Android device.</p>
+<a name="screen-time"><h2>Screen Time</h2></a>
+<p class="Stats"><time datetime="2018-11">November 2018</time> • $(loc ../ScreenTime app/src/main) • Kotlin • Unlicense</p>
+<p>Displays your screen time in a permanent notification.</p><p>By making screen time more prominent, you can get a better sense of how much of the day you spend on your phone. Without judgement. Just so you know.</p><p>Of course, there's Google's Digital Wellbeing app and a lot of other apps that track app usage. But I just like to see my screen time at a glance without having to open an app.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.wavelines" class="Primary">Google Play</a></li>
-<li><a href="https://f-droid.org/packages/de.markusfisch.android.wavelines/">F-Droid</a></li>
-<li><a href="https://github.com/markusfisch/WaveLinesWallpaper">Source</a></li>
-<li><a href="https://github.com/markusfisch/WaveLinesWallpaper/releases">Releases</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.screentime" class="Primary">Google Play</a></li>
+<li><a href="https://f-droid.org/packages/de.markusfisch.android.screentime/">F-Droid</a></li>
+<li><a href="https://github.com/markusfisch/ScreenTime">Source</a></li>
+<li><a href="https://github.com/markusfisch/ScreenTime/releases">Releases</a></li>
 </ul></article>
 
 <article><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.libra" class="IconLink"><img src="screenshots/decisions_icon.svg" alt="Decisions Icon"/></a>
@@ -74,16 +72,18 @@
 <li><a href="https://github.com/markusfisch/Libra/releases">Releases</a></li>
 </ul></article>
 
-<article><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.screentime" class="IconLink"><img src="screenshots/screen_time_icon.svg" alt="Screen Time Icon"/></a>
+<article><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.wavelines" class="IconLink"><img src="screenshots/wave_lines_wallpaper_icon.svg" alt="Wave Lines Wallpaper Icon"/></a>
 
-<a name="screen-time"><h2>Screen Time</h2></a>
-<p class="Stats"><time datetime="2018-11">November 2018</time> • $(loc ../ScreenTime app/src/main) • Kotlin • Unlicense</p>
-<p>Displays your screen time in a permanent notification.</p><p>By making screen time more prominent, you can get a better sense of how much of the day you spend on your phone. Without judgement. Just so you know.</p><p>Of course, there's Google's Digital Wellbeing app and a lot of other apps that track app usage. But I just like to see my screen time at a glance without having to open an app.</p>
+<a name="wave-lines-wallpaper"><h2>Wave Lines Wallpaper</h2></a>
+<p class="Stats"><time datetime="2012-08">August 2012</time> • $(loc ../WaveLinesWallpaper app/src/main) • Java • MIT</p>
+<p>A live wallpaper with colorful, slowly moving wavy lines.</p>
+<p>You can either choose a predefined theme, edit a theme to your liking, or simply create your own.</p>
+<p>I actually wrote the first version of this app on an Android device.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.screentime" class="Primary">Google Play</a></li>
-<li><a href="https://f-droid.org/packages/de.markusfisch.android.screentime/">F-Droid</a></li>
-<li><a href="https://github.com/markusfisch/ScreenTime">Source</a></li>
-<li><a href="https://github.com/markusfisch/ScreenTime/releases">Releases</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.wavelines" class="Primary">Google Play</a></li>
+<li><a href="https://f-droid.org/packages/de.markusfisch.android.wavelines/">F-Droid</a></li>
+<li><a href="https://github.com/markusfisch/WaveLinesWallpaper">Source</a></li>
+<li><a href="https://github.com/markusfisch/WaveLinesWallpaper/releases">Releases</a></li>
 </ul></article>
 
 <article><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.motoscore" class="IconLink"><img src="screenshots/moto_score_icon.svg" alt="Moto Score Icon"/></a>

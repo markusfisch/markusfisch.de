@@ -54,18 +54,18 @@
 	{
 		"cat": "Apps",
 		"subcat": "Android",
-		"name": "Wave Lines Wallpaper",
-		"icon": "screenshots/wave_lines_wallpaper_icon.svg",
-		"description": "<p>A live wallpaper with colorful, slowly moving wavy lines.</p>\n<p>You can either choose a predefined theme, edit a theme to your liking, or simply create your own.</p>\n<p>I actually wrote the first version of this app on an Android device.</p>",
-		"dob": "2012-08",
-		"loc": "../WaveLinesWallpaper app/src/main",
-		"lang": "Java",
-		"license": "MIT",
+		"name": "Screen Time",
+		"icon": "screenshots/screen_time_icon.svg",
+		"description": "<p>Displays your screen time in a permanent notification.</p><p>By making screen time more prominent, you can get a better sense of how much of the day you spend on your phone. Without judgement. Just so you know.</p><p>Of course, there's Google's Digital Wellbeing app and a lot of other apps that track app usage. But I just like to see my screen time at a glance without having to open an app.</p>",
+		"dob": "2018-11",
+		"loc": "../ScreenTime app/src/main",
+		"lang": "Kotlin",
+		"license": "Unlicense",
 		"links": {
-			"Google Play": "https://play.google.com/store/apps/details?id=de.markusfisch.android.wavelines",
-			"F-Droid": "https://f-droid.org/packages/de.markusfisch.android.wavelines/",
-			"Source": "https://github.com/markusfisch/WaveLinesWallpaper",
-			"Releases": "https://github.com/markusfisch/WaveLinesWallpaper/releases"
+			"Google Play": "https://play.google.com/store/apps/details?id=de.markusfisch.android.screentime",
+			"F-Droid": "https://f-droid.org/packages/de.markusfisch.android.screentime/",
+			"Source": "https://github.com/markusfisch/ScreenTime",
+			"Releases": "https://github.com/markusfisch/ScreenTime/releases"
 		}
 	},
 	{
@@ -88,18 +88,18 @@
 	{
 		"cat": "Apps",
 		"subcat": "Android",
-		"name": "Screen Time",
-		"icon": "screenshots/screen_time_icon.svg",
-		"description": "<p>Displays your screen time in a permanent notification.</p><p>By making screen time more prominent, you can get a better sense of how much of the day you spend on your phone. Without judgement. Just so you know.</p><p>Of course, there's Google's Digital Wellbeing app and a lot of other apps that track app usage. But I just like to see my screen time at a glance without having to open an app.</p>",
-		"dob": "2018-11",
-		"loc": "../ScreenTime app/src/main",
-		"lang": "Kotlin",
-		"license": "Unlicense",
+		"name": "Wave Lines Wallpaper",
+		"icon": "screenshots/wave_lines_wallpaper_icon.svg",
+		"description": "<p>A live wallpaper with colorful, slowly moving wavy lines.</p>\n<p>You can either choose a predefined theme, edit a theme to your liking, or simply create your own.</p>\n<p>I actually wrote the first version of this app on an Android device.</p>",
+		"dob": "2012-08",
+		"loc": "../WaveLinesWallpaper app/src/main",
+		"lang": "Java",
+		"license": "MIT",
 		"links": {
-			"Google Play": "https://play.google.com/store/apps/details?id=de.markusfisch.android.screentime",
-			"F-Droid": "https://f-droid.org/packages/de.markusfisch.android.screentime/",
-			"Source": "https://github.com/markusfisch/ScreenTime",
-			"Releases": "https://github.com/markusfisch/ScreenTime/releases"
+			"Google Play": "https://play.google.com/store/apps/details?id=de.markusfisch.android.wavelines",
+			"F-Droid": "https://f-droid.org/packages/de.markusfisch.android.wavelines/",
+			"Source": "https://github.com/markusfisch/WaveLinesWallpaper",
+			"Releases": "https://github.com/markusfisch/WaveLinesWallpaper/releases"
 		}
 	},
 	{
