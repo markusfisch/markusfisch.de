@@ -310,6 +310,14 @@ h1,
 		font-size: 95%;
 	}
 
+	.NavList:before {
+		background-image: none;
+	}
+
+	.NavList {
+		padding: 0;
+	}
+
 	.ScreenshotLink img {
 		width: 100%;
 		margin: 0 0 1em;
