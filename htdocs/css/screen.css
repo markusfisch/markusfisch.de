@@ -142,7 +142,9 @@ a[href].Active {
 }
 
 .IconLink img {
-	width: 72px;
+	float: left;
+	margin: 0 .75em .75em 0;
+	width: 48px;
 }
 
 .ScreenshotLink img {
@@ -331,11 +333,6 @@ a[href].Active {
 	.ScreenshotLink img {
 		width: 100%;
 		margin: 0 0 1em;
-	}
-
-	.IconLink img {
-		width: 3em;
-		margin: 0 0 .5em .5em;
 	}
 }
 
