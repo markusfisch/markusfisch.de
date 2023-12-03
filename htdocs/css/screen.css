@@ -12,7 +12,11 @@ h1, h2, h3, p, ul {
 }
 
 h1 {
-	display: none;
+	font-size: 50%;
+	letter-spacing: .33em;
+	margin-bottom: 2rem;
+	text-transform: uppercase;
+	color: #555;
 }
 
 a {
@@ -219,12 +223,10 @@ h1,
 	}
 
 	h1 {
-		display: block;
 		font-size: 60%;
 		font-weight: normal;
+		letter-spacing: .25em;
 		margin-bottom: 2rem;
-		letter-spacing: .5em;
-		text-transform: uppercase;
 		text-align: center;
 		overflow: hidden;
 	}
@@ -246,7 +248,7 @@ h1,
 	}
 
 	h1:after {
-		left: .5em;
+		left: .75em;
 		margin-right: -50%;
 	}
 
@@ -339,7 +341,7 @@ h1,
 	}
 
 	h1 {
-		color: #555;
+		color: #999;
 	}
 
 	h1:before,
