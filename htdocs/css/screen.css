@@ -156,6 +156,7 @@ a[href].Active {
 	background: #111;
 	border-color: #111;
 	color: #fdfdfd;
+	font-weight: bold;
 }
 
 .ProjectLinks a:hover {
