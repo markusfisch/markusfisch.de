@@ -113,7 +113,7 @@ def main(source):
             os.makedirs(f'contents/{cat}', exist_ok=True)
             f = open(f'contents/{target}', 'a+')
             if f.tell() == 0:
-                f.write(f'<h1>{subcat.replace("-", " ")}</h1>\n')
+                f.write(f'<h1>{cat} / {subcat.replace("-", " ")}</h1>\n')
         f.write(entry(item))
 
 
