@@ -315,51 +315,6 @@
 	},
 	{
 		"cat": "Games",
-		"subcat": "Casual",
-		"name": "Striker",
-		"screenshot": "screenshots/striker.jpg",
-		"description": "<p>Fast vertical <a href=\"https://en.wikipedia.org/wiki/Shoot_'em_up\">shoot 'em up</a>. Shoot down as many enemy vessels as possible.</p>\n<p>Does not work on mobile because it was written in 2002. Originally made as an easter egg for a boring business website that doesn't exist anymore.</p>",
-		"dob": "2002-08",
-		"loc": "../Striker js/src src",
-		"lang": "JavaScript",
-		"license": "Unlicense",
-		"links": {
-			"Play": "http://striker.markusfisch.de/",
-			"Source": "https://github.com/markusfisch/Striker"
-		}
-	},
-	{
-		"cat": "Games",
-		"subcat": "Casual",
-		"name": "Sheeptris",
-		"screenshot": "screenshots/sheeptris.jpg",
-		"description": "<p>A multiplayer Tetris with sheeps. Can be played by up to three players simultaneously.</p>\n<p>Originally, this game was also playable in a web browser. But since <a href=\"https://en.wikipedia.org/wiki/Java_applet\">Java applets</a> have fallen out of favor, that no longer works. So not only do you have to download the game, but you also have to have Java installed to run it. Sorry.</p>",
-		"dob": "2004-07",
-		"loc": "../Sheeptris src",
-		"lang": "Java",
-		"license": "Unlicense",
-		"links": {
-			"Releases": "https://github.com/markusfisch/Sheeptris/releases",
-			"Source": "https://github.com/markusfisch/Sheeptris"
-		}
-	},
-	{
-		"cat": "Games",
-		"subcat": "Casual",
-		"name": "Bots",
-		"screenshot": "screenshots/bots.jpg",
-		"description": "<p>Programming game about bots that move on a grid.</p>\n<p>To play the game, your program, a so-called bot, must connect a socket to the Bots server. The bot can be programmed in any language that can open a socket. </p>\n<p>Used for the <a href=\"https://kurzdigital.com\">KURZ Digital</a> Coding Night <a href=\"https://twitter.com/markusfisch/status/1008395010247741440?s=20\">2018</a> and <a href=\"https://twitter.com/kurzdigital/status/1139827333228113920?s=20\">2019</a>.</p>",
-		"dob": "2018-03",
-		"loc": "../bots server",
-		"lang": "C",
-		"license": "Unlicense",
-		"links": {
-			"Web Client": "http://bots.markusfisch.de",
-			"Source": "https://github.com/markusfisch/bots"
-		}
-	},
-	{
-		"cat": "Games",
 		"subcat": "Js13kGames",
 		"info": "<p class=\"Excerpt Separator\"><a href=\"https://js13kgames.com\">js13kGames</a> is a JavaScript coding competition with a file size limit of 13 kilobytes. The competition runs every year from 13 August to 13 September.</p>"
 	},
@@ -770,6 +725,51 @@
 		"links": {
 			"Play": "http://hhsw.de/sites/proto/huh/",
 			"Timelapse": "https://vimeo.com/110055282"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Coding",
+		"name": "Bots",
+		"screenshot": "screenshots/bots.jpg",
+		"description": "<p>Programming game about bots that move on a grid.</p>\n<p>To play the game, your program, a so-called bot, must connect a socket to the Bots server. The bot can be programmed in any language that can open a socket. </p>\n<p>Used for the <a href=\"https://kurzdigital.com\">KURZ Digital</a> Coding Night <a href=\"https://twitter.com/markusfisch/status/1008395010247741440?s=20\">2018</a> and <a href=\"https://twitter.com/kurzdigital/status/1139827333228113920?s=20\">2019</a>.</p>",
+		"dob": "2018-03",
+		"loc": "../bots server",
+		"lang": "C",
+		"license": "Unlicense",
+		"links": {
+			"Web Client": "http://bots.markusfisch.de",
+			"Source": "https://github.com/markusfisch/bots"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Archive",
+		"name": "Striker",
+		"screenshot": "screenshots/striker.jpg",
+		"description": "<p>Fast vertical <a href=\"https://en.wikipedia.org/wiki/Shoot_'em_up\">shoot 'em up</a>. Shoot down as many enemy vessels as possible.</p>\n<p>Does not work on mobile because it was written in 2002. Originally made as an easter egg for a boring business website that doesn't exist anymore.</p>",
+		"dob": "2002-08",
+		"loc": "../Striker js/src src",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://striker.markusfisch.de/",
+			"Source": "https://github.com/markusfisch/Striker"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Archive",
+		"name": "Sheeptris",
+		"screenshot": "screenshots/sheeptris.jpg",
+		"description": "<p>A multiplayer Tetris with sheeps. Can be played by up to three players simultaneously.</p>\n<p>Originally, this game was also playable in a web browser. But since <a href=\"https://en.wikipedia.org/wiki/Java_applet\">Java applets</a> have fallen out of favor, that no longer works. So not only do you have to download the game, but you also have to have Java installed to run it. Sorry.</p>",
+		"dob": "2004-07",
+		"loc": "../Sheeptris src",
+		"lang": "Java",
+		"license": "Unlicense",
+		"links": {
+			"Releases": "https://github.com/markusfisch/Sheeptris/releases",
+			"Source": "https://github.com/markusfisch/Sheeptris"
 		}
 	},
 	{

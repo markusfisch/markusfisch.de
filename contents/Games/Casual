@@ -106,37 +106,3 @@
 <li><a href="http://hhsw.de/sites/proto/boo/" class="Primary">Play</a></li>
 <li><a href="https://github.com/markusfisch/Boo">Source</a></li>
 </ul></article>
-
-<article><a href="http://striker.markusfisch.de/" class="ScreenshotLink"><img src="screenshots/striker.jpg" alt="Striker Screenshot"/></a>
-
-<a name="striker"><h2>Striker</h2></a>
-<p class="Stats"><time datetime="2002-08">August 2002</time> • $(loc ../Striker js/src src) • JavaScript • Unlicense</p>
-<p>Fast vertical <a href="https://en.wikipedia.org/wiki/Shoot_'em_up">shoot 'em up</a>. Shoot down as many enemy vessels as possible.</p>
-<p>Does not work on mobile because it was written in 2002. Originally made as an easter egg for a boring business website that doesn't exist anymore.</p>
-<ul class="ProjectLinks Separator">
-<li><a href="http://striker.markusfisch.de/" class="Primary">Play</a></li>
-<li><a href="https://github.com/markusfisch/Striker">Source</a></li>
-</ul></article>
-
-<article><a href="https://github.com/markusfisch/Sheeptris/releases" class="ScreenshotLink"><img src="screenshots/sheeptris.jpg" alt="Sheeptris Screenshot"/></a>
-
-<a name="sheeptris"><h2>Sheeptris</h2></a>
-<p class="Stats"><time datetime="2004-07">July 2004</time> • $(loc ../Sheeptris src) • Java • Unlicense</p>
-<p>A multiplayer Tetris with sheeps. Can be played by up to three players simultaneously.</p>
-<p>Originally, this game was also playable in a web browser. But since <a href="https://en.wikipedia.org/wiki/Java_applet">Java applets</a> have fallen out of favor, that no longer works. So not only do you have to download the game, but you also have to have Java installed to run it. Sorry.</p>
-<ul class="ProjectLinks Separator">
-<li><a href="https://github.com/markusfisch/Sheeptris/releases" class="Primary">Releases</a></li>
-<li><a href="https://github.com/markusfisch/Sheeptris">Source</a></li>
-</ul></article>
-
-<article><a href="http://bots.markusfisch.de" class="ScreenshotLink"><img src="screenshots/bots.jpg" alt="Bots Screenshot"/></a>
-
-<a name="bots"><h2>Bots</h2></a>
-<p class="Stats"><time datetime="2018-03">March 2018</time> • $(loc ../bots server) • C • Unlicense</p>
-<p>Programming game about bots that move on a grid.</p>
-<p>To play the game, your program, a so-called bot, must connect a socket to the Bots server. The bot can be programmed in any language that can open a socket. </p>
-<p>Used for the <a href="https://kurzdigital.com">KURZ Digital</a> Coding Night <a href="https://twitter.com/markusfisch/status/1008395010247741440?s=20">2018</a> and <a href="https://twitter.com/kurzdigital/status/1139827333228113920?s=20">2019</a>.</p>
-<ul class="ProjectLinks Separator">
-<li><a href="http://bots.markusfisch.de" class="Primary">Web Client</a></li>
-<li><a href="https://github.com/markusfisch/bots">Source</a></li>
-</ul></article>

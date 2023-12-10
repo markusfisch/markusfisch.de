@@ -1,0 +1,13 @@
+<h1>Games / Coding</h1>
+
+<article><a href="http://bots.markusfisch.de" class="ScreenshotLink"><img src="screenshots/bots.jpg" alt="Bots Screenshot"/></a>
+
+<a name="bots"><h2>Bots</h2></a>
+<p class="Stats"><time datetime="2018-03">March 2018</time> • $(loc ../bots server) • C • Unlicense</p>
+<p>Programming game about bots that move on a grid.</p>
+<p>To play the game, your program, a so-called bot, must connect a socket to the Bots server. The bot can be programmed in any language that can open a socket. </p>
+<p>Used for the <a href="https://kurzdigital.com">KURZ Digital</a> Coding Night <a href="https://twitter.com/markusfisch/status/1008395010247741440?s=20">2018</a> and <a href="https://twitter.com/kurzdigital/status/1139827333228113920?s=20">2019</a>.</p>
+<ul class="ProjectLinks Separator">
+<li><a href="http://bots.markusfisch.de" class="Primary">Web Client</a></li>
+<li><a href="https://github.com/markusfisch/bots">Source</a></li>
+</ul></article>
