@@ -153,6 +153,13 @@ a[href].Active {
 	border-radius: 4px;
 }
 
+iframe {
+	aspect-ratio: 16 / 9;
+	width: 100%;
+	height: 100%;
+	margin-bottom: 1em;
+}
+
 .ProjectLinks {
 	padding: 0;
 	list-style: none;

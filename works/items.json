@@ -21,7 +21,7 @@
 		"subcat": "Android",
 		"name": "Pie Launcher",
 		"icon": "screenshots/pie_launcher_icon.svg",
-		"description": "<p>Android home screen launcher that uses a dynamic pie menu instead of tables of icons. Here's a <a href=\"https://www.youtube.com/watch?v=zg0h3s_yua8\">video</a> of it.</p>\n<p>Once you get used to it, you can launch your most frequently used apps using muscle memory without even looking at the screen.</p>\n<p>Apps you don't use regularly are quickly available with just one tap and by typing the first one or two letters of the app name.</p>",
+		"description": "<p>Android home screen launcher that uses a dynamic pie menu instead of tables of icons. Here is a <a href=\"https://www.youtube.com/watch?v=zg0h3s_yua8\">video</a> of it:</p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zg0h3s_yua8?si=q4ZaBEgvIFyK4ZRG\" title=\"Pie Launcher demo video\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; web-share\" allowfullscreen></iframe>\n<p>Once you get used to it, you can launch your most frequently used apps using muscle memory without even looking at the screen.</p>\n<p>Apps you don't use regularly are quickly available with just one tap and by typing the first one or two letters of the app name.</p>",
 		"dob": "2019-12",
 		"loc": "../PieLauncher app/src/main",
 		"lang": "Java",
@@ -30,8 +30,7 @@
 			"Google Play": "https://play.google.com/store/apps/details?id=de.markusfisch.android.pielauncher",
 			"F-Droid": "https://f-droid.org/de/packages/de.markusfisch.android.pielauncher/",
 			"Source": "https://github.com/markusfisch/PieLauncher",
-			"Releases": "https://github.com/markusfisch/PieLauncher/releases",
-			"Video": "https://www.youtube.com/watch?v=zg0h3s_yua8"
+			"Releases": "https://github.com/markusfisch/PieLauncher/releases"
 		}
 	},
 	{
