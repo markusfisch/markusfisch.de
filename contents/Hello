@@ -1,20 +1,40 @@
+<h1>About this</h1>
+$(MONTH=$(date +%m);
+if ((MONTH > 11 || MONTH < 2));
+then
+	cat <<END
 <article>
-<h1>Hello</h1>
-<p>Here you can find a few
-<a href="apps-android.html">apps</a>
-for Android smartphones, some casual
-<a href="games-casual.html">games</a>
-that you can play directly in your browser, and some
-<a href="tools-android.html">tools</a>
-for working on the computer.</p>
-<p>All of this is free, ad-free and open source.
-If you want to support this, you could
-<a href="https://www.buymeacoffee.com/markusfisch">buy me a coffee</a>.</p>
+<a href="https://gingerman.markusfisch.de/" class="ScreenshotLink"><img
+	src="screenshots/gingerman.jpg" alt="Gingerman"/></a>
+<h2>Happy holidays!</h2>
+<p>Can you help Gingerman get to the top of the christmas tree?
+Jump on anything that does not burn to climb the tree.</p>
+<ul class="ProjectLinks Separator">
+<li><a href="http://gingerman.markusfisch.de" class="Primary">Play</a></li>
+</ul>
+</article>
+END
+fi)
+<article>
+<h2>Hello!</h2>
+<p>This is my personal website where I publish some things I've written for
+fun or simply because I needed them.</p>
+<p>Here you can find a few apps for Android smartphones, such as another
+<a href="apps-android.html#binary-eye">barcode scanner app</a>,
+or a minimalist
+<a href="apps-android.html#pie-launcher">home screen launcher</a>
+where you launch apps from a pie menu.</p>
+<p>There are also some mini-games that you can play directly in your browser,
+for example a little
+<a href="games-casual.html#soyuz-404">space adventure</a>
+or a quick
+<a href="games-casual.html#bad-minton">ping-pong game</a>
+for two players.</p>
 <p>You can also find me on:</p>
-<ul class="ProjectLinks">
+<ul class="ProjectLinks Separator">
 <li><a href="https://github.com/markusfisch">GitHub</a></li>
 <li><a href="https://mastodon.social/@markusfisch">Mastodon</a></li>
-<li><a href="https://twitter.com/markusfisch">Twitter</a></li>
 <li><a href="https://www.instagram.com/fisch.markus/">Instagram</a></li>
+<li><a href="https://www.buymeacoffee.com/markusfisch">Buy me a coffee</a></li>
 </ul>
 </article>
