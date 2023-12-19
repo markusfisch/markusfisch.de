@@ -743,6 +743,20 @@
 	},
 	{
 		"cat": "Games",
+		"subcat": "Coding",
+		"name": "Guess the file",
+		"screenshot": "screenshots/what_file.jpg",
+		"description": "<p>Explore a snippet of source code like a dungeon in a <a href=\"https://en.wikipedia.org/wiki/Roguelike\">roguelike</a>.</p>\n<p>Can you guess which programming language or project a file comes from?</p>\n<p>Move with WASD or HJKL, and as soon as you think you know what it is, press Enter and choose your answer from three options.</p>",
+		"dob": "2018-12",
+		"loc": "../gists/what_file what_file",
+		"lang": "bash",
+		"license": "Unlicense",
+		"links": {
+			"Source": "https://gist.github.com/markusfisch/0316a791501e383b195d0fce6a30b5b0"
+		}
+	},
+	{
+		"cat": "Games",
 		"subcat": "Archive",
 		"name": "Striker",
 		"screenshot": "screenshots/striker.jpg",

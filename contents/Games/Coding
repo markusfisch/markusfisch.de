@@ -11,3 +11,14 @@
 <li><a href="http://bots.markusfisch.de" class="Primary">Web Client</a></li>
 <li><a href="https://github.com/markusfisch/bots">Source</a></li>
 </ul></article>
+
+<article><a href="https://gist.github.com/markusfisch/0316a791501e383b195d0fce6a30b5b0" class="ScreenshotLink"><img src="screenshots/what_file.jpg" alt="Guess the file Screenshot"/></a>
+
+<a name="guess-the-file"><h2>Guess the file</h2></a>
+<p class="Stats"><time datetime="2018-12">December 2018</time> • $(loc ../gists/what_file what_file) • bash • Unlicense</p>
+<p>Explore a snippet of source code like a dungeon in a <a href="https://en.wikipedia.org/wiki/Roguelike">roguelike</a>.</p>
+<p>Can you guess which programming language or project a file comes from?</p>
+<p>Move with WASD or HJKL, and as soon as you think you know what it is, press Enter and choose your answer from three options.</p>
+<ul class="ProjectLinks Separator">
+<li><a href="https://gist.github.com/markusfisch/0316a791501e383b195d0fce6a30b5b0" class="Primary">Source</a></li>
+</ul></article>
