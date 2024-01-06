@@ -240,21 +240,6 @@
 	{
 		"cat": "Games",
 		"subcat": "Casual",
-		"name": "Saving Oskar",
-		"screenshot": "screenshots/saving_oskar.jpg",
-		"description": "<p>Try and save your dear lamb Oskar from being sacrificed.</p>\n<p>The gods demand a sacrifice and so a lamb must die. But not Oskar, your dear friend. So you need to sacrifice another lamb. Again and again. Until all lambs are sacrificed, except Oskar. Then, and only then, the gods will be pleased and you win the game.</p>\n<p>Made this game for Ludum Dare <a href=\"games-ludum-dare.html#saving_oskar\">#43</a> with <a href=\"https://github.com/ChristianNorbertBraun\">Christian Braun</a>, who did almost all the graphics and all the music.</p>",
-		"dob": "2018-12",
-		"loc": "../SavingOskar:submission htdocs",
-		"lang": "JavaScript",
-		"license": "Unlicense",
-		"links": {
-			"Play": "http://savingoskar.markusfisch.de/",
-			"Source": "https://github.com/markusfisch/SavingOskar"
-		}
-	},
-	{
-		"cat": "Games",
-		"subcat": "Casual",
 		"name": "Jumpy Green",
 		"screenshot": "screenshots/jumpy_green.jpg",
 		"description": "<p>A little green man trying to get evil astronauts off his small world.</p>\n<p>Get rid of Buck Rodgers by jumping high and landing hard when he is on the opposite side of your world. If you jump high enough, he will be thrown off your world and get lost in space again.</p>\n<p>Written for Ludum Dare <a href=\"games-ludum-dare.html#jumpy_green\">#38</a>.</p>",
@@ -487,7 +472,7 @@
 		"subcat": "Ludum_Dare",
 		"name": "Saving Oskar",
 		"screenshot": "screenshots/saving_oskar.jpg",
-		"description": "<p>Try and save your dear lamb Oskar from being sacrificed. Made with <a href=\"https://github.com/ChristianNorbertBraun\">Christian Braun</a> for <a href=\"https://ldjam.com\">Ludum Dare</a> #43 \"Sacrifices must be made\".</p><p>This is the only game I submitted in <a href=\"https://ldjam.com/events/ludum-dare/rules\">Jam</a> mode because I didn't do it alone.</p>",
+		"description": "<p>Try and save your dear lamb Oskar from being sacrificed.</p>\n<p>The gods demand a sacrifice and so a lamb must die. But not Oskar, your dear friend. So you need to sacrifice another lamb. Again and again. Until all lambs are sacrificed, except Oskar. Then, and only then, the gods will be pleased and you win the game.</p>\n<p>Made with <a href=\"https://github.com/ChristianNorbertBraun\">Christian Braun</a> for <a href=\"https://ldjam.com\">Ludum Dare</a> #43 \"Sacrifices must be made\".</p><p>This is the only game I submitted in <a href=\"https://ldjam.com/events/ludum-dare/rules\">Jam</a> mode because I didn't do it alone. Christian did almost all of the graphics and all the sounds and music.</p>",
 		"dob": "2018-12",
 		"loc": "../SavingOskar:submission htdocs",
 		"lang": "JavaScript",

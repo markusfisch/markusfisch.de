@@ -16,7 +16,9 @@
 
 <a name="saving-oskar"><h2>Saving Oskar</h2></a>
 <p class="Stats"><time datetime="2018-12">December 2018</time> • $(loc ../SavingOskar:submission htdocs) • JavaScript • Unlicense</p>
-<p>Try and save your dear lamb Oskar from being sacrificed. Made with <a href="https://github.com/ChristianNorbertBraun">Christian Braun</a> for <a href="https://ldjam.com">Ludum Dare</a> #43 "Sacrifices must be made".</p><p>This is the only game I submitted in <a href="https://ldjam.com/events/ludum-dare/rules">Jam</a> mode because I didn't do it alone.</p>
+<p>Try and save your dear lamb Oskar from being sacrificed.</p>
+<p>The gods demand a sacrifice and so a lamb must die. But not Oskar, your dear friend. So you need to sacrifice another lamb. Again and again. Until all lambs are sacrificed, except Oskar. Then, and only then, the gods will be pleased and you win the game.</p>
+<p>Made with <a href="https://github.com/ChristianNorbertBraun">Christian Braun</a> for <a href="https://ldjam.com">Ludum Dare</a> #43 "Sacrifices must be made".</p><p>This is the only game I submitted in <a href="https://ldjam.com/events/ludum-dare/rules">Jam</a> mode because I didn't do it alone. Christian did almost all of the graphics and all the sounds and music.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://savingoskar.markusfisch.de/" class="Primary">Play</a></li>
 <li><a href="https://ldjam.com/events/ludum-dare/43/saving-oskar">Entry</a></li>

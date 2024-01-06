@@ -48,18 +48,6 @@
 <li><a href="https://github.com/markusfisch/Gingerman">Source</a></li>
 </ul></article>
 
-<article><a href="http://savingoskar.markusfisch.de/" class="ScreenshotLink"><img src="screenshots/saving_oskar.jpg" alt="Saving Oskar Screenshot"/></a>
-
-<a name="saving-oskar"><h2>Saving Oskar</h2></a>
-<p class="Stats"><time datetime="2018-12">December 2018</time> • $(loc ../SavingOskar:submission htdocs) • JavaScript • Unlicense</p>
-<p>Try and save your dear lamb Oskar from being sacrificed.</p>
-<p>The gods demand a sacrifice and so a lamb must die. But not Oskar, your dear friend. So you need to sacrifice another lamb. Again and again. Until all lambs are sacrificed, except Oskar. Then, and only then, the gods will be pleased and you win the game.</p>
-<p>Made this game for Ludum Dare <a href="games-ludum-dare.html#saving_oskar">#43</a> with <a href="https://github.com/ChristianNorbertBraun">Christian Braun</a>, who did almost all the graphics and all the music.</p>
-<ul class="ProjectLinks Separator">
-<li><a href="http://savingoskar.markusfisch.de/" class="Primary">Play</a></li>
-<li><a href="https://github.com/markusfisch/SavingOskar">Source</a></li>
-</ul></article>
-
 <article><a href="http://jumpygreen.markusfisch.de" class="ScreenshotLink"><img src="screenshots/jumpy_green.jpg" alt="Jumpy Green Screenshot"/></a>
 
 <a name="jumpy-green"><h2>Jumpy Green</h2></a>
