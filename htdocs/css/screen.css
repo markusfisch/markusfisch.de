@@ -111,7 +111,7 @@ a[href].Active {
 	max-width: 40em;
 }
 
-#Main h2 {
+#Main a h2 {
 	font-size: 150%;
 	margin-bottom: .1em;
 }
