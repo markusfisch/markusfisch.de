@@ -112,7 +112,6 @@ a[href].Active {
 }
 
 #Main a h2 {
-	font-size: 150%;
 	margin-bottom: .1em;
 }
 
@@ -317,10 +316,6 @@ iframe {
 
 	#Main {
 		margin-left: 0;
-	}
-
-	#Main h2 {
-		font-size: 150%;
 	}
 }
 
