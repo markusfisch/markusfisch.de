@@ -1,4 +1,4 @@
-<h1>About this</h1>
+<h1>About</h1>
 $(MONTH=$(date +%m);
 if ((MONTH > 11 || MONTH < 1));
 then
@@ -17,8 +17,8 @@ END
 fi)
 <article>
 <h2>Hello!</h2>
-<p>This is my personal website where I publish some things I've written for
-fun, or simply because I needed them.</p>
+<p>This is my personal website where I publish some software I've written for
+fun, or simply because I needed it.</p>
 <p>Here you can find a few apps for Android smartphones, such as yet another
 <a href="apps-android.html#binary-eye">barcode scanner app</a>,
 or a minimalist
@@ -30,11 +30,15 @@ for example a little
 or a quick
 <a href="games-casual.html#bad-minton">ping-pong game</a>
 for two players.</p>
-<p>You can also find me on:</p>
+<p>All of this is unnecessary and irrelevant.
+But so is cake and I like that too.</p>
+<h3>Find me on:</h3>
 <ul class="ProjectLinks Separator">
 <li><a href="https://github.com/markusfisch">GitHub</a></li>
-<li><a href="https://mastodon.social/@markusfisch">Mastodon</a></li>
 <li><a href="https://www.instagram.com/fisch.markus/">Instagram</a></li>
+<li><a href="https://mastodon.social/@markusfisch">Mastodon</a></li>
+<li><a href="https://twitter.com/markusfisch">Twitter</a></li>
+<li>and</li>
 <li><a href="https://www.buymeacoffee.com/markusfisch">Buy me a coffee</a></li>
 </ul>
 </article>

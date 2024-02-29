@@ -152,7 +152,7 @@
 		"subcat": "Web",
 		"name": "Was ist los um Nürnberg?",
 		"icon": "screenshots/was_los_icon.svg",
-		"description": "<p>Simple, searchable list of what to do around Nuremberg, Germany.</p>\n<p>This was written just before the outbreak of the COVID-19 pandemic, and some of the sources have since dried up. Hopefully only transitionally.</p>",
+		"description": "<p>Simple, searchable list of what to do around Nuremberg, Germany.</p>",
 		"dob": "2020-01",
 		"loc": "../was-los bin",
 		"lang": "Python",
@@ -901,6 +901,7 @@
 		"lang": "bash",
 		"license": "Unlicense",
 		"links": {
+			"Source": "https://gist.github.com/markusfisch/c43e32a50f833539ea0f7b8b6109320e",
 			"Charts": "annuals/charts.html",
 			"2023": "annuals/2023",
 			"2022": "annuals/2022",
@@ -915,8 +916,7 @@
 			"2013": "annuals/2013",
 			"2012": "annuals/2012",
 			"2011": "annuals/2011",
-			"2010": "annuals/2010",
-			"Source": "https://gist.github.com/markusfisch/c43e32a50f833539ea0f7b8b6109320e"
+			"2010": "annuals/2010"
 		}
 	},
 	{
