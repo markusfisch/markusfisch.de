@@ -448,6 +448,27 @@
 	},
 	{
 		"cat": "Games",
+		"subcat": "Gamedevjs",
+		"info": "<p class=\"Excerpt Separator\"><a href=\"https://gamedevjs.com\">Gamedev.js</a> Jam is an online competition for web game developers.</p>"
+	},
+	{
+		"cat": "Games",
+		"subcat": "Gamedevjs",
+		"name": "Powers of Dropping",
+		"screenshot": "screenshots/powers_of_dropping.jpg",
+		"description": "<p>Connect lines or columns of blocks to remove them. Clear all blocks or hit all catchers to win!</p><p>For the js13kGames challenge. The theme was \"Power\".</p>",
+		"dob": "2024-04",
+		"loc": "../PowersOfDropping:submission src/src.js",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/proto/gdjam2024/",
+			"Entry": "https://markusfisch.itch.io/powers-of-dropping",
+			"Source": "https://github.com/markusfisch/PowersOfDropping"
+		}
+	},
+	{
+		"cat": "Games",
 		"subcat": "Ludum_Dare",
 		"info": "<p class=\"Excerpt Separator\"><a href=\"https://ldjam.com\">Ludum Dare</a> is one of the world's largest and longest running Game Jam events. The games (or sometimes rather prototypes) you see here were made within 48 hours in the so-called <a href=\"https://ldjam.com/events/ludum-dare/rules\">Compo</a> mode.</p>"
 	},

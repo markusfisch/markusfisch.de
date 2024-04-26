@@ -1,0 +1,13 @@
+<h1>Games / Gamedevjs</h1>
+<p class="Excerpt Separator"><a href="https://gamedevjs.com">Gamedev.js</a> Jam is an online competition for web game developers.</p>
+
+<article><a href="http://hhsw.de/sites/proto/gdjam2024/" class="ScreenshotLink"><img src="screenshots/powers_of_dropping.jpg" alt="Powers of Dropping Screenshot"/></a>
+
+<a name="powers-of-dropping"><h2>Powers of Dropping</h2></a>
+<p class="Stats"><time datetime="2024-04">April 2024</time> • $(loc ../PowersOfDropping:submission src/src.js) • JavaScript • Unlicense</p>
+<p>Connect lines or columns of blocks to remove them. Clear all blocks or hit all catchers to win!</p><p>For the js13kGames challenge. The theme was "Power".</p>
+<ul class="ProjectLinks Separator">
+<li><a href="http://hhsw.de/sites/proto/gdjam2024/" class="Primary">Play</a></li>
+<li><a href="https://markusfisch.itch.io/powers-of-dropping">Entry</a></li>
+<li><a href="https://github.com/markusfisch/PowersOfDropping">Source</a></li>
+</ul></article>
