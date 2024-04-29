@@ -456,7 +456,7 @@
 		"subcat": "Gamedevjs",
 		"name": "Powers of Dropping",
 		"screenshot": "screenshots/powers_of_dropping.jpg",
-		"description": "<p>Connect lines or columns of blocks to remove them. Clear all blocks or hit all catchers to win!</p><p>For the js13kGames challenge. The theme was \"Power\".</p>",
+		"description": "<p>Connect lines or columns of blocks to remove them. Clear all blocks or hit all catchers to win!</p><p>For the <a href=\"https://gamedevjs.com/jam/2024/#challenge-js13kgames\">js13kGames challenge</a>. The theme was \"Power\". This entry clocks in at 7509 bytes (56%)</p><p>There is a slightly improved <a href=\"http://hhsw.de/sites/PowersOfDropping\">post-compo</a> version that has some additional interesting items.</p>",
 		"dob": "2024-04",
 		"loc": "../PowersOfDropping:submission src/src.js",
 		"lang": "JavaScript",

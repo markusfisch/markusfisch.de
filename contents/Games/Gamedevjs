@@ -5,7 +5,7 @@
 
 <a name="powers-of-dropping"><h2>Powers of Dropping</h2></a>
 <p class="Stats"><time datetime="2024-04">April 2024</time> • $(loc ../PowersOfDropping:submission src/src.js) • JavaScript • Unlicense</p>
-<p>Connect lines or columns of blocks to remove them. Clear all blocks or hit all catchers to win!</p><p>For the js13kGames challenge. The theme was "Power".</p>
+<p>Connect lines or columns of blocks to remove them. Clear all blocks or hit all catchers to win!</p><p>For the <a href="https://gamedevjs.com/jam/2024/#challenge-js13kgames">js13kGames challenge</a>. The theme was "Power". This entry clocks in at 7509 bytes (56%)</p><p>There is a slightly improved <a href="http://hhsw.de/sites/PowersOfDropping">post-compo</a> version that has some additional interesting items.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/proto/gdjam2024/" class="Primary">Play</a></li>
 <li><a href="https://markusfisch.itch.io/powers-of-dropping">Entry</a></li>
