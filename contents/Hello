@@ -1,5 +1,5 @@
 <h1>About</h1>
-$(MONTH=$(date +%m);
+$(MONTH=$(date +%-m);
 if ((MONTH > 11 || MONTH < 1));
 then
 	cat <<END
