@@ -154,7 +154,7 @@
 		"icon": "screenshots/was_los_icon.svg",
 		"description": "<p>Simple, searchable list of what to do around Nuremberg, Germany.</p>",
 		"dob": "2020-01",
-		"loc": "../was-los bin",
+		"loc": "../was-los src",
 		"lang": "Python",
 		"license": "Unlicense",
 		"links": {

@@ -3,7 +3,7 @@
 <article><a href="https://los.baby/" class="IconLink"><img src="screenshots/was_los_icon.svg" alt="Was ist los um Nürnberg? Icon"/></a>
 
 <a name="was-ist-los-um-nürnberg?"><h2>Was ist los um Nürnberg?</h2></a>
-<p class="Stats"><time datetime="2020-01">January 2020</time> • $(loc ../was-los bin) • Python • Unlicense</p>
+<p class="Stats"><time datetime="2020-01">January 2020</time> • $(loc ../was-los src) • Python • Unlicense</p>
 <p>Simple, searchable list of what to do around Nuremberg, Germany.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://los.baby/" class="Primary">Website</a></li>
