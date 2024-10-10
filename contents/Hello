@@ -1,12 +1,28 @@
 <h1>About</h1>
 $(MONTH=$(date +%-m);
-if ((MONTH > 11 || MONTH < 1));
+if ((MONTH == 10));
+then
+	cat <<END
+<article>
+<a href="http://hhsw.de/sites/proto/boo/" class="ScreenshotLink"><img
+	src="screenshots/boo.jpg" alt="Boo"/></a>
+<h2>Happy Halloween!</h2>
+<p>Want to be a ghost? Here is a game for you!
+Try to hide from the priests that want to free your soul.
+Do not let them touch you!
+Click on a free spot to survive as long as you can.</p>
+<ul class="ProjectLinks Separator">
+<li><a href="http://hhsw.de/sites/proto/boo/" class="Primary">Play</a></li>
+</ul>
+</article>
+END
+elif ((MONTH > 11 || MONTH < 1));
 then
 	cat <<END
 <article>
 <a href="https://gingerman.markusfisch.de/" class="ScreenshotLink"><img
 	src="screenshots/gingerman.jpg" alt="Gingerman"/></a>
-<h2>Happy holidays!</h2>
+<h2>Happy Holidays!</h2>
 <p>Can you help Gingerman get to the top of the christmas tree?
 Jump on anything that does not burn to climb the tree.</p>
 <ul class="ProjectLinks Separator">
