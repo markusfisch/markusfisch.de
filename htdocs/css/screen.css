@@ -124,6 +124,11 @@ a[href].Active {
 	line-height: 1.5;
 }
 
+#Main p + h3 {
+	margin-top: 2em;
+	font-size: 80%;
+}
+
 .Excerpt {
 	font-size: 90%;
 	font-style: italic;
