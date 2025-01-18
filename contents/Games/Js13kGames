@@ -1,13 +1,13 @@
 <h1>Games / Js13kGames</h1>
 <p class="Excerpt Separator"><a href="https://js13kgames.com">js13kGames</a> is a JavaScript coding competition with a file size limit of 13 kilobytes. The competition runs every year from 13 August to 13 September.</p>
 
-<article><a href="http://hhsw.de/sites/js13k2024/" class="ScreenshotLink"><img src="screenshots/lost_city_of_s.jpg" alt="Lost City of S Screenshot"/></a>
+<article><a href="http://hhsw.de/sites/proto/js13k2024/" class="ScreenshotLink"><img src="screenshots/lost_city_of_s.jpg" alt="Lost City of S Screenshot"/></a>
 
 <a name="lost-city-of-s"><h2>Lost City of S</h2></a>
 <p class="Stats"><time datetime="2024-09">September 2024</time> • $(loc ../LostCityOfS:submission src/src.js) • JavaScript • Unlicense</p>
 <p>In search of the lost city of S, S for superstition, where exactly that was invented, as legend has it. And to this day, a mishap happens here every 13 seconds.</p><p>A quick running game in 13 kilobytes for <a href="https://js13kgames.com">js13kGames</a> 2024 "<a href="https://en.wikipedia.org/wiki/Triskaidekaphobia">Triskaidekaphobia</a>". 10251 bytes (76%).</p><p>There is a slightly improved <a href="https://hhsw.de/sites/LostCityOfS">post-compo</a> version.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="http://hhsw.de/sites/js13k2024/" class="Primary">Play</a></li>
+<li><a href="http://hhsw.de/sites/proto/js13k2024/" class="Primary">Play</a></li>
 <li><a href="https://dev.js13kgames.com/2024/games/lost-city-of-s">Entry</a></li>
 <li><a href="https://github.com/markusfisch/LostCityOfS">Source</a></li>
 </ul></article>
