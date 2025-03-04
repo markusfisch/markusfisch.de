@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "de.markusfisch.android.binaryeye",
+    "sha256_cert_fingerprints":
+    ["A1:33:A7:F3:DF:5F:46:6D:FC:E6:73:84:82:94:31:B6:2C:2C:DD:86:48:FB:B0:FB:5B:17:7C:F1:02:FF:26:D7"]
+  }
+}]

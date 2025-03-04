@@ -1,4 +1,4 @@
-OBJECTS = htdocs/* htdocs/.htaccess
+OBJECTS = htdocs/* htdocs/.htaccess htdocs/.well-known
 SERVER = hhsw.de@ssh.strato.de:sites/markusfisch
 OPTIONS = --recursive \
 	--links \
