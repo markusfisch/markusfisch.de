@@ -305,6 +305,22 @@
 	{
 		"cat": "Games",
 		"subcat": "Js13kGames",
+		"name": "Meow or Never",
+		"screenshot": "screenshots/meow_or_never.jpg",
+		"description": "<p>A quick card game for up to four players in 13 kilobytes for <a href=\"https://js13kgames.com\">js13kGames</a> 2025 \"Black Cat\". 5107 bytes (38%).</p>",
+		"dob": "2025-09",
+		"loc": "../MeowOrNever:submission src/src.js",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/proto/js13k2025/",
+			"Entry": "https://js13kgames.com/2025/games/meow-or-never",
+			"Source": "https://github.com/markusfisch/MeowOrNever"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Js13kGames",
 		"name": "Lost City of S",
 		"screenshot": "screenshots/lost_city_of_s.jpg",
 		"description": "<p>In search of the lost city of S, S for superstition, where exactly that was invented, as legend has it. And to this day, a mishap happens here every 13 seconds.</p><p>A quick running game in 13 kilobytes for <a href=\"https://js13kgames.com\">js13kGames</a> 2024 \"<a href=\"https://en.wikipedia.org/wiki/Triskaidekaphobia\">Triskaidekaphobia</a>\". 10251 bytes (76%).</p><p>There is a slightly improved <a href=\"https://hhsw.de/sites/LostCityOfS\">post-compo</a> version.</p>",

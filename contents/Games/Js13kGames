@@ -1,6 +1,17 @@
 <h1>Games / Js13kGames</h1>
 <p class="Excerpt Separator"><a href="https://js13kgames.com">js13kGames</a> is a JavaScript coding competition with a file size limit of 13 kilobytes. The competition runs every year from 13 August to 13 September.</p>
 
+<article><a href="http://hhsw.de/sites/proto/js13k2025/" class="ScreenshotLink"><img src="screenshots/meow_or_never.jpg" alt="Meow or Never Screenshot"/></a>
+
+<a name="meow-or-never"><h2>Meow or Never</h2></a>
+<p class="Stats"><time datetime="2025-09">September 2025</time> • $(loc ../MeowOrNever:submission src/src.js) • JavaScript • Unlicense</p>
+<p>A quick card game for up to four players in 13 kilobytes for <a href="https://js13kgames.com">js13kGames</a> 2025 "Black Cat". 5107 bytes (38%).</p>
+<ul class="ProjectLinks Separator">
+<li><a href="http://hhsw.de/sites/proto/js13k2025/" class="Primary">Play</a></li>
+<li><a href="https://js13kgames.com/2025/games/meow-or-never">Entry</a></li>
+<li><a href="https://github.com/markusfisch/MeowOrNever">Source</a></li>
+</ul></article>
+
 <article><a href="http://hhsw.de/sites/proto/js13k2024/" class="ScreenshotLink"><img src="screenshots/lost_city_of_s.jpg" alt="Lost City of S Screenshot"/></a>
 
 <a name="lost-city-of-s"><h2>Lost City of S</h2></a>
