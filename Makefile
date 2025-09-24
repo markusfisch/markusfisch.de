@@ -10,6 +10,9 @@ OPTIONS = --recursive \
 compose: contents layouts lib
 	bin/simsalabash
 
+rebuild:
+	works/rebuild
+
 up: compose
 	rsync $(OPTIONS) $(OBJECTS) $(SERVER)
 
