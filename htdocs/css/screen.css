@@ -194,6 +194,10 @@ iframe {
 	border-color: #111;
 }
 
+.ProjectLinks a.Primary:hover {
+	animation: pop 200ms ease-in forwards;
+}
+
 .Separator {
 	margin-bottom: 4rem;
 }
