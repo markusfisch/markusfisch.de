@@ -323,13 +323,13 @@
 		"subcat": "Js13kGames",
 		"name": "Lost City of S",
 		"screenshot": "screenshots/lost_city_of_s.jpg",
-		"description": "<p>In search of the lost city of S, S for superstition, where exactly that was invented, as legend has it. And to this day, a mishap happens here every 13 seconds.</p><p>A quick running game in 13 kilobytes for <a href=\"https://js13kgames.com\">js13kGames</a> 2024 \"<a href=\"https://en.wikipedia.org/wiki/Triskaidekaphobia\">Triskaidekaphobia</a>\". 10251 bytes (76%).</p><p>There is a slightly improved <a href=\"https://hhsw.de/sites/LostCityOfS\">post-compo</a> version.</p>",
+		"description": "<p>In search of the lost city of S, S for superstition, where exactly that was invented, as legend has it. And to this day, a mishap happens here every 13 seconds.</p><p>A quick running game in 13 kilobytes for <a href=\"https://js13kgames.com\">js13kGames</a> 2024 \"<a href=\"https://en.wikipedia.org/wiki/Triskaidekaphobia\">Triskaidekaphobia</a>\". 10251 bytes (76%).</p>",
 		"dob": "2024-09",
 		"loc": "../LostCityOfS:submission src/src.js",
 		"lang": "JavaScript",
 		"license": "Unlicense",
 		"links": {
-			"Play": "http://hhsw.de/sites/proto/js13k2024/",
+			"Play": "https://hhsw.de/sites/LostCityOfS/",
 			"Entry": "https://dev.js13kgames.com/2024/games/lost-city-of-s",
 			"Source": "https://github.com/markusfisch/LostCityOfS"
 		}
@@ -355,13 +355,13 @@
 		"subcat": "Js13kGames",
 		"name": "Swimming With Sharks",
 		"screenshot": "screenshots/swimming_with_sharks.jpg",
-		"description": "<p>A short murder mystery in 13 kilobytes for <a href=\"https://js13kgames.com\">js13kGames</a> 2022 \"Death\". 12521 bytes (94%).</p><p>There is a <a href=\"https://hhsw.de/sites/sws\">post-compo</a> version which makes the room changing arrows easier to see.</p>",
+		"description": "<p>A short murder mystery in 13 kilobytes for <a href=\"https://js13kgames.com\">js13kGames</a> 2022 \"Death\". 12521 bytes (94%).</p>",
 		"dob": "2022-09",
 		"loc": "../SwimmingWithSharks:submission src/src.js",
 		"lang": "JavaScript",
 		"license": "Unlicense",
 		"links": {
-			"Play": "http://hhsw.de/sites/proto/js13k2022/",
+			"Play": "https://hhsw.de/sites/sws",
 			"Entry": "https://js13kgames.com/entries/swimming-with-sharks",
 			"Source": "https://github.com/markusfisch/SwimmingWithSharks"
 		}
@@ -371,13 +371,13 @@
 		"subcat": "Js13kGames",
 		"name": "Humwin & Darbold",
 		"screenshot": "screenshots/humwin_and_darbold.jpg",
-		"description": "<p>A small action adventure for <a href=\"https://js13kgames.com\">js13kGames</a> 2021 \"Space\". 12703 bytes (95%).</p>\n<p>Humwin, your friendly space exploring robot, is in search for his pal Darbold, who has gone missing on a strange planet. What happened to him and where is he?</p><p>Unfortunately, the game turned out to be too unforgiving and I failed to make the solution clear. So here's a hopefully better <a href=\"https://hhsw.de/sites/humwin\">post-compo</a> version.</p>",
+		"description": "<p>A small action adventure for <a href=\"https://js13kgames.com\">js13kGames</a> 2021 \"Space\". 12703 bytes (95%).</p>\n<p>Humwin, your friendly space exploring robot, is in search for his pal Darbold, who has gone missing on a strange planet. What happened to him and where is he?</p>",
 		"dob": "2021-09",
 		"loc": "../HumwinAndDarbold:submission src/src.js",
 		"lang": "JavaScript",
 		"license": "Unlicense",
 		"links": {
-			"Play": "http://hhsw.de/sites/proto/js13k2021/",
+			"Play": "https://hhsw.de/sites/humwin",
 			"Entry": "https://js13kgames.com/entries/humwin-darbold",
 			"Source": "https://github.com/markusfisch/HumwinAndDarbold"
 		}
@@ -393,7 +393,7 @@
 		"lang": "JavaScript",
 		"license": "Unlicense",
 		"links": {
-			"Play": "http://hhsw.de/sites/proto/js13k2020/",
+			"Play": "http://hhsw.de/sites/Soyuz404/",
 			"Entry": "https://js13kgames.com/entries/sojuz-404",
 			"Source": "https://github.com/markusfisch/Sojuz404"
 		}
@@ -488,13 +488,13 @@
 		"subcat": "Gamedevjs",
 		"name": "Powers of Dropping",
 		"screenshot": "screenshots/powers_of_dropping.jpg",
-		"description": "<p>Connect lines or columns of blocks to remove them. Clear all blocks or hit all catchers to win!</p><p>For the <a href=\"https://gamedevjs.com/jam/2024/#challenge-js13kgames\">js13kGames challenge</a>. The theme was \"Power\". This entry clocks in at 7509 bytes (56%)</p><p>There is a slightly improved <a href=\"http://hhsw.de/sites/PowersOfDropping\">post-compo</a> version that has some additional interesting items.</p>",
+		"description": "<p>Connect lines or columns of blocks to remove them. Clear all blocks or hit all catchers to win!</p><p>For the <a href=\"https://gamedevjs.com/jam/2024/#challenge-js13kgames\">js13kGames challenge</a>. The theme was \"Power\". This entry clocks in at 7509 bytes (56%)</p>",
 		"dob": "2024-04",
 		"loc": "../PowersOfDropping:submission src/src.js",
 		"lang": "JavaScript",
 		"license": "Unlicense",
 		"links": {
-			"Play": "http://hhsw.de/sites/proto/gdjam2024/",
+			"Play": "http://hhsw.de/sites/PowersOfDropping",
 			"Entry": "https://markusfisch.itch.io/powers-of-dropping",
 			"Source": "https://github.com/markusfisch/PowersOfDropping"
 		}

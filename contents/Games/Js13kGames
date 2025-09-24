@@ -12,13 +12,13 @@
 <li><a href="https://github.com/markusfisch/MeowOrNever">Source</a></li>
 </ul></article>
 
-<article><a href="http://hhsw.de/sites/proto/js13k2024/" class="ScreenshotLink"><img src="screenshots/lost_city_of_s.jpg" alt="Lost City of S Screenshot"/></a>
+<article><a href="https://hhsw.de/sites/LostCityOfS/" class="ScreenshotLink"><img src="screenshots/lost_city_of_s.jpg" alt="Lost City of S Screenshot"/></a>
 
 <a name="lost-city-of-s"><h2>Lost City of S</h2></a>
 <p class="Stats"><time datetime="2024-09">September 2024</time> • $(loc ../LostCityOfS:submission src/src.js) • JavaScript • Unlicense</p>
-<p>In search of the lost city of S, S for superstition, where exactly that was invented, as legend has it. And to this day, a mishap happens here every 13 seconds.</p><p>A quick running game in 13 kilobytes for <a href="https://js13kgames.com">js13kGames</a> 2024 "<a href="https://en.wikipedia.org/wiki/Triskaidekaphobia">Triskaidekaphobia</a>". 10251 bytes (76%).</p><p>There is a slightly improved <a href="https://hhsw.de/sites/LostCityOfS">post-compo</a> version.</p>
+<p>In search of the lost city of S, S for superstition, where exactly that was invented, as legend has it. And to this day, a mishap happens here every 13 seconds.</p><p>A quick running game in 13 kilobytes for <a href="https://js13kgames.com">js13kGames</a> 2024 "<a href="https://en.wikipedia.org/wiki/Triskaidekaphobia">Triskaidekaphobia</a>". 10251 bytes (76%).</p>
 <ul class="ProjectLinks Separator">
-<li><a href="http://hhsw.de/sites/proto/js13k2024/" class="Primary">Play</a></li>
+<li><a href="https://hhsw.de/sites/LostCityOfS/" class="Primary">Play</a></li>
 <li><a href="https://dev.js13kgames.com/2024/games/lost-city-of-s">Entry</a></li>
 <li><a href="https://github.com/markusfisch/LostCityOfS">Source</a></li>
 </ul></article>
@@ -34,37 +34,37 @@
 <li><a href="https://github.com/markusfisch/MusasQuest">Source</a></li>
 </ul></article>
 
-<article><a href="http://hhsw.de/sites/proto/js13k2022/" class="ScreenshotLink"><img src="screenshots/swimming_with_sharks.jpg" alt="Swimming With Sharks Screenshot"/></a>
+<article><a href="https://hhsw.de/sites/sws" class="ScreenshotLink"><img src="screenshots/swimming_with_sharks.jpg" alt="Swimming With Sharks Screenshot"/></a>
 
 <a name="swimming-with-sharks"><h2>Swimming With Sharks</h2></a>
 <p class="Stats"><time datetime="2022-09">September 2022</time> • $(loc ../SwimmingWithSharks:submission src/src.js) • JavaScript • Unlicense</p>
-<p>A short murder mystery in 13 kilobytes for <a href="https://js13kgames.com">js13kGames</a> 2022 "Death". 12521 bytes (94%).</p><p>There is a <a href="https://hhsw.de/sites/sws">post-compo</a> version which makes the room changing arrows easier to see.</p>
+<p>A short murder mystery in 13 kilobytes for <a href="https://js13kgames.com">js13kGames</a> 2022 "Death". 12521 bytes (94%).</p>
 <ul class="ProjectLinks Separator">
-<li><a href="http://hhsw.de/sites/proto/js13k2022/" class="Primary">Play</a></li>
+<li><a href="https://hhsw.de/sites/sws" class="Primary">Play</a></li>
 <li><a href="https://js13kgames.com/entries/swimming-with-sharks">Entry</a></li>
 <li><a href="https://github.com/markusfisch/SwimmingWithSharks">Source</a></li>
 </ul></article>
 
-<article><a href="http://hhsw.de/sites/proto/js13k2021/" class="ScreenshotLink"><img src="screenshots/humwin_and_darbold.jpg" alt="Humwin & Darbold Screenshot"/></a>
+<article><a href="https://hhsw.de/sites/humwin" class="ScreenshotLink"><img src="screenshots/humwin_and_darbold.jpg" alt="Humwin & Darbold Screenshot"/></a>
 
 <a name="humwin-&-darbold"><h2>Humwin & Darbold</h2></a>
 <p class="Stats"><time datetime="2021-09">September 2021</time> • $(loc ../HumwinAndDarbold:submission src/src.js) • JavaScript • Unlicense</p>
 <p>A small action adventure for <a href="https://js13kgames.com">js13kGames</a> 2021 "Space". 12703 bytes (95%).</p>
-<p>Humwin, your friendly space exploring robot, is in search for his pal Darbold, who has gone missing on a strange planet. What happened to him and where is he?</p><p>Unfortunately, the game turned out to be too unforgiving and I failed to make the solution clear. So here's a hopefully better <a href="https://hhsw.de/sites/humwin">post-compo</a> version.</p>
+<p>Humwin, your friendly space exploring robot, is in search for his pal Darbold, who has gone missing on a strange planet. What happened to him and where is he?</p>
 <ul class="ProjectLinks Separator">
-<li><a href="http://hhsw.de/sites/proto/js13k2021/" class="Primary">Play</a></li>
+<li><a href="https://hhsw.de/sites/humwin" class="Primary">Play</a></li>
 <li><a href="https://js13kgames.com/entries/humwin-darbold">Entry</a></li>
 <li><a href="https://github.com/markusfisch/HumwinAndDarbold">Source</a></li>
 </ul></article>
 
-<article><a href="http://hhsw.de/sites/proto/js13k2020/" class="ScreenshotLink"><img src="screenshots/soyuz404.jpg" alt="Soyuz 404 Screenshot"/></a>
+<article><a href="http://hhsw.de/sites/Soyuz404/" class="ScreenshotLink"><img src="screenshots/soyuz404.jpg" alt="Soyuz 404 Screenshot"/></a>
 
 <a name="soyuz-404"><h2>Soyuz 404</h2></a>
 <p class="Stats"><time datetime="2020-09">September 2020</time> • $(loc ../Soyuz404:submission src/src.js) • JavaScript • Unlicense</p>
 <p>A space adventure for <a href="https://js13kgames.com">js13kGames</a> 2020 "404". 13298 bytes (99%).</p>
 <p>The game and a few details about it were mentioned in this <a href="https://www.youtube.com/watch?v=GKOgm5-GbUA">video summary</a> of the 2020 event.</p>
 <ul class="ProjectLinks Separator">
-<li><a href="http://hhsw.de/sites/proto/js13k2020/" class="Primary">Play</a></li>
+<li><a href="http://hhsw.de/sites/Soyuz404/" class="Primary">Play</a></li>
 <li><a href="https://js13kgames.com/entries/sojuz-404">Entry</a></li>
 <li><a href="https://github.com/markusfisch/Sojuz404">Source</a></li>
 </ul></article>
