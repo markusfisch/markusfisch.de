@@ -34,7 +34,7 @@
 <p class="Stats"><time datetime="2013-06">June 2013</time> • $(loc ../ShaderEditor app/src/main) • Java • MIT</p>
 <p>Create <a href="https://en.wikipedia.org/wiki/GLSL">GLSL</a> shaders on your Android phone and use them as live wallpaper. Exposes many sensors of your smartphone for <a href="https://thebookofshaders.com/">shader programming</a>. Like the gyroscope or the magnetic field sensor, for example.</p>
 <p>An app for people interested in graphics programming and customizing the screen of their smartphone.</p>
-<p>Includes some samples to get started like a <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">Game of Life</a> shader you can <a href="https://twitter.com/markusfisch/status/685823091541434368?s=20">touch</a>. Here's another <a href="https://twitter.com/markusfisch/status/1216103115939897344?s=20">sample</a>.</p>
+<p>Includes some samples to get started like a <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">Game of Life</a> shader you can touch.</p>
 <ul class="ProjectLinks Separator">
 <li><a href="https://play.google.com/store/apps/details?id=de.markusfisch.android.shadereditor" class="Primary">Google Play</a></li>
 <li><a href="https://f-droid.org/en/packages/de.markusfisch.android.shadereditor/">F-Droid</a></li>
