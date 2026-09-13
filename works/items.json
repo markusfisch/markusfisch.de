@@ -305,6 +305,22 @@
 	{
 		"cat": "Games",
 		"subcat": "Js13kGames",
+		"name": "The Sunshine Policy",
+		"screenshot": "screenshots/the_sunshine_policy.jpg",
+		"description": "<p>A short point-and-click adventure about unicorns, rainbows, and a perfectly reasonable royal request in 13 kilobytes for <a href=\"https://js13kgames.com\">js13kGames</a> 2026 \"Unicorns and Rainbows\". 13312 bytes (100%).</p>",
+		"dob": "2025-09",
+		"loc": "../TheSunshinePolicy:submission src/src.js",
+		"lang": "JavaScript",
+		"license": "Unlicense",
+		"links": {
+			"Play": "http://hhsw.de/sites/proto/js13k2026/",
+			"Entry": "https://js13kgames.com/games/the-sunshine-policy",
+			"Source": "https://github.com/markusfisch/TheSunshinePolicy"
+		}
+	},
+	{
+		"cat": "Games",
+		"subcat": "Js13kGames",
 		"name": "Meow or Never",
 		"screenshot": "screenshots/meow_or_never.jpg",
 		"description": "<p>A quick card game for up to four players in 13 kilobytes for <a href=\"https://js13kgames.com\">js13kGames</a> 2025 \"Black Cat\". 5107 bytes (38%).</p>",
