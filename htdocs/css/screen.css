@@ -241,6 +241,21 @@ iframe {
 	display: block;
 }
 
+.TL li.ai {
+	background: #ededed;
+	margin: 2em 0; padding: 3em 1em;
+	position: relative; left: 0; right: 0;
+	font-size: 90%;
+	font-style: italic;
+	#font-size: 50%;
+	#text-transform: uppercase;
+	text-align: center;
+	z-index: 9999;
+}
+.TL li.ai:after {
+	display: none;
+}
+
 @media screen and (max-height: 480px) {
 	nav {
 		position: absolute;
@@ -400,7 +415,8 @@ iframe {
 	}
 
 	.TL:after,
-	.TL li:after {
+	.TL li:after,
+	.TL li.ai {
 		background: #333;
 	}
 }

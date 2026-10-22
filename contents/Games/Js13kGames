@@ -4,7 +4,7 @@
 <article><a href="http://hhsw.de/sites/proto/js13k2026/" class="ScreenshotLink"><img src="screenshots/the_sunshine_policy.jpg" alt="The Sunshine Policy Screenshot"/></a>
 
 <a name="the-sunshine-policy"><h2>The Sunshine Policy</h2></a>
-<p class="Stats"><time datetime="2025-09">September 2025</time> • $(loc ../TheSunshinePolicy:submission src/src.js) • JavaScript • Unlicense</p>
+<p class="Stats"><time datetime="2026-09">September 2026</time> • $(loc ../TheSunshinePolicy:submission src/src.js) • JavaScript • Unlicense</p>
 <p>A short point-and-click adventure about unicorns, rainbows, and a perfectly reasonable royal request in 13 kilobytes for <a href="https://js13kgames.com">js13kGames</a> 2026 "Unicorns and Rainbows". 13312 bytes (100%).</p>
 <ul class="ProjectLinks Separator">
 <li><a href="http://hhsw.de/sites/proto/js13k2026/" class="Primary">Play</a></li>

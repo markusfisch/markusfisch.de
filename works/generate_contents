@@ -40,13 +40,19 @@ def timeline(items):
     f = open(f'contents/Timeline', 'w+')
     f.write(f'<article>\n<h1>Timeline</h1>\n')
     f.write('<ul class="TL">\n')
+    ai_dawn = datetime(2026, 6, 1)
+    ai_rev = False
     for item in sorted(
         hist.values(),
         key=lambda item: item['dob'],
         reverse=True,
     ):
         dob = item['dob']
-        pretty = datetime.strptime(dob, '%Y-%m').strftime('%B %Y')
+        date = datetime.strptime(dob, '%Y-%m')
+        if not ai_rev and date < ai_dawn:
+            f.write(f'''<li class="ai">Somewhere around this time, AI became as good as humans at writing software.</li>\n''')
+            ai_rev = True
+        pretty = date.strftime('%B %Y')
         f.write(f'''<li><a href="{item["href"]}">{item["name"]}</a>
 <time datetime="{dob}">{pretty}</time></li>\n''')
     f.write('</ul></article>\n')
