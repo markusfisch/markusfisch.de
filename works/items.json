@@ -308,7 +308,7 @@
 		"name": "The Sunshine Policy",
 		"screenshot": "screenshots/the_sunshine_policy.jpg",
 		"description": "<p>A short point-and-click adventure about unicorns, rainbows, and a perfectly reasonable royal request in 13 kilobytes for <a href=\"https://js13kgames.com\">js13kGames</a> 2026 \"Unicorns and Rainbows\". 13312 bytes (100%).</p>",
-		"dob": "2025-09",
+		"dob": "2026-09",
 		"loc": "../TheSunshinePolicy:submission src/src.js",
 		"lang": "JavaScript",
 		"license": "Unlicense",
