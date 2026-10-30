@@ -287,7 +287,7 @@
 		"subcat": "Casual",
 		"name": "Boo",
 		"screenshot": "screenshots/boo.jpg",
-		"description": "<p>You're a ghost trying to hide from the priests that want to free your soul.</p>\n<p>Don't let them touch you! Click on a free spot to survive as long as you can.</p>\n<p>This is kind of a follow up of a <a href=\"games-0h-game-jam.html#huh\">game</a> I made for <a href=\"http://0hgame.eu/\">0h Game Jam</a>.</p>",
+		"description": "<p>You're a ghost trying to hide from the priests that want to free your soul.</p>\n<p>Don't let them touch you! Collect all the pumpkins to make them go away.</p>\n<p>This is kind of a follow up of a <a href=\"games-0h-game-jam.html#huh\">game</a> I made for <a href=\"http://0hgame.eu/\">0h Game Jam</a>.</p>",
 		"dob": "2014-10",
 		"loc": "../Boo htdocs",
 		"lang": "JavaScript",
